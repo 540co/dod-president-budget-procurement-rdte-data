@@ -1,0 +1,631 @@
+{
+    "id": "12c4d9b7a502864db4355d490524eca3f7dbbd27",
+    "meta": {
+        "filename": "dod-2017_PROCUREMENT_2017_ARMY_OTHER_2_U_PROCUREMENT_JustificationBook_Army_PB_2017.zzz_unzipped_U_PROCUREMENT_JustificationBook_Army_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2035A",
+        "appropriation_name": "Other Procurement, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Monthly",
+        "@classification": "UNCLASSIFIED",
+        "LineItemNumber": {
+            "val": "BE4167"
+        },
+        "LineItemTitle": {
+            "val": "Reserve Component Automation Sys (RCAS)"
+        },
+        "P1LineNumber": {
+            "val": "106"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2035A"
+        },
+        "AppropriationTitle": {
+            "val": "Other Procurement, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Communications and Electronics Equipment"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "92"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Elect Equip - Automation"
+        },
+        "ResourceSummary": {
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "1873.665"
+                },
+                "PriorYear": {
+                    "val": "17.631"
+                },
+                "CurrentYear": {
+                    "val": "17.894"
+                },
+                "BudgetYearOneBase": {
+                    "val": "23.828"
+                },
+                "BudgetYearOne": {
+                    "val": "23.828"
+                },
+                "BudgetYearTwo": {
+                    "val": "26.183"
+                },
+                "BudgetYearThree": {
+                    "val": "28.24"
+                },
+                "BudgetYearFour": {
+                    "val": "28.224"
+                },
+                "BudgetYearFive": {
+                    "val": "28.211"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "1873.665"
+                },
+                "PriorYear": {
+                    "val": "17.631"
+                },
+                "CurrentYear": {
+                    "val": "17.894"
+                },
+                "BudgetYearOneBase": {
+                    "val": "23.828"
+                },
+                "BudgetYearOne": {
+                    "val": "23.828"
+                },
+                "BudgetYearTwo": {
+                    "val": "26.183"
+                },
+                "BudgetYearThree": {
+                    "val": "28.24"
+                },
+                "BudgetYearFour": {
+                    "val": "28.224"
+                },
+                "BudgetYearFive": {
+                    "val": "28.211"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "1873.665"
+                },
+                "PriorYear": {
+                    "val": "17.631"
+                },
+                "CurrentYear": {
+                    "val": "17.894"
+                },
+                "BudgetYearOneBase": {
+                    "val": "23.828"
+                },
+                "BudgetYearOne": {
+                    "val": "23.828"
+                },
+                "BudgetYearTwo": {
+                    "val": "26.183"
+                },
+                "BudgetYearThree": {
+                    "val": "28.24"
+                },
+                "BudgetYearFour": {
+                    "val": "28.224"
+                },
+                "BudgetYearFive": {
+                    "val": "28.211"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "17.631"
+                                },
+                                "CurrentYear": {
+                                    "val": "17.894"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army National Guard"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "BudgetYearOneBase": {
+                                    "val": "14.297"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "14.297"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "15.71"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "16.944"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "16.934"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "16.927"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army Reserve"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "BudgetYearOneBase": {
+                                    "val": "9.531"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "9.531"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "10.473"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "11.296"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "11.29"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "11.284"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "TotalCost": {
+                    "PriorYear": {
+                        "val": "17.631"
+                    },
+                    "CurrentYear": {
+                        "val": "17.894"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "23.828"
+                    },
+                    "BudgetYearOne": {
+                        "val": "23.828"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "26.183"
+                    },
+                    "BudgetYearThree": {
+                        "val": "28.24"
+                    },
+                    "BudgetYearFour": {
+                        "val": "28.224"
+                    },
+                    "BudgetYearFive": {
+                        "val": "28.211"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "The Reserve Component Automation System (RCAS) is an automated information system that provides the capability to administer, manage, and mobilize the Army's Reserve Component (RC) forces more effectively. Specifically, RCAS supports the mobilization planning and unit administration functions of the Army National Guard and Army Reserve by integrating commercial off-the-shelf (COTS) hardware and office automation software, Government off-the-shelf (GOTS) software, and developed functional software applications into a common operating environment, personal computer based architecture.  Since completion of the infrastructure and functional capabilities, system acquisition has been focused on the effective and efficient sustainment of the fielded system and software applications. The RCAS hardware infrastructure is refreshed on a five year cycle, replacing approximately 20% of the fielded infrastructure per year.\n\nThe program supports the Army and DoD objectives of network convergence to Unified Capabilities and is aligned with the Joint Information Environment initiative by providing the transport infrastructure.\n\nRCAS is the Army's system of choice and record for all RC Commands mobilizing their citizen soldiers for disaster response, homeland security tasking, and overseas deployment.  Established in response to a Government Accountability Office report on the Army Reserve Component's inability to provide timely and accurate mobilization data, the system now dramatically improves the Army's and the states' ability to organize, train, and equip their citizen soldiers, mobilize forces in half the historical time required, and provides resource visibility to state and federal agencies of all forces at home and abroad.  RCAS has been successfully utilized in response to 9\/11, Homeland Security missions, National Training exercises, Disaster Relief, and Operations Iraqi Freedom, New Dawn, Enduring Freedom and Freedom's Sentinel."
+        },
+        "Justification": {
+            "val": "FY 2017 Base procurement dollars in the amount of $23.828 million will support refreshment of approximately 15 percent of the RCAS hardware infrastructure, placing the information technology infrastructure refresh on a 8 year cycle.  The program will support hardware and software refresh to Army National Guard and U.S. Army Reserve commands and units based on priorities established by the respective Components. The program will satisfy agency information technology mandates with respect to information assurance, net worthiness, server consolidation, and a common operating environment.\n\nIn accordance with Section 1815 of the FY 2008 National Defense Authorization Act (P.L. 110-181), this item is necessary for use by the active and reserve components of the Armed Forces for homeland defense missions, domestic emergency responses, and providing military support to civil authorities."
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "Reserve Component Automation Sys (RCAS)"
+                    },
+                    "ItemNumber": {
+                        "val": "BE4167"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "17.631"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "17.894"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army National Guard"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "14.297"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "14.297"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army Reserve"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "9.531"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "9.531"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "1873.665"
+                            },
+                            "PriorYear": {
+                                "val": "17.631"
+                            },
+                            "CurrentYear": {
+                                "val": "17.894"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "23.828"
+                            },
+                            "BudgetYearOne": {
+                                "val": "23.828"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "1873.665"
+                            },
+                            "PriorYear": {
+                                "val": "17.631"
+                            },
+                            "CurrentYear": {
+                                "val": "17.894"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "23.828"
+                            },
+                            "BudgetYearOne": {
+                                "val": "23.828"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "1873.665"
+                            },
+                            "PriorYear": {
+                                "val": "17.631"
+                            },
+                            "CurrentYear": {
+                                "val": "17.894"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "23.828"
+                            },
+                            "BudgetYearOne": {
+                                "val": "23.828"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Hardware": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Life Cycle Replacement Hardware"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "1"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "1"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "1"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "1"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "1"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "1873.665"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "17.631"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "17.894"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "23.828"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "23.828"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "1873665"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "17631"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "17894"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "23828"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "23828"
+                                                        }
+                                                    }
+                                                },
+                                                "AllPriorYearsDeliveries": {
+                                                    "val": "1"
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "L3 National Security Svc"
+                                                            },
+                                                            "Location": {
+                                                                "val": "Reston, VA"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2015"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "Washington, DC"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2015-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2015-04"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "1"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "17631.000"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "true"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "IDDQ"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2016"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "Washington, DC"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2016-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2016-04"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "1"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "17894.000"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "true"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "IDDQ"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2017"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "Washington, DC"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2017-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2017-04"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "1"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "23828.000"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "true"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "IDIQ"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "1873.665"
+                                            },
+                                            "PriorYear": {
+                                                "val": "17.631"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "17.894"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "23.828"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "23.828"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "1873.665"
+                                        },
+                                        "PriorYear": {
+                                            "val": "17.631"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "17.894"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "23.828"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "23.828"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "OverallHistoryPlanningRemarks": {
+                        "val": "L3 National Security Services is the prime contractor for PD RCAS.  All items are COTS\/GOTS solutions."
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "item"
+            }
+        }
+    }
+}

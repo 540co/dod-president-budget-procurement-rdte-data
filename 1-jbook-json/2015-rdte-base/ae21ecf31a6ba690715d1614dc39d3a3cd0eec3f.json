@@ -1,0 +1,2547 @@
+{
+    "id": "ae21ecf31a6ba690715d1614dc39d3a3cd0eec3f",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_DISA_RDTE_JustificationBook_Defense_Information_Systems_Agency_PB_2015.zzz_unzipped_RDTE_JustificationBook_Defense_Information_Systems_Agency_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Defense Information Systems Agency",
+        "appropriation_code": "0400",
+        "appropriation_name": "Research, Development, Test & Evaluation, Defense-Wide"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0303150K"
+        },
+        "ProgramElementTitle": {
+            "val": "Global Command and Control System"
+        },
+        "R1LineNumber": {
+            "val": "202"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Defense Information Systems Agency"
+        },
+        "AppropriationCode": {
+            "val": "0400"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Defense-Wide"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "399.094"
+            },
+            "PriorYear": {
+                "val": "33.252"
+            },
+            "CurrentYear": {
+                "val": "28.288"
+            },
+            "BudgetYearOne": {
+                "val": "33.793"
+            },
+            "BudgetYearOneBase": {
+                "val": "33.793"
+            },
+            "BudgetYearTwo": {
+                "val": "22.120"
+            },
+            "BudgetYearThree": {
+                "val": "11.654"
+            },
+            "BudgetYearFour": {
+                "val": "12.381"
+            },
+            "BudgetYearFive": {
+                "val": "11.837"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Global Command and Control System-Joint (GCCS-J) funds a Joint Command and Control (JC2) portfolio which includes: GCCS-J, Joint Planning and Execution Services (JPES), and JC2 Architecture.\n\nThe GCCS-J Program is the Department of Defense (DoD) Joint C2 system of record.  It incorporates core planning and assessment tools required by Combatant Commanders and their subordinate Joint Task Force Commanders while meeting the readiness support requirements of the Services.  GCCS-J is used by all nine Combatant Commands (COCOMs) at sites around the world, supporting joint and coalition operations. The Services rely heavily on GCCS-J components to reduce their command and control (C2) operational costs. It provides support for commanders and staffs as they conduct joint and multinational operations by providing a fused picture of the battle space within an integrated system that is supporting joint warfighter needs today.  GCCS-J is currently focused on sustainment, synchronization, and modernization to meet emerging operational needs by modifying and enhancing elements or capabilities in order to implement new requirements, enhance functionality, increase efficiency and lower operating and deployment costs while taking advantage of the progress made by current operational systems and technologies.  The GCCS-J program is also executing incremental modernization of C2 capabilities using the Joint Requirements Oversight Council (JROC) approved needs.\n\nJPES is a portfolio of capabilities supporting joint policies, processes, procedures, and reporting structures. It is supported by communications and information technology used by the Joint Planning and Execution Community (JPEC).  JPEC uses these capabilities to monitor the following activities: planning, execute mobilization, deployment, employment and sustainment, redeployment, and demobilization.   At full maturity, the JPES capabilities will be integrated with other adaptive planning and execution systems to facilitate the rapid development and sustainment of plans and a seamless, dynamic transition to execution in a net-centric environment. One of the key capabilities residing within the JPES portfolio of sustaining the existing Joint Operational Planning and Execution System (JOPES) while modernization of JOPES is planned and implemented.  The JPES portfolio also includes a core set of infrastructure services consisting of  the JPES Framework (JFW) and a variety of mission applications to include Joint Force Projection (JFP), Joint Capabilities Requirements Manager (JCRM) and eventually the capabilities that will replace JOPES.\n\nJC2 Architecture is a reference architecture that aligns closely to the DoD Information Enterprise Architecture.  The JC2 Architecture describes architectural and operational concepts, technical constructs, and is a repository for valuable reference information relating to C2 standards and information security.  It is the authoritative source of information and technical direction for the JC2 arena."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "36.575"
+                },
+                "CurrentYear": {
+                    "val": "34.288"
+                },
+                "BudgetYearOne": {
+                    "val": "29.614"
+                },
+                "BudgetYearOneBase": {
+                    "val": "29.614"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "33.252"
+                },
+                "CurrentYear": {
+                    "val": "28.288"
+                },
+                "BudgetYearOne": {
+                    "val": "33.793"
+                },
+                "BudgetYearOneBase": {
+                    "val": "33.793"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-3.323"
+                },
+                "CurrentYear": {
+                    "val": "-6.000"
+                },
+                "BudgetYearOne": {
+                    "val": "4.179"
+                },
+                "BudgetYearOneBase": {
+                    "val": "4.179"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalRescissions": {
+                    "CurrentYear": {
+                        "val": "-6.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustment"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-3.323"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "4.179"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "4.179"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "The FY 2013 decrease of -$3.323 was due to the completion of pilots and demonstrations for evolving more economical software architectures to further reduce GCCS-J outyear sustainment costs as implemented in the FY2015 O&M budget request for GCCS-J.\n\nThe FY 2014 decrease of -$6.000 is due to the FY 2014 sequestration.  This action will delay delivery of Joint C2 Mission \"Operational Priorities\" and software architecture modernization initiatives to reduce overall sustainment cost.\n\nThe FY 2015 increase of +$4.179 will develop and test enhancements for JPES capabilities with a primary focus on achieving JOPES Modernization completion by end of 2017."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "CC01"
+                    },
+                    "ProjectTitle": {
+                        "val": "Global Command and Control System-Joint (GCCS-J)"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "399.094"
+                        },
+                        "PriorYear": {
+                            "val": "33.252"
+                        },
+                        "CurrentYear": {
+                            "val": "28.288"
+                        },
+                        "BudgetYearOne": {
+                            "val": "33.793"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "33.793"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "22.120"
+                        },
+                        "BudgetYearThree": {
+                            "val": "11.654"
+                        },
+                        "BudgetYearFour": {
+                            "val": "12.381"
+                        },
+                        "BudgetYearFive": {
+                            "val": "11.837"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Global Command and Control System \u2013 Joint (GCCS-J) is DoD\u2019s Joint Command and Control (JC2) system of record and provides the foundation for migration of service-unique C2 systems into a Joint, interoperable environment. The Defense Information System Agency\u2019s (DISAs) portfolio includes funding to support GCCS-J, Joint Planning and Execution Services (JPES), and the development and sustainment of the JC2 Architecture.  GCCS-J incorporates the core planning and assessment tools required by combatant commanders and their subordinate Joint Task Force Commanders while meeting the readiness support requirements of the Services.  Adaptive Planning and Execution Joint Planning Services are being developed to modernize the adaptive planning functions in a net centric environment.  DISA continues to provide support for the operational system to ensure continued access to information integration and decision-support capabilities that enable the exercise of authority and direction over assigned and attached forces, in a net-centric, collaborative information environment.  Additionally, DISA provides critical C2 capabilities to the Commander-in-Chief, Secretary of Defense, National Military Command Center, Combatant Commands (COCOMs), Joint Force Commanders, and Service Component Commanders.  \n\nJPES is a set of capabilities that address components of the DOD\u2019s Adaptive Planning Roadmap (13 December 2005) and Adaptive Planning Roadmap II (5 March 2008).  JPES produces enhancements to the Joint Operations Planning and Execution System (JOPES), focused adaptive planning capabilities, and provides a set of core infrastructure services necessary to provide the warfighter a fully interoperable environment where functionality can be easily added as mission needs dictate.\n\nThe JC2 Architecture is a foundational element of JC2 capabilities for the Department.  The JC2 Architecture provides a set of net-centric tenets associated with data, functional service and the C2 infrastructure that describes architectural and operational concepts, technical constructs, and is a repository for valuable reference information relating to C2 standards and information security.  Each year, the DISA architecture team, annually, produces a transitional architecture that documents the current state of C2 capabilities, anticipated changes\/enhancements either in progress or planned by the JC2 community."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Development and Strategic Planning"
+                                    },
+                                    "Description": {
+                                        "val": "Develop, publish, and \u201cexecute\u201d a GCCS-J migration and modernization strategy that achieves the following GCCS-J Modernization objectives in accordance with Joint C2 Mission \u201coperational\u201d priorities and the DoD\u2019s JC2 Reference Architecture:  \n  \u2022  Continue to decompose applicable existing applications into services\n  \u2022  Limit local deployment and move as much to the enterprise as possible\n  \u2022  Continue to expose data and scale services to support an enterprise implementation\n  \u2022  Continue to evolve more economical hardware and software architecture without impact to the operational user or Family of Systems (FoS)\/interface partners\n  \u2022  Reduce overall sustainment cost through use of more cost effective and appropriate Commercial-off-the-Shelf (COTS) and Hardware (HW) products\n  \u2022  Evolve to use of agile development practices\n  \u2022  Consolidation of clients and tools"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "24.194"
+                                            },
+                                            "Text": {
+                                                "val": "Continued integrating, testing, and fielding technical refreshment activities in support of the COCOMs.  Continued the migration of GCCS-J infrastructure to more cost-effective COTS solutions to reduce outyear sustainment costs.  Continued transition of local global enclaves to reusable enterprise deployments."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "16.444"
+                                            },
+                                            "Text": {
+                                                "val": "Continue integrating, testing, fielding and the technical refreshment activities in support of the COCOMs.  Will continue transitioning local global enclaves to reusable enterprise deployments.  Continue the testing and integration necessary to maintain interoperability between GCCS-J and the FoS.  Continue migrating to open source software based on capability usage feedback from the community on remaining components.\n\nThe decrease of -$7.750 from FY 2013 to FY 2014 is due to the Distributed Congressional Adjustment Program Decrease of -$6.000 and the remaining -$1.007 reallocated to JPES for JOPES Modernization."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "16.215"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "16.215"
+                                            },
+                                            "Text": {
+                                                "val": "Continue development and testing activities for GCCS-J releases to implement enterprise deployment improvements.  Deployment of enterprise capabilities will achieve and maintain information security at a lower cost.\n\nThe decrease of - $0.229 from FY 2014 to FY 2015  Is due to the partial completion of legacy software tools."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Joint Planning and Execution Services (JPES)"
+                                    },
+                                    "Description": {
+                                        "val": "JPES is a collection of capabilities supporting joint policies, processes, procedures, and reporting structures, that are supported by communications and information technology used by the JPEC.  JPEC uses these capabilities to monitor, plan, and execute: mobilization, deployment, employment, sustainment, redeployment, and demobilization activities associated with joint operations."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "9.058"
+                                            },
+                                            "Text": {
+                                                "val": "Tested and integrated the JPES Framework (JFW), Joint Force Protection (JFP), and Joint Capabilities Requirements Manager (JCRM). Completed the transition of JCRM to DISA. JFW interfaces with other APEX capabilities (e.g. Global Adaptive Planning Collaborative Integration Environment (GAP-CIE), TRANSCOM capabilities, or other APEX capabilities as prioritized by the APEX Technical Integrator). Initiate the JOPES Implementation plan for modernization."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "11.844"
+                                            },
+                                            "Text": {
+                                                "val": "The development of the Joint Operation Planning and Execution System (JOPES) Implementation Plan for JOPES Modernization will be completed in FY 2014 and work will begin towards implementing the requirements to achieve Mission Assurance Category (MAC) I security accreditation status and can be used by additional APEX systems requiring a MAC I interface to APEX data. JFW will provide an enhanced business rule engine and a workflow capability enabling the orchestration of APEX services provided by multiple APEX developers. Access to additional APEX data via JFW will be achieved as prioritized by the APEX Technical Integrator. The first set of capabilities resulting from JOPES Modernization initiatives will be developed and fielded.\n\nThe increase of +$2.786 from FY 2013 to FY 2014 includes the transfer of funding from Strategic Development that is required to ensure DISA can complete JOPES Modernization in time to meet the end of 2017 goal date."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "17.578"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "17.578"
+                                            },
+                                            "Text": {
+                                                "val": "Primary effort is to support the JOPES Modernization Implementation Plan.\nThere will be further development of JPES applications to complete the integration of JCRM and PFG with JFW and continue to evolve JFW CDOM to incorporate JPEC and GFM data objects.  Migrate applications to JFW, and continue developing new widgets to support the JPE and GFM communities.\n\nThe increase of +5.734 from FY 2014 to FY 2015 continues JOPES Modernization development to replace the legacy system which reaches end of life during 2017."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0303150K"
+                                    },
+                                    "Title": {
+                                        "val": "Operation & Maintenance, Defense-Wide"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "147.080"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "126.537"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "128.488"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "128.488"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "124.072"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "123.676"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Use of performance-based contract awards is maximized while use of Time and Material contracts is minimized to those providing programmatic support versus software development, integration, or testing.  All development, integration, and migration efforts within the portfolio are primarily supported through Cost Reimbursable Task Orders issued under competitively awarded contracts.  Acquisition Strategies are structured to retain contractors capable of satisfying cost, schedule, and performance objectives.  Contract awards incorporate provisions requiring contractors to establish and manage specific earned value data.  This strategy mitigates risk by requiring monthly Contract Performance Reviews (CPRs) and utilizing award fee contracts where appropriate to incentivize performance.  Both GCCS-J and JPES apply formal acquisition rigor to include reporting requirements, as appropriate, by acquisition program designation."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Portfolio Activities\t\n\nActivity:  Effectively communicate with external command and control systems\t\n\nFY 2013 (Results) 100% successful test of new critical system interfaces, as well as continued 100% successful test of critical current system interfaces.\n\nFY 2014 (Planned) 100% successful test of new critical system interfaces, as well as continued 100% successful test of critical current system interfaces.\n\nFY 2015 (Estimated) 100% successful test of new critical system interfaces, as well as continued 100% successful test of critical current system interfaces.\n\nActivity: Fuse select C2 capabilities into a comprehensive, interoperable system eliminating the need for inflexible, duplicative, stovepipe C2 systems\n\nFY 2013 (Results) GCCS-J executed modernization activities which resulted in significant progress for the JC2 Community via the JC2 Common User Interface (JC2CUI), Cross Domain Services (CDS), Agile Client and Enterprise COP initiatives. This progress included the evolution towards client consolidation, synchronizing enabling frameworks and infrastructure and the eliminating duplicative functions resulting in a reduction of direct sustainment for reinvestment in C2 capability modernization. \n\nFY 2014 (Planned) Continue planned migration to Net-centric Joint C2 capabilities while reducing sustainments costs in FY15-19 for reinvestment in modernization. \n\nFY 2015 (Estimated) The PMO will update and execute the GCCS-J Modernization planning guidance based on lessons learned, operational priorities, and updated DoD guidance, and in support of the Joint C2 AoA goals of reducing cost, providing additional capability to the warfighter and sustaining existing C2 capabilities."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 1"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NGMS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Reston, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "16.989"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "3.300"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "20.289"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 2"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "FFRDC"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "7.077"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "7.077"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "7.077"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 3"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Dynamic Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Los Angeles, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.189"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.189"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "3.189"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 4"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Pragmatics"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "28.739"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-03"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.800"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-03"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "35.239"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 6"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "BAH"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.369"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.369"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "3.369"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 7"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JPES Framework"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "10.396"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "6.623"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.665"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 8"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "RTB Development"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "13.116"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 9"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "IGS Development"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "12.398"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 10"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SAIC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "4.826"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 11"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SSC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Diego, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "7.785"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "5.432"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.450"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 12"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NGMS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Reston, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "57.401"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "5.113"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.334"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "4.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "4.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 13"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NGIT"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.772"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.772"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "1.772"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 14"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NGMS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Reston, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "62.191"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "62.191"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "62.191"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 15"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Booz Allen Hamilton"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.283"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.283"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "3.283"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 16"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Booz Allen Hamilton"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.431"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": ".431"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.431"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 17"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Booz Allen Hamilton"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.229"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.229"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "1.229"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 18"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "AB Floyd"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Alexandria, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "12.477"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "12.477"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "12.477"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 19"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Femme Comp Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Chantilly, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "7.249"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "7.249"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 20"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SAIC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.876"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "5.876"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 21"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Booz Allen Hamilton"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.394"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "3.394"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 22"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JDISS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "6.039"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "6.039"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 23"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NGMS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Reston, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "4.790"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "4.790"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 24"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Charleston, SC"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.270"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-05"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 25"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Dept of Energy, Army Research Lab, PD Intelligence Fusion, GSA\/FAS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.710"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "5.710"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "5.710"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 26"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Tactical 3-D COP"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.200"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.200"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "3.200"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 27"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JITC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "20.400"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "20.400"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "20.400"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 28"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD - JCRM"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.500"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-06"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-06"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "12.315"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 30"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "4.886"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "4.886"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-06"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 31"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.881"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.881"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-05"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 32"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.783"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.783"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-04"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 33"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "4.600"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "4.600"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-03"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Services and Integration 29"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "3.009"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "3.174"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.773"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.773"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-06"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "40.545"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "I3 Engineering Services & SW Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NGIT"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.811"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "1.811"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Product Development 29"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JOPES modernization"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.159"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-04"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Support 1"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "T&M"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Oracle"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.003"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Support 2"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JC2 Common Interface"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.608"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.400"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Support Costs - Engineering Support 3"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "FFRDC"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.754"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Support Costs - Engineering Support 4"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Pragmatics"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.724"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.850"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.225"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Support Costs - Engineering Support 5"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "IPA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "College Park, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.283"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.283"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.283"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Support Cost 6"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "STA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.122"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.650"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.650"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-09"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Support Costs"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.700"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.700"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-09"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Support Cost 7"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Pragmatics"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.064"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.064"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.064"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 1"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SAIC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.744"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.744"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.744"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 2"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JITC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft. Huachuca, AZ"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "24.079"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.236"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.326"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.050"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.050"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 3"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DIA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "7.224"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 4"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DAA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.342"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.470"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.470"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 5"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SAIC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "9.681"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "9.681"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "9.681"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 6"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SAIC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "23.133"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "23.133"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "23.133"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 7"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Pragmatics"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.308"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.308"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.308"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 8"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JITC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.005"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.005"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.005"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 9"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JITC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.138"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.138"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.138"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 10"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DISA FSO"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.277"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.277"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.277"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 11"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TEMC Test Support"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.229"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.229"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.229"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 12"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DISA TEMC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.971"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 13"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "STRATCOM"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Offut, NE"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.155"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 14"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DISA FSO"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.200"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 15"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TQI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.698"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 16"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TQI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.494"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.494"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test & Evaluation 17"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Slidell"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.436"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.00"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.436"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.436"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Management Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SSC Atlantic"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Charleston, SC"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.515"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.489"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.755"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Development and Strategic Planning"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Integration and Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

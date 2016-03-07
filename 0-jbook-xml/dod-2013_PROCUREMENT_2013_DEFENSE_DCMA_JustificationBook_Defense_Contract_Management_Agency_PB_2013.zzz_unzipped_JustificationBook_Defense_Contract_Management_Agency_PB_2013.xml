@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Defense Contract Management Agency</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>PB13 DCMA P-1 from PRCP, January 2012.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>3</proc:LineItemNumber>
+            <proc:LineItemTitle>Major Equipment</proc:LineItemTitle>
+            <proc:P1LineItemNumber>3</proc:P1LineItemNumber>
+            <proc:BudgetYear>2013</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2012-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Defense Contract Management Agency</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>27</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, DCMA</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:AllPriorYears>24.306</proc:AllPriorYears>
+                    <proc:PriorYear>2.041</proc:PriorYear>
+                    <proc:CurrentYear>2.076</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>2.129</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>2.129</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>2.172</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>2.218</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>2.263</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>2.331</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:AllPriorYears>24.306</proc:AllPriorYears>
+                    <proc:PriorYear>2.041</proc:PriorYear>
+                    <proc:CurrentYear>2.076</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>2.129</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>2.129</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>2.172</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>2.218</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>2.263</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>2.331</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:AllPriorYears>24.306</proc:AllPriorYears>
+                    <proc:PriorYear>2.041</proc:PriorYear>
+                    <proc:CurrentYear>2.076</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>2.129</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>2.129</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>2.172</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>2.218</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>2.263</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>2.331</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>       The Defense Contract Management Agency (DCMA) is responsible to the Secretary of Defense for providing acquisition management services at the greatest possible effectiveness and efficiency for the benefit of the nation's warfighters.  To assist in managing its diverse activities, DCMA must procure various categories of mission essential equipment, including automated data processing, telecommunications equipment and passenger carrying vehicles, to afford a high degree of effectiveness, productivity, and efficiency in the accomplishment of the Agency's mission.												
+</proc:Description>
+            <proc:Justification>     DCMA's requirement to procure replacement passenger carrying vehicles is in support of DCMA's overseas contract administration operations conducted throughout the world.  DCMA is actively working to convert its overseas fleet from owned passenger carrying vehicles to long-term commercial leases or leases with the General Services Administration (GSA).  There have been delays in GSA offering such support in Europe.  Therefore, DCMA continues to require passenger carrying vehicles procurement authority.												
+    DCMA has developed a technical architecture that defines the computing and communications environment required to sustain and improve its critical business processes.  This architecture complies with OSD directives related to security and storage, and provides visibility of key data and information at team levels and above.  It also supports performance management, which allows teams to self-direct the application of their limited resources to the appropriate priorities.  DCMA’s use of information technology (IT) also supports compilation of data for agency-level workload and resource management reviews without causing undue burden on field organizations.  The objective is to provide mission-effective and efficient software applications, computing equipment, and telecommunications connectivity to the DCMA workforce with minimal disruption for maximal productivity growth.
+												
+    DCMA's network and applications impact vital DoD acquisition business matters such as Preaward Surveys of prospective contractors, contract price negotiations, material acceptances, contractor payment, and workload assignments and management.  The funds requested ensure DCMA's workforce receives comprehensive training and deployment services on the applications in order to fully utilize the applications and achieve maximum productivity gains. </proc:Justification>
+            <proc:ItemExhibitList>
+                <proc:P40AItemGroup>
+                    <proc:Name>Passenger Carrying Vehicles</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name>Passenger Carrying Vehicles</proc:Name>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>23</proc:AllPriorYears>
+                                            <proc:PriorYear>2</proc:PriorYear>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>0.982</proc:AllPriorYears>
+                                            <proc:PriorYear>0.056</proc:PriorYear>
+                                            <proc:CurrentYear>0.03</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+                <proc:P40AItemGroup>
+                    <proc:Name>DCMA Related Technical Activities</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name>DCMA Related Technical Activities (RTA)</proc:Name>
+                                    <proc:ResourceSummary>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>23.324</proc:AllPriorYears>
+                                            <proc:PriorYear>1.985</proc:PriorYear>
+                                            <proc:CurrentYear>2.046</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>2.129</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>2.129</proc:BudgetYearOne>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+            </proc:ItemExhibitList>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

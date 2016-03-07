@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0" classification="UNCLASSIFIED">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2017</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2016-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Navy</jb:ServiceAgencyName>
+    <jb:AppropriationCode>1506N</jb:AppropriationCode>
+    <jb:AppropriationName>Aircraft Procurement, Navy</jb:AppropriationName>
+    <jb:CoverPage>
+        <jb:Title>Budget Activity 06</jb:Title>
+    </jb:CoverPage>
+    <jb:ExternalDocuments>
+        <jb:IntroductionDoc>
+            <jb:Title>Introduction and Explanation of Contents</jb:Title>
+            <jb:FileName>APN Appropriations Act Language 2017.pdf</jb:FileName>
+        </jb:IntroductionDoc>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>APN_P1_For Print_03 Feb 2016.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+        <jb:IncludeTableOfVolumes>true</jb:IncludeTableOfVolumes>
+        <jb:IncludeMasterLineItemTocByBA>true</jb:IncludeMasterLineItemTocByBA>
+        <jb:IncludeMasterLineItemTocByTitle>true</jb:IncludeMasterLineItemTocByTitle>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" unitCostUnits="Dollars" totalCostUnits="Millions" manufacturerRateUnits="Yearly" classification="UNCLASSIFIED">
+            <proc:LineItemNumber>0605</proc:LineItemNumber>
+            <proc:LineItemTitle>Spares and Repair Parts</proc:LineItemTitle>
+            <proc:P1LineNumber>63</proc:P1LineNumber>
+            <proc:BudgetYear>2017</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2016-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Navy</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>1506N</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Aircraft Procurement, Navy</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>6</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Aircraft Spares and Repair Parts</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>1</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Aircraft Spares and Repair Parts</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:TotalCost>
+                    <proc:AllPriorYears>0</proc:AllPriorYears>
+                    <proc:PriorYear>1242.509</proc:PriorYear>
+                    <proc:CurrentYear>1463.515</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>1407.626</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>1.5</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>1409.126</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1194.318</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1110.679</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1113.605</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1074.234</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalCost>
+                <proc:NetProcurementP1>
+                    <proc:AllPriorYears>0</proc:AllPriorYears>
+                    <proc:PriorYear>1242.509</proc:PriorYear>
+                    <proc:CurrentYear>1463.515</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>1407.626</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>1.5</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>1409.126</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1194.318</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1110.679</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1113.605</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1074.234</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:AllPriorYears>0</proc:AllPriorYears>
+                    <proc:PriorYear>1242.509</proc:PriorYear>
+                    <proc:CurrentYear>1463.515</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>1407.626</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>1.5</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>1409.126</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1194.318</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1110.679</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1113.605</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1074.234</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:Code>A</proc:Code>
+            <proc:Description>All aviation spares requirements are developed using accredited sparing models. Funding requirements for major avionics are calculated on an item-by-item basis where possible.  APN-6 is a "follower" account providing spares for end-items and modifications procured under APN Budget Activity (BA)'s 1-5 and 7, and follow program changes in end-item quantities, basing scenarios, and maintenance data.
+
+The Initial spares category includes all repairables and consumables allowances to support the quantity and Type/Model/Series (T/M/S) of aircraft in new procurement, during Interim Contractor Support (ICS) to support the Repair of Repairables (ROR) prior to Material Support Date (MSD) and to support aircraft modifications.
+
+Initial Spares supporting aircraft procured under APN BA-1 through BA-4 are based on the number of aircraft being procured, basing plans, flying hours, maintenance data, and a number of other data elements derived from the Weapon System Planning Documents (WSPD) and Aircraft Program Data File (APDF) that are fed into the Readiness Based Sparing (RBS) model and the Retail Inventory Model for Aviation (RIMAIR) model for the determination of spare engine requirements.  Spare engines and engine modules are procured under initial spares during the production of the aircraft and do not transition to Navy Working Capital Funds (NWCF).
+
+The Initial Spares category funds the Repair of Repairables (ROR) via contractor support prior to the MSD when repairs are turned over to the organic depots.  
+
+Modification spares follow the APN BA-5 Modification budget for all T/M/S supporting various Engineering Change Proposals (ECPs) and Operational Safety Improvement Programs (OSIPs).  
+
+Spares for Aircraft Support Equipment and Facilities follow the APN BA-7 budget for all T/M/S providing spares for training devices and support equipment.  
+
+Replenishment Spares provides initial sparing for 6K Cog containers (9710), Adversary (9711), HQ Replenishment (9712) for various classified programs and Executive Mission Helicopters, and Aviation Outfitting Account for Repairables (9713) and Consumables (9714) for initial sparing and range/depth increases. 
+
+The Vendor Direct spares element of the budget is comprised of the Aviation Outfitting Account (AOA), which sources spares from Defense Working Capital Fund (DWCF)/NWCF subsequent to MSD, as well as a limited number of Headquarters Replenishment Accounts for spares procured at Naval Air Systems Command headquarters to support Executive Mission helicopters, inter-service support requirements, and miscellaneous aircraft systems.  Successful execution of AOA and meeting Fleet requirements depends heavily on the synchronization between NWCF Buy-In and APN-6 Buy-Out requiring stability of funding levels for both accounts.  AOA fills Aviation and Shore Consolidated Allowances (AVCAL/SHORCAL).  AVCALs support carriers and L-decks conducting deployed operations.  
+
+APN-6 funding for JSF will procure the Navy's proportional share of pooled aircraft spares and repair parts, to include spare engines and engine modules.  Additionally, APN-6 funds will procure initial spares and repair parts necessary to outfit organic and commercial depot repair activities in satisfaction of the interim support arrangements made to achieve key sustainment milestones in the JSF program.</proc:Description>
+            <proc:Justification>Justification:  
+
+Aviation sparing supports the CNO's strategy of achieving a 2+3 carriers' posture by 2020.  This includes filling AVCAL and SHORCAL requirements enabling carriers/L-Decks to conduct deployed operations.  Initial contractor spares and engine spares are a major cost driver in FY17 due to the introduction of new Type/Model/Series T/M/S in FY17 and overall increase of the number of aircraft procured in FY17.  To field new aircraft, sparing supports the stand up of new basing plans and additional support packages.   
+
+(1) Initial Spares: 
+FY2017 initial spares funding is required for Joint Strike Fighter (JSF) Short Takeoff and Vertical Landing (STOVL) (0152) and JSF Carrier Variant (CV) (0147) to support Initial Operational Capability (IOC); meet parts availability, resupply response times, and maintenance requirements; and continue progressing to Full Operational Capability (FOC). The funding will procure Afloat Spares Packages (ASP), Deployment Spares Packages (DSP), and the Navy and Marine Corps share of the JSF Global Spares Pool (GSP). The GSP is a foundational tenet of this joint program, whereby the Air Force, Navy, Marine Corps, and eight International countries share the cost of spares, eliminating need for individual entities to procure full depth and range of spares. These initial spares and repair parts are critical to establishing depot maintenance capability and meeting sustainment milestones for all partners.  
+FY2017 initial spares funding also includes required support of the following aircraft platforms:
+CH-53K - spares associated with Low Rate Initial Procurement (LRIP) and engines.
+V-22 (Medium Lift) (0164) - spares to support gimbal ring and propeller rotor hub improvements.  
+P-8 (0193) - spare engine requirements
+E-2D AHE (0195) - spares engine requirements 
+KC-130J (0416) - spare engine and propeller requirements.  
+MQ-4C TRITON (0442) - spares associated with Low Rate Initial Procurement (LRIP)
+MQ-8 UAV (0443) - spares to support the quantity of Littoral Combat Ships (LCS) Ships deployed with MQ-8 and sparing decision to carry a spare engine on each LCS
+
+FY2017 funding is required for Repair of Repairables (ROR) (9401).  ROR increases from FY2016 for F/A-18E/F Joint Tactical Terminal - Receiver (JTT-R) and Infrared Search and Track (IRST), as well as increasing ROR requirements for CH-53K, MQ-4 TRITON, and MQ-8 UAV.   
+
+FY2017 funding is required for Spares for Modification (9504) requirements which are driven by F/A-18 Operational Safety Improvement Programs (OSIPs) for IRST, Active Electronically Scanned Array (AESA), and Service Life Monitoring Program (SLMP).
+
+FY2017 funding is required for Aircraft Support Equipment and Facilities, providing initial spare for Training Devices (9705), Common Support Equipment (CSE) (9707), Consolidated Automated Support System (CASS) (9708), and Tactical Combat Training System (TCTS) (9709). These accounts are critical and tied directly to T/M/S enabling mission success by training pilots and maintainers and ensuring maintenance and planeside support of the aircraft.
+
+(2) Replenishment: 
+FY2017 funding is required for replenishment of Aviation Outfitting AOA (Repairable)/ACA (Consumable) (9713/9714) spares.  The AOA Repairable account is integral in that includes sustainment requirements that maintain current operational and wartime readiness for legacy systems such as F/A-18, AV-8B, EA-6B, H-1, MH-53E, MV-22, Common Avionics and Special Programs. Specifically, Aviation Outfitting procures critical spare parts  to fill AVCAL and SHORCAL requirements in  support  of the CNO's strategy of achieving 2+3 carrier's posture by 2020.  AOA/ACA accounts funds aviation material spares that will support 120 projected aircraft deliveries (of at least 9 T/M/S) on/or about FY2017, on-time and deferred buy-outs of repairable and consumable spares from the Navy Working Capital Fund (NWCF), and Weapon System Planning Document (WSPD) updates that include changes in repair rates and operations (basing and Concept of Operations (CONOPS)).  
+
+An overall moderate decrease in the budget from FY2016 funds AOA at the appropriate levels in order to improve aviation operational readiness across the Fleet while driving additional requirements into AOA for post-Material Support Date (MSD) aircraft systems such as P-8 and E-2C/D. This effort assisted in the improvement of aviation operational readiness across the Fleet.  Even though AOA as a whole has decreased, the P-8 Outfitting also increased due to revised P-8 WSPD operational (basing) requirements.  MH-60 Outfitting, for example, includes deferrals and funding of requirements for Automatic Radar Detection and Discrimination (ARPDD), KU Band, Operator Sensor Interface (OSI) and Enhanced Software Configuration Air Data Unit (ECADU) that would have otherwise been funded during the interim phase.
+
+Some post-MSD systems yield new spares requirements that are fulfilled through Outfitting.   
+
+In FY2017, ACA (consumables) increased in support of carriers and L-decks, Naval Air Station (NAS) aviation allowance growth and repair efforts supporting AOA assets.
+
+
+FY2017 funding is required for Spares for 6K Cog (9710), Adversary (9711), and HQ Replenishment (9712) requirements.  HQ Replenishment includes Executive Mission, Project Beartrap, and Special Mission Avionics.  Due to the nature of Adversary and HQ Replenishment programs, initial spares requirements are supported for the life of the program by APN-6 funding and are not transferred to the Navy Supply System for support.
+
+OCO: 
+FY17 OCO supports EP-3E and Special Project Aircraft which are in direct support of OCO Theater Operations.  Platforms have been deployed continuously in support of all OCO Theater Operations since 2001.  Spares requirements are needed due to the austere OCO environments and increased flight hours.</proc:Justification>
+            <proc:ItemExhibitList>
+                <proc:P18Item>
+                    <proc:Name>APN spares</proc:Name>
+                    <proc:InitialSpares>
+                        <proc:EndItemBudgetActivity>
+                            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+                            <proc:BudgetActivityTitle>Combat Aircraft</proc:BudgetActivityTitle>
+                            <proc:EndItemList>
+                                <proc:EndItem>
+                                    <proc:Name>Joint Strike Fighter CV</proc:Name>
+                                    <proc:LineItemNumber>0147</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>28.386</proc:PriorYear>
+                                        <proc:CurrentYear>59.914</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>26.076</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>26.076</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>JSF STOVL</proc:Name>
+                                    <proc:LineItemNumber>0152</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>64.194</proc:PriorYear>
+                                        <proc:CurrentYear>111.569</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>123.252</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>123.252</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>CH-53K (Heavy Lift)</proc:Name>
+                                    <proc:LineItemNumber>0158</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:BudgetYearOneBase>51</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>51</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>V-22 (Medium Lift)</proc:Name>
+                                    <proc:LineItemNumber>0164</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.858</proc:PriorYear>
+                                        <proc:CurrentYear>0.479</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>0.033</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>0.033</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>UH-1Y/AH-1Z</proc:Name>
+                                    <proc:LineItemNumber>0178</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.588</proc:PriorYear>
+                                        <proc:CurrentYear>0.658</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>MH-60R</proc:Name>
+                                    <proc:LineItemNumber>0182</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.15</proc:PriorYear>
+                                        <proc:CurrentYear>0.069</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>P-8A Poseidon</proc:Name>
+                                    <proc:LineItemNumber>0193</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.228</proc:PriorYear>
+                                        <proc:CurrentYear>1.569</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>44.7</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>44.7</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>E-2D AHE</proc:Name>
+                                    <proc:LineItemNumber>0195</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>11.635</proc:PriorYear>
+                                        <proc:CurrentYear>7.786</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>20.371</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>20.371</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                            </proc:EndItemList>
+                        </proc:EndItemBudgetActivity>
+                        <proc:EndItemBudgetActivity>
+                            <proc:BudgetActivityNumber>4</proc:BudgetActivityNumber>
+                            <proc:BudgetActivityTitle>Other Aircraft</proc:BudgetActivityTitle>
+                            <proc:EndItemList>
+                                <proc:EndItem>
+                                    <proc:Name>KC-130J</proc:Name>
+                                    <proc:LineItemNumber>0416</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.31</proc:PriorYear>
+                                        <proc:CurrentYear>3.999</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>2.007</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>2.007</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>MQ-4 TRITON</proc:Name>
+                                    <proc:LineItemNumber>0442</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:CurrentYear>103.954</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>114.529</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>114.529</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>MQ-8 UAV</proc:Name>
+                                    <proc:LineItemNumber>0443</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>12.573</proc:PriorYear>
+                                        <proc:BudgetYearOneBase>1.506</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>1.506</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>STUASLO</proc:Name>
+                                    <proc:LineItemNumber>0444</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>10</proc:PriorYear>
+                                        <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for Repair of Repairables</proc:Name>
+                                    <proc:LineItemNumber>9401</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>52.279</proc:PriorYear>
+                                        <proc:CurrentYear>17.654</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>26.448</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>26.448</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                            </proc:EndItemList>
+                        </proc:EndItemBudgetActivity>
+                        <proc:EndItemBudgetActivity>
+                            <proc:BudgetActivityNumber>5</proc:BudgetActivityNumber>
+                            <proc:BudgetActivityTitle>Modification of Aircraft</proc:BudgetActivityTitle>
+                            <proc:EndItemList>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for Modifications</proc:Name>
+                                    <proc:LineItemNumber>9504</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>86.717</proc:PriorYear>
+                                        <proc:CurrentYear>100.483</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>97.806</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>97.806</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                            </proc:EndItemList>
+                        </proc:EndItemBudgetActivity>
+                        <proc:EndItemBudgetActivity>
+                            <proc:BudgetActivityNumber>7</proc:BudgetActivityNumber>
+                            <proc:BudgetActivityTitle>Aircraft Support Equip &amp; Facilities</proc:BudgetActivityTitle>
+                            <proc:EndItemList>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for Training Devices</proc:Name>
+                                    <proc:LineItemNumber>9705</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>23.527</proc:PriorYear>
+                                        <proc:CurrentYear>48.275</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>32.085</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>32.085</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for CSE Parts</proc:Name>
+                                    <proc:LineItemNumber>9707</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>2.439</proc:PriorYear>
+                                        <proc:CurrentYear>0.915</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>1.167</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>1.167</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for CASS Spares</proc:Name>
+                                    <proc:LineItemNumber>9708</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.555</proc:PriorYear>
+                                        <proc:CurrentYear>3.275</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>2.853</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>2.853</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for TCTS Spares</proc:Name>
+                                    <proc:LineItemNumber>9709</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.262</proc:PriorYear>
+                                        <proc:CurrentYear>0.099</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>0.155</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>0.155</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                            </proc:EndItemList>
+                        </proc:EndItemBudgetActivity>
+                        <proc:SubtotalSparesCost>
+                            <proc:PriorYear>294.701</proc:PriorYear>
+                            <proc:CurrentYear>460.698</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>543.988</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>543.988</proc:BudgetYearOne>
+                        </proc:SubtotalSparesCost>
+                    </proc:InitialSpares>
+                    <proc:ReplenishmentSpares>
+                        <proc:EndItemBudgetActivity>
+                            <proc:BudgetActivityNumber>7</proc:BudgetActivityNumber>
+                            <proc:BudgetActivityTitle>Aircraft Support Equip &amp; Facilities</proc:BudgetActivityTitle>
+                            <proc:EndItemList>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for 6K Cog</proc:Name>
+                                    <proc:LineItemNumber>9710</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>6.55</proc:PriorYear>
+                                        <proc:CurrentYear>6.522</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>6.694</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>6.694</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for Adversary</proc:Name>
+                                    <proc:LineItemNumber>9711</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>0.787</proc:PriorYear>
+                                        <proc:CurrentYear>1.336</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>1.151</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>1.151</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for HQ Replenishment</proc:Name>
+                                    <proc:LineItemNumber>9712</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>44.197</proc:PriorYear>
+                                        <proc:CurrentYear>46.875</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>30.408</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOneOCO>1.5</proc:BudgetYearOneOCO>
+                                        <proc:BudgetYearOne>31.908</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for AOA Repairables</proc:Name>
+                                    <proc:LineItemNumber>9713</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>841.264</proc:PriorYear>
+                                        <proc:CurrentYear>887.699</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>766.849</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>766.849</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                                <proc:EndItem>
+                                    <proc:Name>Spares for AOA Consumables</proc:Name>
+                                    <proc:LineItemNumber>9714</proc:LineItemNumber>
+                                    <proc:Cost>
+                                        <proc:PriorYear>55.01</proc:PriorYear>
+                                        <proc:CurrentYear>60.385</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>58.536</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>58.536</proc:BudgetYearOne>
+                                    </proc:Cost>
+                                </proc:EndItem>
+                            </proc:EndItemList>
+                        </proc:EndItemBudgetActivity>
+                        <proc:SubtotalSparesCost>
+                            <proc:PriorYear>947.808</proc:PriorYear>
+                            <proc:CurrentYear>1002.817</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>863.638</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOneOCO>1.5</proc:BudgetYearOneOCO>
+                            <proc:BudgetYearOne>865.138</proc:BudgetYearOne>
+                        </proc:SubtotalSparesCost>
+                    </proc:ReplenishmentSpares>
+                    <proc:TotalSparesCost>
+                        <proc:PriorYear>1242.509</proc:PriorYear>
+                        <proc:CurrentYear>1463.515</proc:CurrentYear>
+                        <proc:BudgetYearOneBase>1407.626</proc:BudgetYearOneBase>
+                        <proc:BudgetYearOneOCO>1.5</proc:BudgetYearOneOCO>
+                        <proc:BudgetYearOne>1409.126</proc:BudgetYearOne>
+                    </proc:TotalSparesCost>
+                </proc:P18Item>
+            </proc:ItemExhibitList>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

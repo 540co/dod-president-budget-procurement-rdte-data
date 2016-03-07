@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>DoD Human Resources Activity</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0400</jb:AppropriationCode>
+    <jb:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserR1Doc>
+            <jb:Title>Comptroller Exhibit R-1</jb:Title>
+            <jb:FileName>Final R-1C FY 2013 PB DHRA (1).pdf</jb:FileName>
+        </jb:UserR1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <r2:R2ExhibitList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+        <r2:R2Exhibit monetaryUnit="Millions">
+            <r2:ProgramElement>
+                <r2:ProgramElementNumber>0603769SE</r2:ProgramElementNumber>
+                <r2:ProgramElementTitle>Distributed Learning Advanced Technology Development (ADL)</r2:ProgramElementTitle>
+                <r2:R1LineItemNumber>58</r2:R1LineItemNumber>
+                <r2:BudgetYear>2013</r2:BudgetYear>
+                <r2:BudgetCycle>PB</r2:BudgetCycle>
+                <r2:SubmissionDate>2012-02</r2:SubmissionDate>
+                <r2:ServiceAgencyName>DoD Human Resources Activity</r2:ServiceAgencyName>
+                <r2:AppropriationCode>0400</r2:AppropriationCode>
+                <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+                <r2:BudgetActivityNumber>3</r2:BudgetActivityNumber>
+                <r2:BudgetActivityTitle>Advanced Technology Development (ATD)</r2:BudgetActivityTitle>
+                <r2:ProgramElementFunding>
+                    <r2:PriorYear>13.915</r2:PriorYear>
+                    <r2:CurrentYear>13.579</r2:CurrentYear>
+                    <r2:BudgetYearOne>12.195</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>12.195</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>12.116</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>12.090</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>12.303</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>12.303</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProgramElementFunding>
+                <r2:ProgramElementMissionDescription>The Department of Defense Human Resources Activity (DHRA) is a DoD-wide Field Activity chartered to support the Under Secretary of Defense for Personnel and Readiness (USD (P&amp;R)).
+
+Advanced Distributed Learning (ADL) Initiative: This program develops the technologies to make learning and performance support available to service members, anytime, anywhere. The ADL concept enables the ability to migrate online learning content to multiple hardware and software applications using the Sharable Content Object Reference Model (SCORM®) standard. It has become the defacto standard and is moving through international bodies for global accreditation; its use is mandatory throughout the Department of Defense (DoD) through (Instruction1322.26). The program develops and maintains US and international partnerships with public education, vocational training, and lifelong learning programs. Policy oversight is managed by the Office of the Deputy Assistant Secretary of Defense/Readiness (Training Readiness and Strategy). Current research is on an advanced concept for the purpose of development of a Personal Learning Assistant (PLA) that will provide training and learning to promote adaptability and agility in the workforce with the capability to tailor and adapt instructional material to fit the learners’ strength and weaknesses, learning style, and level of proficiency.</r2:ProgramElementMissionDescription>
+                <r2:ChangeSummary>
+                    <r2:PreviousPresidentBudget>
+                        <r2:PriorYear>13.986</r2:PriorYear>
+                        <r2:CurrentYear>13.579</r2:CurrentYear>
+                        <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    </r2:PreviousPresidentBudget>
+                    <r2:CurrentPresidentBudget>
+                        <r2:PriorYear>13.915</r2:PriorYear>
+                        <r2:CurrentYear>13.579</r2:CurrentYear>
+                        <r2:BudgetYearOne>12.195</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>12.195</r2:BudgetYearOneBase>
+                    </r2:CurrentPresidentBudget>
+                    <r2:TotalAdjustments>
+                        <r2:PriorYear>-0.071</r2:PriorYear>
+                        <r2:CurrentYear>0.000</r2:CurrentYear>
+                        <r2:BudgetYearOne>12.195</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>12.195</r2:BudgetYearOneBase>
+                    </r2:TotalAdjustments>
+                    <r2:AdjustmentDetails>
+                        <r2:CongressionalRescissions>
+                            <r2:PriorYear>-0.071</r2:PriorYear>
+                        </r2:CongressionalRescissions>
+                        <r2:OtherAdjustmentDetailList>
+                            <r2:OtherAdjustmentDetail>
+                                <r2:Title>Changed to add FY 2013 Baseline</r2:Title>
+                                <r2:Funding>
+                                    <r2:BudgetYearOne>12.195</r2:BudgetYearOne>
+                                    <r2:BudgetYearOneBase>12.195</r2:BudgetYearOneBase>
+                                </r2:Funding>
+                            </r2:OtherAdjustmentDetail>
+                        </r2:OtherAdjustmentDetailList>
+                    </r2:AdjustmentDetails>
+                </r2:ChangeSummary>
+                <r2:ProjectList>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 1</r2:ProjectNumber>
+                        <r2:ProjectTitle>Advanced Distributed Learning</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>13.915</r2:PriorYear>
+                            <r2:CurrentYear>13.579</r2:CurrentYear>
+                            <r2:BudgetYearOne>12.195</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>12.195</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>12.116</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>12.090</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>12.303</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>12.303</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Department of Defense Human Resources Activity (DHRA) is a DoD-wide Field Activity chartered to support the Under Secretary of Defense for Personnel and Readiness (USD (P&amp;R)).
+
+Advanced Distributed Learning (ADL) Initiative: This program develops the technologies to make learning and performance support available to service members, anytime, anywhere. The ADL concept enables the ability to migrate online learning content to multiple hardware and software applications using the Sharable Content Object Reference Model (SCORM®) standard. It has become the defacto standard and is moving through international bodies for global accreditation; its use is mandatory throughout the Department of Defense (DoD) through (Instruction1322.26). The program develops and maintains US and international partnerships with public education, vocational training, and lifelong learning programs. Policy oversight is managed by the Office of the Deputy Assistant Secretary of Defense/Readiness (Training Readiness and Strategy). Current research is on an advanced concept for the purpose of development of a Personal Learning Assistant (PLA) that will provide training and learning to promote adaptability and agility in the workforce with the capability to tailor and adapt instructional material to fit the learners’ strength and weaknesses, learning style, and level of proficiency.
+</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Advanced Distributed Learning</r2:Title>
+                                    <r2:Description>Research, develop and deploy new learning technologies with the ability to emulate an expert personal trainer/coach, capable of learning about an individual, taking into account individual differences (prior knowledge, ability, learning rates, working memory, etc), sensing their learning state (e.g., attention, fatigue), and tracking and monitoring their learning throughout their life—adapting course material in a manner best suited for the individual.</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>13.915</r2:Funding>
+                                            <r2:Text>• Published research articles in leading professional journals on the effectiveness of online learning compared to classroom training
+• Tested advanced instructional methods using intelligent tutors for training Horn-of-Africa scenarios at the Joint Forces Command.
+• Completed specifications for bridging technical publications to the SCORM model</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>13.579</r2:Funding>
+                                            <r2:Text>• Publish research articles in leading professional journals on the effectiveness of online learning compared to classroom training;
+• Research new learning technologies for possible integration into DoD educational and training programs to include the ergonomic integration of less-invasive, human-computer devices within a training environment and structured learning content schemas and transformation technologies that can modularize content, enhance semantic understanding, and improve the prospects for reuse;
+• Test advanced instructional methods using intelligent tutors for training;
+• Establish advanced concept research and prototypes for the Next Generation SCORM standard.
+	</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>12.195</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>12.195</r2:Funding>
+                                            <r2:Text>• Research new learning technologies for possible integration into DoD educational and training programs to include innovative methodologies and approaches to using Social Networking for solving problems in collaborative, disparate environments in a manner that improves learning outcomes and demonstrate the application of the spacing effect using current mobile technologies to reinforce learning and improve long-term retention.
+• Continue to test advanced instructional methods for intelligent tutors for training;
+• Continue research on advanced concept research on the next generation learning environment.
+	</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>Not Required.</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>In FY2013, conduct research for the purpose of exploring the application of new and emerging educational and training technologies for development of a capability by which learners have access to effective, personalized learning content and/or job performance aids that are presented in a format suitable for their preferences and can be accessed from multiple devices/platforms.  Prototype an Intelligent Tutor to assess the validity, scalability, exportability and affordability of DARPA’s “Education Dominance” program incorporating the processes utilized for Education Dominance and generalize them into mathematics to be applied to DoDEA schools curriculum with the intent to determine the utilization of this technology across DoD and as a step toward the more comprehensive PLA. Metrics include, but are not limited to; Scalability, Generalizability, and Affordability as defined below:
+• Scalability – Usable across the Department of Defense (DoD) and other federal agencies.
+• Generalizability – Built on a framework that can be used as a basis to provide this capability for any topic.
+• Affordability – Reasonably priced solution to enable wide spread use.
+</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                </r2:ProjectList>
+            </r2:ProgramElement>
+        </r2:R2Exhibit>
+        <r2:R2Exhibit monetaryUnit="Millions">
+            <r2:ProgramElement>
+                <r2:ProgramElementNumber>0605021SE</r2:ProgramElementNumber>
+                <r2:ProgramElementTitle>FY 2013 Homeland Personnel Security Directive (HSPD-12) Initiative</r2:ProgramElementTitle>
+                <r2:R1LineItemNumber>125</r2:R1LineItemNumber>
+                <r2:BudgetYear>2013</r2:BudgetYear>
+                <r2:BudgetCycle>PB</r2:BudgetCycle>
+                <r2:SubmissionDate>2012-02</r2:SubmissionDate>
+                <r2:ServiceAgencyName>DoD Human Resources Activity</r2:ServiceAgencyName>
+                <r2:AppropriationCode>0400</r2:AppropriationCode>
+                <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+                <r2:BudgetActivityNumber>5</r2:BudgetActivityNumber>
+                <r2:BudgetActivityTitle>System Development &amp; Demonstration (SDD)</r2:BudgetActivityTitle>
+                <r2:ProgramElementFunding>
+                    <r2:PriorYear>0.389</r2:PriorYear>
+                    <r2:CurrentYear>0.389</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.387</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.387</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.386</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.386</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.393</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.393</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProgramElementFunding>
+                <r2:ProgramElementMissionDescription>The Department of Defense Human Resources Activity (DHRA) is a DoD-wide Field Activity chartered to support the Under Secretary of Defense for Personnel and Readiness (USD (P&amp;R)).  HSPD-12 requires rapid electronic authentication for all Government employees, uniformed individuals and contractors. The Defense Enrollment and Eligibility System will provide Enterprise capability for the cardholder data repository, common Access interface to multiple types of Access control hardware, common Access software, the ability to control Access to multiple facilities through one authoritative data source, and provide the standards and data to/form and power efficient gates. Implement Enterprise Access control data for the DoD while providing standards and reducing redundancy. RDT&amp;E funding will be expended to develop the secure interfaces necessary to work with the FBI and first responders for Enterprise authentication. Many systems support different aspects of electronic authentication across the Department. RDT&amp;E will allow for the pursuit of a potential solution that will interface disparate applications/systems. This will increase Government efficiency by rapidly verifying electronically the identity of an individual and can be used by many applications, reduce identity fraud, protect privacy by limiting information stored, and increase privacy processes to maintain Access controls, thereby facilitating identification of first responders</r2:ProgramElementMissionDescription>
+                <r2:ChangeSummary>
+                    <r2:PreviousPresidentBudget>
+                        <r2:PriorYear>0.391</r2:PriorYear>
+                        <r2:CurrentYear>0.389</r2:CurrentYear>
+                        <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    </r2:PreviousPresidentBudget>
+                    <r2:CurrentPresidentBudget>
+                        <r2:PriorYear>0.389</r2:PriorYear>
+                        <r2:CurrentYear>0.389</r2:CurrentYear>
+                        <r2:BudgetYearOne>0.387</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0.387</r2:BudgetYearOneBase>
+                    </r2:CurrentPresidentBudget>
+                    <r2:TotalAdjustments>
+                        <r2:PriorYear>-0.002</r2:PriorYear>
+                        <r2:CurrentYear>0.000</r2:CurrentYear>
+                        <r2:BudgetYearOne>0.387</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0.387</r2:BudgetYearOneBase>
+                    </r2:TotalAdjustments>
+                    <r2:AdjustmentDetails>
+                        <r2:CongressionalRescissions>
+                            <r2:PriorYear>-0.002</r2:PriorYear>
+                        </r2:CongressionalRescissions>
+                        <r2:OtherAdjustmentDetailList>
+                            <r2:OtherAdjustmentDetail>
+                                <r2:Title>Changed to add FY 2013 Baseline</r2:Title>
+                                <r2:Funding>
+                                    <r2:BudgetYearOne>0.387</r2:BudgetYearOne>
+                                    <r2:BudgetYearOneBase>0.387</r2:BudgetYearOneBase>
+                                </r2:Funding>
+                            </r2:OtherAdjustmentDetail>
+                        </r2:OtherAdjustmentDetailList>
+                    </r2:AdjustmentDetails>
+                </r2:ChangeSummary>
+                <r2:ProjectList>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 1</r2:ProjectNumber>
+                        <r2:ProjectTitle>Defense Enrollment Eligibility Reporting System</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>0.389</r2:PriorYear>
+                            <r2:CurrentYear>0.389</r2:CurrentYear>
+                            <r2:BudgetYearOne>0.387</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.387</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.386</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.386</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>0.393</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>0.393</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Department of Defense Human Resources Activity (DHRA) is a DoD-wide Field Activity chartered to support the Under Secretary of Defense for Personnel and Readiness (USD (P&amp;R)). HSPD-12 requires rapid electronic authentication for all Government employees, uniformed individuals and contractors. The Defense Enrollment and Eligibility System will provide Enterprise capability for the cardholder data repository, common Access interface to multiple types of Access control hardware, common Access software, the ability to control Access to multiple facilities through one authoritative data source, and provide the standards and data to/form and power efficient gates. Implement Enterprise Access control data for the DoD while providing standards and reducing redundancy. RDT&amp;E funding will be expended to develop the secure interfaces necessary to work with the FBI and first responders for Enterprise authentication. Many systems support different aspects of electronic authentication across the Department. RDT&amp;E will allow for the pursuit of a potential solution that will interface disparate applications/systems. This will increase Government efficiency by rapidly verifying electronically the identity of an individual and can be used by many applications, reduce identity fraud, protect
+privacy by limiting information stored, and increase privacy processes to maintain Access controls, thereby facilitating identification of first responders.
+</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Defense Enrollment Eligibility Reporting System/HSPD-12</r2:Title>
+                                    <r2:Description>The Department of Defense Human Resources Activity (DHRA) is a DoD-wide Field Activity chartered to support the Under Secretary of Defense for Personnel and Readiness (USD (P&amp;R)). HSPD-12 requires rapid electronic authentication for all Government employees, uniformed individuals and contractors. 
+</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>0.389</r2:Funding>
+                                            <r2:Text> Continued research and development of:
+• Provided security personnel notices on persons of interest attempting to Access facilities and increased personnel protection
+and policy compliance
+• Provided immediate authentication of emergency essential personnel
+• Provided an interface among disparate applications/systems across the DoD
+	</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>0.389</r2:Funding>
+                                            <r2:Text>Continue research and development of:
+• Providing security personnel notices on persons of interest attempting to Access facilities and increased personnel protection
+and policy compliance
+• Providing immediate authentication of emergency essential personnel
+• Providing an interface among disparate applications/systems across the DoD
+</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>0.387</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>0.387</r2:Funding>
+                                            <r2:Text>Continue research and development of:
+• Providing security personnel notices on persons of interest attempting to Access facilities and increased personnel protection
+and policy compliance
+• Providing immediate authentication of emergency essential personnel
+</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>Existing contract vehicles in place/GSA for COTS.</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>None</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                </r2:ProjectList>
+            </r2:ProgramElement>
+        </r2:R2Exhibit>
+        <r2:R2Exhibit monetaryUnit="Millions">
+            <r2:ProgramElement>
+                <r2:ProgramElementNumber>0605803SE</r2:ProgramElementNumber>
+                <r2:ProgramElementTitle>R&amp;D in Support of DOD Enlistment, Testing and Evaluation </r2:ProgramElementTitle>
+                <r2:R1LineItemNumber>163</r2:R1LineItemNumber>
+                <r2:BudgetYear>2013</r2:BudgetYear>
+                <r2:BudgetCycle>PB</r2:BudgetCycle>
+                <r2:SubmissionDate>2012-02</r2:SubmissionDate>
+                <r2:ServiceAgencyName>DoD Human Resources Activity</r2:ServiceAgencyName>
+                <r2:AppropriationCode>0400</r2:AppropriationCode>
+                <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+                <r2:BudgetActivityNumber>6</r2:BudgetActivityNumber>
+                <r2:BudgetActivityTitle>RDT&amp;E Management Support</r2:BudgetActivityTitle>
+                <r2:ProgramElementFunding>
+                    <r2:PriorYear>64.408</r2:PriorYear>
+                    <r2:CurrentYear>49.686</r2:CurrentYear>
+                    <r2:BudgetYearOne>16.364</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>16.364</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>6.908</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>6.195</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>5.788</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>6.066</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProgramElementFunding>
+                <r2:ProgramElementMissionDescription>The Department of Defense Human Resources Activity (DHRA) is a DoD-wide Field Activity chartered to support the Under Secretary of Defense for Personnel and Readiness (USD (P&amp;R)).  This PE includes application of R&amp;D to expedite prototype development and mission support efforts to sustain and/or modernize operations required for general RDT&amp;E.
+
+Project 1:  Joint Service Training &amp; Readiness System Development. Established by the Secretary of Defense to improve the training and readiness of the Active and Reserve Components. This program expedites the prototype development of new training and readiness technologies and Joint Service Training and Readiness systems, which improve training and readiness effectiveness and enhance military forces’ performance. It also facilitates the sharing of training and readiness information, while allowing for the transfer of emerging and innovative technologies among the Services and the private sector. Efforts have included: development of mission essential tasks; design, development, and implementation of performance metrics, data, and methodologies for the Joint Assessment and Enabling Capability to guide Training Transformation and support the Department’s balanced scorecard and Defense Readiness Reporting System; identified and defined joint urban training requirements identified methods to conduct effective joint training and determined best means to develop simulations, military construction, and other urban training facilities that meet Service, joint, and fiscal demands and requirements; developed joint training regimen requirements and investments ranging from the joint strategic level down to the joint tactical level for joint asymmetric warfare; and developed a joint stability and support operations training roadmap and investment plan for operations other than war including peace enforcement, peacekeeping, and humanitarian assistance.    
+
+Project 2:  The Defense Training Resources Analysis. This project supports DHRA and DoD training managers (OSD, Joint Staff, Unified Commands, and the Services) in promoting more efficient and effective use of training resources, increasing the effectiveness of military training, and enhancing the readiness and performance of the military forces. Projects analyze the contributions to readiness of various training techniques and programs and use the results to expedite new training concepts and procedures that increase unit effectiveness or decrease costs. Emphasis is placed on developing analytical tools and systematic methodologies to improve training resource allocations.
+
+Project 3:  DoD Enlistment Processing and Testing. The project administers testing programs, which enable the Armed Services to select highly qualified military recruits. The DoD uses a single test, the Armed Services Vocational Aptitude Battery (ASVAB), to determine eligibility of military applicants and to report recruit quality data to Congress. High quality recruits are obtained from administering the ASVAB annually to approximately 600,000 applicants for Military Service as part of the DoD Enlistment Testing program, and to 1 million students in the DoD Student Testing program. Each Service also uses ASVAB test forms developed in this program as part of their in-service testing programs. New ASVAB test forms and related support materials are implemented approximately every four years. This allows DoD to
+make measurement improvements as well as decrease the likelihood of test compromise. Ongoing RDT&amp;E efforts include development and evaluation of procedures which (1) reduce or eliminate threats to the validity of the ASVAB test scores generated; (2) improve the efficiency of the test development, calibration, and validation process; and (3) improve selection and classification decisions made by each Service through more effective use of test score information. In addition, periodic assessments are required to provide DoD manpower planners and Congress with information on aptitude trends in the population from which recruits are drawn.
+
+Project 4:   Federal Voting Assistance Program.  Given the agile planning and deployment flexibilities required in as dynamic a RDT&amp;E environment as internet voting, the FY 2013 execution plan will be significantly influenced by the results of the FY2011 and FY2012 research, development, and evaluation results.  However, current plans are to initiate the first two phases of the internet voting demonstration competition challenge:
+
+o	Phase I of Internet Voting Competition Challenge:  In the first phase submissions will focus on defining security, reliability, usability, and accountability requirements for internet voting systems. Submissions will be open to the public, and will be open to public critique. FVAP will review those submissions and critiques, and then consolidate them into a single set of requirements for Phase II. 
+
+o	Phase II of Internet Voting Competition Challenge:  In this phase, submission will provide high level designs and detailed hardware and software architectures, along with procedures necessary for secure operation. Submissions will be sufficiently detailed so that a reasonably skilled information technologist could implement the system to allow for broader peer review.  However, many details such as user interfaces and database layouts will be likely be undefined. As with the first phase, submissions will be open for critique. In this phase critiques will focus on identifying areas where designs do not meet the requirements defined in the first phase. The result may be modification of architectures to incorporate ideas from several teams. At the conclusion of this phase, the Department will narrow down the set of acceptable architectures. 
+
+o	Conformance Testing to EAC Pilot Program Requirements for Kiosk Systems Used in a 2014 Election: To support the testing of internet voting systems from monitored kiosk test platform (where the ballots of record are printed out and delivered to jurisdictions like other absentee ballots, but the same ballot is delivered electronically to the election jurisdiction for comparison to the paper ballot of record), the Department will test conformance of selected systems to the EAC Pilot Program Testing Requirements.  Again, in 2014, the pilot effort will be limited to military voters at domestic US locations.  
+
+Project 5: Civilian HR automation enhancements planned for FY 2012 and FY 2013 are focused on software development to support the Department’s civilian workforce, including readiness requirements for the development of automation for an expeditionary civilian workforce; an SES-focused performance management system; development of interfaces with the Defense Civilian Personnel Data System (DCPDS) and other civilian HR systems to fully expand the Enterprise Staffing Solution; development of DCPDS interfaces with Office of Personnel Management (OPM) initiative mandates for HR Line of Business (LoB), electronic Official Personnel Folder, Retirement Systems Modernization implementation, and HR Line of Business. DoD is one of five designated Shared Service Centers in the federal
+government focused on providing standard services across agency lines, gaining potential significant business and cost-saving benefits. DoD is considered a leader in this initiative. Continues the conversion of employees back to other personnel systems as mandated in NDAA 2010 and designs new flexibilities to include, but not limited to the establishment of policies and procedures for a new Performance Management System, a redesigned hiring process adhering to veterans’ preference requirements, a “Department of Defense Civilian Workforce Incentive fund”, and a Mandatory Training and Retraining Program for Supervisors. DCPDS is the Department’s enterprise civilian HR system that has provided the savings originally projected in the achievement of full operational capability in 2002 and which has continued to operate as the DoD system serving over 800,000 employee records. Additional initiatives to sustain the Department’s lead in automated systems to include, expansion of employee self service functionality, and systems to support civilian HR requirements of the intelligence and National Guard
+communities. All enhancements will support the Department’s focus on the further consolidation of civilian HR operations to a single operational site, with linkage to Component operations worldwide.
+
+Project 6:  The integrated DoD SAPR Data Collection and Reporting System (Defense Sexual Assault Incident Database (DSAID)) must accommodate a variety of uses, including the tracking of sexual assault victim support services, support SAPR program administration, program reporting requirements, and data analysis. In order to facilitate analysis at the OSD level, the System should be able to easily export data for analysis in computerized statistical applications, such as Statistical Package for the Social Sciences (SPSS). Service field-level users may use the system to track support to victims of sexual assault throughout the lifecycle of that support requirement and to facilitate sexual assault case transfer between SARCs and Services. Service headquarters-level users will use the system to support program planning, analysis, and management. DoD SAPR Office (SAPRO) users and Service headquarters-level users will access the system to produce mandated and requested reports, monitor program effectiveness and support cohort and trend analysis. The Defense Sexual Assault Incident Database (DSAID) will support SAPR programs for all active duty and Reserve personnel, including National Guard (NG) Service members when on active duty or when performing active service and inactive duty training (as defined in Section (101)(d)(3) of Chapter 47 of title 10, United States Code) with the ability to expand to cover other DoD personnel as required. Additionally, system implementation at the state level will provide a new capability to manage SAPR programs for National Guard personnel under Title 32 USC.  Implementation of this capability will be based on a state NG structure grouped according to state and subdivided into sexual assaults from the separate Army and Air National Guard.  Full Deployment and Delivery (FDD) is scheduled for Q4 FY2012 as a result additional RDT&amp;E funding will not be required after FY2012.
+
+Project 7:  Defense Manpower Data Center (DMDC) acts as the authoritative source for identity and personnel information for the DoD Net Centric Enterprise Computing vision of the Department of Defense’s Global Information Grid (GIG 2.0). Based on the DEERS identities, DMDC provides the key attribute service for the Department of Defense (DoD) Identity and Access Management (IdAM) Capability. The Enterprise Identity Attribute Service (EIAS) supports IdAM through the distribution of DoD person and personnel attributes to applications and services in a controlled, consistent, and secure manner to support ABAC decisions. The controlled, authoritative information provided via EIAS can be used to confirm an individual’s identity, affiliation to the DoD, clearance, pay grade/rank, organization and occupation series for an authorization decision. A key attribute for decision makers is organization. The Global Force Management Data Initiative (GFM_DI) provides the unique organization identifier (OUID) in the EIAS payload. To meet the DoD demand for the OUID, DMDC working with J8 and the Service/Agencies has to 1) establish the linkage between a person (EDI_PI) and the OUID, 2) provide the OUID attribute in the EIAS payload for access decisions, and 3) standardize the organizational attributes required to make access decisions.
+
+ Project 8:  The Neo Tracking System (NTS) / Emergency Tracking Accountability System (ETAS) is a certified and accredited DoD automated system that accounts for, and sustains visibility of noncombatant evacuees during a NEO under the authority of DODD 1000.25, DoD Personnel Identity Protection (PIP) Program. NTS is currently being used in the USAFRICOM, USCENTCOM, USEUCOM, USSOUTHCOM, and USPACOM AORs. The ETAS component is the CONUS domestic version of NTS and is for use by USNORTHCOM during disasters in the CONUS whether natural, accidental, or acts of terrorism. The primary purpose of the NTS/ETAS is to provide individual accountability of the evacuee by creating and maintaining a database of evacuees assembled during an evacuation operation and subsequently tracking the evacuees' movement throughout the evacuation process.
+
+Project 9:  The Synchronized Pre-deployment and Operational Tracker Enterprise Suite (SPOT-ES) is the Department of Defense (DoD) system of record for accountability and visibility of contracts and contractor personnel authorized to operate in a contingency operation.  SPOT-ES provides web based tracking and visibility into contract services, personnel and equipment locations; provides a common operational picture for Combatant Commanders; enhances the analytical tools to accurately plan for the quantity of contracted support required for future contingency operations; and collects accurate data for the OMB-directed quarterly census of all contractors supporting contingency operations.  
+</r2:ProgramElementMissionDescription>
+                <r2:ChangeSummary>
+                    <r2:PreviousPresidentBudget>
+                        <r2:PriorYear>64.737</r2:PriorYear>
+                        <r2:CurrentYear>49.810</r2:CurrentYear>
+                        <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    </r2:PreviousPresidentBudget>
+                    <r2:CurrentPresidentBudget>
+                        <r2:PriorYear>64.408</r2:PriorYear>
+                        <r2:CurrentYear>49.686</r2:CurrentYear>
+                        <r2:BudgetYearOne>16.364</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>16.364</r2:BudgetYearOneBase>
+                    </r2:CurrentPresidentBudget>
+                    <r2:TotalAdjustments>
+                        <r2:PriorYear>-0.329</r2:PriorYear>
+                        <r2:CurrentYear>-0.124</r2:CurrentYear>
+                        <r2:BudgetYearOne>16.364</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>16.364</r2:BudgetYearOneBase>
+                    </r2:TotalAdjustments>
+                    <r2:AdjustmentDetails>
+                        <r2:CongressionalRescissions>
+                            <r2:PriorYear>-0.329</r2:PriorYear>
+                        </r2:CongressionalRescissions>
+                        <r2:Reprogrammings>
+                            <r2:CurrentYear>-0.124</r2:CurrentYear>
+                        </r2:Reprogrammings>
+                        <r2:OtherAdjustmentDetailList>
+                            <r2:OtherAdjustmentDetail>
+                                <r2:Title>Changed to add FY 2013 Baseline</r2:Title>
+                                <r2:Funding>
+                                    <r2:BudgetYearOne>16.364</r2:BudgetYearOne>
+                                    <r2:BudgetYearOneBase>16.364</r2:BudgetYearOneBase>
+                                </r2:Funding>
+                            </r2:OtherAdjustmentDetail>
+                        </r2:OtherAdjustmentDetailList>
+                    </r2:AdjustmentDetails>
+                    <r2:SummaryExplanation>FY 2013, Project 1, Joint Service Training &amp; Readiness System Development , and Project 2, Defense Training Resource Analysis was transfered to Washington Headquarter Services for proper execution.
+Project 9, Synchronized Pre-deployment &amp; Operational Tracker enterprise Suite (SPOT), was transfered to DHRA from DLA/BTA for proper execution.</r2:SummaryExplanation>
+                </r2:ChangeSummary>
+                <r2:ProjectList>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 1 </r2:ProjectNumber>
+                        <r2:ProjectTitle>Joint Service Training &amp; Readiness System Development</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>4.264</r2:PriorYear>
+                            <r2:CurrentYear>4.165</r2:CurrentYear>
+                            <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Joint Service programs were established by the Secretary of Defense to improve the training and readiness of the Active and Reserve Components. This project expedites the prototype development of new training and readiness technologies and Joint Service training and readiness systems, which improve the training and readiness effectiveness and enhance the performance of the military forces. It also facilitates the sharing of training and readiness information, while allowing for the transfer of emerging and innovative technologies among the Services and private sector. Efforts have included: development of mission essential tasks; design, development, and implementation of performance metrics, data, and methodologies for the Joint Assessment and Enabling Capability to guide Training Transformation and support the Department’s balanced scorecard and Defense Readiness Reporting System; identified and defined joint urban training requirements, identified methods to conduct effective joint training, and determined best means to develop simulations, military construction, and other urban training facilities that meet Service, joint, and fiscal demands and requirements; developed joint training regimen requirements and investments ranging from the joint strategic level down to the joint tactical level for joint asymmetric warfare; and developed a joint stability and support operations training roadmap and investment plan for operations other than war including peace enforcement, peacekeeping, and humanitarian assistance.</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Joint Service Training &amp; Readiness System Development</r2:Title>
+                                    <r2:Description>Joint Service Training &amp; Readiness System Development</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>4.264</r2:Funding>
+                                            <r2:Text>• Provided analyses on technical and scientific issues needed to develop a Common Framework for making education, training, and performance/decision aiding available on demand-anytime, anywhere-and tailored to the specific needs of individual learners, learning objectives, and environments.
+• Provided support to the Joint Knowledge Development and Distribution Capability for ADL Prototype development in support of Joint Staff and Combatant Commanders.
+• Provided analysis of current and emerging operational requirements of Combatant Commanders, Training Transformation Joint Management Office and other stake holders to identify major system improvement opportunities.
+• Continued to develop mission essential tasks.
+• Provided refinement of the DoD training strategy for the Services, combatant commands and Defense Agencies.
+• Continued to assist in identifying and analyzing the specific benefits of early and effective incorporation of System Training (ST) details into acquisition programs, particularly those with significant human systems interface requirements.
+• Continued to improve process model to assist in the integration of the Adaptive Planning process into JTS
+• Provided review analysis of the changing DoD training posture and requirements and their implications for future training resources and capabilities in the Western Pacific.
+• Identified the spectrum of requirements the Army will need to address over the coming decade by identifying potential initiatives to improve the match between force design and future employment needs, within expected affordability constraints.
+• Provided study on “Stress on the Force” identifying specialized capabilities required for Irregular Warfare, Partnership Building, Asymmetric Warfare (e.g. cyber) and Civil Support.
+</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>4.165</r2:Funding>
+                                            <r2:Text>• Provide an assessment and forecast of DOD logistics and material readiness in light of significant programmatic and operational impacts that have occurred and will occur over the next five to ten years.  
+• Continue to assess the current state of logistics/material readiness in the Department and track the performance of various logistical and material processes in DoD.
+• Continue to support prototype development, assessment and application of DoD’s Knowledge Management Systems and Ports.
+• Analyze estimated rates of personnel instability among unit leadership. 
+• Identify primary underlying causes of instability and assess potential effects of policies to mitigate instability
+• Continue to develop Virtual Worlds (VW) technology to support Department of Defense (DoD) training.
+• Provide a VW Framework (VWF) which includes an overarching architecture encompassing a number of VW applications, as well as a VW Roadmap and Governance process to implement the VWF. 
+• Continue to develop strategies to combat “Stress on the Force”
+• Continue to assess the ongoing requirement for Civil Affairs forces an compare the requirements to the planned future capability and offer recommendations on how to address potential training shortfalls.
+</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>0.000</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>0.000</r2:Funding>
+                                            <r2:Text>Program will transfer to Washington Headquarter Services.</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>NOT REQUIRED.</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>Each project contained within this program contains specific metrics to determine progress towards completion.  Metrics for all include completed and documented analysis provided by the performer. The completion date for that analysis varies with each project. In addition, to that analysis, each effort contains a roadmap addressing the best use of the findings throughout the department. If the results of the analysis show benefit to the Department, those findings are included in policy, doctrine, tactics and procedures.</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 2</r2:ProjectNumber>
+                        <r2:ProjectTitle>Defense Training Resource Analysis</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>3.403</r2:PriorYear>
+                            <r2:CurrentYear>3.311</r2:CurrentYear>
+                            <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>This project supports DHRA and DoD training managers (OSD, Joint Staff, Unified Commands, and the Services) in promoting more efficient and effective use of training resources, increasing the effectiveness of military training, and enhancing the readiness and performance of the military forces. Projects analyze the contributions to readiness of various training techniques and programs and use the results to expedite new training concepts and procedures that increase unit effectiveness or decrease costs. Emphasis is placed on developing analytical tools and systematic methodologies to improve training resource allocations. </r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Defense Training Resource Analysis</r2:Title>
+                                    <r2:Description>Defense Training Resource Analysis</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>3.403</r2:Funding>
+                                            <r2:Text>• Established updated DoD training strategy drafts for Services, combatant commands and Defense Agencies
+• Conducted several logistics and material readiness reviews
+• Developed strategies to hedge the risk of the occurrence of a major combat operation
+• Worked with Joint Forces Command (Joint Warfighting Center and Joint Unmanned Aircraft Center of Excellence), the Military Departments and other appropriate organizations, developing a results oriented training concept that addresses the effects of competition and airspace restrictions on training, the opportunities that ground units and UAS personnel have to train together in a joint environment, the maximization of the use of available assets and the use of simulation capabilities to enhance training.
+• Developed reserve component mobilization training strategies to increase personnel stability, particularly among unit leadership, during the last year before mobilization or entry into the availability pool.
+• Assessed the effect of enlistment incentives, including educational benefits, on prior and non-prior service reserve component recruiting, training and retention.
+• Assessed language, regional, and cultural capabilities and their relationship to unit readiness
+• Studied the drivers that effect time-to-readiness, in particular, the bottlenecks in the readiness generating process and provide a roadmap on how best to incorporate information about how long it will take a unit to be ready
+• Assessed and analyzed rates of victim satisfaction with the quality of care and response provided by respective military Services’ Sexual Assault Prevention and Response (SAPR) Program and to measure if the policies that DoD has in place to serve sexual assault victims has positively impact readiness and retention
+</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>3.311</r2:Funding>
+                                            <r2:Text>• Determine the feasibility of the Regional Integrated Training Environment (RITE) concept prior to moving forward with a formal strategic communications and education effort and determine best approach for concept implementation.
+• Informed the decision to continue the outreach and implementation efforts.
+• Continue to examine how and why the management of war wounded has changed over time and the historic background how the federal government arrived at the current set of policies and possible changes for the future.
+• Continue to develop reserve component readiness mobilization strategies.
+• Analyze training requirements for DoD Counterinsurgency implementation plans
+• Provide senior decision makers access to the readiness data for Non-Standard forces (Ad Hoc/In-Lieu-Of) prior to their deployment by developing a roadmap and implementation plan to make certain that Non-Standard Forces are assessed in the Defense Readiness reporting System (DRRS) in compliance with Guidance for Employment of the Force (GEF).
+• Continue to evaluate and develop potential improvements in the Request for Forces (RFF) process as part of the Global Force Management (GFM) system and identify the Defenses Readiness Reporting System (DRRS) could inform the GFM process.
+	</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>0.000</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>0.000</r2:Funding>
+                                            <r2:Text>Program will transfer to Washington Headquarter Services</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>NOT REQUIRED.</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>Each project contained within this program contains specific metrics to determine progress towards completion.  Metrics for all include completed and documented analysis provided by the performer. The completion date for that analysis varies with each project. In addition, to that analysis, each effort contains a roadmap addressing the best use of the findings throughout the department. If the results of the analysis show benefit to the Department, those findings are included in policy, doctrine, tactics and procedures.</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 3</r2:ProjectNumber>
+                        <r2:ProjectTitle> DoD Enlistment Processing &amp; Testing</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>2.077</r2:PriorYear>
+                            <r2:CurrentYear>2.030</r2:CurrentYear>
+                            <r2:BudgetYearOne>1.054</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>1.054</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.381</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.807</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>1.235</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>1.261</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The primary mission of DoD Enlistment Processing and Testing is to test and implement more accurate methods of assessing aptitudes required for military enlistment, success in training, and performance on the job. Also, it includes implementing methods that are useful in the identification of persons with the high aptitudes required by today’s smaller and technically more demanding military.</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>DoD Enlistment Processing &amp; Testing</r2:Title>
+                                    <r2:Description>DoD Enlistment Processing &amp; Testing</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>2.077</r2:Funding>
+                                            <r2:Text>DoD Enlistment Testing Program (ETP):
+• Developed and evaluated procedures for the detection of test compromise
+• Continued research on revising ASVAB content areas to ensure the test measures the necessary abilities
+• Continued a research line on the use of multidimensional Computerized Adaptive Testing (CAT) item selection and scoring procedures
+• Evaluated procedures for on-line calibration of multidimensional content areas using a uni dimensional mode
+• Conducted analyses to investigate ASVAB adverse impact issues 
+DoD Student Testing Program (STP):
+• Revised the Career Exploration Program (CEP) Web Site to include career clusters and other enhancements
+• Implemented new materials and published a new technical manual
+• Began a study to evaluate the use of proctored internet-based CAT-ASVAB in the nation’s high schools and community colleges
+</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>2.030</r2:Funding>
+                                            <r2:Text>DoD Enlistment Testing Program (ETP):
+• Implement procedures for the detection of test compromise
+• Review and improve the test development process, particularly item writing and development
+• Collect data on new measures that could potentially be added to the ASVAB
+• Continue a research line on the use of multidimensional Computerized Adaptive Testing (CAT) item selection and scoring procedures
+• Evaluate the use of internet-based testing as a replacement for other types of testing 
+DoD Student Testing Program (STP):
+• Collect data and conduct item level analyses of the Find Your Interests inventory
+• Conduct evaluations of the use of proctored internet-based CAT-ASVAB in the nation’s high schools and community colleges
+</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>1.054</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>1.054</r2:Funding>
+                                            <r2:Text>DoD Enlistment Testing Program (ETP):
+• Finalize and implement new procedures for test development
+• Continue a research line on the use of multidimensional Computerized Adaptive Testing (CAT) item selection and scoring procedures
+• Continue research on revisions to ASVAB content
+DoD Student Testing Program (STP):
+• Evaluate methods to convert all STP to CAT
+• Continue to evaluate the use of internet-based CAT-ASVAB in the CEP
+</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>NOT REQUIRED.</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>Each project contained within this program contains specific metrics to determine progress towards completion.  Metrics for all include completed and documented analysis provided by the performer. The completion date for that analysis varies with each project. In addition, to that analysis, each effort contains a roadmap addressing the best use of the findings throughout the department. If the results of the analysis show benefit to the Department, those findings are included in policy, doctrine, tactics and procedures.</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 4</r2:ProjectNumber>
+                        <r2:ProjectTitle>Federal Voting Assistance Program</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>38.845</r2:PriorYear>
+                            <r2:CurrentYear>27.032</r2:CurrentYear>
+                            <r2:BudgetYearOne>9.692</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>9.692</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Federal Voting Assistance Program (FVAP) exists to:
+o	Assist military personnel, their dependents, and overseas Americans exercise their right to vote so that they have an equal opportunity with the general population to have their vote counted;
+o	Assist the States in complying with relevant federal laws, and advise them on ways to best comply with those laws; and 
+o	Advocate on behalf of military and overseas voters, identifying impediments to their ability to exercise their right to vote, and proposing methods to overcome those impediments.
+
+Further, the Department of Defense is legislatively mandated to develop and deploy an absentee voting system demonstration project in which military voters can cast their votes electronically in a general federal election.   To develop that system, numerous preliminary and iterative steps are necessary, including online voter registration, online ballot delivery and marking, rigorous cyber security threat analysis and evaluation, and pre-deployment system testing.  
+
+These preliminary steps also directly support improved voter assistance by providing voters easier access to voting assistance resources, expediting the delivery of blank ballots, reducing errors in completing election forms and ballots, and providing better system and program evaluation data for more agile planning and execution, as well as to support mid-course corrections in achieving the final mandate of the electronic absentee voting demonstration project. 
+
+Given the inherent uncertainties in deploying an internet voting system five to seven years from now, the Department requires substantial flexibility in shifting two-year RDT&amp; funds over different fiscal years, and in accelerating or decelerating execution rates, dependent upon the results of the intermediate programs which support future steps in the overall effort.  For example, in August 2011, during a working group meeting with computer technology scientists and representatives of EAC and NIST, the idea of conducting iterative public competitions of internet voting systems, akin to a weapon system “fly-off,” was adopted, and which provides the Department potential significant cost and time savings in deploying an internet voting system.  But its discovery near the end of FY2011 also makes it very difficult to fit such program development into the rigid requirements of the budget cycle and the even more rigid requirements of State election cycles.
+
+Congressional mandates also charge the Election Assistance Commission (EAC) (and through the Technical Guideline Development Committee, the National Institute of Standards and Technology (NIST)), with developing guidelines for the Department on such electronic absentee voting systems.  FVAP, EAC and NIST are jointly developing these guidelines, supported by full public engagement with the computer science, military and overseas voting advocacy, and voting system development communities.  This public outreach is crucial to designing electronic absentee voting systems which will be accepted as providing the same level of ballot access, security, privacy, and accountability as the current absentee voting systems provided military and overseas voters.  
+
+Original FY 2013 FVAP budget estimates assumed a 2012 or 2014 deployment of the electronic absentee voting system demonstration project.  However, system and guideline development does not support demonstration project deployment prior to 2016 or 2018.  
+</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Federal Voting Assistance Program</r2:Title>
+                                    <r2:Description>Federal Voting Assistance Program Funding will support the development of online tools to provide Voter Assistance Officer (VAO) training and to develop a dynamic public web-site to facilitate internet-based voter registration, ballot delivery and voting system for use in the first general election after the release of guidelines. FVAP will conduct a variety of research, analysis, evaluation, test and support functions with the intent of supporting Wounded Warrior, disabled military members, military members, their dependents and overseas civilian voters to register and vote successfully with a minimum amount of effort.</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>38.845</r2:Funding>
+                                            <r2:Text>o	Online Ballot Delivery and Marking: For the November 2010 general election, FVAP deployed an online ballot delivery and marking wizard to allow military and overseas voters to receive and mark, online, their absentee ballots. 20 States, covering more than 500,000 military voters and almost 500,000 military dependent voters, joined this effort. The voter received a precinct level ballot, complete with all federal, State, and local candidates, with all contests as they would see in the polling place.  The system gave the voter the ability to download a ballot online, mark it online, and have the ballot automatically filled out with the voter's selections.  The voter then printed out that ballot, with State specific casting instruction and pre-addressed envelope. These systems are the same as the front-end of what a voter would experience in a full internet voting system. The wizard stops the online process at the online marking of the ballot, and supports the postal return of a hard-copy, "wet" signature ballot. The voter benefits by having online access to the ballot 45-days prior to the election, and not having to wait for the postal delivery of the ballot from the local election official, which often takes upwards of 30 days for one-way mail delivery.
+
+o	Electronic Voting System Testing and Threat Analysis: FVAP documented concerns that EAC's test of a "kiosk"-based voting system required additional testing standards against national-level threats, not just against non-governmental, individual or small group threats was needed. The Google hacking case raises serious issues of national level threats against online systems, such as electronic absentee voting systems. The Department conducted Voting System Testing Laboratory (VSTL) tests of six online ballot delivery and full internet voting systems against the EAC’s August 2010 UOCAVA Pilot Testing Guidelines.  The Department also conducted penetration testing against these system using U.S. national level assets.  2012 and 2013 funding will support guideline development using existing threat analysis capability to further test and evaluate electronic absentee voting systems in variety of threat environments. Funds will also complete kiosk-based system testing (as a test platform for future remote PC-based voting systems), evaluation of those results, and support similar tests on remote PC-based systems. Funds will also evaluate the particular security capabilities of electronic voting systems that can be run over the Defense Information Network System (DINS) using Common Access Cards (CAC) with Public Key Infrastructure (PKI) capabilities, and the solution for HSPD 12 implementation.
+
+o	Wounded Warrior Voting Assistance Analysis: In 2010 and into 2011, FVAP conducted a joint program with EAC and the Office of Transition Care and Coordination (OTCC, i.e., "Wounded Warrior") to evaluate the particular voting assistance needs of Wounded Warriors, given their dislocation from the originally assigned units, their frequent duty station transfers, and the unique disabilities suffered. This project tested and evaluated the effectiveness of the two electronic absentee voting systems, the kiosk-based and the remote PC-based systems for disabled military personnel. FVAP will leverage the testing for usability both in benign and threat environments, in order to support the current absentee voting system levels of access, security, privacy, and accountability for wounded, injured, and ill military personnel.
+
+o	Overseas Civilian Demographic Count: UOCAVA requires the Department of Defense report annually on the voter participation of overseas civilian voters. However, it is impossible to estimate that without knowing the size and demographics of the overall overseas civilian population.  Further, the method of delivering voting assistance to these overseas voters will vary significantly based upon their geographic distribution.  To date, estimates of this population have varied widely, with little statistical validity.  Therefore, in 2011, FVAP working with the Department of State, the Department of Treasury, and overseas citizen advocacy groups, developed a multiple data stream collection method which fed both regression and multiple imputation analysis to derive population counts of overseas Americans by country and municipality. 
+
+o	Computer Security Expert Outreach: In FY 10 and FY 11, FVAP engaged the academic community, industry leaders and state and local election officials to determine the best way forward on the electronic absentee voting demonstration project.  As part of this engagement, FVAP hosted a series of UOCAVA Solutions Summit meetings, the most recent in August 2011.  During this meeting, attendees recommended a competition for the development of the demonstration project, which could address the outstanding security questions surrounding the return of voted ballots over the internet.
+</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>27.032</r2:Funding>
+                                            <r2:Text>Based on the results of the research and testing conducted in FY 10 and 11, continue to conduct evaluations, research and testing that will improve the assistance given to military and overseas voters in exercising their right to vote, assist state and local election officials in complying with the requirements of federal law, and in providing equal voting opportunity for military and overseas voters, and advocate for military and overseas voting rights with federal, state and local governments.
+
+o	Electronic Absentee Voting System Evaluation Grants to States: FVAP will award approximately $20 million to States and local election jurisdictions to test various electronic absentee voting support systems, across the range of the absentee voting process (but not to include funding electronic transmission of voted ballots in a live election), for multiple election cycles.  States and local jurisdictions awarded grants will provide extensive data on UOCAVA voter behavior and system performance in order to feed future phases of pilot projects supporting the final demonstration project.  This should have the additional effect of providing UOCAVA voters more opportunities to register to vote, request an absentee ballot, and receive and mark absentee ballots online.  The Department will use FY2012 for a second round of grants, this time focusing on establishing automated and detailed data collection and reporting systems at the State and local level to provide FVAP and the EAC with better, timelier post-election data.
+
+-	Initiate a Multi-Track Electronic Absentee Voting Demonstration Project Plan:  Currently, the EAC is not anticipating final validation of its testable standards for an electronic absentee voting demonstration project until 2014, which won’t support the execution of such a demonstration project until 2016, at the earliest.  In order to accommodate the standards development, procurement and full testing, as well as any remediation discovered along the way, the 2018 general election remains the most likely date for the full conduct of the internet voting demonstration project.  Therefore, the Department will extend its deliverables and activities schedule to reflect 2018 deployments, which require funding through 2017.  Given these delays, and the recent broad community consensus with the open competition approach to developing this demonstration project system, FVAP revisited its prior single-track design and development schedule, and is now pursuing a simultaneous three-track approach:
+
+o	The first track focuses kiosk voting systems, to serve as a monitored test platform where the ballots of record are printed out and delivered to jurisdictions like other absentee ballots, but the same ballot is delivered electronically to the election jurisdiction for comparison to the paper ballot of record.  This will allow the testing of electronic absentee ballot transmission security and reliability in a live election, without threatening the integrity of the election.  In 2014, the pilot effort will be limited to military voters at domestic US locations.  In 2016, the pilot will expand to overseas locations for military voters.  These efforts will test various aspects of conducting a full internet voting demonstration project for 2018.  
+
+o	The second track will use a three phase competition where external stakeholders and industry leaders will be challenged to exceed the Department’s current approach and technical requirements, again to support a 2018 deployment.  This competition will be modeled on similar competitions conducted by NIST and DARPA for cryptological and weapon system development.
+
+o	The third track will continue the Department’s direct efforts, supported by the EAC and NIST, to deploy an electronic absentee voting system in 2016 or 2018 for military voters only, using CAC cards and PKI, on military-protected computers resident on the Defense Information System Network (DISN). 
+
+o	To support this revised plan, a number of projects will be executed in FY 2012, as described below.  Additionally, to the extent possible, FVAP will direct investment, minimum of $2 million in the SBIR (Small Business Investment Research) program.
+
+o	Voting Behavior and Failure Research:  The Department plans on issuing a Broad Agency Announcement in FY2012 detailing the key data and knowledge gaps regarding military and overseas voting (particularly regarding the key causes and extent of voting failure), providing a number of recommended research areas, but also inviting outside experts to propose innovative methods of filling those knowledge and data gaps.
+
+o	Mobile Applications: The Department will design and deploy smartphone and mobile applications to support general voting assistance, voter awareness, and completion of voter registration and absentee ballot forms.
+
+o	Computer Forensic and Software Assurance Tools:  To support future electronic absentee ballot security and reliability requirements, develop tools to improve the Department’s ability to prevent, detect, and mitigate attacks on military and overseas voter systems.  
+
+o	Data Migration Tool:  Given the wide variety of election administration systems in use amongst the 7,200 election jurisdictions, the Department will design and deploy a data migration tool to convert election administration and ballot files into different and common database formats.
+
+o	Improved FVAP Portal: Design and deploy an improved FVAP.gov website that more seamlessly links voters to State and local jurisdiction voting systems, provides easier and more intuitive access to voter information such as local election official or Voting Assistance Officer contact information, provides FVAP-developed data in API format for public use, and more logically links the various voter assistance systems provided by FVAP, to each other.
+
+o	Improved Voter Registration and Back-Up Ballot Wizards:  The Department will improve the FPCA and FWAB wizards deployed in 2010, to improve candidate database reliability, provide States the ability to upload candidate data directly, to increase candidate data to Statewide races as well as federal races, and to migrate the entire system to the overall Portal server.
+
+o	Military Address Lookup Tool: Given election officials problems with undeliverable ballots and old military addresses, FVAP will work to develop a State election official accessible system for military voter address verification and correction.
+
+o	Additional Evaluation of all FVAP Programs: The Department will conduct rigorous evaluations of voter assistance programs including the usefulness of currently drafted documents and forms, effectiveness of the grant programs, online wizards, FVAP.gov portal hosting security and reliability, local election official and voting assistance officer databases, API architecture, data migration tools, and the knowledge management methods presented to voters and election officials on the FVAP.gov portal.
+</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>9.692</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>9.692</r2:Funding>
+                                            <r2:Text>Given the agile planning and deployment flexibilities required in as dynamic a RDT&amp;E environment as internet voting, the FY 2013 execution plan will be significantly influenced by the results of the FY2011 and FY2012 research, development, and evaluation results.  However, current plans are to initiate the first two phases of the internet voting demonstration competition challenge:
+
+o	Phase I of Internet Voting Competition Challenge:  In the first phase submissions will focus on defining security, reliability, usability, and accountability requirements for internet voting systems. Submissions will be open to the public, and will be open to public critique. FVAP will review those submissions and critiques, and then consolidate them into a single set of requirements for Phase II. 
+
+o	Phase II of Internet Voting Competition Challenge:  In this phase, submission will provide high level designs and detailed hardware and software architectures, along with procedures necessary for secure operation. Submissions will be sufficiently detailed so that a reasonably skilled information technologist could implement the system to allow for broader peer review.  However, many details such as user interfaces and database layouts will be likely be undefined. As with the first phase, submissions will be open for critique. In this phase critiques will focus on identifying areas where designs do not meet the requirements defined in the first phase. The result may be modification of architectures to incorporate ideas from several teams. At the conclusion of this phase, the Department will narrow down the set of acceptable architectures. 
+
+o	Conformance Testing to EAC Pilot Program Requirements for Kiosk Systems Used in a 2014 Election: To support the testing of internet voting systems from monitored kiosk test platform (where the ballots of record are printed out and delivered to jurisdictions like other absentee ballots, but the same ballot is delivered electronically to the election jurisdiction for comparison to the paper ballot of record), the Department will test conformance of selected systems to the EAC Pilot Program Testing Requirements.  Again, in 2014, the pilot effort will be limited to military voters at domestic US locations.  
+</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy> NOT REQUIRED</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>The project is the development , testing and deployment of an internet-based  voter registration, ballot delivery and voting system that integrates the requirements of the electronic absentee voting guidelines.</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 5</r2:ProjectNumber>
+                        <r2:ProjectTitle>Human Resources Automation Enhancements</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>8.855</r2:PriorYear>
+                            <r2:CurrentYear>6.772</r2:CurrentYear>
+                            <r2:BudgetYearOne>1.312</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>1.312</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>2.831</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>2.833</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>1.868</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>2.873</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>DCPDS is the Department's enterprise civilian HR system that has provided the savings originally projected in the achievement of full operational capability in 2002 and which has continued to operate as the system serving over 800,000 civilian employee records. Initiatives will focus on legislative requirements, and support of presidential, OMB and OPM initiatives, including HR LoB. Enhancements will focus on additional interfaces to more fully integrate HR automated systems and once
+requirements are received the development and deployment of a new automated performance appraisal system.  Civilian HR automation enhancements planned for FY 2012 and FY 2013 are focused on software development of legislative requirements to support the Department's civilian workforce, including modernization of the hiring and staffing process, deployment of the OPM electronic official personnel folder system, deployment of the case management tracking system, ongoing work in the area of competency management, and the development of additional interfaces between the Defense Civilian Personnel Data System (DCPDS) and other civilian HR systems to fully integrate the automated support capabilities of the environment. DoD is one of five designated Shared Service Centers in the federal government focused on providing standard services across agency lines, gaining potential significant business and costsaving benefits. DoD is considered a leader in this initiative. Development of the automation to support a new Performance Management System is planned for the
+Department.
+</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title> Human Resources Automation Enhancements </r2:Title>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>8.855</r2:Funding>
+                                            <r2:Text>Interfaces developed to support link with DCPDS; development of enhancements to support legislative requirements; information assurance enhancements developed to comply with mandated DoD requirements to align with DMZ extension for all DoD systems.</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>6.772</r2:Funding>
+                                            <r2:Text>Phase III of DMZ extension to comply with DoD mandated DMZ extension requirements for all systems; enhancements to comply with legislative and DoD requirements; HR LoB initiatives, including modification to eOPF interface, Retirement Systems Modernization (RSM) IAW OPM mandates. Development of improvements, interfaces, and support of the Defense Enterprise
+Hiring Solution to comply with mandated changes in hiring practices federal-wide.</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>1.312</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>1.312</r2:Funding>
+                                            <r2:Text>Continued enhancement and compliance with information assurance requirements, including DMZ extension requirements; DCPDS and other systems development to ensure compliance with legislative, OPM and OMB mandates; continued system enhancements to support HR LoB initiatives, including eOPF, RSM and related federal-wide initiatives.</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 6</r2:ProjectNumber>
+                        <r2:ProjectTitle>Sexual Assault Prevention and Response Office</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>6.964</r2:PriorYear>
+                            <r2:CurrentYear>4.980</r2:CurrentYear>
+                            <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Department of Defense Human Resources Activity (DHRA) is a DoD-wide Field Activity chartered to support the Under Secretary of Defense for Personnel and Readiness (USD (P&amp;R)). 
+
+The integrated DoD SAPR Data Collection and Reporting System (Defense Sexual Assault Incident Database (DSAID)) must accommodate a variety of uses, including the tracking of sexual assault victim support services, support SAPR program administration, program reporting requirements, and data analysis. In order to facilitate analysis at the OSD level, the System should be able to easily export data for analysis in computerized statistical applications, such as Statistical Package for the Social Sciences (SPSS). Service field-level users may use the system to track support to victims of sexual assault throughout the lifecycle of that support requirement and to facilitate sexual assault case transfer between SARCs and Services. Service headquarters-level users will use the system to support program planning, analysis, and management. DoD SAPR Office (SAPRO) users and Service headquarters-level users will access the system to produce mandated and requested reports, monitor program effectiveness and support cohort and trend analysis. The Defense Sexual Assault Incident Database (DSAID) will support SAPR programs for all active duty and Reserve personnel, including National Guard (NG) Service members when on active duty or when performing active service and inactive duty training (as defined in Section (101)(d)(3) of Chapter 47 of title 10, United States Code) with the ability to expand to cover other DoD personnel as required. Additionally, system implementation at the state level will provide a new capability to manage SAPR programs for National Guard personnel under Title 32 USC. Implementation of this capability will be based on a state NG structure grouped according to state and subdivided into sexual assaults from the separate Army and Air National Guard.  Full Deployment and Delivery (FDD) is scheduled for Q4 FY2012 as a result additional RDT&amp;E funding will not be required after FY2012.
+ 
+</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Sexual Assault Prevention and Response Office</r2:Title>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>6.964</r2:Funding>
+                                            <r2:Text>• Continued development of DSAID with an expected Full Deployment and Delivery (FDD) in August 2012.	</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>4.980</r2:Funding>
+                                            <r2:Text>• Continued development of DSAID with an expected Full Deployment and Delivery (FDD) in August 2012.</r2:Text>
+                                        </r2:CurrentYear>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>Contract Type: Firm-Fixed, Period of Performance: 12 month Base Year Plus 4 Option Years; Planned award date 16 April 2010; Number of Awards: Single; Use of Commercial Procedures (FAR Part 12); Estimated value including all options $20,000,000.00.</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>In FY 2010 Q3-Q4 activities will include the initiation of development of DSAID, with further developments in FY2011 and FY2012</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 7</r2:ProjectNumber>
+                        <r2:ProjectTitle>Global Force Mgmt Data Initiative</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>1.396</r2:CurrentYear>
+                            <r2:BudgetYearOne>0.608</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.608</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>Defense Manpower Data Center (DMDC) acts as the authoritative source for identity and personnel information for the DoD Net Centric Enterprise Computing vision of the Department of Defense’s Global Information Grid (GIG 2.0). Based on the DEERS identities, DMDC provides the key attribute service for the Department of Defense (DoD) Identity and Access Management (IdAM) Capability. The Enterprise Identity Attribute Service (EIAS) supports IdAM through the distribution of DoD person and personnel attributes to applications and services in a controlled, consistent, and secure manner to support ABAC decisions. The controlled, authoritative information provided via EIAS can be used to confirm an individual’s identity, affiliation to the DoD, clearance, pay grade/rank, organization and occupation series for an authorization decision. A key attribute for decision makers is organization. The Global Force Management Data Initiative (GFM_DI) provides the unique organization identifier (OUID) in the EIAS payload. To meet the DoD demand for the OUID, DMDC working with J8 and the Service/Agencies has to 1) establish the linkage between a person (EDI_PI) and the OUID, 2) provide the OUID attribute in the EIAS payload for access decisions, and 3) standardize the organizational attributes required to make access decisions.</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Global Force Mgmt Data Initiative (GFMDI)</r2:Title>
+                                    <r2:Description>N/A</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>0.000</r2:Funding>
+                                            <r2:Text>N/A</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>1.396</r2:Funding>
+                                            <r2:Text> Create a pilot to:
+• Establish a web service between DEERS and Component’s personnel Systems to support the EDIPI to SSN links
+• Facilitate Component’s ability to expose their Organizational Hierarchies for usage by the IdAM community
+• Provide web services to support development of an Enterprise organization attribute service for DoD which supports Secure Data Access
+</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>0.608</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>0.608</r2:Funding>
+                                            <r2:Text>• Continue to establish a web service between DEERS and Component’s personnel Systems to support the EDIPI to SSN links
+• Continue to facilitate Component’s ability to expose their Organizational Hierarchies for usage by the IdAM community
+• Continue to standardize the web services to support an Enterprise organization attribute service for DoD which promotes Secure Data Access
+</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>Existing contract vehicles in place/GSA for COTS. </r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 8</r2:ProjectNumber>
+                        <r2:ProjectTitle>NEO Tracking System</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>0.761</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.761</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>0.759</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>0.629</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>0.758</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Neo Tracking System (NTS) / Electronic Tracking Accountability System (ETAS) is a certified and accredited DoD automated system that accounts for, and sustains visibility of noncombatant evacuees during a NEO under the authority of DODD 1000.25, DoD Personnel Identity Protection (PIP) Program. NTS is currently being used in the USAFRICOM, USCENTCOM, USEUCOM, USSOUTHCOM, and USPACOM AORs. The ETAS component is the CONUS domestic version of NTS and is for use by USNORTHCOM during disasters in the CONUS whether natural, accidental, or acts of terrorism. The primary purpose of the NTS/ETAS is to provide individual accountability of the evacuee by creating and maintaining a database of evacuees assembled during an evacuation operation and subsequently tracking the evacuees’ movement through the evacuation process.</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>NEO Tracking System (NTS)</r2:Title>
+                                    <r2:PlannedProgram>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>0.761</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>0.761</r2:Funding>
+                                            <r2:Text>• Convert the NTS program to a mobile application package that can be run on tablets and smart phones
+• Streamline the distribution of NTS images, reducing not only the costs associated with the creation of an image, but also the time associated with receiving the image in the field
+</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>Existing contract vehicles in place/GSA for COTS. </r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                    <r2:Project>
+                        <r2:ProjectNumber>Project 9</r2:ProjectNumber>
+                        <r2:ProjectTitle>Synchronized Pre-deployment &amp; Operational Tracker Enterprise Suite</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>2.937</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>2.937</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>2.937</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>1.926</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>1.927</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>1.932</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Synchronized Pre-deployment and Operational Tracker Enterprise Suite (SPOT-ES) is the Department of Defense (DoD) system of record for accountability and visibility of contracts and contractor personnel authorized to operate in a contingency operation.  SPOT-ES provides web based tracking and visibility into contract services, personnel and equipment locations; provides a common operational picture for Combatant Commanders; enhances the analytical tools to accurately plan for the quantity of contracted support required for future contingency operations; and collects accurate data for the OMB-directed quarterly census of all contractors supporting contingency operations.  
+</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>The Synchronized Pre-deployment and Operational Tracker</r2:Title>
+                                    <r2:PlannedProgram>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>2.937</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>2.937</r2:Funding>
+                                            <r2:Text>.  Continue to be the system of record for accountability and
+visibility of contracts and contractor personnel in support of the CENTCOM
+Area of Responsibility and other contingencies around the world.  
+.  Continue to provide the only DoS, DoD, and USAID sanctioned
+Letter of Authorization (LOA) which provides the Government Furnished
+Services to contractor personnel.  
+.  Provide the information on contractor personnel supporting Iraq
+and Afghanistan to the Office of the Secretary of Defense for reports to
+Congress.
+.  Provide the number of contractor personnel and contract
+capability to Combatant Commands for operational planning purposes and to
+aid in their decision making processes.
+</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                    </r2:Project>
+                </r2:ProjectList>
+            </r2:ProgramElement>
+        </r2:R2Exhibit>
+    </r2:R2ExhibitList>
+</jb:JustificationBook>

@@ -1,0 +1,924 @@
+{
+    "id": "a1b551729520fcc356ed2849ff54dfc6319bfbbd",
+    "meta": {
+        "filename": "dod-2015_PROCUREMENT_2015_ARMY_OTHER_2_PROCUREMENT_JustificationBook_Army_PB_2015.zzz_unzipped_PROCUREMENT_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2035A",
+        "appropriation_name": "Other Procurement, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Monthly",
+        "LineItemNumber": {
+            "val": "B55510"
+        },
+        "LineItemTitle": {
+            "val": "Tactical Communications And Protective System"
+        },
+        "P1LineNumber": {
+            "val": "41"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2035A"
+        },
+        "AppropriationTitle": {
+            "val": "Other Procurement, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Communications and Electronics Equipment"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "32"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Comm - Combat Communications"
+        },
+        "ResourceSummary": {
+            "Quantity": {
+                "PriorYear": {
+                    "val": "4040"
+                },
+                "CurrentYear": {
+                    "val": "10972"
+                },
+                "BudgetYearOneBase": {
+                    "val": "8344"
+                },
+                "BudgetYearOne": {
+                    "val": "8344"
+                },
+                "BudgetYearTwo": {
+                    "val": "7376"
+                },
+                "BudgetYearThree": {
+                    "val": "6324"
+                },
+                "BudgetYearFour": {
+                    "val": "6324"
+                },
+                "BudgetYearFive": {
+                    "val": "6324"
+                }
+            },
+            "TotalCost": {
+                "PriorYear": {
+                    "val": "12.984"
+                },
+                "CurrentYear": {
+                    "val": "31.868"
+                },
+                "BudgetYearOneBase": {
+                    "val": "24.354"
+                },
+                "BudgetYearOne": {
+                    "val": "24.354"
+                },
+                "BudgetYearTwo": {
+                    "val": "21.809"
+                },
+                "BudgetYearThree": {
+                    "val": "20.176"
+                },
+                "BudgetYearFour": {
+                    "val": "20.462"
+                },
+                "BudgetYearFive": {
+                    "val": "20.867"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "UnitCost": {
+                "PriorYear": {
+                    "val": "3.214"
+                },
+                "CurrentYear": {
+                    "val": "2.904"
+                },
+                "BudgetYearOneBase": {
+                    "val": "2.919"
+                },
+                "BudgetYearOne": {
+                    "val": "2.919"
+                },
+                "BudgetYearTwo": {
+                    "val": "2.957"
+                },
+                "BudgetYearThree": {
+                    "val": "3.19"
+                },
+                "BudgetYearFour": {
+                    "val": "3.236"
+                },
+                "BudgetYearFive": {
+                    "val": "3.3"
+                }
+            },
+            "NetProcurementP1": {
+                "PriorYear": {
+                    "val": "12.984"
+                },
+                "CurrentYear": {
+                    "val": "31.868"
+                },
+                "BudgetYearOneBase": {
+                    "val": "24.354"
+                },
+                "BudgetYearOne": {
+                    "val": "24.354"
+                },
+                "BudgetYearTwo": {
+                    "val": "21.809"
+                },
+                "BudgetYearThree": {
+                    "val": "20.176"
+                },
+                "BudgetYearFour": {
+                    "val": "20.462"
+                },
+                "BudgetYearFive": {
+                    "val": "20.867"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "PriorYear": {
+                    "val": "12.984"
+                },
+                "CurrentYear": {
+                    "val": "31.868"
+                },
+                "BudgetYearOneBase": {
+                    "val": "24.354"
+                },
+                "BudgetYearOne": {
+                    "val": "24.354"
+                },
+                "BudgetYearTwo": {
+                    "val": "21.809"
+                },
+                "BudgetYearThree": {
+                    "val": "20.176"
+                },
+                "BudgetYearFour": {
+                    "val": "20.462"
+                },
+                "BudgetYearFive": {
+                    "val": "20.867"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "Quantity": {
+                                "PriorYear": {
+                                    "val": "4040"
+                                },
+                                "CurrentYear": {
+                                    "val": "10972"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "6324"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "6324"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "7376"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "6324"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "6324"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "6324"
+                                }
+                            },
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "12.984"
+                                },
+                                "CurrentYear": {
+                                    "val": "31.868"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "19.916"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "19.916"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "21.809"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "20.176"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "20.462"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "20.867"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army National Guard"
+                        },
+                        "Cost": {
+                            "Quantity": {
+                                "BudgetYearOneBase": {
+                                    "val": "2020"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "2020"
+                                }
+                            },
+                            "TotalCost": {
+                                "BudgetYearOneBase": {
+                                    "val": "4.438"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "4.438"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "Quantity": {
+                    "PriorYear": {
+                        "val": "4040"
+                    },
+                    "CurrentYear": {
+                        "val": "10972"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "8344"
+                    },
+                    "BudgetYearOne": {
+                        "val": "8344"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "7376"
+                    },
+                    "BudgetYearThree": {
+                        "val": "6324"
+                    },
+                    "BudgetYearFour": {
+                        "val": "6324"
+                    },
+                    "BudgetYearFive": {
+                        "val": "6324"
+                    }
+                },
+                "TotalCost": {
+                    "PriorYear": {
+                        "val": "12.984"
+                    },
+                    "CurrentYear": {
+                        "val": "31.868"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "24.354"
+                    },
+                    "BudgetYearOne": {
+                        "val": "24.354"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "21.809"
+                    },
+                    "BudgetYearThree": {
+                        "val": "20.176"
+                    },
+                    "BudgetYearFour": {
+                        "val": "20.462"
+                    },
+                    "BudgetYearFive": {
+                        "val": "20.867"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "The Tactical Communications and Protective System (TCAPS) provides Soldiers with advanced, active hearing protection that simultaneously protects Soldiers' hearing while enabling situational awareness and mission command. TCAPS protects Soldiers against harmful impulse and steady-state noises characteristic of combat environments while enabling Soldiers to communicate\nwith each other using voice communications or over a tactical radio. TCAPS also enhances survivability and situational awareness by allowing Soldiers to selectively amplify faint sounds that would not be otherwise audible. \n\nBy reducing noise-induced hearing damage, TCAPS contributes to the reduction of post-service disability compensation and limits lost in-service time related to hearing injury. TCAPS will employ commercial-off-the-shelf (COTS) solution(s)."
+        },
+        "Justification": {
+            "val": "FY 2015 base procurement dollars in the amount of $24.354 million procures commercial off the shelf Tactical Communications and Protective Systems. \n\nThe General Accounting Office (GAO) Report 11-114 states that the Veterans Administration purchased 382,000 hearing assistive devices at an estimated expenditure of $154 million in FY2008 and provided annual disability payments in excess of $1.1 billion in FY2009. Hearing injuries will be avoided only if Soldiers wear hearing protection. Historically Soldiers have had to choose between hearing protection and auditory situational awareness. TCAPS prevents hearing injury while enabling command, control and situational awareness.\n\n\"In accordance with Section 1815 of the FY 2008 National Defense Authorization Act (P.L. 110-181), this item is necessary for use by the active and reserve components of the Armed Forces for homeland defense missions, domestic emergency responses, and providing military support to civil authorities.\""
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "Tactical Communications And Protective System"
+                    },
+                    "ItemNumber": {
+                        "val": "B55510"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "Quantity": {
+                                            "PriorYear": {
+                                                "val": "4040"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "10972"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "6324"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "6324"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "12.984"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "31.868"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "19.916"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "19.916"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army National Guard"
+                                    },
+                                    "Cost": {
+                                        "Quantity": {
+                                            "BudgetYearOneBase": {
+                                                "val": "2020"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "2020"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "4.438"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "4.438"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "Quantity": {
+                            "PriorYear": {
+                                "val": "4040"
+                            },
+                            "CurrentYear": {
+                                "val": "10972"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "8344"
+                            },
+                            "BudgetYearOne": {
+                                "val": "8344"
+                            }
+                        },
+                        "TotalCost": {
+                            "PriorYear": {
+                                "val": "12.984"
+                            },
+                            "CurrentYear": {
+                                "val": "31.868"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "24.354"
+                            },
+                            "BudgetYearOne": {
+                                "val": "24.354"
+                            }
+                        },
+                        "UnitCost": {
+                            "PriorYear": {
+                                "val": "3.214"
+                            },
+                            "CurrentYear": {
+                                "val": "2.904"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "2.919"
+                            },
+                            "BudgetYearOne": {
+                                "val": "2.919"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "PriorYear": {
+                                "val": "12.984"
+                            },
+                            "CurrentYear": {
+                                "val": "31.868"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "24.354"
+                            },
+                            "BudgetYearOne": {
+                                "val": "24.354"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "PriorYear": {
+                                "val": "12.984"
+                            },
+                            "CurrentYear": {
+                                "val": "31.868"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "24.354"
+                            },
+                            "BudgetYearOne": {
+                                "val": "24.354"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Hardware": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "TCAPS Hardware (COMPO) 1"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "PriorYear": {
+                                                            "val": "4040"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "10972"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "6324"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "6324"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "PriorYear": {
+                                                            "val": "9.168"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "23.63"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "13.267"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "13.267"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "PriorYear": {
+                                                            "val": "2.269"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "2.154"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "2.098"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "2.098"
+                                                        }
+                                                    }
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "DLA Troop Support"
+                                                            },
+                                                            "Location": {
+                                                                "val": "PA"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2013"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "Philadelphia"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2013-09"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2013-12"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "4040"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "2.269"
+                                                                        },
+                                                                        "FundingVehicle": {
+                                                                            "val": "MIPR"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2014"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "Philadelphia"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2014-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2014-05"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "10972"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "2.154"
+                                                                        },
+                                                                        "FundingVehicle": {
+                                                                            "val": "MIPR"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        },
+                                                        {
+                                                            "Name": {
+                                                                "val": "TBD"
+                                                            },
+                                                            "Location": {
+                                                                "val": "TBD"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2015"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "APG"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2015-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2015-05"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "6324"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "2.098"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Sys\/Eng Prgm Mgmt (COMPO) 1"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "PriorYear": {
+                                                            "val": "1.524"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "2.138"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "1.464"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "1.464"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "System Fielding & Support (COMPO) 1"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "PriorYear": {
+                                                            "val": "2.292"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "6.1"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "3.727"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "3.727"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "TCAPS Hardware (COMPO) 2"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "2020"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "2020"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "4.238"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "4.238"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "2.098"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "2.098"
+                                                        }
+                                                    }
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "TBD"
+                                                            },
+                                                            "Location": {
+                                                                "val": "TBD"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2015"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "APG"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2015-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2015-05"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "2020"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "2.098"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Sys\/Eng Prgm Mgmt (COMPO) 2"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "0.467"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "0.467"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "System Fielding & Support (COMPO) 2"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "1.191"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "1.191"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "12.983"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "31.872"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "24.355"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "24.355"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "PriorYear": {
+                                            "val": "12.983"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "31.872"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "24.355"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "24.355"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "OverallHistoryPlanningRemarks": {
+                        "val": "P21 is not required. This program procures commercial off the shelf Tactical Communications and Protective Systems.\n\nActual quantities procured for FY13 and current planned quantities for FY14 update the unit costs for FY13 and FY14 to the following:\n\nHQDA G3\/5\/7 to determine fielding QTY for (COMPO)1 and (COMPO)2"
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "expandItemSuppressExhibit"
+            }
+        }
+    }
+}

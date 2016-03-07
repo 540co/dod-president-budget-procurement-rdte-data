@@ -1,0 +1,981 @@
+{
+    "id": "5401ff724ee7bd9d16e6c234c1ef022c926fb8eb",
+    "meta": {
+        "filename": "dod-2015_PROCUREMENT_2015_NAVY_WEAPONS_PROCUREMENT_JustificationBook_Navy_PB_2015.zzz_unzipped_PROCUREMENT_JustificationBook_Navy_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1507N",
+        "appropriation_name": "Weapons Procurement, Navy"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Yearly",
+        "LineItemNumber": {
+            "val": "2234"
+        },
+        "LineItemTitle": {
+            "val": "Standard Missile"
+        },
+        "P1LineNumber": {
+            "val": "7"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationNumber": {
+            "val": "1507N"
+        },
+        "AppropriationTitle": {
+            "val": "Weapons Procurement, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Other Missiles"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "2"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Tactical Missiles"
+        },
+        "ResourceSummary": {
+            "Quantity": {
+                "AllPriorYears": {
+                    "val": "11390"
+                },
+                "PriorYear": {
+                    "val": "89"
+                },
+                "CurrentYear": {
+                    "val": "81"
+                },
+                "BudgetYearOneBase": {
+                    "val": "110"
+                },
+                "BudgetYearOne": {
+                    "val": "110"
+                },
+                "BudgetYearTwo": {
+                    "val": "125"
+                },
+                "BudgetYearThree": {
+                    "val": "125"
+                },
+                "BudgetYearFour": {
+                    "val": "125"
+                },
+                "BudgetYearFive": {
+                    "val": "125"
+                },
+                "ToComplete": {
+                    "val": "842"
+                },
+                "Total": {
+                    "val": "13012"
+                }
+            },
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "9229.337"
+                },
+                "PriorYear": {
+                    "val": "332.535"
+                },
+                "CurrentYear": {
+                    "val": "367.985"
+                },
+                "BudgetYearOneBase": {
+                    "val": "445.836"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "445.836"
+                },
+                "BudgetYearTwo": {
+                    "val": "514.449"
+                },
+                "BudgetYearThree": {
+                    "val": "536.617"
+                },
+                "BudgetYearFour": {
+                    "val": "584.833"
+                },
+                "BudgetYearFive": {
+                    "val": "598.848"
+                },
+                "ToComplete": {
+                    "val": "4681.676"
+                },
+                "Total": {
+                    "val": "17292.116"
+                }
+            },
+            "UnitCost": {
+                "AllPriorYears": {
+                    "val": "810.302"
+                },
+                "PriorYear": {
+                    "val": "3736.348"
+                },
+                "CurrentYear": {
+                    "val": "4543.025"
+                },
+                "BudgetYearOneBase": {
+                    "val": "4053.055"
+                },
+                "BudgetYearOne": {
+                    "val": "4053.055"
+                },
+                "BudgetYearTwo": {
+                    "val": "4115.592"
+                },
+                "BudgetYearThree": {
+                    "val": "4292.936"
+                },
+                "BudgetYearFour": {
+                    "val": "4678.664"
+                },
+                "BudgetYearFive": {
+                    "val": "4790.784"
+                },
+                "ToComplete": {
+                    "val": "5560.185"
+                },
+                "Total": {
+                    "val": "1328.936"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "9229.337"
+                },
+                "PriorYear": {
+                    "val": "332.535"
+                },
+                "CurrentYear": {
+                    "val": "367.985"
+                },
+                "BudgetYearOneBase": {
+                    "val": "445.836"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "445.836"
+                },
+                "BudgetYearTwo": {
+                    "val": "514.449"
+                },
+                "BudgetYearThree": {
+                    "val": "536.617"
+                },
+                "BudgetYearFour": {
+                    "val": "584.833"
+                },
+                "BudgetYearFive": {
+                    "val": "598.848"
+                },
+                "ToComplete": {
+                    "val": "4681.676"
+                },
+                "Total": {
+                    "val": "17292.116"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "9229.337"
+                },
+                "PriorYear": {
+                    "val": "332.535"
+                },
+                "CurrentYear": {
+                    "val": "367.985"
+                },
+                "BudgetYearOneBase": {
+                    "val": "445.836"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "445.836"
+                },
+                "BudgetYearTwo": {
+                    "val": "514.449"
+                },
+                "BudgetYearThree": {
+                    "val": "536.617"
+                },
+                "BudgetYearFour": {
+                    "val": "584.833"
+                },
+                "BudgetYearFive": {
+                    "val": "598.848"
+                },
+                "ToComplete": {
+                    "val": "4681.676"
+                },
+                "Total": {
+                    "val": "17292.116"
+                }
+            }
+        },
+        "Code": {
+            "val": "A"
+        },
+        "Description": {
+            "val": "The SM-6 Block I provides an extended range engagement capability to provide the air superiority and the umbrella of protection for joint U.S. forces and allies against the full spectrum of manned-fixed and rotary-winged aircraft, unmanned aerial vehicles, and land attack and anti-ship cruise missiles in flight. This capability contributes significantly to the continuous protection of forward deployed ground maneuver forces as well as theater rear assets.  The SM-6 is the primary air defense weapon for AEGIS cruisers and destroyers and potentially future combatants.\n\n[P5 \/ FE002 SM-6 Block IA ECP]: Production cut-in decision for the Engineering Change Proposal (ECP) for the SM-6 Block IA configuration is planned for FY2014.  The ECP cost line shown here is additional cost required to implement the ECP and procure the maximum number of SM-6 Block IA rounds, limited by maximum production rate.  The Navy will procure SM-6 Block I and SM-6 Block IA missiles, not to exceed the quantities shown here.  The Cost Element 1.1.1 (FE002 SM-6 Block I All Up Round) combined with 1.1.3 (FE002 SM-6 Block IA ECP) recurring hardware cost procures both configurations of SM-6, pending the ECP production cut-in decision.  The SM-6 Block IA ECP is expected to be at FRP procurement rates starting in FY 2018."
+        },
+        "Justification": {
+            "val": "SM-6 has been rephased to better align with the combat systems upgrades to Destroyers and Cruisers via ACB-12.  Funding increase between FY14 and FY15 is attributed to the increase in quantities being procured in FY15."
+        },
+        "MDAPCode": {
+            "val": "000"
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "STANDARD MISSILE"
+                    },
+                    "ItemNumber": {
+                        "val": "1"
+                    },
+                    "Remarks": {
+                        "val": "[Support Cost] Support costs pay for efforts that support the completion of newly produced SM-6 All Up Round (AUR) missiles in BLI 2234, and common STANDARD Missile items\/efforts. These support costs are non-severable. SM-6 support costs include unique SM-6 support items\/efforts as identified in the Navy Service Cost Estimate."
+                    },
+                    "ResourceSummary": {
+                        "Quantity": {
+                            "AllPriorYears": {
+                                "val": "11390"
+                            },
+                            "PriorYear": {
+                                "val": "89"
+                            },
+                            "CurrentYear": {
+                                "val": "81"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "110"
+                            },
+                            "BudgetYearOne": {
+                                "val": "110"
+                            }
+                        },
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "9229.337"
+                            },
+                            "PriorYear": {
+                                "val": "332.535"
+                            },
+                            "CurrentYear": {
+                                "val": "367.985"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "445.836"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0.000"
+                            },
+                            "BudgetYearOne": {
+                                "val": "445.836"
+                            }
+                        },
+                        "UnitCost": {
+                            "AllPriorYears": {
+                                "val": "810.302"
+                            },
+                            "PriorYear": {
+                                "val": "3736.348"
+                            },
+                            "CurrentYear": {
+                                "val": "4543.025"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "4053.055"
+                            },
+                            "BudgetYearOne": {
+                                "val": "4053.055"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "9229.337"
+                            },
+                            "PriorYear": {
+                                "val": "332.535"
+                            },
+                            "CurrentYear": {
+                                "val": "367.985"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "445.836"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0.000"
+                            },
+                            "BudgetYearOne": {
+                                "val": "445.836"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "9229.337"
+                            },
+                            "PriorYear": {
+                                "val": "332.535"
+                            },
+                            "CurrentYear": {
+                                "val": "367.985"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "445.836"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0.000"
+                            },
+                            "BudgetYearOne": {
+                                "val": "445.836"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Hardware": [
+                            {
+                                "Name": {
+                                    "val": "SM-6"
+                                },
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "1.1.1) FE002 SM-6 Block I All Up Round missile"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "178"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "89"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "81"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "110"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "110"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "633.36"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "245.867"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "262.589"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "324.158"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "324.158"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "3558.202"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "2762.551"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "3241.84"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "2946.891"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "2946.891"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "1.1.2) FE002 Canister - SM-6 Block I (Mk 21 Mod 3)"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "178"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "89"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "81"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "110"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "110"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "49.226"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "18.791"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "19.855"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "24.623"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "24.623"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "276.551"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "211.135"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "245.123"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "223.845"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "223.845"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "@footnote": "Production cut-in decision for the Engineering Change Proposal (ECP) for the SM-6 Block IA configuration is planned for FY2014.  The ECP cost line shown here is additional cost required to implement the ECP and procure the maximum number of SM-6 Block IA rounds, limited by maximum production rate.  The Navy will procure SM-6 Block I and SM-6 Block IA missiles, not to exceed the quantities shown here.",
+                                                    "val": "1.1.3) FE002 SM-6 Block IA ECP"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "CurrentYear": {
+                                                            "val": "46.4"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "56.796"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "56.796"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "682.586"
+                                            },
+                                            "PriorYear": {
+                                                "val": "264.658"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "328.844"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "405.577"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "405.577"
+                                            }
+                                        }
+                                    }
+                                },
+                                "NonRecurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "1.2.1) FE002 Production Start Up"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "28.102"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "28.102"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "710.688"
+                                        },
+                                        "PriorYear": {
+                                            "val": "264.658"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "328.844"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "405.577"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "405.577"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Name": {
+                                    "val": "SM-2"
+                                },
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "2.1.1) FE001 SM-2 BLK IIIB All Up Round Missile"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "11212"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "7648.878"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "682.205"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "2.1.2) FE001 Type I Canister - SM-2 BLK IIIB (Mk-13)"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "42"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "17.609"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "419.262"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "7666.487"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "7666.487"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Name": {
+                                    "val": "SM-2 Blk IV"
+                                },
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "3.1.1) FE003 SM-2 Block IV"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "478.2"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "478.2"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "478.2"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "Support": [
+                            {
+                                "CostElementList": {
+                                    "CostElement": [
+                                        {
+                                            "Name": {
+                                                "val": "4.1) FE831 Production Engineering\/Support"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "46.957"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "23.77"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "23.74"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "24.191"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "24.191"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "@footnote": "All funding for obsolescense requirements under FE851 Component Improvement are reflected in FE851 Diminishing Manufacturing Sources (DMS).",
+                                                "val": "4.2) FE851 Component Improvement"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "4.3) FE851 Diminishing Manufacturing Sources (DMS)"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "7.332"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "40.468"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "11.684"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "11.12"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "11.12"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "4.4) FE951 Tools and Test Equipment"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "13.968"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "4.5) FE958 Containers"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "0.541"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "0.19"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "0.202"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.216"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.216"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "4.6) FE981 ILS\/Fleet Documentation"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "2.765"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "0.536"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "0.547"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.699"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.699"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "4.7) FE971 Install\/Checkout Equip\/Training Material"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "20.541"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "2.913"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "2.968"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "4.033"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "4.033"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "92.104"
+                                        },
+                                        "PriorYear": {
+                                            "val": "67.877"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "39.141"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "40.259"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "40.259"
+                                        }
+                                    }
+                                },
+                                "Name": {
+                                    "val": "SM-6 Cost"
+                                }
+                            },
+                            {
+                                "CostElementList": {
+                                    "CostElement": [
+                                        {
+                                            "Name": {
+                                                "val": "5.1) FE830 Production Engineering\/Support"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "144.144"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "5.2) FE850 Component Improvement"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "32.341"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "5.3) FE950 Tools and Test Equipment"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "43.646"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "5.4) FE957 Containers"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "1.137"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "5.5) FE970 Install\/Checkout Equip\/Training Material"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "50.77"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "5.6) FE980 ILS\/Fleet Documentation"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "8.717"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "280.755"
+                                        }
+                                    }
+                                },
+                                "Name": {
+                                    "val": "SM-2"
+                                }
+                            },
+                            {
+                                "CostElementList": {
+                                    "CostElement": [
+                                        {
+                                            "Name": {
+                                                "val": "6.1) WAXXX Acquisition Workforce Fund - 2009"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "1.103"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "1.103"
+                                        }
+                                    }
+                                },
+                                "Name": {
+                                    "val": "Other"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "total"
+            }
+        }
+    }
+}

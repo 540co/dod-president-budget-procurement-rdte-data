@@ -1,0 +1,359 @@
+{
+    "id": "f14040ba43c3e57828c5f2b59a685e5caa52849e",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_NAVY_BA5_RDTE_JustificationBook_Navy_PB_2015.zzz_unzipped_RDTE_JustificationBook_Navy_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1319",
+        "appropriation_name": "Research, Development, Test & Evaluation, Navy"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0604518N"
+        },
+        "ProgramElementTitle": {
+            "val": "Combat Information Center Conv"
+        },
+        "R1LineNumber": {
+            "val": "117"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationCode": {
+            "val": "1319"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "48.463"
+            },
+            "PriorYear": {
+                "val": "0.817"
+            },
+            "CurrentYear": {
+                "val": "0.000"
+            },
+            "BudgetYearOne": {
+                "val": "0.000"
+            },
+            "BudgetYearOneBase": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "0.000"
+            },
+            "BudgetYearThree": {
+                "val": "0.000"
+            },
+            "BudgetYearFour": {
+                "val": "0.000"
+            },
+            "BudgetYearFive": {
+                "val": "0.000"
+            },
+            "CostToComplete": {
+                "val": "0.000"
+            },
+            "TotalCost": {
+                "val": "49.280"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The objective of this Program Element (PE), under Project 3094, is to provide capabilities to shorten command and control (C2) decision processes for detection-to-engagement across multiple platforms, including those with low-bandwidth communications or intermittent connectivity. The Undersea Warfare Decision Support System (USW-DSS) decision support tool uses a Service Oriented Architecture (SOA) encompassing existing communication links, networks, and contact pictures comprised of sensor data from air, surface, submarine, theater, and surveillance platforms to connect sensors and weapons. The capabilities delivered by USW-DSS are critical not only for the Sea Combat Commander (SCC) but also for the Theater USW Commander (TUSWC) and Anti Submarine Warfare Commander (ASWC) to fulfill the requirement for an integrated capability to plan, conduct, and coordinate USW operations across multiple ASW platforms. USW-DSS will provide common and improved visualization, integrated USW platform sensor data sharing, reduced data entry, improved sensor performance predictions, data fusion, and reduced redundancy across USW Tactical Decision Aids (TDA). The program will provide a greater understanding of the undersea battle space by allowing the entire force (carrier\/expeditionary strike group, theater, or other) to have a common and thorough understanding of the battle space with characterized uncertainties.\n\nUSW-DSS Build 2 will be hosted on the Integrated Shipboard Network System (ISNS) as one of the first Early Adopters, leveraging initial SOA Reference Implementation. USW-DSS will then be hosted on the Consolidated Afloat Networks and Enterprise Services (CANES) architecture, which will be fully SOA enabled. Build 2 Release 3 (B2R3), in response to Fleet requests, will provide improved and additional functionality and increased stability\/reliability."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.918"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.817"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.101"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.023"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Congressional General Reductions Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.078"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "Technical: Not applicable.\n\nSchedule: Due to a reprioritization of requirements based on results of the Resources, Requirements Review Board (R3B) and the Sponsor's Program Proposal (SPP), USW-DSS will enter the sustainment phase after operational test and evaluation events in FY13. USW-DSS B2R3 will provide an incremental update of B2 to field as much capability to the Fleet as possible."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "3094"
+                    },
+                    "ProjectTitle": {
+                        "val": "USW Decision Support"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "48.463"
+                        },
+                        "PriorYear": {
+                            "val": "0.817"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "49.280"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Project 3094 will develop the USW-DSS that will provide ASW C2 capabilities which enable the CNO vision for ASW Superiority using a \"coordinated, networked force of submarines, surface ships, aircraft, and Integrated Undersea Surveillance System (IUSS) assets\" with \"common and unambiguous views that yield operational and tactical situational awareness in the undersea environment.\"\n\nUSW-DSS provides capabilities to shorten C2 decision processes for detection-to-engagement across multiple platforms, including those with low-bandwidth communications or intermittent connectivity. The USW-DSS decision support tool uses a SOA encompassing existing communication links, networks, and contact pictures comprised of sensor data from air, surface, submarine, theater, and surveillance platforms to connect sensors and weapons. The capabilities delivered by USW-DSS are critical not only for the SCC but also for the TUSWC and ASWC to fulfill the requirement for an integrated capability to plan, conduct, and coordinate USW operations across multiple ASW platforms. USW-DSS will provide common and improved visualization, integrated USW platform sensor data sharing, reduced data entry, improved sensor performance predictions, data fusion, and reduced redundancy across USW TDAs. The program will provide a greater understanding of the undersea battle space by allowing the entire force (carrier\/expeditionary strike group, theater, or other) to have a common and thorough understanding of the battle space with characterized uncertainties."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "USW-DSS Build 2 Release 3 Operational Evaluation"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.817"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Completed USW-DSS Build 2 Release 3 Operational Evaluation in 3Q13 and performed assessment of results."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/2176"
+                                    },
+                                    "Title": {
+                                        "val": "USW Support Equipment (Related Portion)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "2.054"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "2.690"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "3.589"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "3.589"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "3.082"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "2.699"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "4.485"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.712"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "- Hardware\/Software integration contractor funded through SBIR Phase III contract."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "- Reduce the Detect-to-Engage timeline, false contact rate, and false alarm rate by employing a SOA between the sensors and weapons.\n- ASW Search Plan\/Mission Planning reduced from 6 hours to 1 hour between USW-DSS Build 1 and Build 2."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2015PB_0604518N_3094_FILE1.PNG"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

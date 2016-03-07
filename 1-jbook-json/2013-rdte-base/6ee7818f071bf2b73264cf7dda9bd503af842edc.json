@@ -1,0 +1,1010 @@
+{
+    "id": "6ee7818f071bf2b73264cf7dda9bd503af842edc",
+    "meta": {
+        "filename": "dod-2013_RDTE_2013_AIRFORCE_V3A_MasterJustificationBook_Air_Force_PB_2013.zzz_unzipped_MasterJustificationBook_Air_Force_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@format": "R2Long",
+        "ProgramElementNumber": {
+            "val": "0305110F"
+        },
+        "ProgramElementTitle": {
+            "val": "Satellite Control Network"
+        },
+        "R1LineItemNumber": {
+            "val": "188"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "25.652"
+            },
+            "CurrentYear": {
+                "val": "18.143"
+            },
+            "BudgetYearOne": {
+                "val": "33.773"
+            },
+            "BudgetYearOneBase": {
+                "val": "33.773"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "35.698"
+            },
+            "BudgetYearThree": {
+                "val": "21.192"
+            },
+            "BudgetYearFour": {
+                "val": "14.477"
+            },
+            "BudgetYearFive": {
+                "val": "15.745"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Air Force Satellite Control Network (AFSCN) mission is to command and control space systems and to distribute space system information in support of DoD, Intelligence Community (IC), and Civil operational and RDT&E missions, and other designated users.  The AFSCN is a fielded, globally-distributed infrastructure of control centers, Remote Tracking Stations (RTSs), and communications links that provides unique capability for designated users to deploy and operate their satellites.  AFSCN provides the highly reliable command and control, communications, and range systems required to support the nation's surveillance, navigation, communications, warning, and weather satellite operations.  Air Force Space Command (AFSPC) performs operations, maintenance, modernization, and sustainment of the system to provide operational capabilities validated by a US Strategic Command (USSTRATCOM) Initial Capabilities Document and a Headquarters USAF-approved Operational Requirements Document (ORD).  This program element funds the development and acquisition of AFSCN Improvement and Modernization (I&M), an ongoing program of replacements and upgrades which will meet validated USSTRATCOM and AFSPC operational requirements to replace non-standard, unsupportable equipment with more reliable, maintainable, interoperable, and standardized hardware and software.  This new equipment is intended to enable AFSPC satellite operations to be performed with reduced hardware\/software maintenance costs.  The principal efforts within this program are currently focused on Range Upgrades, Network Operations Upgrades, training tools, and associated studies.  \n\nRANGE UPGRADES include the RTS Block Change (RBC), which will standardize, automate and make interoperable the remote tracking stations through the replacement of outdated government-unique equipment with standardized equipment and technology in order to reduce failures, correct operational deficiencies, and reduce operating and sustainment costs; the Unified S-band (USB) high power amplifier development for the RTS to enable dual frequency band uplink commanding of satellites; and systems engineering to ensure integrated upgrade efforts.  FY13 funds include, but are not limited to systems engineering, integration, and test support for the Transportable RBC and continued USB high power amplifier development.  \n\nNETWORK OPERATIONS UPGRADES improve AFSCN resource management capabilities.  The focus of these efforts is on the upgrade of the Electronic Scheduling and Dissemination (ESD) system, which enables satellite operators at over 40 geographically separated locations to request \u201ccontact time\u201d with their satellites via the shared AFSCN antennas, and allows AFSCN schedulers to de-conflict overlapping requests to create and publish a schedule.  FY13 funds continue development of ESD 3.0 software builds and testing.  \n\nThis effort is in Budget Activity 7, Operational System Development, because it supports a fielded system."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "21.667"
+                },
+                "CurrentYear": {
+                    "val": "18.337"
+                },
+                "BudgetYearOne": {
+                    "val": "14.792"
+                },
+                "BudgetYearOneBase": {
+                    "val": "14.792"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "25.652"
+                },
+                "CurrentYear": {
+                    "val": "18.143"
+                },
+                "BudgetYearOne": {
+                    "val": "33.773"
+                },
+                "BudgetYearOneBase": {
+                    "val": "33.773"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "3.985"
+                },
+                "CurrentYear": {
+                    "val": "-0.194"
+                },
+                "BudgetYearOne": {
+                    "val": "18.981"
+                },
+                "BudgetYearOneBase": {
+                    "val": "18.981"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "-0.194"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "4.096"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.111"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "18.981"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "18.981"
+                                },
+                                "BudgetYearOneOCO": {
+                                    "val": "0.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "FY11: -$0.111M Congressional General Reductions (CGRs). Increase of +$4.096 due to higher Department priorities \nFY12: -$0.194M reduction for CGRs\nFY13: Program funding net increase $18.981M due to higher Department priorities"
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "673276"
+                    },
+                    "ProjectTitle": {
+                        "val": "Satellite Control Network"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "25.652"
+                        },
+                        "CurrentYear": {
+                            "val": "18.143"
+                        },
+                        "BudgetYearOne": {
+                            "val": "33.773"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "33.773"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "35.698"
+                        },
+                        "BudgetYearThree": {
+                            "val": "21.192"
+                        },
+                        "BudgetYearFour": {
+                            "val": "14.477"
+                        },
+                        "BudgetYearFive": {
+                            "val": "15.745"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Air Force Satellite Control Network (AFSCN) mission is to command and control space systems and to distribute space system information in support of DoD, Intelligence Community (IC), and Civil operational and RDT&E missions, and other designated users.  The AFSCN is a fielded, globally-distributed infrastructure of control centers, Remote Tracking Stations (RTSs), and communications links that provides unique capability for designated users to deploy and operate their satellites.  AFSCN provides the highly reliable command and control, communications, and range systems required to support the nation's surveillance, navigation, communications, warning, and weather satellite operations.  Air Force Space Command (AFSPC) performs operations, maintenance, modernization, and sustainment of the system to provide operational capabilities validated by a US Strategic Command (USSTRATCOM) Initial Capabilities Document and a Headquarters USAF-approved Operational Requirements Document (ORD).  This program element funds the development and acquisition of AFSCN Improvement and Modernization (I&M), an ongoing program of replacements and upgrades which will meet validated USSTRATCOM and AFSPC operational requirements to replace non-standard, unsupportable equipment with more reliable, maintainable, interoperable, and standardized hardware and software.  This new equipment is intended to enable AFSPC satellite operations to be performed with reduced hardware\/software maintenance costs.  The principal efforts within this program are currently focused on Range Upgrades, Network Operations Upgrades, training tools, and associated studies.  \n\nRANGE UPGRADES include the RTS Block Change (RBC), which will standardize, automate and make interoperable the remote tracking stations through the replacement of outdated government-unique equipment with standardized equipment and technology in order to reduce failures, correct operational deficiencies, and reduce operating and sustainment costs; the Unified S-band (USB) high power amplifier development for the RTS to enable dual frequency band uplink commanding of satellites; and systems engineering to ensure integrated upgrade efforts.  FY13 funds include, but are not limited to systems engineering, integration, and test support for the Transportable RBC and continued USB high power amplifier development.  \n\nNETWORK OPERATIONS UPGRADES improve AFSCN resource management capabilities.  The focus of these efforts is on the upgrade of the Electronic Scheduling and Dissemination (ESD) system, which enables satellite operators at over 40 geographically separated locations to request \u201ccontact time\u201d with their satellites via the shared AFSCN antennas, and allows AFSCN schedulers to de-conflict overlapping requests to create and publish a schedule.  FY13 funds continue development of ESD 3.0 software builds and testing.  \n\nThis effort is in Budget Activity 7, Operational System Development, because it supports a fielded system."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "RTS Block Change (RBC)"
+                                    },
+                                    "Description": {
+                                        "val": "Continue RBC development to replace outdated, unique RTS equipment with standardized equipment and technology to reduce failures and enhance sustainability"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.407"
+                                            },
+                                            "Text": {
+                                                "val": "Completed Transportable RBC design and began integration and testing in all configurations"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.742"
+                                            },
+                                            "Text": {
+                                                "val": "Complete Segment Verification Testing for Transportable RBC in all configurations and begin Integrated System Testing"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.893"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.893"
+                                            },
+                                            "Text": {
+                                                "val": "Complete systems engineering, integration and testing for Transportable RBC"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "USB High Power Amplifier"
+                                    },
+                                    "Description": {
+                                        "val": "Develop high power amplifier for RBC to enable uplink commanding of satellites using USB frequency in addition to legacy L-band frequency uplink commanding"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.894"
+                                            },
+                                            "Text": {
+                                                "val": "Completed system requirements definition; completed System requirements Review and Technical Requirements Document"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.607"
+                                            },
+                                            "Text": {
+                                                "val": "Begin Phase 2, first article development; refine design into detailed configuration-item level design"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.975"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.975"
+                                            },
+                                            "Text": {
+                                                "val": "Complete Preliminary Design Review and Critical Design Review; complete Hardware and software integration, install and begin testing"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Systems Engineering"
+                                    },
+                                    "Description": {
+                                        "val": "Provide test, Information Assurance (IA), requirements management, and system architecture support the AFSCN"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.003"
+                                            },
+                                            "Text": {
+                                                "val": "Provided testing, IA, and work package planning for Oakhanger RBC and high power amplifier troubleshooting; continued prototyping and demo for compatible satellite command and control effort; developed requirements databases"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.982"
+                                            },
+                                            "Text": {
+                                                "val": "Provide testing, IA, and work package planning for RBC electronics core activities; complete enabling concept for advanced antenna complete AFSCN architecture roadmap"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "5.130"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "5.130"
+                                            },
+                                            "Text": {
+                                                "val": "Provide test, IA, and work package planning for RBC electronics core activities; develop design and prototype advanced antenna; design RTS performance monitoring at RBC site; design training tools"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "ESD 3.0"
+                                    },
+                                    "Description": {
+                                        "val": "Continue ESD 3.0 development"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "9.361"
+                                            },
+                                            "Text": {
+                                                "val": "Continued ESD 3.0 development completing four software builds, integration and checkout."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.250"
+                                            },
+                                            "Text": {
+                                                "val": "Complete addtional software builds and test multiple functions on operational AFSCN to verify architecture"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "20.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "20.000"
+                                            },
+                                            "Text": {
+                                                "val": "Complete additonal software builds and complete Phase 1 segment verification testing"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Program Support \/ Management Services"
+                                    },
+                                    "Description": {
+                                        "val": "Program support to include FFRDC (Aerospace) and SETA"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.987"
+                                            },
+                                            "Text": {
+                                                "val": "Program support to include FFRDC and SETA"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.562"
+                                            },
+                                            "Text": {
+                                                "val": "FFRDC services provided in support of program office management processes to include program oversight and milestone and schedule tracking."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.775"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.775"
+                                            },
+                                            "Text": {
+                                                "val": "FFRDC services in support of program office management processes including program oversight as well as milestone and schedule tracking"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "P-44"
+                                    },
+                                    "Title": {
+                                        "val": "OPAF, PE 0305110F, Satellite Control Network (Space)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "60.050"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "60.592"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "44.219"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "44.219"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "42.833"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "53.355"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "62.033"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "60.693"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The AF uses the competitively awarded Satellite Control Network Contract (SCNC), managed by Space and Missile Systems Center, to modernize and sustain the AFSCN on a non-interference basis as it continues to support operational, RDT&E, and other designated users.  The AF has also awarded sole source modifications to Honeywell to continue to modernize the AFSCN.  The AF uses the existing SMC Technical Services Contract for information assurance systems engineering for AFSCN modernization."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "APPN_3600_BA_07_PE_0305110F_BPAC_673276_0.jpg"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Eastern Vehicle Check Facility Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Colorado-A RBC integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Guam-B RBC integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Oakhanger-C RBC integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Diego Garcia-B RBC integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Transportable RBC integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Hawaii-A RBC contract award\/integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "New Hampshire-B RBC contract award\/integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Thule-C RBC contract award\/integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Guam-A RBC core contract award\/integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Hawaii-B RBC core contract award\/integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "New Hampshire-A RBC core contract award\/integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Additional RBC contract awards"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "S Band\/Dual Band High Power Amplifier development contract award"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "S Band\/Dual Band Preliminary Design Review"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "S Band\/Dual Band Critical Design Review\/integration\/test\/Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Electronic Scheduling & Dissemination  (ESD) Integrated Baseline Review"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "ESD Integrated System Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "ESD Gov't accept"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

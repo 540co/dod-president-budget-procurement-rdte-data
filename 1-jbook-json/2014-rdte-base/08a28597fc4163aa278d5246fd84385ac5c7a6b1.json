@@ -1,0 +1,938 @@
+{
+    "id": "08a28597fc4163aa278d5246fd84385ac5c7a6b1",
+    "meta": {
+        "filename": "dod-2014_RDTE_2014_ARMY_BA7_RDTE_JustificationBook_Army_PB_2014.zzz_unzipped_RDTE_JustificationBook_Army_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0607865A"
+        },
+        "ProgramElementTitle": {
+            "val": "Patriot Product Improvement"
+        },
+        "R1LineItemNumber": {
+            "val": "159"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "0.000"
+            },
+            "CurrentYear": {
+                "val": "109.978"
+            },
+            "BudgetYearOne": {
+                "val": "70.053"
+            },
+            "BudgetYearOneBase": {
+                "val": "70.053"
+            },
+            "BudgetYearTwo": {
+                "val": "47.264"
+            },
+            "BudgetYearThree": {
+                "val": "61.100"
+            },
+            "BudgetYearFour": {
+                "val": "51.919"
+            },
+            "BudgetYearFive": {
+                "val": "54.858"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "Increase in base dollars in FY14 addresses SIPRNet\/NIPRNet Access Point\/Troposcatter (SNAP\/TROPO) efforts for PATRIOT Product Improvement Program (PIP)."
+        },
+        "ProgramElementMissionDescription": {
+            "val": "PATRIOT is an advanced Surface-to-Air guided missile system with a high probability of kill capable of operation in the presence of Electronic Countermeasures (ECM) and able to conduct multiple simultaneous engagements against high performance air breathing targets and ballistic missiles likely to be encountered by US Forces.  The PATRIOT Product Improvement Program provides for the upgrade of the PATRIOT System through individual materiel changes.  The PATRIOT Product Improvement Program upgrades the PATRIOT system to address operational lessons learned, enhancements to joint force interoperability, and other system performance improvements to provide overmatch capability with the emerging threat.  Efforts will be made to expedite PATRIOT materiel solutions (e.g. Radar Digital Processor, Communications Upgrades, Radars on the Net) to both enhance capability and facilitate integration into the IAMD architecture."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "109.978"
+                },
+                "BudgetYearOne": {
+                    "val": "60.392"
+                },
+                "BudgetYearOneBase": {
+                    "val": "60.392"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "109.978"
+                },
+                "BudgetYearOne": {
+                    "val": "70.053"
+                },
+                "BudgetYearOneBase": {
+                    "val": "70.053"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "9.661"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.661"
+                }
+            },
+            "AdjustmentDetails": {
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "9.661"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "9.661"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "DV8"
+                    },
+                    "ProjectTitle": {
+                        "val": "PATRIOT PRODUCT IMPROVEMENT"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "109.978"
+                        },
+                        "BudgetYearOne": {
+                            "val": "70.053"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "70.053"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "47.264"
+                        },
+                        "BudgetYearThree": {
+                            "val": "61.100"
+                        },
+                        "BudgetYearFour": {
+                            "val": "51.919"
+                        },
+                        "BudgetYearFive": {
+                            "val": "54.858"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "This is not a new start - continues effort funded in PE 0203801A (Project 036)."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Software Improvement for Threat Evolution:   Performs necessary analysis and development efforts to maintain PATRIOT system effectiveness against evolving threat technologies and specific threat capabilities.  This effort identifies evolving threats and threat characteristics that might present a challenge to PATRIOT's current capabilities and develops initial concepts to maintain system effectiveness relative to these threats.  \n\nRadar Digital Processor Development:  Incorporates improvements to mitigate radar hardware obsolescence, improve Reliability, Maintainability, and Availability (RAM) and improve performance of the PATRIOT Radar Set against evolving threat sets.  This program includes the implementation of Identification Friend or Foe (IFF) Mode 5 Level 1 \/ Level 2, and a Non-Cooperative Target Recognition (NCTR) Combat ID technique to mitigate potential fratricide risk, and the development of CONOPS to incorporate the new Combat ID capabilities into system operation.  The RDP also provides the necessary radar processing capability to support follow-on EDP Tasks 6 and 7 to counter emerging threats and provide data necessary to support migration to IAMD.  The RDP is a pre-requisite for migration to an IAMD Netted Sensor.\n\nSIPRNet\/NIPRNet Access Point\/Troposcatter (SNAP\/TROPO):  Provides hardware interfaces to support extended range communications within the battalion (TROPO) and Force Operations interfaces to satellite for access to SIPR\/NIPR worldwide communication networks. \n \nTHAAD PATRIOT Interoperability:  Implements improvements to THAAD\/PATRIOT Interoperability and addresses Joint Defense Network (JDN) deficiencies that impact Tactical Ballistic Missile (TBM) battle management and force\/engagement operations.  Efforts will be concentrated on joint, collaborative force operations (defense design and planning) and enhanced Tactical Digital Information Link - Joint (TADIL J) interoperability. \n \nAdvanced Electronic Counter Measures (AECM):  This task investigates the implications of advanced technology (DRFM) available on airborne platforms that enables new ECM techniques which could adversely affect Air and Missile Defense System effectiveness.   \n\nInternet Protocol Commo Phase 1 Force Modernization:  Replacement of the current KG-194A encryptors in PATRIOT requires redesign of the basic PATRIOT shelter communications architecture to incorporate new hardware which interfaces the existing IDOCS to new KIV-7M encryptors and provides an IP base backbone for range extension and over the air IP communications tunneling for Force Operations message traffic without impacting the Engagement Operations traffic.\n\nEvolutionary Development Program (EDP):  Provides an integrated approach to maintain and update system capabilities against the evolving threat.  Develops and implements a comprehensive strategy to leverage modernization and upgrade efforts. \n \nTask 2:  Implements improved ground system and interceptor capabilities (PAC-2\/GEM, PAC-3, and MSE) to counter stressing TBM threats.\n \nTask 6:  Improves discrimination of higher altitude TBM RVs from associated objects to support the full engagement capabilities of the interceptor. Longer-range detection and track, and improved high-altitude discrimination are required to achieve the required lethality performance against the RV and to mitigate missile wastage against separation debris.  This task leverages the signal processing capabilities of the RDP, and supports the high altitude engagements required by the PAC-3 and PAC-3 Missile Segment Enhancement missiles.\n\nUpper Tier Debris Mitigation (UTDM):  Implements algorithms to mitigate system impacts of debris from Upper Tier intercepts associated with operating in the BMDS environment.  Debris from Upper Tier intercepts can cause significant radar loading effects and the potential for erroneous engagements and missile wastage on debris."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "PATRIOT Product Improvement"
+                                    },
+                                    "Description": {
+                                        "val": "Software Improvement for Threat Evolution"
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "109.978"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continues Software Improvement for Threat Evolution.  Radar Digital Processor continues development efforts to support U.S. FY 2016 fielding, providing the field with additional capability and growth potential to counter stressing threats.  Increase addresses Evolutionary Development Program (EDP) efforts and Electronic Counter Measures (ECM)."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "70.053"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "70.053"
+                                            },
+                                            "Text": {
+                                                "val": "Continues Software Improvement for Threat Evolution.  Radar Digital Processor continues development efforts to support U.S. FY 2016 fielding, providing the field with additional capability and growth potential to counter stressing threats.  Continues Evolutionary Development Program (EDP) efforts and Electronic Counter Measures (ECM).  Increase addresses SNAP\/TROPO."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The design objective of the PATRIOT system was to provide a baseline system capable of modification to cope with continuing threat evolution.  This program minimizes technological risks and provides a means of enhancing system capability through planned upgrades of deployed systems.  The PATRIOT Product Improvement program upgrades the PATRIOT system to address operational lessons learned, enhancements to joint force interoperability and communications, and other system performance improvements to provide overmatch capability against the emerging threat.  Upgrades are implemented through individual hardware and software materiel changes and fielded incrementally. This program encompasses several changes which will require the use of a variety of acquisition methods to develop, test, procure and field."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Performance metrics used in the preparation of this justification material may be found in the FY 2010 Army Performance Budget Justification Book, dated May 2010."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Government Program Management"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "RSA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.538"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.259"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.259"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "U.S. Contracts"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Intuitive Research and Technology Corp. (IRTC)"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.361"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "Remarks": {
+                                        "val": "The contract method type Sole Source\/Various is Fixed Price Level of Effort which includes Cost Plus Fixed Fee for material, ODC, and travel."
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Software Improvement for Threat Evolution"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Multiple"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Multiple"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "9.986"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "10.375"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "10.375"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Radar Digital Processor (RDP) Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "32.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "14.829"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "14.829"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "47.029"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "SNAP\/TROPO"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "9.923"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "9.923"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "9.923"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "THAAD PATRIOT Interoperability"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "6.800"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.133"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.133"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "8.933"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Advanced Electronic Counter Measures (ECM)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "16.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "13.339"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "13.339"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Internet Protocol Commo Phase 1 Force Modernization"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "3.181"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.181"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Evolutionary Development Program (EDP)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "35.700"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "5.263"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "5.263"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Task 2"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "6.917"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "6.917"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Task 6"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "6.397"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "6.397"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Upper Tier Debris Mitigation (UTDM)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Massachusetts"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "4.800"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "4.800"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "RDEC and Other Govt Agencies"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "RSA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.412"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.368"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.368"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "PDB 7 Fielding (Modernized Adjunct Processor) IOC"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "PDB 8 (RDP) IOC"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

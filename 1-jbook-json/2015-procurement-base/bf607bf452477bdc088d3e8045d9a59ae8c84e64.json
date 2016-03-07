@@ -1,0 +1,841 @@
+{
+    "id": "bf607bf452477bdc088d3e8045d9a59ae8c84e64",
+    "meta": {
+        "filename": "dod-2015_PROCUREMENT_2015_ARMY_AIRCRAFT_PROCUREMENT_JustificationBook_Army_PB_2015.zzz_unzipped_PROCUREMENT_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2031A",
+        "appropriation_name": "Aircraft Procurement, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Monthly",
+        "LineItemNumber": {
+            "val": "AA0050"
+        },
+        "LineItemTitle": {
+            "val": "Air Traffic Control"
+        },
+        "P1LineNumber": {
+            "val": "35"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2031A"
+        },
+        "AppropriationTitle": {
+            "val": "Aircraft Procurement, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "4"
+        },
+        "BudgetActivityTitle": {
+            "val": "Support Equipment and Facilities"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "30"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Other Support"
+        },
+        "ResourceSummary": {
+            "Quantity": {
+                "CurrentYear": {
+                    "val": "6"
+                },
+                "BudgetYearOneBase": {
+                    "val": "10"
+                },
+                "BudgetYearOne": {
+                    "val": "10"
+                },
+                "BudgetYearTwo": {
+                    "val": "7"
+                },
+                "BudgetYearThree": {
+                    "val": "4"
+                },
+                "BudgetYearFour": {
+                    "val": "1"
+                },
+                "BudgetYearFive": {
+                    "val": "1"
+                }
+            },
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "1108.5"
+                },
+                "PriorYear": {
+                    "val": "46.081"
+                },
+                "CurrentYear": {
+                    "val": "79.692"
+                },
+                "BudgetYearOneBase": {
+                    "val": "127.232"
+                },
+                "BudgetYearOne": {
+                    "val": "127.232"
+                },
+                "BudgetYearTwo": {
+                    "val": "88.441"
+                },
+                "BudgetYearThree": {
+                    "val": "86.734"
+                },
+                "BudgetYearFour": {
+                    "val": "113.56"
+                },
+                "BudgetYearFive": {
+                    "val": "100.706"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "UnitCost": {
+                "CurrentYear": {
+                    "val": "13282"
+                },
+                "BudgetYearOneBase": {
+                    "val": "12723.2"
+                },
+                "BudgetYearOne": {
+                    "val": "12723.2"
+                },
+                "BudgetYearTwo": {
+                    "val": "12634.429"
+                },
+                "BudgetYearThree": {
+                    "val": "21683.5"
+                },
+                "BudgetYearFour": {
+                    "val": "113560"
+                },
+                "BudgetYearFive": {
+                    "val": "100706"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "1108.5"
+                },
+                "PriorYear": {
+                    "val": "46.081"
+                },
+                "CurrentYear": {
+                    "val": "79.692"
+                },
+                "BudgetYearOneBase": {
+                    "val": "127.232"
+                },
+                "BudgetYearOne": {
+                    "val": "127.232"
+                },
+                "BudgetYearTwo": {
+                    "val": "88.441"
+                },
+                "BudgetYearThree": {
+                    "val": "86.734"
+                },
+                "BudgetYearFour": {
+                    "val": "113.56"
+                },
+                "BudgetYearFive": {
+                    "val": "100.706"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "1108.5"
+                },
+                "PriorYear": {
+                    "val": "46.081"
+                },
+                "CurrentYear": {
+                    "val": "79.692"
+                },
+                "BudgetYearOneBase": {
+                    "val": "127.232"
+                },
+                "BudgetYearOne": {
+                    "val": "127.232"
+                },
+                "BudgetYearTwo": {
+                    "val": "88.441"
+                },
+                "BudgetYearThree": {
+                    "val": "86.734"
+                },
+                "BudgetYearFour": {
+                    "val": "113.56"
+                },
+                "BudgetYearFive": {
+                    "val": "100.706"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "OtherRelatedProgramElementList": {
+            "ProgramElementNumber": [
+                {
+                    "val": "0604633A"
+                }
+            ]
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "Quantity": {
+                                "CurrentYear": {
+                                    "val": "6"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "6"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "6"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "4"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "1"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "1"
+                                }
+                            },
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "46.081"
+                                },
+                                "CurrentYear": {
+                                    "val": "79.692"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "114.412"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "114.412"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "66.006"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "86.734"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "113.56"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "100.706"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army National Guard"
+                        },
+                        "Cost": {
+                            "Quantity": {
+                                "BudgetYearOneBase": {
+                                    "val": "3"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "3"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "7"
+                                }
+                            },
+                            "TotalCost": {
+                                "BudgetYearOneBase": {
+                                    "val": "9.615"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "9.615"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "22.435"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army Reserve"
+                        },
+                        "Cost": {
+                            "Quantity": {
+                                "BudgetYearOneBase": {
+                                    "val": "1"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "1"
+                                }
+                            },
+                            "TotalCost": {
+                                "BudgetYearOneBase": {
+                                    "val": "3.205"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "3.205"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "Quantity": {
+                    "CurrentYear": {
+                        "val": "6"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "10"
+                    },
+                    "BudgetYearOne": {
+                        "val": "10"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "7"
+                    },
+                    "BudgetYearThree": {
+                        "val": "4"
+                    },
+                    "BudgetYearFour": {
+                        "val": "1"
+                    },
+                    "BudgetYearFive": {
+                        "val": "1"
+                    }
+                },
+                "TotalCost": {
+                    "PriorYear": {
+                        "val": "46.081"
+                    },
+                    "CurrentYear": {
+                        "val": "79.692"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "127.232"
+                    },
+                    "BudgetYearOne": {
+                        "val": "127.232"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "88.441"
+                    },
+                    "BudgetYearThree": {
+                        "val": "86.734"
+                    },
+                    "BudgetYearFour": {
+                        "val": "113.56"
+                    },
+                    "BudgetYearFive": {
+                        "val": "100.706"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "Funds described herein support the acquisition of modernized tactical and fixed base Air Traffic Control (ATC) systems that will enable safety of aircraft operations.  ATC systems are required to achieve or maintain compliance with civil, military, domestic and international air traffic control mandates and combat identification requirements.  Efforts funded include the Tactical Airspace Integration System (TAIS), Air Traffic Navigation Integration and Coordination System and the Fixed Base Precision Approach Radar (ATNAVICS\/FBPAR), the Mobile Tower System (MOTS), the Tactical Terminal Control System (TTCS), the ATC Common Simulator (ACS), and Fixed Base systems, such as the DoD Advanced Automation System (DAAS), the Digital Airport Surveillance Radar (DASR), and other navigational control aids to include the Army Airfield Automation System (AAAS), National Air Space (NAS) voice switch and the radio replacement program.\n\nTAIS, the Airspace Management System of the Army Mission Command System, performs Air Traffic Services (ATS) and Airspace Control (AC) at brigade and theater commands.  TAIS Alternate Workstation (AWS) provides for AC planning and execution at the Brigade Combat Team and above.  It is the Army's link to the Theater Battle Management Core System for Joint Airspace Management.  TAIS and TAIS AWS provide an automated AC and ATS capability for current requirements and Battle Command interfaces. ATNAVICS provides all-weather instrument flight capabilities to include terminal, and radar precision approach and landing services to all Army, Joint, and Allied aircraft.  ATNAVICS will integrate Mode S capabilities required to control aircraft both OCONUS and CONUS.  ATNAVICS will network its radar picture and advanced surveillance data (Mode 5 and Mode S) to aviation and joint network nodes through TAIS.  The TTCS is a mobile ATC communications system that provides initial ATS at remote landing sites and drop zones.  It enables secure ground-to-air and ground-to-ground communications between Army aircraft, other services and Allied aircraft, and ground stations.  TTCS also provides aircraft separation and ground control capabilities, a meteorological measuring system for basic weather information, and precision location capability.  MOTS provides ATC and aircraft separation for both air and ground operations at tactical or remote landing sites.  It replaces the 1970's era 7A mobile tower system.  MOTS capabilities include weather information, secure and anti-jam communications across all required frequency bands and ranges, and precision location.  ATNAVICS, TAIS, TTCS, and MOTS serve as effective air traffic risk management tools for aviation safety during night, inclement weather, and combat operations.  The ACS facilitates training and continued operator proficiency by incorporating the functionality of ATNAVICS, MOTS, and TAIS into a single simulator system.  The ACS can simulate a start to finish ATC scenario, meaning simulation at the airfield for take-off\/landing under Visual Flight Rules, radar simulation for surveillance and precision approach, and flight-following and airspace deconfliction.  Fixed Base ATC requirements (DAAS, DASR, AAAS, radio replacement program) will be met through a vast array of new technology solutions and pre-planned product improvement (P3I) of these systems, resulting in highly reliable and safe ATC systems in accordance with the Joint DoD\/Federal Aviation Administration (FAA) program to modernize the NAS and the FAA Next Gen program."
+        },
+        "Justification": {
+            "val": "FY 2015 Base procurement dollars in the amount of $127.232 million provide for the acquisition of MOTS units, and to support tactical and fixed base ATC systems and pre-planned product improvement (P3I) to these systems.  Funds for tactical ATC systems provide for upgrades and modifications to TAIS, ATNAVICS\/FBPAR, TTCS, and MOTS.  ATNAVICS\/FBPAR Block 6A upgrades will address joint interoperability and networking capabilities with the integration of the Tactical Operations Center Intercommunications System (TOCNET).  ATNAVICS\/FBPAR will also improve radio communications with the acquisition and installation of PRC-117G radios, and will upgrade Identification, Friend or Foe capability by acquiring TPX-57 Interrogators.  These modifications will also allow the ATNAVICS\/FBPAR to transmit critical air picture information to TAIS.  TAIS funding provides for the implementation of interfaces to ATNAVICS\/FBPAR and the Expanded Airtrack Sensor Integrator, TAIS AWS hardware\/software refresh, and upgrade of the Mobile Server Unit.  TTCS funding provides for the production and retrofit of Universal Rack Systems and initial issue spares, the integration of Blue Force Tracker 2 capabilities, and the initiation of efforts to integrate TOCNET networking and data transfer capabilities.  These modifications to tactical ATC systems ensure Army ATC and Army airspace command and control systems are capable of supporting the path ahead to the Future Force.  Funding also procures MOTS units, along with interim contractor support, engineering services and P3I for the procured units.  ACS funding provides for the acquisition and installation of simulator hardware and software, as well as non-recurring engineering services required to integrate the ACS, and initial training.  Fixed Base system funding replaces obsolete legacy transmitters and receivers with the Global Air-Traffic Management compatible CM-300 and AN\/PRC-117G radios.  Fixed Base funded efforts also include P3I for DAAS, upgrade of the NAS voice switch, AAAS hardware and software upgrades to accommodate changes to the Digital Automatic Terminal Information Service and the USAF Weather System Joint Environmental Toolkit, and non-recurring engineering for DASR.  Fixed Base equipment quantities and configurations are tailored to meet specific site requirements, resulting in varying unit costs.  Funding ensures compliance and interoperability between the Army, Joint, and FAA systems.\n\n\nIn accordance with section 1815 of the FY 2008 National Defense Authorization Act  P.L. 110-181), this item is necessary for use by the active and reserve components of the Armed Forces for homeland defense missions, domestic emergency responses and providing military support to civil authorities."
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "Air Traffic Control"
+                    },
+                    "ItemNumber": {
+                        "val": "AA0050"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "Quantity": {
+                                            "CurrentYear": {
+                                                "val": "6"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "6"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "6"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "46.081"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "79.692"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "114.412"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "114.412"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army National Guard"
+                                    },
+                                    "Cost": {
+                                        "Quantity": {
+                                            "BudgetYearOneBase": {
+                                                "val": "3"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "3"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "9.615"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "9.615"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army Reserve"
+                                    },
+                                    "Cost": {
+                                        "Quantity": {
+                                            "BudgetYearOneBase": {
+                                                "val": "1"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "1"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "3.205"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "3.205"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "Quantity": {
+                            "CurrentYear": {
+                                "val": "6"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "10"
+                            },
+                            "BudgetYearOne": {
+                                "val": "10"
+                            }
+                        },
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "1108.5"
+                            },
+                            "PriorYear": {
+                                "val": "46.081"
+                            },
+                            "CurrentYear": {
+                                "val": "79.692"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "127.232"
+                            },
+                            "BudgetYearOne": {
+                                "val": "127.232"
+                            }
+                        },
+                        "UnitCost": {
+                            "CurrentYear": {
+                                "val": "13282"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "12723.2"
+                            },
+                            "BudgetYearOne": {
+                                "val": "12723.2"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "1108.5"
+                            },
+                            "PriorYear": {
+                                "val": "46.081"
+                            },
+                            "CurrentYear": {
+                                "val": "79.692"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "127.232"
+                            },
+                            "BudgetYearOne": {
+                                "val": "127.232"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "1108.5"
+                            },
+                            "PriorYear": {
+                                "val": "46.081"
+                            },
+                            "CurrentYear": {
+                                "val": "79.692"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "127.232"
+                            },
+                            "BudgetYearOne": {
+                                "val": "127.232"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Flyaway": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Fixed Base Precision Approach Radar"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "91.26"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "0.57"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DoD Advanced Automation System (DAAS)"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "88.733"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "5.192"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "3.157"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "4.341"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "4.341"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Digital Airport Surveillance Radar(DASR)"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "83.73"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "1.355"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "0.149"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "0.072"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "0.072"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Tactical Airspace Integration Sys (TAIS)"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "336.74"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "13.481"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "13.956"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "29.175"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "29.175"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Air Traffic Navigation and Integration"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "1"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "365.365"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "14.122"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "11.045"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "24.875"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "24.875"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "365365"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Navigational Control Aids"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "30.018"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "1.831"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "8.13"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "8.602"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "8.602"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Tactical Terminal Control System (TTCS)"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "41.63"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "1.195"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "6.661"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "6.702"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "6.702"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Mobile Tower System (MOTS)"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "CurrentYear": {
+                                                            "val": "6"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "10"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "10"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "70.44"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "7.468"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "34.514"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "48.341"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "48.341"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "CurrentYear": {
+                                                            "val": "5752.333"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "4834.1"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "4834.1"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "ATC Common Simulator (ACS)"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "0.584"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "0.867"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "2.08"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "5.124"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "5.124"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "1108.5"
+                                            },
+                                            "PriorYear": {
+                                                "val": "46.081"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "79.692"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "127.232"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "127.232"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "1108.5"
+                                        },
+                                        "PriorYear": {
+                                            "val": "46.081"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "79.692"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "127.232"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "127.232"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "expandItemSuppressExhibit"
+            }
+        }
+    }
+}

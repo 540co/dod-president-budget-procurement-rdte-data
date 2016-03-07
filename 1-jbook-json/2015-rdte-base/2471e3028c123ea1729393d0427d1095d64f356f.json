@@ -1,0 +1,867 @@
+{
+    "id": "2471e3028c123ea1729393d0427d1095d64f356f",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_ARMY_BA4_RDTE_JustificationBook_Army_PB_2015.zzz_unzipped_RDTE_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0604120A"
+        },
+        "ProgramElementTitle": {
+            "val": "Assured Positioning, Navigation and Timing (PNT)"
+        },
+        "R1LineNumber": {
+            "val": "74"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "4"
+        },
+        "BudgetActivityTitle": {
+            "val": "Advanced Component Development & Prototypes (ACD&P)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "0.000"
+            },
+            "CurrentYear": {
+                "val": "0.000"
+            },
+            "BudgetYearOne": {
+                "val": "9.930"
+            },
+            "BudgetYearOneBase": {
+                "val": "9.930"
+            },
+            "BudgetYearTwo": {
+                "val": "20.191"
+            },
+            "BudgetYearThree": {
+                "val": "21.692"
+            },
+            "BudgetYearFour": {
+                "val": "33.745"
+            },
+            "BudgetYearFive": {
+                "val": "30.300"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Joint Requirements Oversight Council Memo (JROCM) 049-10, dated April 5th 2010, approved the Positioning, Navigation and Timing Assurance Initial Capabilities Document and designated the Army as the Lead Component for Assured PNT. The Material Development Decision (MDD) was approved on July 30th 2013. Positioning Navigation and Timing (PNT) is a critical enabler of many Army systems. The current capability, Global Positioning System (GPS), is a fixed frequency system which is vulnerable to current and emerging threats and field conditions which means that PNT access and integrity to the Warfighter cannot be guaranteed. This situation degrades mission performance to an unacceptable level. Therefore, current Army systems cannot operate at the required PNT Assurance Levels with GPS alone.\n  \nAssured PNT consists of a set of mutually dependent products that provide a cumulative effect to enable the Assured PNT capability. The Assured PNT program focuses on platform distribution of PNT, scalable PNT architectures that pace the threat, and the ability to upgrade to future technologies, including Military Code (M-Code), at a much lower cost than the current architecture of GPS user equipment (UE). M-code was designed to further improve the anti-jamming and secure access of the military GPS signals.\n\nAssured PNT is a family of solutions which includes four subprograms: (1) The Pseudolites subprogram provides PNT Assurance in GPS denied environments by providing terrestrial radio navigation (GPS-like) service in electronically or physically challenged environments using a higher power signal. The Pseudolites subprogram enables continued operations of PNT-enabled systems such as Blue Force Tracker, Communications Networks and Precision Guided Munitions; (2) The Mounted PNT subprogram is the integration of multiple sensors and provides PNT platform distribution. The Mounted PNT subprogram incorporates a System of Systems architecture that acquires, protects and distributes secure PNT on stationary and vehicular platforms. The mounted materiel solution is a modular, scalable form-factor that paces the threats and enables PNT on the Vehicle Integration for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance\/Electronic Warfare (C4ISR\/EW) Interoperability also known as VICTORY and Future Airborne Capability Environment (FACE) Architecture; (3) The Dismounted PNT subprogram is the integration of multiple sensors for platform distribution of PNT on the Soldier. The Dismounted PNT subprogram incorporates a System of Systems architecture that acquires, protects and distributes secure PNT wirelessly on the soldier; (4) The Anti-Jam subprogram provides GPS signal protection and PNT Assurance in challenged environments through anti-jam technologies. Anti-jam enables tactical capabilities through assured signal acquisition in challenged environments. \n\nFY 2015 Base funds in the amount of $9.930 million are provided as a new start for the Assured PNT Program to initiate the development of PNT system solutions for combating electronically and physically challenged electromagnetic environments."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "9.930"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.930"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "9.930"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.930"
+                }
+            },
+            "AdjustmentDetails": {
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "9.930"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "9.930"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "ED5"
+                    },
+                    "ProjectTitle": {
+                        "val": "Assured Positioning, Navigation and Timing (PNT)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "9.930"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "9.930"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "20.191"
+                        },
+                        "BudgetYearThree": {
+                            "val": "21.692"
+                        },
+                        "BudgetYearFour": {
+                            "val": "33.745"
+                        },
+                        "BudgetYearFive": {
+                            "val": "30.300"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Joint Requirements Oversight Council Memo (JROCM) 049-10, dated April 5th 2010, approved the Positioning, Navigation and Timing Assurance Initial Capabilities Document and designated the Army as the Lead Component for Assured PNT. The Material Development Decision (MDD) was approved on July 30th 2013. Positioning Navigation and Timing (PNT) is a critical enabler of many Army systems. The current capability, Global Positioning System (GPS), is a fixed frequency system which is vulnerable to current and emerging threats and field conditions which means that PNT access and integrity to the Warfighter cannot be guaranteed. This situation degrades mission performance to an unacceptable level. Therefore, current Army systems cannot operate at the required PNT Assurance Levels with GPS alone.\n  \nAssured PNT consists of a set of mutually dependent products that provide a cumulative effect to enable the Assured PNT capability. The Assured PNT program focuses on platform distribution of PNT, scalable PNT architectures that pace the threat, and the ability to upgrade to future technologies, including Military Code (M-Code), at a much lower cost than the current architecture of GPS user equipment (UE). M-code was designed to further improve the anti-jamming and secure access of the military GPS signals.\n\nAssured PNT is a family of solutions which includes four subprograms: (1) The Pseudolites subprogram provides PNT Assurance in GPS denied environments by providing terrestrial radio navigation (GPS-like) service in electronically or physically challenged environments using a higher power signal. The Pseudolites subprogram enables continued operations of PNT-enabled systems such as Blue Force Tracker, Communications Networks and Precision Guided Munitions; (2) The Mounted PNT subprogram is the integration of multiple sensors and provides PNT platform distribution. The Mounted PNT subprogram incorporates a System of Systems architecture that acquires, protects and distributes secure PNT on stationary and vehicular platforms. The mounted materiel solution is a modular, scalable form-factor that paces the threats and enables PNT on the Vehicle Integration for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance\/Electronic Warfare (C4ISR\/EW) Interoperability also known as VICTORY and Future Airborne Capability Environment (FACE) Architecture; (3) The Dismounted PNT subprogram is the integration of multiple sensors for platform distribution of PNT on the Soldier. The Dismounted PNT subprogram incorporates a System of Systems architecture that acquires, protects and distributes secure PNT wirelessly on the soldier; (4) The Anti-Jam subprogram provides GPS signal protection and PNT Assurance in challenged environments through anti-jam technologies. Anti-jam enables tactical capabilities through assured signal acquisition in challenged environments. \n\nFY 2015 Base funds in the amount of $9.930 million are provided as a new start for the Assured PNT Program to initiate the development of PNT system solutions for combating electronically and physically challenged electromagnetic environments."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Assured PNT"
+                                    },
+                                    "Description": {
+                                        "val": "Efforts include initiation of development effort for Pseudolite subprogram, Dismounted sub program Risk reduction efforts, preparation of Milestone documentation for the Assured PNT program, and associated Program Management Office (PMO) and support activities."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "9.930"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "9.930"
+                                            },
+                                            "Text": {
+                                                "val": "Efforts include initiation of development effort for Pseudolite subprogram, Dismounted sub program Risk reduction efforts, preparation of Milestone documentation for the Assured PNT program, and\nassociated Program Management Office (PMO) and support activities."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The Assured Positioning, Navigation and Timing (PNT) Acquisition Strategy is focused on the acquisition of a family of systems required to achieve the Assured PNT capability. The materiel solutions are partitioned into subprograms that are at various stages of technical maturity, and include Pseudolites, Mounted PNT, Dismounted PNT, and Anti-jam. The strategy for the Pseudolite subprogram includes technology development accomplished through two competitive, cost-plus incentive fee (CPIF) contracts; this includes development and testing of critical system technologies including command and control, anti-tamper, and PNT determination technologies following a MS A Decision in FY 2015. The Milestone B decision is planned for FY 2017. The strategy for the Mounted PNT subprogram includes technology development accomplished through two competitive CPIF contracts following a Milestone A decision in FY 2016; this includes open-system architecture development to enable industry to provide PNT solutions that \"plug-in\" to the Mounted PNT Hub, increasing competition and innovation across the life of the program. The strategy for the Dismounted PNT subprogram includes technology bridging activities to facilitate a small-business innovative research (SBIR) performer to support a Milestone B decision in FY 2017. The strategy for the Antijam subprogram consists of a Milestone B in FY 2016 to initiate Engineering and Manufacturing Development with two contractors, focused on size-weight, power and cost (SWAP-C) optimization of the anti-jam technologies. The above acquisition strategy is pending approval by the Milestone Decision Authority."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Project Management Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Allot"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PD PNT Core"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.490"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.490"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.490"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Develop Pseudolite Competitive Prototype Contractor 1"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.615"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.615"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-03"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.615"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Develop Pseudolite Competitive Prototype Contractor 2"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.615"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.615"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-03"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.615"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Dismounted Technical Risk Reduction and Integration"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.440"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.440"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-03"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.440"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Matrix Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.850"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.850"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.850"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "SETA Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.920"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.920"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-03"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.920"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Pseudolite (PL) Milestone A Decision"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Pseudolites (PL) Contract Award"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Pseudolites (PL) Developmental Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Pseudolites (PL) Pre-EMD Review"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Pseudolites (PL) Milestone B Decision"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Pseudolites (PL) MS B Contract Award"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Mounted (M) Milestone A Decision"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Mounted (M) Contract Award"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Dismounted (D) Technology Risk reduction and Prototyping"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Dismounted (D) Pre-EMD Review"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Dismounted (D) Milestone B Decision"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Dismounted (D) Contract Award"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Anti-Jam (AJ) Antenna Pre-EMD Review"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Anti-Jam (AJ) Antenna Milestone B Decision"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Anti-Jam (AJ) Antenna Contract Award"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

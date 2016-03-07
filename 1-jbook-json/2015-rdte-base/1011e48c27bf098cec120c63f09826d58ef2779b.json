@@ -1,0 +1,2523 @@
+{
+    "id": "1011e48c27bf098cec120c63f09826d58ef2779b",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_AIRFORCE_V3A_RDTE_JustificationBook_Air_Force_PB_2015.zzz_unzipped_RDTE_JustificationBook_Air_Force_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@format": "R2Long",
+        "ProgramElementNumber": {
+            "val": "0207452F"
+        },
+        "ProgramElementTitle": {
+            "val": "DCAPES"
+        },
+        "R1LineNumber": {
+            "val": "161"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "0.000"
+            },
+            "PriorYear": {
+                "val": "13.925"
+            },
+            "CurrentYear": {
+                "val": "10.111"
+            },
+            "BudgetYearOne": {
+                "val": "0.821"
+            },
+            "BudgetYearOneBase": {
+                "val": "0.821"
+            },
+            "BudgetYearTwo": {
+                "val": "16.907"
+            },
+            "BudgetYearThree": {
+                "val": "16.351"
+            },
+            "BudgetYearFour": {
+                "val": "14.578"
+            },
+            "BudgetYearFive": {
+                "val": "14.855"
+            },
+            "CostToComplete": {
+                "val": "76.900"
+            },
+            "TotalCost": {
+                "val": "164.448"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Deliberate and Crisis Action Planning and Execution Segments (DCAPES) is a system being developed as the next-generation Air Force interface to the Joint Operational Planning and Execution System (JOPES).  DCAPES is the Air Force's single system to present, plan, source, mobilize, deploy, account for, sustain, redeploy, and reconstitute forces for contingency and crisis operations.   This system provides a real time, two way interchange of personnel, manpower, logistics, and operational data between the Air Force and the warfighting Combatant Commanders.   It matches people, cargo, and airframes\/weapon systems to the Combatant Commander's warfighting requirements.  Acquisition of this system supports the Air Force's expeditionary force concept.\n\nLOGFAC is a Web-enabled application that resides on Global Combat Support System (GCSS-AF) infrastructure and supports logistics \/ operational planning staffs at the HQ Air Staff, MAJCOM and Unit levels by determining wartime consumables and pre-positioning of AF assets for deliberate planning based on the War Mobilization Plan, Volume 4 (WMP-4).\n\nDevelopment activities include Logistics Module\/Manpower and Personnel Module-Base (LOGMOD\/MANPER B), War and Mobilization Planning (WMP), Enhanced Contingency Rotational AEF SchedulingTool (ECAST), Web Enablement, and JOPES Modernization Migration.  Activities also include studies and analysis to support both current program planning and execution and future program planning to modify systems to consume authoritative force structure from Global Force Management-Data Initiative (GFM-DI) organizational servers, linking the identifiers to or replacing current identifiers and, as applicable, exposing the data in a net-centric fashion. Requirements validated with the Capability Development Document for DCAPES dated 2 June 2006. \n\nThis effort is an evolutionary follow-on to the Contingency Operations Mobility Planning and Execution System (COMPES).  DCAPES replaced the operational tasking and priorities functionality of COMPES with modern relational databases, integrated-distributed database, and common and shared data consistent with the joint vision for integrated command and control.  DCAPES is intended to provide a command and control capability by exchanging data with a range of planning support systems to provide a more effective force projection capability for a wider range of operational scenarios and will fully support the force provider function of the AF Forces (AFFOR) commander.  DCAPES along with numerous other war planning support legacy systems are transitioning into a net-centric Service Oriented Architecture (SOA) environment via a War Planning and Execution System (WPES) management construct.\n\nActivities include studies and analysis to support current program planning and execution, and future program planning.\n\nThis program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "15.690"
+                },
+                "CurrentYear": {
+                    "val": "15.081"
+                },
+                "BudgetYearOne": {
+                    "val": "14.015"
+                },
+                "BudgetYearOneBase": {
+                    "val": "14.015"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "13.925"
+                },
+                "CurrentYear": {
+                    "val": "10.111"
+                },
+                "BudgetYearOne": {
+                    "val": "0.821"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.821"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-1.765"
+                },
+                "CurrentYear": {
+                    "val": "-4.970"
+                },
+                "BudgetYearOne": {
+                    "val": "-13.194"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-13.194"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "-0.021"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.024"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "-4.946"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.455"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-1.289"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-13.194"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-13.194"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "Reduction in FY13 Other Adjustments was due to Sequestration.\nReduction in FY14 due to Congressionally directed program decrease.\nReduction in FY15 due to higher Air Force priorities."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "674802"
+                    },
+                    "ProjectTitle": {
+                        "val": "DELIBERATE AND CRISIS ACTION PLANNING AND EXECUTION SEGMENT (DCAPES)"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "0.000"
+                        },
+                        "PriorYear": {
+                            "val": "13.925"
+                        },
+                        "CurrentYear": {
+                            "val": "10.111"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.821"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.821"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "16.907"
+                        },
+                        "BudgetYearThree": {
+                            "val": "16.351"
+                        },
+                        "BudgetYearFour": {
+                            "val": "14.578"
+                        },
+                        "BudgetYearFive": {
+                            "val": "14.855"
+                        },
+                        "CostToComplete": {
+                            "val": "76.900"
+                        },
+                        "TotalCost": {
+                            "val": "164.448"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectNote": {
+                            "val": "This program has been designated an ACAT IAC program. OSD had not yet assigned a PNO number prior to submission of the 15PB documentation. Future budget documents submissions will separate DCAPES from other program efforts within PE."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Deliberate and Crisis Action Planning and Execution Segments (DCAPES) is a system being developed as the next-generation Air Force interface to the Joint Operational Planning and Execution System (JOPES).  DCAPES is the Air Force's single system to present, plan, source, mobilize, deploy, account for, sustain, redeploy, and reconstitute forces for contingency and crisis operations.   This system provides a real time, two way interchange of personnel, manpower, logistics, and operational data between the Air Force and the warfighting Combatant Commanders.   It matches people, cargo, and airframes\/weapon systems to the Combatant Commander's warfighting requirements.  Acquisition of this system supports the Air Force's expeditionary force concept.\n\nLOGFAC is a Web-enabled application that resides on Global Combat Support System (GCSS-AF) infrastructure and supports logistics \/ operational planning staffs at the HQ Air Staff, MAJCOM and Unit levels by determining wartime consumables and pre-positioning of AF assets for deliberate planning based on the War Mobilization Plan, Volume 4 (WMP-4).\n\nDevelopment activities include Logistics Module\/Manpower and Personnel Module-Base (LOGMOD\/MANPER B), War and Mobilization Planning (WMP), Enhanced Contingency Rotational AEF SchedulingTool (ECAST), Web Enablement, and JOPES Modernization Migration.  Activities also include studies and analysis to support both current program planning and execution and future program planning to modify systems to consume authoritative force structure from Global Force Management-Data Initiative (GFM-DI) organizational servers, linking the identifiers to or replacing current identifiers and, as applicable, exposing the data in a net-centric fashion. Requirements validated with the Capability Development Document for DCAPES dated 2 June 2006. \n\nThis effort is an evolutionary follow-on to the Contingency Operations Mobility Planning and Execution System (COMPES).  DCAPES replaced the operational tasking and priorities functionality of COMPES with modern relational databases, integrated-distributed database, and common and shared data consistent with the joint vision for integrated command and control.  DCAPES is intended to provide a command and control capability by exchanging data with a range of planning support systems to provide a more effective force projection capability for a wider range of operational scenarios and will fully support the force provider function of the AF Forces (AFFOR) commander.  DCAPES along with numerous other war planning support legacy systems are transitioning into a net-centric Service Oriented Architecture (SOA) environment via a War Planning and Execution System (WPES) management construct.\n\nActivities include studies and analysis to support current program planning and execution, and future program planning.\n\nThis program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Increment 2a, Loosely Couple DCAPES\/JOPES Interfaces"
+                                    },
+                                    "Description": {
+                                        "val": "Increment 2a includes Loose Coupling between Deliberate and Crisis Action Planning and Execution Segment (DCAPES) and Joint Operational Planning and Execution System (JOPES), Infrastructure Support, and Business Intelligence. Increment 2a also includes requirements definition, prototyping, development, testing, interoperability, sustainment, and service oriented architecture transition."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "11.785"
+                                            },
+                                            "Text": {
+                                                "val": "Fielded v4222, part 1 of 2 loose coupling releases. Delivered loose coupling release 2 of 2, patch v5002 to Global Command and Control System (GCCS), the application host, for development and operational testing. Addressed critical warfighter requirements and maintained interoperability with JOPES."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "8.806"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct part 2 of 2 for loose coupling (v5002) from JOPES, developmental test, and regression test.  Correct any defects from loose coupling testing. Continue increment 2a which includes, in addition to loose coupling, Infrastructure Support and Business Intelligence."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.771"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.771"
+                                            },
+                                            "Text": {
+                                                "val": "Complete the Business Intelligence technical refresh. Complete and maintain builds for infrastructure."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Logistic Feasibility Analysis Capability (LOGFAC) v 3.1 release"
+                                    },
+                                    "Description": {
+                                        "val": "Release of LOGFAC 3.1 establishes new capabilities including streamlined web-services with partnered programs, including DCAPES, to pull real-time MEFPAK data. LOGFAC v3.1 also adds the capability to perform Unit Type Code (UTC) analysis for feasibility of deployment. The new UTC compare function analyzes equipment and consumables available against a specific UTC to determine shortfalls that may prevent deployment."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.140"
+                                            },
+                                            "Text": {
+                                                "val": "LOGFAC v3.0 and v3.1 continued development with v3.0 and regression testing."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.305"
+                                            },
+                                            "Text": {
+                                                "val": "LOGFAC v3.0 Development and Operational Testing with fielding set to occur near the end of FY14. LOGFAC v3.1 Development continuing as well as internal regression testing."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.050"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.050"
+                                            },
+                                            "Text": {
+                                                "val": "Final development and testing to continue. Final fielding of LOGFAC v3.1 to be completed in FY16."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "NA"
+                                    },
+                                    "Title": {
+                                        "val": "NA"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "0.000"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The program uses an evolutionary acquisition strategy with incremental development with multiple software releases to accommodate refinement and prioritization of user requirements and improve adaptability with commercial technology."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Increment 2a"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Computer Science Corp."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "6.152"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-06"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "3.624"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-06"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "9.776"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Infrastructure \/ Integration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DATUM Software Inc."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "John Creek, GA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.923"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.937"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.860"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES BI Tools \/ Tech Refresh"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Array IT"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Greenbelt, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.994"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.994"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Architecture Documentation Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Copper River IT"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Anchorage, AK"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.288"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-06"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.380"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-06"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.668"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC S\/W Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Harris IT services Corp."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dulles, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.559"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.757"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-08"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.316"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Architecture Documentation Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cooper River IT"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Anchorage, AK"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.072"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.095"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-06"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.167"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Contract Acquisition\/Logistic Functional Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "OASIS Systems Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Lexington, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.530"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-04"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.795"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.425"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Contract Cost Analysis Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Tecolote Research, Inc."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Goleta, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.278"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.278"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.022"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.022"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.578"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Contract Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Jacobs Technology, Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Lincoln, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.266"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-05"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.383"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.749"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES FFRDC (Engineering)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Mitre"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Bedford, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.535"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.412"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.047"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Contract Requirement Management Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Certified Tech. Expert"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Montgomery, Al"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.198"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-07"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.248"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-07"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.075"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.075"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.521"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Contract System Security-Information Assurance"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Centech Group"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.201"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.201"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Contract Sys Integration\/Tech Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.514"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-09"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.694"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-09"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.068"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.068"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.276"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Licenses Software\/Hardware"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.156"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES SIPRNET Comm. Line-Information Assurance"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.079"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.235"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Contract Acquisition \/ Logistics Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Oasis Systems Inc."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Lexington, KY"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.028"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-04"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.042"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.070"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Contract Cost Analysis Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Tecolote Research Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Goleta, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.031"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.031"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.062"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Contract Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Jacobs Technology Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Lincoln, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.030"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-05"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.043"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.073"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Contract Requirement Mgmt Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Certified Technical Experts"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Montgomery, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.022"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-09"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.028"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-09"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.050"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Contract Systems Security \/ IA Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Centech Group Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.050"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.050"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC FFRDC"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Bedford, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.058"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.046"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.104"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Development Test and Evaluation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "46 Test Sqdn"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Eglin AFB, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.641"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.292"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.070"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.070"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.003"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Operational Test and Evaluation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "605 Test Sqdn"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Hurlburt Field, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.092"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.092"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.184"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES Interoperability Testing and Evaluation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DISA JITC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft Hauchuca, AZ"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.039"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-08"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.494"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.533"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "DCAPES User Test Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.096"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.020"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.080"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.080"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.196"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Development Test and Evaluation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "46 Test Sqdn"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Eglin AFB, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.194"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.125"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.030"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.030"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.349"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Operational Test and Evaluation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "605 Test Sqdn"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Hurlburt Field, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.031"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.031"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.062"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC Interoperability Testing and Evaluation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DISA JICT"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft Hauchuca, AZ"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.108"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.108"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LOGFAC User Test Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.024"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.020"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.020"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.044"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "APPN_3600_BA_07_PE_0207452F_BPAC_674802_0.jpg"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "DCAPES Increment 2A"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v4.1.2.0 Sustainment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v4.2.2.2 (JOPES Inbound) Dev\/Ops Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v4.2.2.2 (JOPES Inbound) Certification\/Accreditation\/Fielding"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v4.2.2.2 (JOPES Inbound) Sustainment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v5.0.0.2 (JOPES Outbound) Design\/Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v5.0.0.2 (JOPES Outbound)  Dev\/Ops Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v5.0.0.2 (JOPES Outbound) Certification\/Accreditation\/Feilding"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "-- v5.0.0.2 (JOPES Outbound) Loose Coupling Achieved"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "--- v5.0.0.2 (JOPES Outbound)  Sustainment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Infrastructure and Integration Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Business Intelligence"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.0 Design\/Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.0 Dev\/Ops Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.0 Certification\/Accreditation\/Fielding"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.0 Sustainment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.1 Design\/Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.1 Dev\/Ops Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.1 Certification\/Accreditation\/Fielding"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LOGFAC 3.1 Sustainment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

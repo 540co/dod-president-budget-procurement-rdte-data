@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?><Workbook xmlns:x="urn:schemas-microsoft-com:office:excel"
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40"
+          xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb"
+          xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement"
+          xmlns:o="urn:schemas-microsoft-com:office:office">
+   <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"
+                       xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/jb"
+                       xmlns:r2a="http://www.dtic.mil/comptroller/xml/schema/r2a"
+                       xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/r2">
+      <Author>Comptroller XML Exhibits System</Author>
+      <Title>Exhibit P-1D</Title>
+      <Created>2016-01-11T08:35:10.602-05:00</Created>
+      <Company>DTIC</Company>
+      <Version>1.2</Version>
+   </DocumentProperties>
+   <ExcelWorkbook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/jb"
+                  xmlns:r2a="http://www.dtic.mil/comptroller/xml/schema/r2a"
+                  xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/r2"
+                  xmlns="urn:schemas-microsoft-com:office:excel">
+      <WindowHeight>10000</WindowHeight>
+      <WindowWidth>10000</WindowWidth>
+      <WindowTopX>120</WindowTopX>
+      <WindowTopY>30</WindowTopY>
+      <ProtectStructure>False</ProtectStructure>
+      <ProtectWindows>False</ProtectWindows>
+   </ExcelWorkbook>
+   <Styles xmlns:a="urn:schemas-microsoft-com:office:spreadsheet">
+      <Style ss:ID="Default" ss:Name="Normal">
+        <Alignment ss:Vertical="Bottom"/>
+        <Borders/>
+        <Font/>
+        <Interior/>
+        <NumberFormat/>
+        <Protection/>
+      </Style>
+      <Style ss:ID="title">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+        <Font x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+      </Style>
+      <Style ss:ID="m149115748">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Bold="1"/>
+        <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s21">
+        <Font ss:Size="9"/>
+      </Style>
+      <Style ss:ID="s24">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Bold="1"/>
+        <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s78">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s83">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s87">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Color="#000000"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s88">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Color="#000000"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluecenter">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluerightquant">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluerightval">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluecenter">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluerightquant">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluerightval">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementcenter">
+        <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementrightcount">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementrightmoney">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s80">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+        <NumberFormat ss:Format="#,###"/>
+      </Style>
+      <Style ss:ID="s80d">
+        <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+      </Style>
+      <Style ss:ID="Default-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders/>
+        <Font/>
+        <Interior/>
+        <NumberFormat/>
+        <Protection/>
+      </Style>
+      <Style ss:ID="title-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Font x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+      </Style>
+      <Style ss:ID="m149115748-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Bold="1"/>
+        <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s21-left">
+        <Font ss:Size="9"/>
+      </Style>
+      <Style ss:ID="s24-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Bold="1"/>
+        <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s78-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s83-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s87-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Color="#000000"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s88-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Color="#000000"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluecenter-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluerightquant-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluerightval-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluecenter-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluerightquant-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluerightval-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementcenter-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementrightcount-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementrightmoney-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s80-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+        <NumberFormat ss:Format="#,###"/>
+      </Style>
+      <Style ss:ID="s80d-left">
+        <Alignment ss:Horizontal="Left"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+      </Style>
+      <Style ss:ID="Default-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders/>
+        <Font/>
+        <Interior/>
+        <NumberFormat/>
+        <Protection/>
+      </Style>
+      <Style ss:ID="title-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Font x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+      </Style>
+      <Style ss:ID="m149115748-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Bold="1"/>
+        <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s21-center">
+        <Font ss:Size="9"/>
+      </Style>
+      <Style ss:ID="s24-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Bold="1"/>
+        <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s78-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s83-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s87-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Color="#000000"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s88-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font ss:Size="9" ss:Color="#000000"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluecenter-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluerightquant-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="categoryvaluerightval-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#E0F0FF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluecenter-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluerightquant-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="subcategoryvaluerightval-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#CAD8E6" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementcenter-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementrightcount-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,###"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="costelementrightmoney-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+        <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="s80-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+        <NumberFormat ss:Format="#,###"/>
+      </Style>
+      <Style ss:ID="s80d-center">
+        <Alignment ss:Horizontal="Center"/>
+        <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        </Borders>
+        <Font x:Family="Swiss" ss:Size="9"/>
+        <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+        <NumberFormat ss:Format="#,##0.000"/>
+      </Style>
+   </Styles>
+   <Worksheet ss:Name="P-1D">
+      <Table x:FullColumns="1" x:FullRows="1" ss:StyleID="s21" ss:DefaultRowHeight="12">
+         <Column ss:StyleID="s21" ss:Width="145"/>
+         <Column ss:StyleID="s21" ss:Width="80"/>
+         <Column ss:StyleID="s21" ss:Width="32"/>
+         <Column ss:StyleID="s21" ss:Width="140"/>
+         <Column ss:StyleID="s21" ss:Width="200"/>
+         <Column ss:StyleID="s21" ss:Width="28"/>
+         <Column ss:StyleID="s21" ss:Width="50"/>
+         <Column ss:StyleID="s21" ss:Width="150"/>
+         <Column ss:StyleID="s21" ss:Width="72"/>
+         <Column ss:StyleID="s21" ss:Width="50"/>
+         <Column ss:StyleID="s21" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:Width="100"/>
+         <Column ss:StyleID="s21" ss:Width="300"/>
+         <Column ss:StyleID="s21" ss:Width="60"/>
+         <Column ss:StyleID="s21" ss:Width="60"/>
+         <Column ss:StyleID="s21" ss:Width="160"/>
+         <Column ss:StyleID="s21" ss:Width="300"/>
+         <Column ss:StyleID="s21" ss:Width="70"/>
+         <Column ss:StyleID="s21" ss:Width="300"/>
+         <Column ss:StyleID="s21" ss:Width="150"/>
+         <Column ss:StyleID="s21" ss:Width="300"/>
+         <Column ss:StyleID="s21" ss:Width="60"/>
+         <Column ss:StyleID="s21" ss:Width="75"/>
+         <Column ss:StyleID="s21" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:Width="300"/>
+         <Column ss:StyleID="s21" ss:Width="75"/>
+         <Column ss:StyleID="s21" ss:Width="300"/>
+         <Column ss:StyleID="s21" ss:Width="300"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="110"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="250"/>
+         <Column ss:StyleID="s21" ss:AutoFitWidth="1" ss:Width="500"/>
+         <Row xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/jb"
+              xmlns:r2a="http://www.dtic.mil/comptroller/xml/schema/r2a"
+              xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/r2"
+              ss:AutoFitHeight="0"
+              ss:Height="15.75">
+            <Cell ss:MergeAcross="45" ss:StyleID="title">
+               <Data ss:Type="String">Defense Contract Audit Agency • President's Budget Submission FY 2017 • Procurement</Data>
+            </Cell>
+         </Row>
+         <Row xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/jb"
+              xmlns:r2a="http://www.dtic.mil/comptroller/xml/schema/r2a"
+              xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/r2"
+              ss:AutoFitHeight="0"
+              ss:Height="15.75">
+            <Cell ss:MergeAcross="45" ss:StyleID="title">
+               <Data ss:Type="String">Exhibit P-1D</Data>
+            </Cell>
+         </Row>
+         <Row xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/jb"
+              xmlns:r2a="http://www.dtic.mil/comptroller/xml/schema/r2a"
+              xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/r2"
+              ss:AutoFitHeight="0"
+              ss:Height="15.75">
+            <Cell ss:MergeAcross="45"/>
+         </Row>
+         <Row xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/jb"
+              xmlns:r2a="http://www.dtic.mil/comptroller/xml/schema/r2a"
+              xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/r2"
+              ss:AutoFitHeight="0"
+              ss:Height="15.75">
+            <Cell ss:MergeAcross="45"/>
+         </Row>
+         <Row ss:AutoFitHeight="0">
+            <Cell ss:MergeAcross="43" ss:StyleID="Default"/>
+            <Cell ss:MergeAcross="23" ss:StyleID="m149115748">
+               <Data ss:Type="String">Cost </Data>
+            </Cell>
+         </Row>
+         <Row ss:AutoFitHeight="0">
+            <Cell ss:MergeAcross="43" ss:StyleID="Default"/>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">Prior Years</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2015</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2016</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2017 Base</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2017 OCO</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2017 Total</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2018</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2019</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2020</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">FY 2021</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">To Complete</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="s24">
+               <Data ss:Type="String">Total</Data>
+            </Cell>
+         </Row>
+         <Row ss:AutoFitHeight="0">
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Type</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Exhibits</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">APP #</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">APP Title</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Service / Agency</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">BA #</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">ID Code</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">BA Title</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Line #</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">BSA #</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">BSA Title</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Line Item #</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Line Item Title</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">MDAP</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Cost Type</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Cost Type Title</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Item Group</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Is Modification?</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Item Category</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Item Number</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Item Name</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">DODIC</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Item MDAP</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Cost Element Category</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Cost Element Category Name</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Recurrence</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Cost Element Name</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Sub Cost Element Name</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Prior Years Delta</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Mod Item Group</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Mod Item Group MDAP</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Mod Type</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Mod Item Number</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Mod Item Name</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Kit Type</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Kit Name / Support Cost Element</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Spares Name</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Spares Type</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Spares BA #</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Spares BA Title</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Spares Line Item #</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Spares Line Item Title</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Spares MDAP Code</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Description</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Quantity</Data>
+            </Cell>
+            <Cell ss:StyleID="s24">
+               <Data ss:Type="String">Amount</Data>
+            </Cell>
+         </Row>
+         <Row ss:AutoFitHeight="0">
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">P-40</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">Exhibits P-40</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">0300D</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">Procurement, Defense-Wide</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">Defense Contract Audit Agency</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">01</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">B</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">Major Equipment</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String">1</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">11</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">Major Equipment, DCAA</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">0901516R</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String">Weapon System Cost</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s78-left">
+               <ss:Data ss:Type="String">These funds provide for the purchase of the latest technologically advanced electronic information technology equipment to support DCAA's contract audit mission.  In order to efficiently perform our audit reviews, it is essential that DCAA auditors be provided with equipment and software that are compatible with defense contractors' information technology systems, that provide access to the Agency's Management Information System and to the Internet for researching audit issues, and that provide the capability to securely electronically transmit and receive audit documents.  In addition, up-to-date equipment is needed to satisfy the hardware/software/communication requirements for Information Assurance compliance as well as to interface with a variety of DoD standard systems such as:  Defense Business Management System (DBMS), Defense Civilian Personnel Data System (DCPDS), Defense Civilian Pay System (DCPS), Defense Property Accountability System (DPAS), Defense Travel System (DTS), Program Budget and Accounting System (PBAS), and the Standard Procurement System (SPS).  Procurement funds will be applied to the continued upgrading of DCAA's Integrated Information Network automation efforts.
+
+FY 2015
+DCAA Integrated Information Network. ($1.594 million)  In FY 2015, funding in the amount of $1,389,000 is required to support the Agency's communication projects involving access to DoD standard systems and to the Internet and World Wide Web.  Funding in the amount of $205,000 is required for the replacement of local area network servers that have reached the end of their useful systems life.  The components will replace those that are technologically obsolete and no longer capable of running current applications software or that are non-operational and the cost to repair exceeds the cost to replace.  
+
+FY 2016
+DCAA Integrated Information Network. ($1.488 million)  In FY 2016, funding in the amount of $900,000 is required to support the Agency's communication projects involving access to DoD standard systems and to the Internet and World Wide Web.  Funding in the amount of $450,000 is required for the replacement of local area network servers that have reached the end of their useful systems life.  The components will replace those that are technologically obsolete and no longer capable of running current applications software or that are non-operational and the cost to repair exceeds the cost to replace.  Funding in the amount of $138,000 is required to replace 1/3 of the Agency's peripherals that have become technologically obsolete and the cost to repair exceeds the cost to replace.  
+
+FY 2017
+DCAA Integrated Information Network. ($2.964 million)  In FY 2017, funding in the amount of $700,000 is required to support the Agency's communication projects involving access to DoD standard systems and to the Internet and World Wide Web.  Funding in the amount of $750,000 is required for the replacement of local area network servers that have reached the end of their useful systems life and storage to meet DoD requirements.  The components will replace those that are technologically obsolete and no longer capable of running current applications software or that are non-operational and the cost to repair exceeds the cost to replace.  Funding in the amount of $138,000 is required to replace 1/3 of the Agency's peripherals that have become technologically obsolete and the cost to repair exceeds the cost to replace.  Funding in the amount of $1,376,000 is required for the replacement of the software used by  DCAA to aid in the creation and building of the audits DCAA produces. This investment in our audit software will allow us to capitalize on industry best practices and collaborate more efficiently on the larger audits we are facing; we will be able to increase efficiencies and refocus efforts to other critical mission areas.</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">1.594</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">1.488</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">2.964</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">2.964</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s80d">
+               <ss:Data ss:Type="Number">11.946</ss:Data>
+            </ss:Cell>
+         </Row>
+         <ss:Row ss:AutoFitHeight="0">
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">P-40A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">Exhibits P-40a</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">0300D</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">Procurement, Defense-Wide</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">Defense Contract Audit Agency</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">01</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">Major Equipment</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String">1</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">11</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">Major Equipment, DCAA</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">0901516R</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String">Weapon System Cost</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s83-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">1.594</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">1.488</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">2.964</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">2.964</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s88">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="s87">
+               <ss:Data ss:Type="Number">11.946</ss:Data>
+            </ss:Cell>
+         </ss:Row>
+         <ss:Row ss:AutoFitHeight="0">
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">Category</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">Exhibits P-40a</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">0300D</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">Procurement, Defense-Wide</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">Defense Contract Audit Agency</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">01</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">Major Equipment</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String">1</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">11</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">Major Equipment, DCAA</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">0901516R</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String">Weapon System Cost</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluecenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">1.594</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">1.488</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">2.964</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">2.964</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">1.475</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightquant">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="categoryvaluerightval">
+               <ss:Data ss:Type="Number">11.946</ss:Data>
+            </ss:Cell>
+         </ss:Row>
+         <ss:Row ss:AutoFitHeight="0">
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Item</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Exhibits P-40a</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0300D</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Procurement, Defense-Wide</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Defense Contract Audit Agency</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">01</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">1</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">11</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment, DCAA</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0901516R</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Weapon System Cost</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">Wide Area Network</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.205</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.450</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.750</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.750</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.638</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.638</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.638</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.638</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">3.957</ss:Data>
+            </ss:Cell>
+         </ss:Row>
+         <ss:Row ss:AutoFitHeight="0">
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Item</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Exhibits P-40a</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0300D</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Procurement, Defense-Wide</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Defense Contract Audit Agency</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">01</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">1</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">11</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment, DCAA</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0901516R</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Weapon System Cost</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">WAN Peripherals</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.138</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.138</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.138</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.137</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.137</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.137</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.137</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.824</ss:Data>
+            </ss:Cell>
+         </ss:Row>
+         <ss:Row ss:AutoFitHeight="0">
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Item</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Exhibits P-40a</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0300D</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Procurement, Defense-Wide</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Defense Contract Audit Agency</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">01</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">1</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">11</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment, DCAA</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0901516R</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Weapon System Cost</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">Communications</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">1.389</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.900</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.700</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.700</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.700</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.700</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.700</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">0.700</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">5.789</ss:Data>
+            </ss:Cell>
+         </ss:Row>
+         <ss:Row ss:AutoFitHeight="0">
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Item</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Exhibits P-40a</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0300D</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Procurement, Defense-Wide</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Defense Contract Audit Agency</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">01</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">1</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">11</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Major Equipment, DCAA</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">0901516R</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">A</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String">Weapon System Cost</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">DCAA Major Equipment, items less than $5 million</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String">Defense Management Information System</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementcenter-left">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">1.376</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">1.376</ss:Data>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="String"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightcount">
+               <ss:Data ss:Type="Number"/>
+            </ss:Cell>
+            <ss:Cell ss:StyleID="costelementrightmoney">
+               <ss:Data ss:Type="Number">1.376</ss:Data>
+            </ss:Cell>
+         </ss:Row>
+      </Table>
+      <WorksheetOptions xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/jb"
+                        xmlns:r2a="http://www.dtic.mil/comptroller/xml/schema/r2a"
+                        xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/r2"
+                        xmlns="urn:schemas-microsoft-com:office:excel">
+         <PageSetup>
+            <Layout x:Orientation="Landscape" x:CenterHorizontal="1" x:CenterVertical="0"/>
+            <Header x:Data="&amp;C&amp;&#34;Arial,Bold&#34;&amp;12UNCLASSIFIED"/>
+            <Footer x:Data="&amp;C&amp;&#34;Arial,Bold&#34;&amp;12UNCLASSIFIED&#xA;Page &amp;P of  &amp;N"/>
+            <PageMargins x:Left="1" x:Right="1"/>
+         </PageSetup>
+         <FitToPage/>
+         <Print>
+            <FitHeight>0</FitHeight>
+            <ValidPrinterInfo/>
+            <FitWidth>1</FitWidth>
+            <HorizontalResolution>600</HorizontalResolution>
+            <VerticalResolution>600</VerticalResolution>
+         </Print>
+         <PageBreakZoom>60</PageBreakZoom>
+         <Selected/>
+         <ProtectObjects>False</ProtectObjects>
+         <ProtectScenarios>False</ProtectScenarios>
+         <FreezePanes/>
+         <FrozenNoSplit/>
+         <SplitHorizontal>7</SplitHorizontal>
+         <TopRowBottomPane>7</TopRowBottomPane>
+      </WorksheetOptions>
+   </Worksheet>
+</Workbook>

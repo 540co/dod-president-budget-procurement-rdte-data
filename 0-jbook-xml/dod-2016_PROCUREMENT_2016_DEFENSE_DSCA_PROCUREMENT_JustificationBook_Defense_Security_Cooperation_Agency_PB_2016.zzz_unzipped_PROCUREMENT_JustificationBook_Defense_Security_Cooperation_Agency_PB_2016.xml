@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2016</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2015-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Defense Security Cooperation Agency</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>Procurement Report - P-1.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+        <jb:IncludeTableOfVolumes>true</jb:IncludeTableOfVolumes>
+        <jb:IncludeMasterLineItemTocByTitle>true</jb:IncludeMasterLineItemTocByTitle>
+        <jb:IncludeMasterLineItemTocByBA>true</jb:IncludeMasterLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>20</proc:LineItemNumber>
+            <proc:LineItemTitle>Equipment</proc:LineItemTitle>
+            <proc:P1LineNumber>19</proc:P1LineNumber>
+            <proc:BudgetYear>2016</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2015-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Defense Security Cooperation Agency</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>24</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, Defense Security Cooperation Agency</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:TotalCost>
+                    <proc:PriorYear>0.978</proc:PriorYear>
+                </proc:TotalCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>0.978</proc:PriorYear>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>0.978</proc:PriorYear>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:Description>Funding allowed for the Asia Pacific Center for Strategic Studies (APCSS) Rooftop Photovoltaic (PV) installation.  Contract for the install Grid-connected PV systems consisting of rooftop solar panels, a central outdoor grid-tie inverter, and monitoring, metering, interconnection and maintenance services.</proc:Description>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>expandItemSuppressExhibit</proc:p40AItemScheduleSetting>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

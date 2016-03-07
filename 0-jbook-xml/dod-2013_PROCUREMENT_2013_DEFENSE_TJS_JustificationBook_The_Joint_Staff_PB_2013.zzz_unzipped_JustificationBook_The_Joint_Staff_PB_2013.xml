@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>The Joint Staff</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>P-1C FY13 PB.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>44</proc:LineItemNumber>
+            <proc:LineItemTitle>Major Equipment</proc:LineItemTitle>
+            <proc:P1LineItemNumber>44</proc:P1LineItemNumber>
+            <proc:BudgetYear>2013</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2012-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>The Joint Staff</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>15</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, TJS</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>11.462</proc:PriorYear>
+                    <proc:CurrentYear>29.729</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>21.878</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>21.878</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>19.064</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>19.005</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>21.853</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>19.419</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>11.462</proc:PriorYear>
+                    <proc:CurrentYear>29.729</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>21.878</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>21.878</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>19.064</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>19.005</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>21.853</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>19.419</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>11.462</proc:PriorYear>
+                    <proc:CurrentYear>29.729</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>21.878</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>21.878</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>19.064</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>19.005</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>21.853</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>19.419</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Code>A</proc:Code>
+            <proc:Description>The Joint Staff major equipment includes the following programs:
+
+1.  Joint Staff Activities: Supports former US Joint Forces Command (USJFCOM) critical functions reassigned to the Joint Staff necessary to maintain essential joint capability, including: Joint Force Provider, Joint Force Trainer, Joint Force Enabler, Concept Development and Experimentation and Joint Force Integrator.  
+
+2.  Joint Staff Analytical Support (JSAS): These programs provide defense analytical support capabilities for the CJCS and COCOMs. JSAS encompasses the developmental tools and infrastructure required to conduct analyses and formulate the results to best assist the Chairman in fulfilling his statutory responsibilities. Key deliverables provided by JSAS include wide-ranging force structure assessments, course of action development for the Joint Force environment, analyses and studies to aid in decision-making, and other analysis efforts to implement timely, low-cost initiatives.  
+
+3.  Planning and Decision Aid System (PDAS): A classified, protected program under the Secretary of Defense. PDAS supports the planning and execution of Integrated Joint Special Technical Operations.
+
+4.  Joint Analytical Model Improvement Program (JAMIP): A co-sponsored analytic agenda program and supports strategic analysis for the entire Department of Defense and enables the Joint Data Support (JDS) program.  The Joint Data Support program supports OSD and Joint Staff management of DOD’s Analytic Agenda.  This includes support to DoD-level study teams developing Defense Planning Scenarios (DPS), Multi-Service Forces Data (MSFD), and Current and Future Year Analytical Baselines.  Components use these Analytic Agenda products as starting points for analyses supporting their planning, programming, and acquisition efforts.  JDS is the central source of campaign/theater level data used by the Services, Joint Staff, the Combatant Commands (COCOMs), and the Office of the Secretary of Defense (OSD) in studies and analysis.  Also, JDS develops and fields the Current Forces Database and Future Forces Database, which contain current year and Program Objective Memorandum (POM) projected US forces, units, and equipment data.
+
+5.  Management Headquarters: Management Headquarters provides the day-to-day financial resources necessary to support Joint Staff operations and the Joint Staff Information Network (JSIN). JSIN is the network infrastructure (for both classified and unclassified information) supporting the Chairman of the Joint Chiefs of Staff and the Joint Staff enabling collaboration and information-sharing among the Joint Staff, COCOMs, Agencies, and Services. It provides information management resources and an application required for decision superiority, and empowers the Joint Staff as a knowledge-enabled organization.  The JSIN accomplishes this through a collection of capabilities and services.  JSIN is comprised of three integrated networks that serve Top Secret (JWICS), Secret (SIPRNET), and combined internal and external unclassified (NIPRNET) collaboration needs. The major capabilities of JSIN include an office automation suite, collaboration, workflow, information archiving, and document retrieval.  The most critical of these is staff action processing (decision making) for faster coordination of critical classified and unclassified issues between the CJCS, Joint Staff, and the COCOMs, Services and Agencies.  JSIN's other key services include strategic geographical information services, office automation, collaborative planning, automated message handling, local area networking, electronic mail, financial management, contract management, manpower and personnel management, and record management. The Joint Staff’s continued service contracts streamline JS IT support processes with 24/7 availability. 
+
+
+</proc:Description>
+            <proc:ItemExhibitList>
+                <proc:P5Item>
+                    <proc:Name>Major Equipment, TJS</proc:Name>
+                    <proc:ResourceSummary>
+                        <proc:GrossWeaponSystemCost>
+                            <proc:PriorYear>11.462</proc:PriorYear>
+                            <proc:CurrentYear>29.729</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>21.878</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>21.878</proc:BudgetYearOne>
+                        </proc:GrossWeaponSystemCost>
+                        <proc:NetProcurementP1>
+                            <proc:PriorYear>11.462</proc:PriorYear>
+                            <proc:CurrentYear>29.729</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>21.878</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>21.878</proc:BudgetYearOne>
+                        </proc:NetProcurementP1>
+                        <proc:TotalObligationAuthority>
+                            <proc:PriorYear>11.462</proc:PriorYear>
+                            <proc:CurrentYear>29.729</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>21.878</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>21.878</proc:BudgetYearOne>
+                        </proc:TotalObligationAuthority>
+                    </proc:ResourceSummary>
+                    <proc:CostElementCategoryList>
+                        <proc:Hardware>
+                            <proc:Recurring>
+                                <proc:CostElementList>
+                                    <proc:CostElement>
+                                        <proc:Name>Management HQ - OJCS (PE 0902298)</proc:Name>
+                                        <proc:Cost>
+                                            <proc:PriorYear>
+                                                <proc:TotalCost>9.879</proc:TotalCost>
+                                            </proc:PriorYear>
+                                            <proc:CurrentYear>
+                                                <proc:TotalCost>10.182</proc:TotalCost>
+                                            </proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>
+                                                <proc:TotalCost>10.983</proc:TotalCost>
+                                            </proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>
+                                                <proc:TotalCost>10.983</proc:TotalCost>
+                                            </proc:BudgetYearOne>
+                                        </proc:Cost>
+                                    </proc:CostElement>
+                                    <proc:CostElement>
+                                        <proc:Name>Joint Staff Analytical Support (PE 0204571J)</proc:Name>
+                                        <proc:Cost>
+                                            <proc:PriorYear>
+                                                <proc:TotalCost>0.031</proc:TotalCost>
+                                            </proc:PriorYear>
+                                            <proc:CurrentYear>
+                                                <proc:TotalCost>1.472</proc:TotalCost>
+                                            </proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>
+                                                <proc:TotalCost>2.7</proc:TotalCost>
+                                            </proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>
+                                                <proc:TotalCost>2.7</proc:TotalCost>
+                                            </proc:BudgetYearOne>
+                                        </proc:Cost>
+                                    </proc:CostElement>
+                                    <proc:CostElement>
+                                        <proc:Name>Planning and Decision Aid System (PE 0208043J)</proc:Name>
+                                        <proc:Cost>
+                                            <proc:PriorYear>
+                                                <proc:TotalCost>1.323</proc:TotalCost>
+                                            </proc:PriorYear>
+                                            <proc:CurrentYear>
+                                                <proc:TotalCost>1.389</proc:TotalCost>
+                                            </proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>
+                                                <proc:TotalCost>1</proc:TotalCost>
+                                            </proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>
+                                                <proc:TotalCost>1</proc:TotalCost>
+                                            </proc:BudgetYearOne>
+                                        </proc:Cost>
+                                    </proc:CostElement>
+                                    <proc:CostElement>
+                                        <proc:Name>Joint Staff Activities (PE 0201165J)</proc:Name>
+                                        <proc:Cost>
+                                            <proc:PriorYear>
+                                                <proc:TotalCost>0.000</proc:TotalCost>
+                                            </proc:PriorYear>
+                                            <proc:CurrentYear>
+                                                <proc:TotalCost>16.45</proc:TotalCost>
+                                            </proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>
+                                                <proc:TotalCost>7.195</proc:TotalCost>
+                                            </proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>
+                                                <proc:TotalCost>7.195</proc:TotalCost>
+                                            </proc:BudgetYearOne>
+                                        </proc:Cost>
+                                    </proc:CostElement>
+                                    <proc:CostElement>
+                                        <proc:Name>Joint Analytic Model Improvement Program (PE 0208052J</proc:Name>
+                                        <proc:Cost>
+                                            <proc:PriorYear>
+                                                <proc:TotalCost>0.229</proc:TotalCost>
+                                            </proc:PriorYear>
+                                            <proc:CurrentYear>
+                                                <proc:TotalCost>0.236</proc:TotalCost>
+                                            </proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>
+                                                <proc:TotalCost>0.000</proc:TotalCost>
+                                            </proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>
+                                                <proc:TotalCost>0.000</proc:TotalCost>
+                                            </proc:BudgetYearOne>
+                                        </proc:Cost>
+                                    </proc:CostElement>
+                                </proc:CostElementList>
+                            </proc:Recurring>
+                        </proc:Hardware>
+                    </proc:CostElementCategoryList>
+                </proc:P5Item>
+            </proc:ItemExhibitList>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

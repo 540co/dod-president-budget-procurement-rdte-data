@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Defense Security Cooperation Agency</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>DSCA FY13 Procurement P-1 Report.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Thousands" totalCostUnits="Millions">
+            <proc:LineItemNumber>10</proc:LineItemNumber>
+            <proc:LineItemTitle>Equipment</proc:LineItemTitle>
+            <proc:P1LineItemNumber>0025</proc:P1LineItemNumber>
+            <proc:BudgetYear>2013</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2012-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Defense Security Cooperation Agency</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>24</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, Defense Security Cooperation Agency</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:CurrentYear>0.971</proc:CurrentYear>
+                    <proc:BudgetYearTwo>0.978</proc:BudgetYearTwo>
+                    <proc:Total>1.949</proc:Total>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:CurrentYear>0.971</proc:CurrentYear>
+                    <proc:BudgetYearTwo>0.978</proc:BudgetYearTwo>
+                    <proc:Total>1.949</proc:Total>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:CurrentYear>0.971</proc:CurrentYear>
+                    <proc:BudgetYearTwo>0.978</proc:BudgetYearTwo>
+                    <proc:Total>1.949</proc:Total>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Code>B</proc:Code>
+            <proc:CodeBProgramElementList>
+                <proc:ProgramElementNumber>0800101T</proc:ProgramElementNumber>
+            </proc:CodeBProgramElementList>
+            <proc:Description>Funding Support the Photovoltaic (PV) system and life cycle replacement plans of information processing equipment associated with DSCA Regional Centers (RCs) operations.   Also funds the IT requirements associated with the expansion of conference and learning centers.  Outdated multimedia and projections systems will be replaced with up to date systems that allow the full capabilities of an electronic learning environment to be utilized. </proc:Description>
+            <proc:ItemExhibitList>
+                <proc:P40AItemGroup>
+                    <proc:Name>Photovoltaic (PV) system and life cycle replacement</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:Name>Equipment</proc:Name>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name> Equipment</proc:Name>
+                                    <proc:ItemNumber>0025</proc:ItemNumber>
+                                    <proc:IdCode>B</proc:IdCode>
+                                    <proc:ResourceSummary>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:CurrentYear>0.971</proc:CurrentYear>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+            </proc:ItemExhibitList>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

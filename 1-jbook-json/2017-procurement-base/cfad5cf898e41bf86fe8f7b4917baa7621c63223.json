@@ -1,0 +1,713 @@
+{
+    "id": "cfad5cf898e41bf86fe8f7b4917baa7621c63223",
+    "meta": {
+        "filename": "dod-2017_PROCUREMENT_2017_ARMY_WTCV_U_PROCUREMENT_JustificationBook_Army_PB_2017.zzz_unzipped_U_PROCUREMENT_JustificationBook_Army_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2033A",
+        "appropriation_name": "Procurement of W&TCV, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Monthly",
+        "@classification": "UNCLASSIFIED",
+        "LineItemNumber": {
+            "val": "G16101"
+        },
+        "LineItemTitle": {
+            "val": "Integrated Air Burst Weapon System Family"
+        },
+        "P1LineNumber": {
+            "val": "16"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2033A"
+        },
+        "AppropriationTitle": {
+            "val": "Procurement of W&TCV, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Weapons and Other Combat Vehicles"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "10"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Weapons & Other Combat Vehicles"
+        },
+        "ResourceSummary": {
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "0.78"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.764"
+                },
+                "BudgetYearOne": {
+                    "val": "9.764"
+                },
+                "BudgetYearTwo": {
+                    "val": "14.852"
+                },
+                "BudgetYearThree": {
+                    "val": "24.93"
+                },
+                "BudgetYearFour": {
+                    "val": "32.158"
+                },
+                "BudgetYearFive": {
+                    "val": "25.798"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "UnitCost": {
+                "BudgetYearOneBase": {
+                    "val": "92.99"
+                },
+                "BudgetYearOne": {
+                    "val": "92.99"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "0.78"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.764"
+                },
+                "BudgetYearOne": {
+                    "val": "9.764"
+                },
+                "BudgetYearTwo": {
+                    "val": "14.852"
+                },
+                "BudgetYearThree": {
+                    "val": "24.93"
+                },
+                "BudgetYearFour": {
+                    "val": "32.158"
+                },
+                "BudgetYearFive": {
+                    "val": "25.798"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "0.78"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.764"
+                },
+                "BudgetYearOne": {
+                    "val": "9.764"
+                },
+                "BudgetYearTwo": {
+                    "val": "14.852"
+                },
+                "BudgetYearThree": {
+                    "val": "24.93"
+                },
+                "BudgetYearFour": {
+                    "val": "32.158"
+                },
+                "BudgetYearFive": {
+                    "val": "25.798"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "Code": {
+            "val": "B"
+        },
+        "CodeBProgramElementList": {
+            "ProgramElementNumber": [
+                {
+                    "val": "0604601A"
+                }
+            ]
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "BudgetYearOneBase": {
+                                    "val": "9.764"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "9.764"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "7.872"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "13.213"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "17.365"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "15.479"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army National Guard"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "BudgetYearTwo": {
+                                    "val": "6.98"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "11.717"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "13.185"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "10.319"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army Reserve"
+                        },
+                        "Cost": {
+                            "Quantity": {
+                                "BudgetYearFour": {
+                                    "val": "31"
+                                }
+                            },
+                            "TotalCost": {
+                                "BudgetYearFour": {
+                                    "val": "1.608"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "Quantity": {
+                    "BudgetYearFour": {
+                        "val": "31"
+                    }
+                },
+                "TotalCost": {
+                    "BudgetYearOneBase": {
+                        "val": "9.764"
+                    },
+                    "BudgetYearOne": {
+                        "val": "9.764"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "14.852"
+                    },
+                    "BudgetYearThree": {
+                        "val": "24.93"
+                    },
+                    "BudgetYearFour": {
+                        "val": "32.158"
+                    },
+                    "BudgetYearFive": {
+                        "val": "25.798"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "The Maneuver Center of Excellence (MCoE), Ft Benning, GA (User Representative) identifies the XM25 as their number one materiel solution to mitigate a critical capability gap Counter Defilade Target Engagement (CDTE) for our Soldiers in combat (defeating defilade targets from 35-500m).  The XM25 fires 25mm high-explosive airburst (HEAB) munitions.  The XM25 comes with a target acquisition\/fire control that integrates thermal capability with direct-view optics, laser rangefinder, environmental sensors, fuze setter, ballistic computer, and internal display.  The XM25 has a 500-meter point target range and a 800-meter area target range capable of defeating defilade (hidden) targets."
+        },
+        "Justification": {
+            "val": "FY2017 Base procurement dollars in the amount of $9.764 million supports the Active Army by procuring 105 Low Rate Initial Production (LRIP) quantities under Type Classification Limited Procurement (TC-LP), to provide the Soldier with a leap-ahead technology to engage defilade targets with lethal precision.  The XM25 provides the Infantry Soldier with a leap-ahead overmatch capability to defeat targets protected from observation and direct fire by natural and\/or manmade cover such as terrain depressions, rock formations, foxholes, vehicles, walls, buildings and battlefield rubble.  The XM25 dramatically increases lethality, range, and capability through the use of 25mm ammunition.\n\nThe XM25 is a new start in FY 2017\n\nIn accordance with Section 1815 of the FY 2008 National Defense Authorization Act (P.L.110-181), this item is necessary for use by the active and reserve components of the Armed Forces for homeland defense missions, domestic emergency responses, and providing military support to civil authorities."
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "Integrated Air Burst Weapon System Family"
+                    },
+                    "ItemNumber": {
+                        "val": "G16101"
+                    },
+                    "IdCode": {
+                        "val": "B"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "9.764"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "9.764"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "0.78"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "9.764"
+                            },
+                            "BudgetYearOne": {
+                                "val": "9.764"
+                            }
+                        },
+                        "UnitCost": {
+                            "BudgetYearOneBase": {
+                                "val": "92.99"
+                            },
+                            "BudgetYearOne": {
+                                "val": "92.99"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "0.78"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "9.764"
+                            },
+                            "BudgetYearOne": {
+                                "val": "9.764"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "0.78"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "9.764"
+                            },
+                            "BudgetYearOne": {
+                                "val": "9.764"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Hardware": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "XM25 & TA\/FC Mfg & Sys Integration"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "105"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "105"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "4.332"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "4.332"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "41.257"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "41.257"
+                                                        }
+                                                    }
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "Alliant Techsystems (ATK)"
+                                                            },
+                                                            "Location": {
+                                                                "val": "Plymouth"
+                                                            },
+                                                            "MinimumSustainingRate": {
+                                                                "val": "8"
+                                                            },
+                                                            "MaximumProductionRate": {
+                                                                "val": "400"
+                                                            },
+                                                            "Rate185": {
+                                                                "val": "129"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "3"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "3"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "9"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "12"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2017"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "ACC-APG, Aberdeen, MD"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2016-12"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2017-09"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "105"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "41.257"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "false"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "SS"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        },
+                                                                        "MonthlyDeliveryScheduleList": {
+                                                                            "MonthlyDeliverySchedule": [
+                                                                                {
+                                                                                    "ServiceAgencyName": {
+                                                                                        "val": "Army"
+                                                                                    },
+                                                                                    "ProcQuantity": {
+                                                                                        "val": "105"
+                                                                                    },
+                                                                                    "MonthlyDeliveryList": {
+                                                                                        "MonthlyDelivery": [
+                                                                                            {
+                                                                                                "Month": {
+                                                                                                    "val": "2017-09"
+                                                                                                },
+                                                                                                "Amount": {
+                                                                                                    "val": "105.000"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "4.332"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "4.332"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "BudgetYearOneBase": {
+                                            "val": "4.332"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "4.332"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "PackageFielding": {
+                            "Recurring": {
+                                "CostElementList": {
+                                    "CostElement": [
+                                        {
+                                            "Name": {
+                                                "val": "Total Package Fielding (TPF)"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.325"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.325"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "New Equipment Training (NET)"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.325"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.325"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "BudgetYearOneBase": {
+                                            "val": "0.65"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.65"
+                                        }
+                                    }
+                                }
+                            },
+                            "CategorySubtotal": {
+                                "TotalCost": {
+                                    "BudgetYearOneBase": {
+                                        "val": "0.65"
+                                    },
+                                    "BudgetYearOne": {
+                                        "val": "0.65"
+                                    }
+                                }
+                            }
+                        },
+                        "Logistics": {
+                            "Recurring": {
+                                "CostElementList": {
+                                    "CostElement": [
+                                        {
+                                            "Name": {
+                                                "val": "Integrated Logistics Support (ILS)"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.235"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.235"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "BudgetYearOneBase": {
+                                            "val": "0.235"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.235"
+                                        }
+                                    }
+                                }
+                            },
+                            "CategorySubtotal": {
+                                "TotalCost": {
+                                    "BudgetYearOneBase": {
+                                        "val": "0.235"
+                                    },
+                                    "BudgetYearOne": {
+                                        "val": "0.235"
+                                    }
+                                }
+                            }
+                        },
+                        "Support": [
+                            {
+                                "CostElementList": {
+                                    "CostElement": [
+                                        {
+                                            "Name": {
+                                                "val": "Engineering Support in Production (ESIP)"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.675"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.675"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "Engineering Changes & System Eng"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "BudgetYearOneBase": {
+                                                        "val": "2.002"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "2.002"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "System Test & Evaluation"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "BudgetYearOneBase": {
+                                                        "val": "1.32"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "1.32"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "First Article Testing (FAT)"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.125"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.125"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "Program Management"
+                                            },
+                                            "Cost": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "0.78"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.425"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.425"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "0.78"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "4.547"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "4.547"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "item"
+            }
+        }
+    }
+}

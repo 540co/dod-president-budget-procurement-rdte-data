@@ -1,0 +1,784 @@
+{
+    "id": "78b6e60a9b8ca82c57127f5b7d652129e9cc7600",
+    "meta": {
+        "filename": "dod-2017_PROCUREMENT_2017_ARMY_OTHER_2_U_PROCUREMENT_JustificationBook_Army_PB_2017.zzz_unzipped_U_PROCUREMENT_JustificationBook_Army_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2035A",
+        "appropriation_name": "Other Procurement, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Monthly",
+        "@classification": "UNCLASSIFIED",
+        "LineItemNumber": {
+            "val": "BA9301"
+        },
+        "LineItemTitle": {
+            "val": "Network Management Initialization and Services"
+        },
+        "P1LineNumber": {
+            "val": "95"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2035A"
+        },
+        "AppropriationTitle": {
+            "val": "Other Procurement, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Communications and Electronics Equipment"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "89"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Elect Equip - Tactical C2 Systems"
+        },
+        "ResourceSummary": {
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "272.105"
+                },
+                "PriorYear": {
+                    "val": "21.524"
+                },
+                "CurrentYear": {
+                    "val": "12.738"
+                },
+                "BudgetYearOneBase": {
+                    "val": "11.063"
+                },
+                "BudgetYearOne": {
+                    "val": "11.063"
+                },
+                "BudgetYearTwo": {
+                    "val": "15.179"
+                },
+                "BudgetYearThree": {
+                    "val": "14.751"
+                },
+                "BudgetYearFour": {
+                    "val": "14.265"
+                },
+                "BudgetYearFive": {
+                    "val": "12.765"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "272.105"
+                },
+                "PriorYear": {
+                    "val": "21.524"
+                },
+                "CurrentYear": {
+                    "val": "12.738"
+                },
+                "BudgetYearOneBase": {
+                    "val": "11.063"
+                },
+                "BudgetYearOne": {
+                    "val": "11.063"
+                },
+                "BudgetYearTwo": {
+                    "val": "15.179"
+                },
+                "BudgetYearThree": {
+                    "val": "14.751"
+                },
+                "BudgetYearFour": {
+                    "val": "14.265"
+                },
+                "BudgetYearFive": {
+                    "val": "12.765"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "272.105"
+                },
+                "PriorYear": {
+                    "val": "21.524"
+                },
+                "CurrentYear": {
+                    "val": "12.738"
+                },
+                "BudgetYearOneBase": {
+                    "val": "11.063"
+                },
+                "BudgetYearOne": {
+                    "val": "11.063"
+                },
+                "BudgetYearTwo": {
+                    "val": "15.179"
+                },
+                "BudgetYearThree": {
+                    "val": "14.751"
+                },
+                "BudgetYearFour": {
+                    "val": "14.265"
+                },
+                "BudgetYearFive": {
+                    "val": "12.765"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "13.388"
+                                },
+                                "CurrentYear": {
+                                    "val": "8.953"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "7.595"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "7.595"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "10.195"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "10.017"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "9.791"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "9.075"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army National Guard"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "5.313"
+                                },
+                                "CurrentYear": {
+                                    "val": "2.472"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "2.265"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "2.265"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "3.255"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "3.092"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "2.922"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "2.41"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army Reserve"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "2.823"
+                                },
+                                "CurrentYear": {
+                                    "val": "1.313"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "1.203"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "1.203"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "1.729"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "1.642"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "1.552"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "1.28"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "TotalCost": {
+                    "PriorYear": {
+                        "val": "21.524"
+                    },
+                    "CurrentYear": {
+                        "val": "12.738"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "11.063"
+                    },
+                    "BudgetYearOne": {
+                        "val": "11.063"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "15.179"
+                    },
+                    "BudgetYearThree": {
+                        "val": "14.751"
+                    },
+                    "BudgetYearFour": {
+                        "val": "14.265"
+                    },
+                    "BudgetYearFive": {
+                        "val": "12.765"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "The Network Management Initialization and Services (NMIS) program supports the Army's objectives of an integrated Network Operations capability.  There are two components to the program:  \n\nThe Network Management System (NMS) project funds the Network Operations (NetOps) Trail Boss systems engineering support to converge NetOps and Cyber capabilities across the Assistant Secretary of the Army for Acquisition, Logistics, and Technology (ASA(ALT)) in order to enable improved network security and delivery of network operations services to the Generating Forces and Operating Forces of the Army. Integrated Cyber and NetOps capabilities support distributed operational NetOps responsibilities across the tactical and strategic components of the US Army enterprise network (LANDWARNET), simplify the network management environment for the tactical commander and the G6\/S6 staff, and eliminate both functional and material redundancies in order to achieve efficiencies in fielding.\n \nData Products are required to initialize Army Tactical Mission Command Systems.  Data Products are a collection of information\/data required to plan and initialize Mission Command Systems like Joint Battle Command - Platform (JBC-P), Command Post of the Future (CPOF) and other Army Mission Command Systems.  Information\/Data includes:  JBC-P database, Network Operation Center (NOC) databases, and Active Directory initialization files (e.g., Lightweight Directory Interchange Format (LDIFs)).  Data Products enable end-to-end network centric connectivity and interoperability across the tactical internet. AAO is N\/A."
+        },
+        "Justification": {
+            "val": "In FY2017, the NetOps Trail Boss will complete a 5 year roadmap for Public Key Infrastructure implementation. This roadmap will align the efforts of multiple Program efforts to enable this critical component of the Cyber Defensive Posture. The Trail Boss will also work integration of NetOps and Cyber program functionality with the Command Post Computing Environment to support version 3 deployment in FY19-20 timeframe. \n\nFY 2017 Base procurement dollars, in the amount of $3.985 million, provides Government, Federally Funded Research and Development Center (FFRDC), and contractor systems engineering support to execute the duties as an integration\/interoperability\/convergence manager for the Army's NetOps portfolio in accordance with the ASA(ALT) Integrated NetOps Trail Boss designation memo, dated 26 July 2012, in order to integrate and converge NetOps capabilities and provide more effective network capability to the Warfighter. These duties include conducting and documenting technical assessments of Cyber and NetOps capabilities and gaps; developing and coordinating NetOps capability roadmaps across key Army stakeholders; developing interoperability specifications, supporting development of Cyber and NetOps requirement documents and program strategies, recommending realignment of resources to execute Army NetOps priorities; and updating and maintaining the Army NetOps Capability Configuration Management process. These duties include developing system engineering products and guiding program strategy alignment between emerging Defensive Cyber Operations efforts and existing NetOps programs.\n\nFY17 Base Procurement dollars in the amount of $7.078 million procure 6.5 non-Enhanced Position Location Reporting System (EPLRS), Software Block (SWB) 2, SWB 11-12, and Capability Set (CS) 13 and newer (e.g., CS14\/15) Data Product Networking Initialization databases that support the Army Forces Generation (ARFORGEN) model for deployment, training and reset;  the fielding and support of the Initialization Tool Suite (includes Warfighter Initialization Tool - Platform (WIT-P), Warfighter Initialization Tool - Server (WIT-S), and Warfighter Initialization Tool - Manager (WIT-M)), and utilization of the Automated Initialization Manager (AIM).  FY17 Funding will support a shift from static data production to initialization being managed at the unit level, however, static data products are still required for the large majority of FY17 planned unit upgrades.  Data Products are essential for Blue Force Tracker (BFT) Situational Awareness data, for tactical digital messaging (e.g., Improvised Explosive Device (IED) awareness, Medical Evacuation (MEDEVAC), Call for Fire, etc.) and automated Command and Control (C2) to function.\n\nIAW Section 1815 of the FY08 NDAA this item is necessary for use by the active components and reserve components of the Armed Forces for homeland defense missions, domestic emergency responses, and providing military support to civil authorities."
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "NETWORK MANAGEMENT SYSTEM"
+                    },
+                    "ItemNumber": {
+                        "val": "BA9312"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "4.92"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "5.014"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "3.985"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "3.985"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "22.39"
+                            },
+                            "PriorYear": {
+                                "val": "4.92"
+                            },
+                            "CurrentYear": {
+                                "val": "5.014"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "3.985"
+                            },
+                            "BudgetYearOne": {
+                                "val": "3.985"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "22.39"
+                            },
+                            "PriorYear": {
+                                "val": "4.92"
+                            },
+                            "CurrentYear": {
+                                "val": "5.014"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "3.985"
+                            },
+                            "BudgetYearOne": {
+                                "val": "3.985"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "22.39"
+                            },
+                            "PriorYear": {
+                                "val": "4.92"
+                            },
+                            "CurrentYear": {
+                                "val": "5.014"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "3.985"
+                            },
+                            "BudgetYearOne": {
+                                "val": "3.985"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Flyaway": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "22.39"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "0.827"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "0.808"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "0.807"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "0.807"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "PriorYear": {
+                                                            "val": "3.601"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "3.7"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "2.672"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "2.672"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Integration & Testing"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "PriorYear": {
+                                                            "val": "0.492"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "0.506"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "0.506"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "0.506"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "22.39"
+                                            },
+                                            "PriorYear": {
+                                                "val": "4.92"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "5.014"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "3.985"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "3.985"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "22.39"
+                                        },
+                                        "PriorYear": {
+                                            "val": "4.92"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "5.014"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "3.985"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "3.985"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Name": {
+                        "val": "DATA PRODUCTS"
+                    },
+                    "ItemNumber": {
+                        "val": "BA9315"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "8.468"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "3.939"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "3.61"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "3.61"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army National Guard"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "5.313"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "2.472"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "2.265"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "2.265"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army Reserve"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "2.823"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "1.313"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "1.203"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "1.203"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "249.715"
+                            },
+                            "PriorYear": {
+                                "val": "16.604"
+                            },
+                            "CurrentYear": {
+                                "val": "7.724"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "7.078"
+                            },
+                            "BudgetYearOne": {
+                                "val": "7.078"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "249.715"
+                            },
+                            "PriorYear": {
+                                "val": "16.604"
+                            },
+                            "CurrentYear": {
+                                "val": "7.724"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "7.078"
+                            },
+                            "BudgetYearOne": {
+                                "val": "7.078"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "249.715"
+                            },
+                            "PriorYear": {
+                                "val": "16.604"
+                            },
+                            "CurrentYear": {
+                                "val": "7.724"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "7.078"
+                            },
+                            "BudgetYearOne": {
+                                "val": "7.078"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Flyaway": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Data Products Production"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "169.159"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "12.62"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "5.871"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "3.868"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "3.868"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Test"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "12.631"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "0.83"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "0.386"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "0.356"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "0.356"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Government Engineering\/Management"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "51.879"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "2.822"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "1.313"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "1.214"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "1.214"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Training\/Fielding"
+                                                },
+                                                "Cost": {
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "16.046"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "0.332"
+                                                        },
+                                                        "CurrentYear": {
+                                                            "val": "0.154"
+                                                        },
+                                                        "BudgetYearOneBase": {
+                                                            "val": "1.64"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "1.64"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "249.715"
+                                            },
+                                            "PriorYear": {
+                                                "val": "16.604"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "7.724"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "7.078"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "7.078"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "249.715"
+                                        },
+                                        "PriorYear": {
+                                            "val": "16.604"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "7.724"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "7.078"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "7.078"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "item"
+            }
+        }
+    }
+}

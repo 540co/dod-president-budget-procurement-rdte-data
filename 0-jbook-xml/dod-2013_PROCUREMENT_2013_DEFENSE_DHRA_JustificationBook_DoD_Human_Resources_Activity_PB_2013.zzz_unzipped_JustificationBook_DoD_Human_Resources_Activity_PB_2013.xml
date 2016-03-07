@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>DoD Human Resources Activity</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>Final P-1C Fy 2013 PB DHRA.PDF</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>5</proc:LineItemNumber>
+            <proc:LineItemTitle>Personnel Administration</proc:LineItemTitle>
+            <proc:P1LineItemNumber>4</proc:P1LineItemNumber>
+            <proc:BudgetYear>2013</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2012-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>DoD Human Resources Activity</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>20</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, DHRA</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>32.085</proc:PriorYear>
+                    <proc:CurrentYear>11.019</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>6.147</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>6.147</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>16.542</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>7.546</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>12.108</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>9.224</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>94.671</proc:Total>
+                </proc:GrossWeaponSystemCost>
+                <proc:PYAdvanceProcurement>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.000</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.000</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>0.000</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.000</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.000</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>0.000</proc:Total>
+                </proc:PYAdvanceProcurement>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>32.085</proc:PriorYear>
+                    <proc:CurrentYear>11.019</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>6.147</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>6.147</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>16.542</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>7.546</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>12.108</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>9.224</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>94.671</proc:Total>
+                </proc:NetProcurementP1>
+                <proc:CYAdvanceProcurement>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.000</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.000</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>0.000</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.000</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.000</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>0.000</proc:Total>
+                </proc:CYAdvanceProcurement>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>32.085</proc:PriorYear>
+                    <proc:CurrentYear>11.019</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>6.147</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>6.147</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>16.542</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>7.546</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>12.108</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>9.224</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>94.671</proc:Total>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:CodeBProgramElementList>
+                <proc:ProgramElementNumber>0901220SE</proc:ProgramElementNumber>
+            </proc:CodeBProgramElementList>
+            <proc:Description>The Department of Defense Human Resources Activity (DHRA) is a consolidated Field Activity under the direction and control of the Under Secretary of Defense (Personnel and Readiness) (USD (P&amp;R)) established for the collection and interaction of manpower and personnel data to support Department-wide tracking, analysis, research, studies, and a wide variety of reporting requirements. DHRA provides functional information management, civilian personnel policy support, and civilian personnel administrative services to DoD Components and activities. The scope of operations is necessarily broad and encompasses all aspects of data collection and utilization of Defense manpower and personnel data records to support DoD-wide analysis, studies, research, and reporting requirements. DHRA is the responsible organization within DoD for the interchange of automated manpower data with other government agencies.  
+
+
+DCPDS is the Department's enterprise civilian human resources (HR) data system; one of the largest automated HR system in the world. The regionalization of civilian HR services, combined with systems modernization, has reduced resources dedicated to the civilian HR services infrastructure. This has allowed DoD to achieve an improved HR servicing ratio (the number of personnelists per employee served)
+from 1:66 at program inception to a current ratio of 1:81. Economic analyses have validated the original estimate of approximately $200M annual savings based on the combination of full deployment of DCPDS and attainment of the target servicing ratio. These cost reductions are attributable to reduced personnel and facilities costs and the elimination of 10 legacy systems. Benefits from regionalization and modernization are reflected throughout the budgets of DHRA, the Military Departments, Defense Agencies and field activities.  
+
+Programs for the civilian workforce include minimizing involuntary separations, assisting laid-off workers, maintaining workforce balance, and reducing the costs of DoD's workers and unemployment  compensation. DHRA supports the development, issuance and maintenance of uniform DoD-wide civilian personnel policy; provides program guidance and technical interpretation for both appropriated and nonappropriated funded civilian personnel programs (USC Titles 5, 10, and 32); manages DoD's Civilian Assistance and Re-Employment (CARE) program including the Priority Placement Program(PPP); investigates and mediates discrimination complaints; conducts grievance investigations; and oversees the regional restructuring of civilian HR operations and the operation of the enterprise civilian HR information system, DCPDS. These programs are supported by an aggressive data automation program, to include acquiring a communications capability, computing equipment, and an automation software link to standardize these divergent functions. A portion of these funds continue that process.
+
+
+DHRA is the proponent for all DoD Identification (ID) Card Systems. The Real-Time Automated Personnel Identification System (RAPIDS) is a program established to develop and implement a secure ID card  system for the Uniformed Services and is the primary update vehicle for the DEERS database. Additionally, RAPIDS is the Local Registration Authority (LRA) issuance of the digital credential necessary to implement PKI in the Department. DHRA centrally manages all resources for the program. The Common Access Card (CAC) is the DoD solution for an interoperable federal credentials required under Homeland Security Presidential Directive (HSPD-12).
+
+
+
+
+
+Beginning in FY13, figures above include OUSD P&amp;R direction to fund the Joint Personnel Accountability Reconciliation and Reporting (JPARR)/Neo Tracking System (NTS) effort: JPARR is a system that provides the reconciliation and reporting of personnel from multiple DoD sources. Initial scope will include personnel supporting the Overseas Contingency Operations focusing first in the USCENTCOM AOR.
+JPARR will receive daily feeds from several personnel tracking systems including, but not limited to, Deployed Theater Accountability System (DTAS), Secure Personnel Accountability (SPA), and Deliberate Crisis Action Planning and Execution Segment (DCAPES). Ultimately, JPARR will be able to automate the Joint Personnel Status (JPERSTAT) Report in addition to introduce a restricted site which will be the
+baseline for the Congressional Boots on the Ground (BOG) Report. Further, through JPARR, additional capability will allow to drill down to the individual level.
+
+NTS/ETAS is a certified and accredited DoD automated system that accounts for, and sustains visibility of noncombatant evacuees during a NEO under the authority of DODD 1000.25, DoD Personnel Identity Protection (PIP) Program. NTS is currently being used in the USAFRICOM, USCENTCOM, USEUCOM, USSOUTHCOM, and USPACOM AORs. The ETAS component is the CONUS domestic version of NTS
+and is for use by USNORTHCOM during disasters in the CONUS whether natural, accidental, or acts of terrorism. The primary purpose of the NTS/ETAS is to provide individual accountability of the evacuee by creating and maintaining a database of evacuees assembled during an evacuation operation and subsequently tracking the evacuees’ movement through the evacuation process.
+
+VLER is an initiative to enable the various elements (DoD, VA and the private sector) of the United States health care community to quickly, accurately, and electronically share health information. The VLER initiative is a result of Presidential guidance on April 9, 2009, which stated that DoD and VA would "...work together to define and build a system that will ultimately contain administrative and medical information
+from the day an individual enters military service throughout their military career, and after they leave the military."
+</proc:Description>
+            <proc:Justification>The FY 2012 and FY 2013 requests support information systems, infrastructure and communications requirements for the Defense Civilian Personnel Data System (DCPDS), andDefense Civilian Personnel Advisory Services (DCPAS) operations. Equipment will support the DoD civilian human resources (HR) community by providing more timely access to information for HR specialists and managers. Current
+economic analyses have validated the original estimate of $200 million annual savings. These reductions in costs have already been programmed into DoD Components’ budgets along with corresponding personnel reductions. System purchases include equipment such as database servers, network servers, computing infrastructure, system software, and associated peripherals. DCPAS operations use procurement funding for major hardware and software purchases in support of the DoD enterprise HR system. 
+
+ Enhancements in process for DCPDS include integrating employee self-service functionality and incorporating other improved HR automated system solutions, such as the enhanced corporate data warehousing capability. Funds for the enterprise-wide transition from Itanium processor-based database hardware to a mandated alternative platform occur over the FY12-13 period. This is a change driven by Oracle software desupport by 2014, dropping support for the Itanium platform for all customers. DCPDS funding will be used to provide for the alternative database hardware solution to replace Itanium prior to the desupport date.
+
+The FY 2013 investment in Automated Data Processing (ADP) equipment supports the RAPIDS/CAC program.  This includes the acquisition, installation, and maintenance of the DMDC RAPIDS/CAC infrastructure, as well as replacing outdated and/or maintenance-intensive equipment in order to continue to ensure full functionality, system security, and HSPD-12 implementation.
+
+The FY 2013 investment in Neo Tracking System (NTS) will be utilized to upgrade all lab equipment in order to migrate from serial ports to USB ports in accordance with fielded equipment.  This funding will also be utilized to cover production costs associated with Quality Assurance and Helpdesk resources as well as procuring NTS equipment for respective COCOMs.  COCOMs will be responsible for determining equipment distribution.
+
+The FY 2013 investment in the Joint Personnel Accountability Reconciliation and Reporting (JPARR) will be used to facilitate the movement of unclassified data from the NIPRNET to the SIPRNET as part of a cross-domain solution to provide the Commander, U.S. CENTCOM and the JCS/J1 a daily update of the number of DoD personnel (Service members and civilians) located in the CENTCOM AOR.  This replaces the current stubby-pencil drill that commanders in theater are currently required to perform, and the manual passing of data to and consolidation of this data at CENTCOM headquarters, with daily reports then sent to JSC.  DMDC was formally requested to create and maintain this application by U.S. CENTCOM/J1 and JCS/J1.  The cross-domain solution consists of a series of servers that are running very specific software that checks the content of all information being sent between the NIPRNET and SIPRNET to identify anything that may or may not be classified. If classified material is found, it is set aside so that later it can be manually moved to where it needs to go.  This capability is very important to protecting the security of number and type of Service members we have overseas on a daily basis.
+</proc:Justification>
+            <proc:ItemExhibitList>
+                <proc:P40AItemGroup>
+                    <proc:Name>Major Equipment</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name>DCPDS Central Operations</proc:Name>
+                                    <proc:ItemNumber>1</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:PriorYear>11.831</proc:PriorYear>
+                                            <proc:CurrentYear>6.269</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0.014</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>0.014</proc:BudgetYearOne>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>Various</proc:Name>
+                                            <proc:Location>Various</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>Various</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-03</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-05</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2011-10</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2011</proc:FiscalYear>
+                                                    <proc:PCOLocation>Various</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-03</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-05</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2010-10</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>Varies</proc:PCOLocation>
+                                                    <proc:AwardDate>2013-03</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2013-05</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2012-10</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>DCPAS Operations</proc:Name>
+                                    <proc:ItemNumber>2</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:PriorYear>2.606</proc:PriorYear>
+                                            <proc:CurrentYear>2.55</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>2.757</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>2.757</proc:BudgetYearOne>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>Various</proc:Name>
+                                            <proc:Location>Various</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>Varies</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-08</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-09</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2011-05</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2011</proc:FiscalYear>
+                                                    <proc:PCOLocation>Varies</proc:PCOLocation>
+                                                    <proc:AwardDate>2010-07</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2010-08</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2010-05</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>Varies</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-08</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-09</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2011-05</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>RAPIDS/CAC/JPARR/NTS</proc:Name>
+                                    <proc:ItemNumber>3</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:PriorYear>7.703</proc:PriorYear>
+                                            <proc:CurrentYear>2.2</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>3.376</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>3.376</proc:BudgetYearOne>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>Various</proc:Name>
+                                            <proc:Location>Various</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>Varies</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-05</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2011-05</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2011</proc:FiscalYear>
+                                                    <proc:PCOLocation>Varies</proc:PCOLocation>
+                                                    <proc:AwardDate>2010-05</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2010-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2010-05</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>Varies</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-05</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:RFPIssueDate>2011-05</proc:RFPIssueDate>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>Virtual Lifetime Electronic Record (VLER)</proc:Name>
+                                    <proc:ItemNumber>4</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>0</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:PriorYear>9.945</proc:PriorYear>
+                                            <proc:CurrentYear>0.000</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+            </proc:ItemExhibitList>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

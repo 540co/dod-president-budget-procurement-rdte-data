@@ -1,0 +1,2822 @@
+{
+    "id": "9d275bae5bb0e9c64e2b4be958320b62c8679115",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_AIRFORCE_V1_U_RDTE_MasterJustificationBook_Air_Force_PB_2017.zzz_unzipped_U_RDTE_MasterJustificationBook_Air_Force_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0604425F"
+        },
+        "ProgramElementTitle": {
+            "val": "Space Situation Awareness Systems"
+        },
+        "R1LineNumber": {
+            "val": "59"
+        },
+        "MdapCode": {
+            "val": "328"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "1067.753"
+            },
+            "PriorYear": {
+                "val": "9.031"
+            },
+            "CurrentYear": {
+                "val": "29.288"
+            },
+            "BudgetYearOne": {
+                "val": "23.945"
+            },
+            "BudgetYearOneBase": {
+                "val": "23.945"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "48.309"
+            },
+            "BudgetYearThree": {
+                "val": "148.642"
+            },
+            "BudgetYearFour": {
+                "val": "108.571"
+            },
+            "BudgetYearFive": {
+                "val": "29.964"
+            },
+            "CostToComplete": {
+                "val": "0.000"
+            },
+            "TotalCost": {
+                "val": "1465.503"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Space Situational Awareness (SSA) is knowledge of all aspects of space related to operations as described in the approved SSA Initial Capabilities Document (ICD).  As the foundation for space control, SSA encompasses intelligence on adversary space operations; surveillance of all space objects and activities; detailed reconnaissance of specific space assets; monitoring space environmental conditions; monitoring cooperative space assets; and conducting integrated command, control, communications, processing, analysis, dissemination, and archiving activities.  This Program Element (PE) develops new Air Force sensors, and improved information capabilities for integration across the SSA network; it also includes developmental planning and technology forecasting for future blocks and emerging needs.\n\nA companion program element, 0305940F, Space Situational Awareness Operations, fields, upgrades, operationalizes, operates, and sustains existing sensors and information integration capabilities within the SSA network.  An additional companion program element, 0305614F, JSpOC Mission System, processes surveillance of all space objects and activities, maintains detailed reconnaissance of space assets, fuses space data, maintains awareness of cooperative space assets, and allows JFCC-Space to conduct integrated C2 of space forces. \n\nDevelopment activities are necessary to deploy new advanced sensors capable of searching for, tracking, and identifying the expanding number of debris objects on orbit as well as the increasing number of satellites launched by other nations, of which many are smaller and more capable than previous spacecraft.  These activities are also required to better integrate the disparate elements of SSA in order to enable rapid and responsive space operations. \n\n\nThis program is in Budget Activity 5, System Development and Demonstration (SDD) because it has passed Milestone B approval and is conducting engineering and manufacturing development tasks aimed at meeting validated requirements prior to full-rate production."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "9.462"
+                },
+                "CurrentYear": {
+                    "val": "32.374"
+                },
+                "BudgetYearOne": {
+                    "val": "50.598"
+                },
+                "BudgetYearOneBase": {
+                    "val": "50.598"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "9.031"
+                },
+                "CurrentYear": {
+                    "val": "29.288"
+                },
+                "BudgetYearOne": {
+                    "val": "23.945"
+                },
+                "BudgetYearOneBase": {
+                    "val": "23.945"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.431"
+                },
+                "CurrentYear": {
+                    "val": "-3.086"
+                },
+                "BudgetYearOne": {
+                    "val": "-26.653"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-26.653"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.086"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "-3.000"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.431"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-26.653"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-26.653"
+                                },
+                                "BudgetYearOneOCO": {
+                                    "val": "0.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "FY2017:  -$26.415M for re-phase of SBSS Follow-on; -$.238M inflation adjustment"
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "65A006"
+                    },
+                    "ProjectTitle": {
+                        "val": "Space Based Space Surveillance"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "974.562"
+                        },
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "28.404"
+                        },
+                        "BudgetYearOne": {
+                            "val": "23.945"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "23.945"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "48.309"
+                        },
+                        "BudgetYearThree": {
+                            "val": "148.642"
+                        },
+                        "BudgetYearFour": {
+                            "val": "108.571"
+                        },
+                        "BudgetYearFive": {
+                            "val": "29.964"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "1362.397"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Space-Based Space Surveillance (SBSS) Block 10 satellite was launched September 2010 and is currently operational.  The SBSS Follow-On program will develop and deliver a system, including ground segment, that continues providing space object surveillance from space post SBSS Block 10 End-of-Life.  The Follow-On program is based upon the current Space Situational Awareness (SSA) Initial Capabilities Document (ICD) architectural requirements focused on protecting High Value Assets (HVAs) in Geosynchronous Orbit (GEO).  It will provide the capability to search, detect, and track objects primarily in deep space GEO from a space-based sensor for timely custody and event detection.  Surveillance from space augments existing ground sensors with timely 24-hour, above the weather collection of GEO satellite metric data only possible with a space based sensor and then communicates its findings to the Joint Space Operations Center (JSpOC)."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "SBSS Follow-On Design & Development"
+                                    },
+                                    "Description": {
+                                        "val": "Performs space based SSA analysis, research, and development for the SBSS system."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "28.404"
+                                            },
+                                            "Text": {
+                                                "val": "Transition technology from the ORS-5 operational demonstration mission to begin development of payload hardware. Initiate analysis of Space Surveillance Network (SSN) 2025 to evaluate against threat paradigm."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "23.945"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "23.945"
+                                            },
+                                            "Text": {
+                                                "val": "Complete source selection, award contract, and start development of SBSS Follow-On with entry into Engineering and Manufacturing Development (EMD).  Perform risk reduction activities and analyses for the SBSS Follow-On based on threat paradigm analyzed\/out-briefed by the Space Security and Defense Program (SSDP)."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "SBSS Block 10 currently operational with End of Life expected in 2020.\n\nArchitectural studies have been conducted to determine the best way to provide future space-based space surveillance beyond the life of the current system.  \n\nThe Acquisition Strategy for SBSS Follow-On is under development."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Block 10 design and development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Northrop Grumman"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Redondo Beach, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "549.291"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "549.291"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Block 10 Technical risk reduction, mission planning & mission data processing"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MIT Lincoln Laboratory"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Lexington, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "29.271"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "29.271"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Block 10 Launch vehicle integration"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Space and Missile Systems Center"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Kirtland AFB, NM"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "85.644"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "85.644"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Block 10 Contractor Ops & Interim Contract Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Boeing"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntington Beach, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "152.223"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "152.223"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "SBSS Follow-on Design & Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "10.894"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "10.894"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "SSA risk reduction and technology transfer"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "33.247"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "33.247"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "STARE Study and Design work"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lawrence Livermore National Laboratory"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Livermore, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.576"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.576"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "SBSS Follow On Ground Feasibility Assessment and Implementation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.600"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.219"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.219"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "SBSS Follow On Prime Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "12.038"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "12.038"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "12.038"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Technical Mission Analysis (WS)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "19.975"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.764"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.764"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "22.739"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support, FFRDC"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Aerospace"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Los Angeles, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "44.559"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "44.559"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering and Technical Services"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "AT&T Government Solutions, Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Los Angeles, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "22.296"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "22.296"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Other Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Los Angeles, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "30.867"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "30.867"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "FFRDC"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Aerospace Corp."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Los Angeles, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.885"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.121"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.121"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "6.006"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "A&AS"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "9.728"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "4.870"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "4.725"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "4.725"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "19.323"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Other Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "4.966"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.074"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "5.118"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Pre-Phase A Acquisition Planning"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Acq Strategy, RFP Dev and Source Selection"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "MDD"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Contract Award"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Tech Dev \/ Engineering and Manufacturing Development \/ Production"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "CDD"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Preliminary Design Review (PDR)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Milestone B"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Critical Design Review (CDR)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Launch"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "65A012"
+                    },
+                    "ProjectTitle": {
+                        "val": "Net-centric Sensors and Data Sources"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "74.417"
+                        },
+                        "PriorYear": {
+                            "val": "6.724"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "81.141"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectNote": {
+                            "val": "Project 65A012, Net-centric Sensors and Data Sources (N-CSDS), completed in FY15"
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Net-centric Sensors and Data Sources (N-CSDS) efforts migrate the Space Surveillance Network, non-traditional SSA sensors and data sources for use by any entity (primarily the Joint Space Operations Center (JSpOC)) into a net-centric enterprise, enabling more rapid distribution of data to the warfighter based on an AFSPC provided prioritization list.  This effort will define and implement the technical architecture, and support the concept to provide the foundational data necessary to enable rapid, responsive decisions by the Commander, United States Strategic Command's Joint Functional Component Commander for Space (JFCC Space) and other national capability users to detect, evaluate, and attribute space events.  This effort builds upon and operationalizes the successful Extended Space Sensor Architecture Advanced Concept Technology Demonstration (ESSA ACTD) and prototypes how disparate and legacy space sensor network data can be translated into a net-centric operating environment.  Data will be exposed as defined by published DoD and community interface standards to ensure technical interoperability. \n\nData exposed from Space Situational Awareness (SSA) sensors and other non-traditional data sources via N-CSDS effort will be integrated into the JMS program (PE 0305614F)."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Sensor & Data Integration & Exposure"
+                                    },
+                                    "Description": {
+                                        "val": "Providing Data Exposure and Data Source Integation Net-Centrically for consumption and use by the JSpOC and other users."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "6.724"
+                                            },
+                                            "Text": {
+                                                "val": "Completed exposure of three classified data sources (Concept C, Concept J, and Concept G).  Completed Ground-based Electro-Optical Deep Space Surveillance System (GEODSS) net-centric delivery."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPAF: BA03: 836790"
+                                    },
+                                    "Title": {
+                                        "val": "Space Mods Space"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "4.577"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "19.110"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Project utilizes existing engineering and study contracts and a competitively selected system engineering team to conduct sensor and data source activities."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Sensor Data Exposure - Sidecar Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MIT\/LL"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Lexington, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "11.569"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "11.569"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "11.569"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Net-Centric Capability Development and Data Exposure"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "28.318"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "4.494"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "32.812"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "36.317"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Technical Mission Analysis (WS)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.363"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.363"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "N-CSDS Enterprise Systems Engineering and Integration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin Integrated Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Endicott, NY"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "15.300"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "15.300"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "15.300"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Test and Evaluation Activities"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "RO"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "46th Test Squadron"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Eglin AFB, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.353"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.078"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.431"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "1.713"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "FFRDC"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE Corp."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Bedford, MA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "4.534"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.037"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "4.571"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "4.782"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "A&AS"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "13.313"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.723"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "15.036"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "15.189"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Other Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.030"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.029"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.059"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Concept C"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Common Data Model (Integration with JMS)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Concept J Database Exposure Adapters"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Concept G"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "GEODSS Site 1 Operational Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "65A026"
+                    },
+                    "ProjectTitle": {
+                        "val": "C-Band Radar"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "18.774"
+                        },
+                        "PriorYear": {
+                            "val": "2.307"
+                        },
+                        "CurrentYear": {
+                            "val": "0.884"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "21.965"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "A Memorandum of Understanding (MOU) between the United States Air Force and the Australian Department of Defence was signed by the United States Secretary of Defense and the Australian Minister for Defence on November 14, 2012 to support this international effort to provide an improved space situational awareness capability in the Australian geographic area.  The MOU includes description of the need for Australian funding for part of the relocation project.  The project will relocate a C-Band radar to Harold E. Holt Naval Communications Station (HEH NCS) in Australia and upgrade it to perform a Space Situational Awareness (SSA) mission.  When completed, the radar will provide data for catalog maintenance, space object identification, and support for special events (e.g., space launches, satellite breakups, and maneuvers)."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "C-Band Radar"
+                                    },
+                                    "Description": {
+                                        "val": "Relocates a C-Band Radar to Harold E. Holt Naval Communications Station (HEH NCS) in Australia and upgrades it to perform a Space Situational Awareness (SSA) mission."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.307"
+                                            },
+                                            "Text": {
+                                                "val": "Completed radar assembly and system upgrades."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.884"
+                                            },
+                                            "Text": {
+                                                "val": "Complete Developmental Test and Evaluation, Operational Test and Evaluation, and Initial Operating Capability (IOC)."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPAF: PE 35940F: Line Item # 861900"
+                                    },
+                                    "Title": {
+                                        "val": "C-Band Radar Spares and Repairs"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "0.000"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "4.868"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "4.861"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "4.861"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "9.729"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "This project will utilize a mix of experienced contractors, FFRDC and Air National Guard resources to upgrade the C-Band system and complete the relocation to Australia.  \n\nThe MOU between the United States Air Force and the Australian Department of Defence includes the need for Australian funding for part of the relocation project. Site renovation in Australia began in FY 2013 as Australian funding became available."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "Remarks": {
+                                        "val": "Funding will be used to complete the Radar Open Systems Architecure (ROSA) and Space Surveillance Support Software (S4) upgrades to the existing C-Band Radar."
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "C-Band Radar Upgrades"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "16.924"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.641"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.044"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "17.609"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "15.665"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "DISA"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DISA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft Meade, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.005"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.005"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.005"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "Remarks": {
+                                        "val": "Test support is being provided by the 96th Test Wing Eglin AFB and 17th Test Squadron Schriever AFB."
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Developmental Test, Operational Test, & Initial Operating Capability Test"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Los Angeles, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.654"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.218"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.022"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.894"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0.613"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "A&AS"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Los Angeles, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.191"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.448"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.818"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.457"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "2.889"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Complete Radar Renovation\/Relocation"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Complete Design\/Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Operational Acceptance (Sep 2016)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1678 @@
+{
+    "id": "9d143f593d268dca6b9e516a65fab22b142a0809",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_NAVY_BA5_RDTE_JustificationBook_Navy_PB_2015.zzz_unzipped_RDTE_JustificationBook_Navy_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1319",
+        "appropriation_name": "Research, Development, Test & Evaluation, Navy"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0604777N"
+        },
+        "ProgramElementTitle": {
+            "val": "Navigation\/Id System"
+        },
+        "R1LineNumber": {
+            "val": "134"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationCode": {
+            "val": "1319"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "1209.189"
+            },
+            "PriorYear": {
+                "val": "38.948"
+            },
+            "CurrentYear": {
+                "val": "47.428"
+            },
+            "BudgetYearOne": {
+                "val": "29.504"
+            },
+            "BudgetYearOneBase": {
+                "val": "29.504"
+            },
+            "BudgetYearTwo": {
+                "val": "31.959"
+            },
+            "BudgetYearThree": {
+                "val": "32.112"
+            },
+            "BudgetYearFour": {
+                "val": "30.575"
+            },
+            "BudgetYearFive": {
+                "val": "61.114"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Reliable and secure navigation and positive identification (ID) systems are essential elements of battle management in the naval environment.  The Photonics Imaging System (0253) is a non-hull penetrating replacement for existing optical periscopes.  The Photonics Imaging System exploits a wide portion of the electro-magnetic spectrum utilizing advanced Electro-Optic\/thermal imaging, and communications intercept\/Electronic Warfare Support (ES).  The Integrated Submarine Imaging System (ISIS) (0253) is a back fit system to integrate all imaging capabilities on existing submarine classes.  The Combat Identification System (CIS) project (1253) for Mark XIIA, and Improved Identification Development (0676) for AN\/UPX-29(V), covers the Mark XIIA Mode 5 upgrade to the existing Mark XII family of systems that is Joint and North Atlantic Treaty Organization (NATO) interoperable.  Per OSD direction, NATO participation is encouraged and performance data is exchanged to ensure the opportunity for interoperability with allied identification systems is maximized.  In addition to distinguishing friend from foe for weapons employment, the Navy requires secure, jam resistant Identification Friend or Foe (IFF) systems for battle group air defense management and air traffic control.  Identification is multifaceted and includes information received from several sensors (both cooperative and non-cooperative systems).  \n\nNAVSTAR Global Positioning System (GPS) project (0921) is a space-based  positioning, navigation and timing (PNT) system that provides authorized users with secure, worldwide, all weather, three dimensional position, velocity and precise time data.  Navigation Sensor System Interface (NAVSSI) is a system that provides an integrated navigation message structure for network distribution to support combat, command and control, information and other mission critical capabilities.  Navy Air and Sea Navigation Warfare (NAVWAR) are major elements of the GPS program.  NAVWAR's mission is to provide continued access to GPS information in a denied environment.  NAVWAR accomplishes this through the use of enhanced user equipment (UE).  GPS modernization addresses the Navy's future integration of GPS Joint Program Office (JPO) Modernized User Equipment (MUE) products being developed that will enable the use of new signals in space.  The GPS - based Positioning, Navigation, and Timing (PNT) Service (GPNTS) system is being developed to replace stand-alone AN\/WRN-6 receivers and integrated NAVSSI systems.  Additionally, future capability will migrate toward a Common Computing Environment (CCE) such as Consolidated Afloat Networks Enterprise Services (CANES), and provide a path for the integration of advanced navigation systems and sensors.  NAVSTAR GPS supports Anti-Access\/Area Denial (A2AD) by providing Assured Positioning, Navigation and Timing (A-PNT) capability to C4ISR and combat systems in standalone and networked architectures throughout the air and maritime domains.\n\nJUSTIFICATION FOR BUDGET ACTIVITY: This program is funded under System Development and Demonstration because it includes those projects that have passed Milestone B approval and are conducting engineering and manufacturing development tasks aimed at meeting validated requirement prior to full-rate production decision."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "47.764"
+                },
+                "CurrentYear": {
+                    "val": "51.430"
+                },
+                "BudgetYearOne": {
+                    "val": "35.242"
+                },
+                "BudgetYearOneBase": {
+                    "val": "35.242"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "38.948"
+                },
+                "CurrentYear": {
+                    "val": "47.428"
+                },
+                "BudgetYearOne": {
+                    "val": "29.504"
+                },
+                "BudgetYearOneBase": {
+                    "val": "29.504"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-8.816"
+                },
+                "CurrentYear": {
+                    "val": "-4.002"
+                },
+                "BudgetYearOne": {
+                    "val": "-5.738"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-5.738"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "-0.002"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "CurrentYear": {
+                        "val": "-4.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.847"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Program Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-0.762"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-0.762"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Rate\/Misc Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.001"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-4.976"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-4.976"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Congressional General Reductions Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-1.968"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Congressional Directed Reductions Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-6.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "Technical: Not applicable.\n\nSchedule: \nPU 1253: CH-53K delayed one year in schedule due to underexecution mark."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "0253"
+                    },
+                    "ProjectTitle": {
+                        "val": "Nav & Electro-Optical Supt"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "48.185"
+                        },
+                        "PriorYear": {
+                            "val": "6.789"
+                        },
+                        "CurrentYear": {
+                            "val": "8.861"
+                        },
+                        "BudgetYearOne": {
+                            "val": "6.636"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "6.636"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "7.731"
+                        },
+                        "BudgetYearThree": {
+                            "val": "7.732"
+                        },
+                        "BudgetYearFour": {
+                            "val": "7.851"
+                        },
+                        "BudgetYearFive": {
+                            "val": "37.800"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The navigation and electro-optical (E-O) support program develops submarine E-O and imagery systems and equipment that will improve submarine imaging capability in the areas of: ship safety, Intelligence, Surveillance and Reconnaissance (ISR), and tactical control (contact management in the littorals). The Department of the Navy established the Integrated Submarine Imaging System (ISIS) to rapidly field the Type 18 periscope, Periscope Acquisition, Tracking, and Ranging with Improved Observation Techniques (PATRIOT) rangefinder, Type 8 Mod 4 Infra-Red (IR) periscope systems, and integrate existing periscope imagery systems into a single imaging system for installation on board SSN 688 class and SEAWOLF class submarines.  The ISIS baseline now includes the Imaging System with the Photonics Mast (PM) onboard VIRGINIA and SSGN class submarines.  The PM mounted on the Universal Modular Mast provides imaging capability for the SSGN and VIRGINIA class submarines. The PM design exploits a wide portion of the electro-magnetic spectrum through advanced E-O and thermal imaging and Electronic Warfare Support (ES)\/communications intercept. \n\nISIS supports high intensity operations in the littorals and provides the submarine force with the tactical imaging systems necessary to safely and effectively employ its surveillance and weapons capabilities. The Common Submarine Imaging System (CSIS) capability development document (CDD), that covers both ISIS and Legacy Imaging systems was approved 22 Dec, 2011. The CDD is used to fully integrate the ISIS program of record into the submarines force rapid Technical Insertion\/ Advanced Processor Build (TI\/APB) process and to incorporate Fleet-endorsed requirements such as the Low Profile Photonics Mast (LPPM) that are not levied by the ISIS operational requirements document. The AN\/BVS-1 Photonics Mast Program (PMP) provides for the development and acquisition of a non-hull penetrating submarine electronic imaging system for Blocks I and II VIRGINIA class submarines.  Specific efforts include:  Integrated Submarine Imaging System (ISIS) program participation in the submarine force rapid TI\/APB process, LPPM design efforts and integration of LPPM into the ISIS."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "ISIS and Photonics common software and hardware capabilities development and obsolescence."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.207"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "ISIS Technical Insertion (TI) development for LOS ANGELES, SEAWOLF and VIRGINIA classes."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "7.076"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "ISIS Technical Insertion (TI) development for LOS ANGELES, SEAWOLF, and VIRGINIA classes including hardware and software modifications for integration of LPPM into ISIS."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.706"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.706"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "ISIS Technical Insertion (TI) development for LOS ANGELES, SEAWOLF, and VIRGINIA classes including hardware and software modifications for integration of LPPM into ISIS."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Imaging Systems Test Efforts."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.508"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Preparation for TI-10\/APB 09 Operational Testing (OT)."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.035"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "TI-12\/APB 11 Testing."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.180"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.180"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "TI-14\/APB 13 Testing"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "PATRIOT Radar Range Finder Integration for photonics for SSGN and VIRGINIA class submarine."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.574"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Development and integration of PATRIOT Radar Range Finder into ISIS Technical Insertion kit design for TI-12."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Low Profile Photonics Mast"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.500"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continued non-recurring engineering for LPPM Baseline Design"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.750"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Completion of LPPM Baseline Protype Design"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.750"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.750"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Completion of LPPM Production Baseline Design"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "SCN\/201300"
+                                    },
+                                    "Title": {
+                                        "val": "Photonics Mast"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "36.975"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "18.634"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "38.008"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "38.008"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "38.773"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "39.560"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "40.363"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "43.592"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/0831"
+                                    },
+                                    "Title": {
+                                        "val": "Sub Periscopes & Imaging Equip."
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "48.741"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "44.304"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "60.970"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "60.970"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "65.447"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "50.110"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "62.094"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "74.997"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "RDT&E\/0604558N"
+                                    },
+                                    "Title": {
+                                        "val": "VIRGINIA Class Design Development"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "3.200"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "3.500"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "4.500"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "4.500"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "3.000"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "3.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "3.051"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "RDT&E\/0603562N"
+                                    },
+                                    "Title": {
+                                        "val": "Advanced Submarine Support Equipment (ASSEP)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "3.648"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "3.855"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "3.343"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "3.343"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "4.077"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "4.186"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "4.162"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "4.248"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The Acquisition Strategy for AN\/BVS-1 Photonics Mast Program (PMP) is dated 24 Sept 2001. The PMP provides for the development and acquisition of a non-hull penetrating submarine electronic imaging system for VIRGINIA Class submarines. The Acquisition Strategy for Integrated Submarine Imaging System (ISIS) is dated 07 Jul 2003.  The Aquisition Program Baseline Agreement for ISIS Advanced Processor Builds 11, 13 and 15 is dated 07 Mar 2013.  The ISIS will provide mission critical, all weather, visual, and electronic search, digital image management, indication, warning, and platform architecture interface capabilities for SSN 688, SSN 21, SSN 774 and SSGN class submarines."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Successful application of system engineering processes. Design and development of improvements.  \n\nThe RDD program goal is to respond to urgent operational needs within 30 days and provide for rapid development and fielding of prototype solutions within 270 days."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2015PB_0604777N_0253_FILE1.PNG"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "0676"
+                    },
+                    "ProjectTitle": {
+                        "val": "Improve ID Development"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "26.132"
+                        },
+                        "PriorYear": {
+                            "val": "3.826"
+                        },
+                        "CurrentYear": {
+                            "val": "2.356"
+                        },
+                        "BudgetYearOne": {
+                            "val": "1.612"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "1.612"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "2.251"
+                        },
+                        "BudgetYearThree": {
+                            "val": "2.380"
+                        },
+                        "BudgetYearFour": {
+                            "val": "2.380"
+                        },
+                        "BudgetYearFive": {
+                            "val": "2.428"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Reliable and secure navigation and positive identification (ID) systems are essential elements of battle management in the naval environment.  In addition to providing platform identification for weapons employment, the Navy requires secure, jam resistant Identification Friend or Foe (IFF) systems for battle group air defense management and air traffic control.  The Improved ID Development project addresses the Mark XIIA Mode 5 upgrade to the existing AN\/UPX-29(V) Mark XII family of systems that is Joint and North Atlantic Treaty Organization (NATO) interoperable.  This exhibit also addresses the AN\/UPX-29(V) antenna, the OE-120\/UPX."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "AN\/UPX-29 (V) - OE-120\/UPX Antenna Replacement"
+                                    },
+                                    "Description": {
+                                        "val": "Engineering and integration development for antenna group OE-120\/UPX modernization.  Develop design studies and Analysis of Alternatives (AoA), draft specifications, and perform system development and integration efforts and support mission requirements, to include engineering investigations and Engineering Change Proposal (ECP) development to support mission readiness."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.637"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Completion of Decision Analysis Support (DAS) to analyze industry capabilities to satisfy OE-120\/UPX production and sustainment requirements.  Delivery Order (DO) to BAE systems in support of the modernization of the phase shifter subassembly.  The phase shifter is the biggest sustainment cost driver."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.180"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Address OE-120\/UPX obsolescence issues as required.  Integration and testing of antenna phase shifter and power supply modules."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.208"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.208"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Address OE-120\/UPX obsolescence issues as required, including modernizing the microprocessor board.   This is one of the assemblies currently experiencing obsolescence issues within the OE-120\/UPX antenna."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Mark XIIA Mode 5 Improvement for AN\/UPX-29(V)"
+                                    },
+                                    "Description": {
+                                        "val": "Engineering, development, and integration of Mark XIIA Improvements to the AN\/UPX-29(V).  Correct deficiencies from Integrated Test and Operational Test (IT-OT) and baseline software and documentation; support mission requirements, to include engineering investigations and Engineering Change Proposal (ECP) development.  Funds development and integration of Mark XIIA Improvements to the AN\/UPX-29(V) systems on CG47, DDG51, LHD1, LPD17, LHA6, and CVN68 ship classes.  Provides core Integrated Logistics Support (ILS) documentation; formalizes hardware\/software configuration: finalizes technical\/design data, and resolves testing anomalies."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.047"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Developed, tested and delivered software version 2.1.3. Successfully transitioned the integration of Mode 5 into the AN\/UPX-24(V) to the software sustainment activity.\n\nTested and delivered software version 2.1.3 to the following baselines:  Aegis Weapon System (AWS) 6.3.2.3, Ballistic Missile Defense (BMD) 3.6.1.2, AWS 5.3.9.2 and 5.3.9.3, and BMD 4.0.1.1."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.022"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue to test and deliver software version 2.1.3 to the following baselines:  Ship Self-Defense System (SSDS) and Advance Combat Direction System (ACDS) on LPD17, CVN68, CVN78, LHA6 and LHD1 ship classes.\n\nEvaluate software re-host with new system processors against emerging Aegis and SSDS combat systems.  Support follow-on test and evaluation of Mode 5 capability on new ship classes\/flights."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.244"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.244"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Evaluate software re-host with new system processors against emerging AWS and SSDS configurations.  Support follow-on test and evaluation of Mode 5 capability on new ship classes\/flights."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "AN\/UPX-29(V) Management Support"
+                                    },
+                                    "Description": {
+                                        "val": "Engineering and Program Management of the AN\/UPX 29 (V).  Perform system integration efforts."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.142"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Managed engineering assessments\/evaluations\/development efforts that provide resolution to engineering investigations and obsolescence issues."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.154"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Manage engineering assessments\/evaluations\/development efforts that provide resolution to engineering investigations and obsolescence issues."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.160"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.160"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Manage engineering assessments\/evaluations\/development efforts that provide resolution to engineering investigations and obsolescence issues."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/2851"
+                                    },
+                                    "Title": {
+                                        "val": "Identification Systems"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "27.896"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "34.834"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "34.901"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "34.901"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "33.133"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "27.396"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "28.348"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "30.320"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The acquisition strategy is to develop Mode 5 Engineering Change Proposals for modern Mark XII IFF equipment and integrate into all Navy Combat Weapons systems platforms and augment the Navy's Cooperative Identification Capability to include Mode 5."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Achieve Full Rate Production (FRP) Decision and Initial Operational Capability."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2015PB_0604777N_0676_FILE1.PNG"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "0921"
+                    },
+                    "ProjectTitle": {
+                        "val": "NAVSTAR GPS Equipment"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "982.760"
+                        },
+                        "PriorYear": {
+                            "val": "17.237"
+                        },
+                        "CurrentYear": {
+                            "val": "16.104"
+                        },
+                        "BudgetYearOne": {
+                            "val": "18.011"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "18.011"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "18.108"
+                        },
+                        "BudgetYearThree": {
+                            "val": "18.335"
+                        },
+                        "BudgetYearFour": {
+                            "val": "18.445"
+                        },
+                        "BudgetYearFive": {
+                            "val": "18.946"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Navigation Satellite Timing & Ranging (NAVSTAR) Global Positioning System (GPS) project (0921) is a space-based positioning, navigation, and timing (PNT) system that provides authorized users with secure, worldwide, all weather, three dimensional position, velocity, and precise time data.  Research, Development, Testing and Evaluation (RDT&E) funds are used to perform all the non-recurring GPS Surface Ship, Submarine and Aircraft Development, Integration, and Testing efforts.  GPS continues to be integrated in all DoD platforms and the development of enhanced GPS is a national security priority.\n\nThe Naval Research Advisory Committee (NRAC) GPS Vulnerability Study Panel assessed the Navy's GPS Vulnerabilities and recommended specific actions to resolve serious issues to ensure the continued availability of GPS information in a high risk hostile jamming environment.  As a result, the Navy Enhanced GPS User Equipment Operational Requirement Document (ORD) was drafted to address operational requirements.  NAVWAR's mission is to provide continued access to GPS information in a denied environment.  RDT&E continues to support platform integration requirements, Developmental Test\/Operational Test (DT\/OT), the Navy's development of a smaller Anti-Jam (AJ) antenna and a conformal low-observable AJ antenna for aircraft with unique requirements, and new technology AJ solutions for submarines.\n\nTwo similar but separate ACAT III programs (Air and Sea NAVWAR) have been established and have become the basis for the Navy's Air and Sea Navigation Warfare (NAVWAR) programs.  The Sea NAVWAR program is executed in two increments.  Increment 1 is GPS Antenna System (GAS-1).  Increment 2 is Advanced Digital Antenna Production (ADAP).  The purpose of Increments 1 and 2 is to integrate Anti-Jam (AJ) antennas on surface platforms.  The Sea NAVWAR program will continue research & development of a Small Antenna System (SAS) for Surface ships and continue to support the Submarine Anti-Jam GPS Enhancement (SAGE) antenna development integrating AJ capability on submarines for the OE-538 Increment 2 Mast program.  The Air NAVWAR program is a single increment with GAS-1, ADAP, and other efforts continuing.  The Capability Production Document for Sea NAVWAR Increment 2 (12\/08) was approved to support the ADAP production and procurement.\n\nThe primary GPS shipboard systems fielded on the majority of U.S. Navy ships today include the AN\/WRN-6 and the Navigation Sensor System Interface (NAVSSI).  These military GPS systems provide precise Position, Navigation, and Time (PNT) data required for many combat, weapons, command, control, communications, navigation, and other systems, as well as providing the time synchronization critical to the network environments.\n\nThe Global Position System (GPS)- based Positioning, Navigation, and Timing (PNT) Service (GPNTS) system is being developed to replace stand-alone AN\/WRN-6 receivers and integrated Navigation Sensor System Interface (NAVSSI) systems. Additionally, future capability will migrate toward a Common Computing Environment (CCE) such as Consolidated Afloat Networks Enterprise Services (CANES), and provide a path for the integration of advanced navigation systems and sensors.\nGPNTS supports Anti-Access\/Area of Denial (A2AD) by providing Assured Positioning, Navigation and Timing (A-PNT) capability to C4ISR and combat systems in standalone and networked architectures throughout the air and maritime domains."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Air Navigation Warfare (NAVWAR)"
+                                    },
+                                    "Description": {
+                                        "val": "Overall program efforts included investigation of emerging technologies through study, development and associated testing for feasibility of program insertion."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.601"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Assisted other air platforms with integration of anti-jam capability to include Unmanned Air Systems (UAS) and weapons. Completed validation and verification installations for all lots of F\/A-18E\/F and EA-18G receiving NAVWAR.  Completed MH-53E and AV-8B installations.  Investigated assured Positioning, Navigation and Timing (PNT) options for Naval aircraft. Continued to provide Global Positioning System (GPS) Modernization Navy unique requirements to GPS Directorate. Continued to coordinate GPS Modernization efforts with other programs and DoD services to reduce impacts to platform navigation systems. Continued to keep the Fleet apprised of GPS Enterprise Selective Availability Anti-Spoofing Module (SAASM) and Architecture Evolution Plan (AEP) developments. Participated in joint NAVWAR Memorandum Of Understanding (MOU) initiatives with Canada, United Kingdom and Australia including cooperative UAS NAVWAR development."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.084"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue to assist other air platforms with integration of anti-jam capability to include UAS and weapons. Begin production installations of NAVWAR in F\/A-18F.  Continue assured PNT efforts.  Continue to provide GPS Modernization Navy unique requirements to GPS Directorate. Continue to coordinate GPS Modernization efforts with other programs and DoD services to reduce impacts to platform navigation systems. Continue to assist the Fleet with GPS Enterprise SAASM and AEP developments. Participate in joint NAVWAR MOU initiatives with Canada, United Kingdom and Australia."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.649"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.649"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue to assist other air platforms with integration of anti-jam capability to include UAS and weapons. Continue production installations of NAVWAR in F\/A-18F.  Continue assured PNT efforts by working with Navy Air platforms on navigation requirements and Capability Development Document (CDD) development.  Continue to provide GPS Modernization Navy unique requirements to GPS Directorate. Continue to coordinate GPS Modernization efforts with other programs and DoD services to reduce impacts to platform navigation systems. Continue to assist the Fleet with GPS Enterprise SAASM and AEP developments. Participate in joint NAVWAR MOU initiatives with Canada, United Kingdom and Australia."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Sea Navigation Warfare (NAVWAR)"
+                                    },
+                                    "Description": {
+                                        "val": "Overall program efforts include investigation of emerging technologies through study, development, and associated testing for feasibility of program insertion."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.166"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Increment 2: Completed CVN Developmental Testing (DT).  The baseline NAVWAR product GPS Antenna System (GAS-1) and Advanced Digital Antenna Production (ADAP) was developed for large surface platforms; its size, weight and power (SWaP) are outside the projected requirement to provide anti-jam capabilities to smaller host platforms such as Patrol Coastal Ships (PCs).  Increment 3:  Transitioned Submarine Anti-Jam GPS Enhancement (SAGE) to OE-538 Increment 2 Mast program and updated Sea NAVWAR program Acquisition Program Baseline (APB) to remove Increment 3 program performance, cost and schedule parameters.  Sea NAVWAR remains the Technical Authority for SAGE.  SAGE development contract awarded to procure four SAGE prototypes to support risk reduction, technology maturation, integration, and Developmental Testing (DT) activities.  Completed Preliminary Design Review and Critical Design Review with the SAGE Contractor."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.910"
+                                            },
+                                            "Articles": {
+                                                "val": "3"
+                                            },
+                                            "Text": {
+                                                "val": "Increment 2: Continue SAGE development and take deliveries of four Submarine AJ GPS Enhancement (SAGE) prototypes.  Conduct SAGE DT, performance, and environmental testing.  Provide GPS AJ antenna programmatic and technical support as needed."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.212"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.212"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Increment 2:  Conduct Advanced Digital Antenna Production (ADAP) Integrated Logistics Assessment (ILA).  Continue GPS AJ programmatic and technical support of SAGE Production Representative Article (PRA) development and integration efforts into OE-538 Increment 2 mast."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Global Positioning System (GPS) - Based Positioning, Navigation and Timing (PNT) Service (GPNTS)"
+                                    },
+                                    "Description": {
+                                        "val": "Overall program efforts included investigation of emerging technologies through study, development and associated testing for feasibility of program insertion."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "14.470"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Successfully completed the GPNTS Critical Design Review (CDR). Briefed the Milestone Decision Authority (MDA) on CDR outcomes. Obtained an updated Acquisition Decision Memorandum (ADM) to proceed from CDR to Milestone C. Completed the draft Life Cycle Support Plan (LCSP), Capabilities Production Document (CPD), and Test and Evaluation Master Plan (TEMP) to support a Milestone C decision. Received accreditation for both Contractor and Government Labs, preparing the program to conduct Integrated Test Events. Tracked the program's IMS, reported EVM metrics as required, and created the first Should-Cost initiatives. Began updates of all DoD series acquisition statutory and regulatory documentation as required to support a MS C decision."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "12.110"
+                                            },
+                                            "Articles": {
+                                                "val": "1"
+                                            },
+                                            "Text": {
+                                                "val": "Plan for the delivery of the Engineering Development Models (EDMs) and prepare for lab testing including Independent Verification and Validation (IV&V) test events. Prepare for conducting Combat Systems Certification Testing in Dahlgren, VA. Finalize IOT&E platform selection and install preparations. Track the program's IMS and report EVM metrics as required. Continue updating all DoD series acquisition statutory and regulatory documentation as required to support a MS C decision. Update the CARD, PLCCE, and Acquisition Program Baseline (APB) for the MS C decision."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "14.150"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "14.150"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct the Independent Verification and Validation (IV&V) test event. Conduct Combat Systems Certification testing in Dahlgren, VA.  Conduct the required Development Test\/Operational Assessment (DT\/OA) at Wallops Island, VA.  Prepare for Initial Operational Test and Evaluation (IOT&E).  Receive and install Engineering Development Models (EDMs) on appropriate sites and platforms.  Finalize updates of all DoD series acquisition statutory and regulatory documentation as required to support a MS C decision.  Plan for the integration of Military Global Positioning System (GPS) User Equipment into the GPNTS system.  Conduct planning and preparation for procurement and installation of Low Rate Initial Production (LRIP) GPNTS terminals through IOT&E."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN \/ 2657"
+                                    },
+                                    "Title": {
+                                        "val": "NAVSTAR GPS Receivers (Space)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "9.515"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "11.765"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "15.232"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "15.232"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "14.348"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "15.155"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "18.876"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "21.992"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "APN \/ 0577"
+                                    },
+                                    "Title": {
+                                        "val": "Common Avionics"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "8.025"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "6.269"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "7.524"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "7.524"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "7.849"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "7.985"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "8.090"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "8.240"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Navigation Warfare (NAVWAR):  The Sea NAVWAR program is executed in two increments and supports integration of the Submarine Anti-Jam GPS Enhancement (SAGE).  Increment 1 is GPS Antenna System (GAS-1).  Increment 2 is Advanced Digital Antenna Production (ADAP).  The purpose of Increments 1 and 2 is to integrate AJ antennas on surface platforms.  The Sea NAVWAR program will continue research & development of a Small Antenna System (SAS) for surface ships and continue to support the Submarine Anti-Jam GPS Enhancement (SAGE) antenna development integrating AJ capability on submarines for the OE-538 Increment 2 Mast program.  The Air NAVWAR program is executed in a single increment with GAS-1 and ADAP to integrate on air platforms, and development of a smaller Anti-Jam (AJ) antenna and a conformal low-observable AJ antenna for aircraft with unique requirements.\n\nGPNTS: The GPS-based Positioning Navigation and Timing (GPNTS) program will be conducted in two increments. Increment 1 will develop, acquire, and field the GPNTS, a scalable Selective Availability\/ Anti-Spoofing Module (SAASM) GPS-based service oriented architecture Positioning, Navigation, and Timing (PNT) system that will provide an open, extensible, modernized replacement for the current fleet PNT systems, while targeting Common Computing Environments (CCE). Increment 2 will integrate Military GPS User Equipment (MGUE) that will allow the U.S. Navy to leverage current and future technology development provided by the GPS Wing, formerly known as the GPS Joint Program Office (JPO). GPNTS will operate at the UNCLASSIFIED level, and can provide the PNT data to higher classified systems."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "The primary metric used for the Air NAVWAR Program is acceptable system performance in a GPS denied environment which is defined by classified values of jamming to signal ratio (J\/S) identified in the Enhanced GPS User Equipment (UE) Operational Requirements Document (ORD) 562-06-00 of 7 June 2000.  The performance goal is met if acceptable system performance is achieved in the threshold J\/S environment cited in the classified appendix.\n\nThe primary metric used for the Sea NAVWAR is acceptable system performance in a GPS denial environment defined by classified values of jamming to signal ratio (J\/S) identified in the Sea NAVWAR Increment 2 Capabilities Production Document (CPD) (12\/08).  The performance goal is met if acceptable system performance is achieved in the threshold J\/S environment cited in the CPD.\n\nThe primary metrics used for the GPNTS is successful completion of the system development as outlined in the GPNTS Technical Requirements Document (TRD)."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2015PB_0604777N_0921_FILE4.PNG"
+                                }
+                            },
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2015PB_0604777N_0921_FILE5.PNG"
+                                }
+                            },
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2015PB_0604777N_0921_FILE6.PNG"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "1253"
+                    },
+                    "ProjectTitle": {
+                        "val": "Combat Ident System"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "152.112"
+                        },
+                        "PriorYear": {
+                            "val": "11.096"
+                        },
+                        "CurrentYear": {
+                            "val": "20.107"
+                        },
+                        "BudgetYearOne": {
+                            "val": "3.245"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "3.245"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "3.869"
+                        },
+                        "BudgetYearThree": {
+                            "val": "3.665"
+                        },
+                        "BudgetYearFour": {
+                            "val": "1.899"
+                        },
+                        "BudgetYearFive": {
+                            "val": "1.940"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "71"
+                            },
+                            "PriorYear": {
+                                "val": "10"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "1"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "1"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "MK XIIA Mode 5 provides improved secure cooperative combat identification via Identification Friend or Foe (IFF).  Mode 5 is developed in cooperation with North Atlantic Treaty Organization, with the DoD implementation governed by AIMS 03-1000A and USN requirements defined in ORD # 577-06-01. Mode 5 is a product improvement which is designed to be installed through engineering changes to digital MK XII interrogators and transponders and their associated cryptographic material.\n\nThe Navy Mark XIIA Mode 5 program was approved for entry in Systems Development and Demonstration phase in August 2003 and into the Production and Deployment Phase and Low Rate Initial Production in July 2006, and Full Rate Production July 2012.  Joint Requirements Oversight Council Memorandums (047-07 and 122-08) endorsed a Mode 5 Joint Initial Operational Capability (IOC) in FY14 and Joint Full Operational Capability (FOC) in 2020.\n\nRDT&E articles include Mode 5 cryptographic modules and associated hardware and software changes for AN\/APX-123, AN\/UPX-41, AN\/APX-119, and AN\/APX-111 equipment. RDT&E units are required for government and contractor labs to support aircraft and ship integrations, test sites and test aircraft."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Mode 5 prototype hardware, cryptographic module"
+                                    },
+                                    "Description": {
+                                        "val": "Develop kits for installation into existing fleet assets including AN\/UPX-37\/41C Interrogator, AN\/APX-118\/123 Common Digital Transponder, and AN\/APX-111 Combined Interrogator Transponder (CIT). Repair and correct deficiencies identified during integration and test.  Procure AN\/UPX-41C, AN\/APX-123, AN\/APX-119, AN\/UPX-24, AN\/APX-111(V), cryptographic modules and Mode 5 modification kits to support platform integration and testing. Perform platform integration efforts of Mode 5 equipment for various Type\/Model\/Series aircraft."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.873"
+                                            },
+                                            "Articles": {
+                                                "val": "10"
+                                            },
+                                            "Text": {
+                                                "val": "Continued integration with the H10 Mission Computer software and finalized equipment qualification testing of the Mode 5 AN\/APX-111 Combined Interrogator Transponder (CIT) in the F\/A-18E\/F and EA-18G aircraft. Finalized APX-123 engineering change on E-2D aircraft."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "11.327"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue integration of the Mode 5 AN\/APX-111 Combined Interrogator Transponder (CIT) in the F\/A-18E\/F and EA-18G aircraft."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.397"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.397"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Finalize integration of the Mode 5 AN\/APX-111 CIT in the F\/A-18E\/F and EA-18G aircraft."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Mode 5 Systems Engineering and Integrated Logistics Support (ILS)"
+                                    },
+                                    "Description": {
+                                        "val": "Performed systems engineering and analysis in support of Mode 5 hardware\/software development and engineering change proposals on AN\/UPX-41C Interrogator, AN\/APX-123 Common Digital Transponder, AN\/APX-119 Transponder, AN\/APX-111 Combined Interrogator Transponder, Cryptographic Modules, Mode 5 Engineering Test Equipment, and Mode 5 support equipment."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.678"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continued systems engineering and analysis for E-2D, F\/A-18E\/F and EA-18G aircraft. Supported USAF led integration of the AN\/APX-119 transponder in the multi-service C-130 aircraft."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.769"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue systems engineering and logistics efforts for KC-130J and F\/A-18E\/F and EA-18G."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.167"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.167"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue systems engineering and logistics efforts for various platforms (including KC-130J aircraft)."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Mode 5 Upgrade Developmental Test & Operational Test"
+                                    },
+                                    "Description": {
+                                        "val": "Perform Mode 5 integrated and operational test phases for AN\/UPX-41C Interrogator, AN\/APX-123 Common Transponder, AN\/APX-119 Transponder, and AN\/APX-111 Combined Interrogator Transponder."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.545"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Completed lab testing and commenced flight testing on the Mode 5 capable AN\/APX-111 as installed in the F\/A-18E\/F & EA-18G aircraft. Performed integrated testing on E-2D aircraft."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.011"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Finalize integrated test and conduct follow-on operational testing on the F\/A-18E\/F and EA-18G of the Mode 5 AN\/APX-111 equipment and platform H10 Mission Computer integration software. Finalize integrated testing on E-2D aircraft."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.681"
+                                            },
+                                            "Articles": {
+                                                "val": "1"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.681"
+                                            },
+                                            "Articles": {
+                                                "val": "1"
+                                            },
+                                            "Text": {
+                                                "val": "Procure APX-119 and cryptographic module for the Navy's KC-130J test aircraft and plan for testing. Coordinate and plan for platform integrated testing."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/2851"
+                                    },
+                                    "Title": {
+                                        "val": "Identification Systems"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "27.896"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "34.834"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "34.901"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "34.901"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "33.133"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "27.396"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "28.348"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "30.320"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "APN\/0582"
+                                    },
+                                    "Title": {
+                                        "val": "Identification Systems"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "35.386"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "38.303"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "38.880"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "38.880"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "58.731"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "46.271"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "46.395"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "47.342"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The Acquisition Strategy is to develop Mode 5 Engineering Change Proposals for modern Mark XII Identification Friend or Foe equipment and integrate into all Navy Combat Weapons systems platforms and transition the Navy's Cooperative Identification Capability to Mode 5."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Continue Full Rate Production and achieve Initial Operational Capability (IOC) in FY 2014."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2015PB_0604777N_1253_FILE1.PNG"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

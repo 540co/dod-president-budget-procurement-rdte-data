@@ -1,0 +1,997 @@
+{
+    "id": "bd7efe21cb8f39db32e00847eef8ccd07617a296",
+    "meta": {
+        "filename": "dod-2013_RDTE_2013_AIRFORCE_V2_MasterJustificationBook_Air_Force_PB_2013.zzz_unzipped_MasterJustificationBook_Air_Force_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@format": "R2Long",
+        "ProgramElementNumber": {
+            "val": "0603850F"
+        },
+        "ProgramElementTitle": {
+            "val": "Integrated Broadcast Service (DEM\/VAL)"
+        },
+        "R1LineItemNumber": {
+            "val": "37"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "4"
+        },
+        "BudgetActivityTitle": {
+            "val": "Advanced Component Development & Prototypes (ACD&P)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "20.396"
+            },
+            "CurrentYear": {
+                "val": "20.046"
+            },
+            "BudgetYearOne": {
+                "val": "19.938"
+            },
+            "BudgetYearOneBase": {
+                "val": "19.938"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "20.389"
+            },
+            "BudgetYearThree": {
+                "val": "20.799"
+            },
+            "BudgetYearFour": {
+                "val": "21.255"
+            },
+            "BudgetYearFive": {
+                "val": "22.393"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Integrated Broadcast Service (IBS) fulfills the warfighter's requirements for worldwide threat warning and situational awareness information with timely production and simultaneous dissemination of Intelligence, Surveillance, and Reconnaissance (ISR) derived combat information.  It also provides target tracking data to support threat avoidance, targeting, force protection, and situational awareness.   This information is continually refined in near real time by strategic, operational and tactical sensors.  \n\nThis PE funds\/has previously funded IBS system development as described below:\n- A Common Interactive Broadcast (CIB) on UHF satellite channel using a Common Message Format (CMF) and a MIL-STD Demand Assigned Multiple Access (DAMA) compliant waveform and Line of Sight (LOS) using the Wideband Networking Waveform (WNW) and Joint Tactical Terminal (JTT). \n\n- IBS-Network Services (IBS-NS) includes two Global IBS Network Servers (GINS) and four Theater Interface Nodes (TINs) to support the geographic Combatant Commanders; all built to validated warfighter requirements. \n -- Two GINS that receive data from each theater and integrate this data into a worldwide picture available to all network\/broadcast users. \n -- Four regional TINs, where out-of-theater (and local) users not directly receiving the broadcast can receive the information broadcast on the CIB.  Additionally, the TIN will receive and inject data into the CIB for producers without access to the theater CIB. \n\n- An XML-based Common Message Format (CMF) Data Element Dictionary (DED) that defines IBS messages for broadcast of  IBS information over available communications paths including the CIB and other Global Information Grid (GIG) networks. \n\n- A Modular Advanced TRanslation Interchange with XML (MATRIX) Reformatter that provides a modular, platform-independent, multi-use translator to support migration with legacy radios and provide a long term solution for IBS Full Operational Capability (FOC) radio users.  \n\nFunds the development of an evolving suite of interoperable planning and decision support capabilities comprised of software, hardware and communication products.  This project will identify and implement an open, scalable system architecture that will accommodate growth as the virtual world grows and cyber operations change.\n\nThis program is in Budget Activity 4, Advanced Component Development and Prototypes (ACD&P) because efforts are necessary to evaluate integrated technologies, representative modes or prototype systems in a high fidelity and realistic operating environment.\n\nActivities also include studies and analysis to support both current program planning and execution and future program planning."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "20.580"
+                },
+                "CurrentYear": {
+                    "val": "20.046"
+                },
+                "BudgetYearOne": {
+                    "val": "19.901"
+                },
+                "BudgetYearOneBase": {
+                    "val": "19.901"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "20.396"
+                },
+                "CurrentYear": {
+                    "val": "20.046"
+                },
+                "BudgetYearOne": {
+                    "val": "19.938"
+                },
+                "BudgetYearOneBase": {
+                    "val": "19.938"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.184"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.037"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.037"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.184"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "0.037"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "0.037"
+                                },
+                                "BudgetYearOneOCO": {
+                                    "val": "0.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "FY11:  -$184K for Congressional General Reduction."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "644778"
+                    },
+                    "ProjectTitle": {
+                        "val": "Integrated Broadcast Service"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "20.396"
+                        },
+                        "CurrentYear": {
+                            "val": "20.046"
+                        },
+                        "BudgetYearOne": {
+                            "val": "19.938"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "19.938"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "20.389"
+                        },
+                        "BudgetYearThree": {
+                            "val": "20.799"
+                        },
+                        "BudgetYearFour": {
+                            "val": "21.255"
+                        },
+                        "BudgetYearFive": {
+                            "val": "22.393"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Integrated Broadcast Service (IBS) fulfills the warfighter's requirements for worldwide threat warning and situational awareness information with timely production and simultaneous dissemination of Intelligence, Surveillance, and Reconnaissance (ISR) derived combat information.  It also provides target tracking data to support threat avoidance, targeting, force protection, and situational awareness.   This information is continually refined in near real time by strategic, operational and tactical sensors.  \n\nThis PE funds\/has previously funded IBS system development as described below:\n- A Common Interactive Broadcast (CIB) on UHF satellite channel using a Common Message Format (CMF) and a MIL-STD Demand Assigned Multiple Access (DAMA) compliant waveform and Line of Sight (LOS) using the Wideband Networking Waveform (WNW) and Joint Tactical Terminal (JTT). \n\n- IBS-Network Services (IBS-NS) includes two Global IBS Network Servers (GINS) and four Theater Interface Nodes (TINs) to support the geographic Combatant Commanders; all built to validated warfighter requirements. \n -- Two GINS that receive data from each theater and integrate this data into a worldwide picture available to all network\/broadcast users. \n -- Four regional TINs, where out-of-theater (and local) users not directly receiving the broadcast can receive the information broadcast on the CIB.  Additionally, the TIN will receive and inject data into the CIB for producers without access to the theater CIB. \n\n- An XML-based Common Message Format (CMF) Data Element Dictionary (DED) that defines IBS messages for broadcast of  IBS information over available communications paths including the CIB and other Global Information Grid (GIG) networks. \n\n- A Modular Advanced TRanslation Interchange with XML (MATRIX) Reformatter that provides a modular, platform-independent, multi-use translator to support migration with legacy radios and provide a long term solution for IBS Full Operational Capability (FOC) radio users.  \n\nFunds the development of an evolving suite of interoperable planning and decision support capabilities comprised of software, hardware and communication products.  This project will identify and implement an open, scalable system architecture that will accommodate growth as the virtual world grows and cyber operations change.\n\nThis program is in Budget Activity 4, Advanced Component Development and Prototypes (ACD&P) because efforts are necessary to evaluate integrated technologies, representative modes or prototype systems in a high fidelity and realistic operating environment.\n\nActivities also include studies and analysis to support both current program planning and execution and future program planning."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Systems Engineering"
+                                    },
+                                    "Description": {
+                                        "val": "Provide systems engineering support and development of architectures for the IBS-NS."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.438"
+                                            },
+                                            "Text": {
+                                                "val": "Continued systems engineering support and development of architectures for the IBS-NS."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.378"
+                                            },
+                                            "Text": {
+                                                "val": "Continue systems engineering support and development of architectures for the IBS-NS."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.378"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.378"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue systems engineering support and development of architectures for the IBS-NS."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "IBS-NS (GINS\/TINs) Development"
+                                    },
+                                    "Description": {
+                                        "val": "Continue the Phase II\/System Development and Demonstration of the GINS and TINs efforts."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "13.374"
+                                            },
+                                            "Text": {
+                                                "val": "Continued development, integration and testing of the Spiral 4 GINS and TINs capabilities."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "15.382"
+                                            },
+                                            "Text": {
+                                                "val": "Continue the integration and testing of the Spiral 4 release of the GINS and TINs capabilities.\n\nInitiate advanced development of Spiral 4 capabilities."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "16.777"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "16.777"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue the integration and testing of the Spiral 4 release of the GINS and TINs efforts.  Will transition Spiral 4 IBS-NS capability to sustainment.  \n\nWill complete advanced development of Spiral 4 release of GINS and TINs."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Test & Evaluation"
+                                    },
+                                    "Description": {
+                                        "val": "Continue Test & Evaluation of the IBS system."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.295"
+                                            },
+                                            "Text": {
+                                                "val": "Continued Test & Evaluation efforts."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.910"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct Integrated Test #1 and IBS Multi-Service Operational Test & Evaluation (MOT&E)"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.918"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.918"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue Test and Evaluation"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Enterprise Systems Eng"
+                                    },
+                                    "Description": {
+                                        "val": "Enterprise Systems Engineering\/CMF Integration\/CIB Integration"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.700"
+                                            },
+                                            "Text": {
+                                                "val": "Continued Enterprise Systems Engineering\/CMF Integration\/CIB Integration efforts."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.700"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct Enterprise Systems Engineering\/CMF Integration\/CIB Integration efforts."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.700"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.700"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue Enterprise Systems Engineering\/CMF Integration\/CIB Integration efforts."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "System Program Office"
+                                    },
+                                    "Description": {
+                                        "val": "Maintain a Program Mgmt Office, including program supervision, finance and acquisition strategy execution."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.415"
+                                            },
+                                            "Text": {
+                                                "val": "Maintained a Program Mgmt Office, including program supervision, finance and acquisition strategy execution."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.676"
+                                            },
+                                            "Text": {
+                                                "val": "Maintain a Program Mgmt Office, including program supervision, finance and acquisition strategy execution."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.165"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.165"
+                                            },
+                                            "Text": {
+                                                "val": "Maintain a Program Mgmt Office, including program"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "CIB (IW Phase 2 Controller)"
+                                    },
+                                    "Description": {
+                                        "val": "Integrate and test capability that implements allocation of Satellite Communicatons (SATCOM) resources based on established policy\/rules"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.874"
+                                            },
+                                            "Text": {
+                                                "val": "Integrated and tested capability that implements allocation of SATCOM resources based on established policy\/rules"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "CIB Engineering\/Testing"
+                                    },
+                                    "Description": {
+                                        "val": "Provide Common Interactive Broadcast (CIB) Engineering Testbed and CIB-related engineering\/testing support."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.300"
+                                            },
+                                            "Text": {
+                                                "val": "Provided Common Interactive Broadcast (CIB) Engineering Testbed and CIB-related engineering\/testing support."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPAF, PE 0305179F, Integrated Br..."
+                                    },
+                                    "Title": {
+                                        "val": "Integrated Broadcast Service (IBS)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "12.542"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "9.993"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "13.095"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "13.095"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "10.121"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "11.180"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "10.205"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "10.393"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "O&M, PE 0305179F, Integrated..."
+                                    },
+                                    "Title": {
+                                        "val": "Integrated Broadcast Service (IBS)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "17.106"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "19.559"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "28.391"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "28.391"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "24.389"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "18.935"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "18.810"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "19.185"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "IBS used an evolutionary acquisition approach with a Program Definition\/Risk Reduction phase (Spiral 1), followed by a full and open competition award to BTG\/Titan\/L-3Comm\/L-3 Stratis to complete the Engineering, Manufacturing and Development (EMD) phase (Spiral 2-4)."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "APPN_3600_BA_04_PE_0603850F_BPAC_644778_0.jpg"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "CMF MIL-STD 6018 Designation"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "IBS-NS (GINS\/TINs) Development\/Integration\/Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "CIB (IW Controller Phase II Controller)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "CIB Uplink Integration\/Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2011"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "CIB Uplink Fielding"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "IBS-NS (GINS\/TINs) Limited Deployment Decision"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "IBS Integrated Test #1"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "IBS-NS (GINS\/TINS) Full Deployment Decision"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "IBS MOT&E"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Advanced Development of Spiral 4 IBS-NS capability"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "IOC"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "MDA Final Program Review"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "IBS-NS (GINS\/TINs) Transition to Sustainment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "CIB Planning Tool Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Modernization of IBS-NS"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

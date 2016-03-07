@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+    <proc:LineItem quantityUnits="Each" unitCostUnits="Dollars" totalCostUnits="Millions" manufacturerRateUnits="Yearly">
+        <proc:LineItemNumber>7000</proc:LineItemNumber>
+        <proc:LineItemTitle>Spares and Repair Parts</proc:LineItemTitle>
+        <proc:P1LineNumber>999</proc:P1LineNumber>
+        <proc:BudgetYear>2015</proc:BudgetYear>
+        <proc:BudgetCycle>PB</proc:BudgetCycle>
+        <proc:SubmissionDate>2014-03</proc:SubmissionDate>
+        <proc:ServiceAgencyName>Navy</proc:ServiceAgencyName>
+        <proc:AppropriationNumber>1109N</proc:AppropriationNumber>
+        <proc:AppropriationTitle>Procurement, Marine Corps</proc:AppropriationTitle>
+        <proc:BudgetActivityNumber>7</proc:BudgetActivityNumber>
+        <proc:BudgetActivityTitle>Spares and Repair Parts</proc:BudgetActivityTitle>
+        <proc:BudgetSubActivityNumber>1</proc:BudgetSubActivityNumber>
+        <proc:BudgetSubActivityTitle>Spares And Repair Parts</proc:BudgetSubActivityTitle>
+        <proc:ResourceSummary>
+            <proc:TotalCost>
+                <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                <proc:PriorYear>3.013</proc:PriorYear>
+                <proc:CurrentYear>13.7</proc:CurrentYear>
+                <proc:BudgetYearOneBase>16.21</proc:BudgetYearOneBase>
+                <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                <proc:BudgetYearOne>16.21</proc:BudgetYearOne>
+                <proc:BudgetYearTwo>14.617</proc:BudgetYearTwo>
+                <proc:BudgetYearThree>23.199</proc:BudgetYearThree>
+                <proc:BudgetYearFour>29.249</proc:BudgetYearFour>
+                <proc:BudgetYearFive>24.082</proc:BudgetYearFive>
+                <proc:Continuing>true</proc:Continuing>
+            </proc:TotalCost>
+            <proc:NetProcurementP1>
+                <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                <proc:PriorYear>3.013</proc:PriorYear>
+                <proc:CurrentYear>13.7</proc:CurrentYear>
+                <proc:BudgetYearOneBase>16.21</proc:BudgetYearOneBase>
+                <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                <proc:BudgetYearOne>16.21</proc:BudgetYearOne>
+                <proc:BudgetYearTwo>14.617</proc:BudgetYearTwo>
+                <proc:BudgetYearThree>23.199</proc:BudgetYearThree>
+                <proc:BudgetYearFour>29.249</proc:BudgetYearFour>
+                <proc:BudgetYearFive>24.082</proc:BudgetYearFive>
+                <proc:Continuing>true</proc:Continuing>
+            </proc:NetProcurementP1>
+            <proc:TotalObligationAuthority>
+                <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                <proc:PriorYear>3.013</proc:PriorYear>
+                <proc:CurrentYear>13.7</proc:CurrentYear>
+                <proc:BudgetYearOneBase>16.21</proc:BudgetYearOneBase>
+                <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                <proc:BudgetYearOne>16.21</proc:BudgetYearOne>
+                <proc:BudgetYearTwo>14.617</proc:BudgetYearTwo>
+                <proc:BudgetYearThree>23.199</proc:BudgetYearThree>
+                <proc:BudgetYearFour>29.249</proc:BudgetYearFour>
+                <proc:BudgetYearFive>24.082</proc:BudgetYearFive>
+                <proc:Continuing>true</proc:Continuing>
+            </proc:TotalObligationAuthority>
+        </proc:ResourceSummary>
+        <proc:Code>A</proc:Code>
+        <proc:OtherRelatedProgramElementList>
+            <proc:ProgramElementNumber>0206211M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0206623M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0206624M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0206625M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0204460M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0206313M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0206315M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0305239M</proc:ProgramElementNumber>
+            <proc:ProgramElementNumber>0603635M</proc:ProgramElementNumber>
+        </proc:OtherRelatedProgramElementList>
+        <proc:SecondaryDistribution>
+            <proc:ComponentList>
+                <proc:Component>
+                    <proc:Name>Navy Active</proc:Name>
+                    <proc:Cost>
+                        <proc:TotalCost>
+                            <proc:PriorYear>3.013</proc:PriorYear>
+                            <proc:CurrentYear>13.695</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>16.21</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>16.21</proc:BudgetYearOne>
+                            <proc:BudgetYearTwo>14.617</proc:BudgetYearTwo>
+                            <proc:BudgetYearThree>23.199</proc:BudgetYearThree>
+                            <proc:BudgetYearFour>29.249</proc:BudgetYearFour>
+                            <proc:BudgetYearFive>24.082</proc:BudgetYearFive>
+                        </proc:TotalCost>
+                    </proc:Cost>
+                </proc:Component>
+                <proc:Component>
+                    <proc:Name>Navy Reserve</proc:Name>
+                    <proc:Cost>
+                        <proc:TotalCost>
+                            <proc:CurrentYear>0.005</proc:CurrentYear>
+                        </proc:TotalCost>
+                    </proc:Cost>
+                </proc:Component>
+            </proc:ComponentList>
+            <proc:TotalCost>
+                <proc:TotalCost>
+                    <proc:PriorYear>3.013</proc:PriorYear>
+                    <proc:CurrentYear>13.7</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>16.21</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>16.21</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>14.617</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>23.199</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>29.249</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>24.082</proc:BudgetYearFive>
+                </proc:TotalCost>
+            </proc:TotalCost>
+        </proc:SecondaryDistribution>
+        <proc:Description>Spares - Funds are required to reimburse the Navy Working Capital Fund for both repairable and consumable components at the time the initial spare parts package is released with the principal end item (PEI) to the Fleet Marine Force.  This concept complies with the Navy Working Capital Fund funding of Initial Spares with reimbursement from the Procurement Account.  Funds also provide for direct vendor support of the PEI delivery to the Fleet Marine Force.  Funds required under the  General Purpose Electronic Test Equipment (GPETE) and General Purpose Mechanical Test Equipment (GPMTE) support the working capital funds sparing demands under these test equipment support program efforts.
+
+This account has funding for the following programs:
+Secure Mobile Anti-Jam Reliable Tactical-Terminal (SMART-T), Sensitive Compartmented Information Communications (SCI Comms), LAV Survivability Upgrade Program, LAV-AT System Program, Intelligence Equipment Readiness (IER), Common Aviation Command and Control System (CAC2S), Family of Material Handling Equipment (FMHE), Ground/Air Task Oriented Radar (G/ATOR AN/TPS-80), Training Spares FY13/Training Simulation Support FY14-19, MAGTF Secondary Imagery Dissemination System (MSIDS), Tactical Remote Sensor System (TRSS), Intelligence Analysis System (IAS), USMC Counter RCIED Electronic Warfare (CREW), General Purpose Tool and Test Equipment (GPTTE) (formally GPETE and GPMTE), RQ-21A Small Tactical UAS, Close Quarter Battle Pistol (CQBP), and Follow-on to SMAW (FOTS).</proc:Description>
+        <proc:Justification>FY13 Base Appropriation: $3.014M
+
+Training Device BLI 6532:  Training Spares resources in the amount of $43K provided funding that minimizes lost training capability by providing a small quantity of systems spares/parts to fulfill allowance pool quantities while systems are being repaired or replaced.  
+ 
+Weapons &amp; Combat Vehicles Under $5M BLI 2220:  The $50K provided for the purchase of initial spares in support of the Close Quarter Battle Pistol through the Prime Vendor.  
+
+Follow-on to SMAW (FOTS) BLI 3016:  The $236K provided for the purchase of initial spares in support of the FOTS system via Prime Vendor.  
+
+USMC CREW BLI 6520 - The $1,535K provided for the purchase of initial spares in support of the procurement of USMC CREW MEU(SOC) Systems via the Prime Vendor.
+
+Secure Mobile Anti-Jam Reliable Tactical - Terminal (SMART-T) BLI 4633: The $188K of spares funding provided for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+Tactical Remote Sensor Systems (TRSS) BLI 4747: $140K procured hardware spares for equipment in the TRSS System of Systems (SoS) to ensure repair time and equipment unavailability is minimized for the warfighter.
+
+MAGTF Secondary Imagery Dissemination Systems (MSIDS) BLI 4747:  $427K procured spares for the hardware refresh of thermal components within the MSIDS Suite necessary to keep ground-based imagery collection and dissemination assets in operation, ensuring spares are available to the warfighter when breakage occurs to minimize equipment down-time.
+
+Intelligence Equipment Readiness (IER) BLI 4747: The $1K of spares funding provided for procurement of spare STINGRAY components. 
+
+Familty of Material Handling Equipment (FMHE) BLI 6462: The $36K funding supported the special sparing needs for the forklifts acquired and fielding via the BLI 6462.
+
+Intelligence Analysis System (IAS) BLI 4747: The $99K of spares funding provided for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+General Purpose Electronic Test Equipment (GPETE) and General Purpose Mechanical Test Equipment (GPMTE) BLI 4181 - The $259K funding supported the reimbursement to the working capital funds for spares being bought as part of the initial issue fielding process and as part of the first year of support. 
+  
+FY 2014 Base Appropriation: $13.700M
+
+Weapons &amp; Combat Vehicles Under $5M BLI 2220:  The $50K provides for the purchase of initial spares in support of the Close Quarter Battle Pistol through the Prime Vendor.
+
+SMART-T BLI 4633:  The $174K of spares funding provides for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+IER BLI 4747:  The $138K of spares funding provides for direct support of the MEU Support Team.  
+
+MSIDS BLI 4747: The $185K provides for purchase of hardware and accessory spares of the MSIDS Suite necessary to keep ground-based imagery collection and dissemination assets in operation, ensuring spares are available to the warfighter when breakage occurs to minimize equipment down-time.
+
+TRSS BLI 4747: $144K provides for the purchase of equipment spares in the TRSS System of Systems (SoS) to ensure repair time and equipment unavailability is minimized for the warfighter.
+
+IAS BLI 4747: The $100K of spares funding provides for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+FMHE BLI 6462: The $50K funding will support the special sparing needs for the forklifts acquired and fielding via the BLI 6462.
+  
+AN/TPS-80 Ground Air Task Oriented Radar (G/ATOR) BLI 4650: The increase of funding in the amount of $7,500K from FY13 provides spares funding to support LRIP systems.
+
+RQ-21 UAS BLI 4737: The increase in funding of in the amount of $5,000K from FY13 provides initial spares for fielded systems.
+
+SCI COMMS BLI 4747:  The $100K of spares funding provides for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+General Purpose Tool and Test Equipment (formally GPETE and GPMTE) BLI 4181 - $214K funding supports the reimbursement to the working capital funds for spares acquired and needed during test support performed.
+
+Training Device BLI 6532:  Training Simulation Support resources in the amount of $45K provides funding that minimizes lost training capability by providing a small quantity of systems spares/parts to fulfill allowance pool quantities while systems are being repaired or replaced.
+
+
+FY 2015 Base Appropriation Request: $16.210M
+
+AN/TPS-80 Ground Air Task Oriented Radar (G/ATOR) BLI 4655 vice BLI 4650: The $2,589K provides spares funding to support LRIP systems.
+
+MSIDS BLI 4747: $100K provides for purchase of hardware and accessory spares of the MSIDS Suite necessary to keep ground-based imagery collection and dissemination assets in operation, ensuring spares are available to the warfighter when breakage occurs to minimize equipment down-time.
+
+TRSS BLI 4747: $100K provides for the purchase of equipment spares in the TRSS System of Systems (SoS) to ensure repair time and equipment unavailability is minimized for the warfighter.
+
+LAV-PIP BLI 2038:  Increase in of funding of $4,767K supports spares/parts to support Anti-Tank Weapon Systems, Power-pack, Driveline, Steering, Suspension and Electrical kits, and Ballistic Seats.  
+
+Training Device BLI 6532:  Training Simulation Support resources in the amount of $47K provides funding that minimizes lost training capability by providing a small quantity of systems spares/parts to fulfill allowance pool quantities while systems are being repaired or replaced.
+
+General Purpose Tool and Test Equipment (formally GPETE and GPMTE) BLI 4181 - The $739K funding supports the reimbursement to the working capital funds for spares acquired and needed during test support performed.
+
+SMART-T BLI 4633:  The $197K of spares funding provides for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+RQ-21 UAS 4737:  $5,093K provides spares for fielded systems.
+
+SCI COMMS BLI 4747:  FY15 $700K of spares funding provides for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+Intelligence Analysis System (IAS) 4747:  $101K of spares funding provides for direct vendor support of the principal end item (PEI) components delivery to the Fleet Marine Force.
+
+Common Aviation Command and Control Systems (CAC2S) BLI 4640:  The $1,700K funding provides for the procurement of spares in support of CAC2S through the Prime Vendor.
+
+Family of Material Handling Equipment (FMHE) 6462:  $70K funding will support the special sparing needs for the forklifts acquired and fielding via the BLI 6462.</proc:Justification>
+        <proc:ItemExhibitList>
+            <proc:P18Item>
+                <proc:Name>PMC spares</proc:Name>
+                <proc:InitialSpares>
+                    <proc:EndItemBudgetActivity>
+                        <proc:BudgetActivityNumber>2</proc:BudgetActivityNumber>
+                        <proc:BudgetActivityTitle>Weapons and combat vehicles</proc:BudgetActivityTitle>
+                        <proc:EndItemList>
+                            <proc:EndItem>
+                                <proc:Name>LAV PIP</proc:Name>
+                                <proc:LineItemNumber>2038</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:BudgetYearOneBase>4.767</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>4.767</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>Wpns &amp; Cmbt Vehs under $5 million</proc:Name>
+                                <proc:LineItemNumber>2220</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>0.05</proc:PriorYear>
+                                    <proc:CurrentYear>0.05</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                        </proc:EndItemList>
+                    </proc:EndItemBudgetActivity>
+                    <proc:EndItemBudgetActivity>
+                        <proc:BudgetActivityNumber>3</proc:BudgetActivityNumber>
+                        <proc:BudgetActivityTitle>Guided missiles and equipment</proc:BudgetActivityTitle>
+                        <proc:EndItemList>
+                            <proc:EndItem>
+                                <proc:Name>Follow on To Smaw</proc:Name>
+                                <proc:LineItemNumber>3016</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>0.236</proc:PriorYear>
+                                    <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                        </proc:EndItemList>
+                    </proc:EndItemBudgetActivity>
+                    <proc:EndItemBudgetActivity>
+                        <proc:BudgetActivityNumber>4</proc:BudgetActivityNumber>
+                        <proc:BudgetActivityTitle>Communications and Electronics Equipment</proc:BudgetActivityTitle>
+                        <proc:EndItemList>
+                            <proc:EndItem>
+                                <proc:Name>Repair and Test Equipment</proc:Name>
+                                <proc:LineItemNumber>4181</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>0.259</proc:PriorYear>
+                                    <proc:CurrentYear>0.214</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>0.739</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0.739</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>Radio Systems</proc:Name>
+                                <proc:LineItemNumber>4633</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>0.188</proc:PriorYear>
+                                    <proc:CurrentYear>0.174</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>0.197</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0.197</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>Air Operations C2 Systems</proc:Name>
+                                <proc:LineItemNumber>4640</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:BudgetYearOneBase>1.698</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>1.698</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>Radar Systems</proc:Name>
+                                <proc:LineItemNumber>4650</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:CurrentYear>7.5</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>Ground/Air Task Oriented Radar (G/ATOR)</proc:Name>
+                                <proc:LineItemNumber>4655</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:BudgetYearOneBase>2.598</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>2.598</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>RQ-21 UAS</proc:Name>
+                                <proc:LineItemNumber>4737</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:CurrentYear>5</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>5.093</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>5.093</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>Intelligence Support Equipment</proc:Name>
+                                <proc:LineItemNumber>4747</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>0.667</proc:PriorYear>
+                                    <proc:CurrentYear>0.667</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>1.001</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>1.001</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                        </proc:EndItemList>
+                    </proc:EndItemBudgetActivity>
+                    <proc:EndItemBudgetActivity>
+                        <proc:BudgetActivityNumber>6</proc:BudgetActivityNumber>
+                        <proc:BudgetActivityTitle>Engineer and Other Equipment</proc:BudgetActivityTitle>
+                        <proc:EndItemList>
+                            <proc:EndItem>
+                                <proc:Name>Material Handling Equip</proc:Name>
+                                <proc:LineItemNumber>6462</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>0.036</proc:PriorYear>
+                                    <proc:CurrentYear>0.05</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>0.07</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0.07</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>EOD Systems</proc:Name>
+                                <proc:LineItemNumber>6520</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>1.535</proc:PriorYear>
+                                    <proc:BudgetYearOneBase>0</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                            <proc:EndItem>
+                                <proc:Name>Training Devices</proc:Name>
+                                <proc:LineItemNumber>6532</proc:LineItemNumber>
+                                <proc:Cost>
+                                    <proc:PriorYear>0.043</proc:PriorYear>
+                                    <proc:CurrentYear>0.045</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>0.047</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>0.047</proc:BudgetYearOne>
+                                </proc:Cost>
+                            </proc:EndItem>
+                        </proc:EndItemList>
+                    </proc:EndItemBudgetActivity>
+                    <proc:SubtotalSparesCost>
+                        <proc:PriorYear>3.014</proc:PriorYear>
+                        <proc:CurrentYear>13.7</proc:CurrentYear>
+                        <proc:BudgetYearOneBase>16.21</proc:BudgetYearOneBase>
+                        <proc:BudgetYearOne>16.21</proc:BudgetYearOne>
+                    </proc:SubtotalSparesCost>
+                </proc:InitialSpares>
+                <proc:TotalSparesCost>
+                    <proc:PriorYear>3.014</proc:PriorYear>
+                    <proc:CurrentYear>13.7</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>16.21</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>16.21</proc:BudgetYearOne>
+                </proc:TotalSparesCost>
+            </proc:P18Item>
+        </proc:ItemExhibitList>
+        <proc:DocumentAssemblyOptions>
+            <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+        </proc:DocumentAssemblyOptions>
+    </proc:LineItem>
+</proc:LineItemList>

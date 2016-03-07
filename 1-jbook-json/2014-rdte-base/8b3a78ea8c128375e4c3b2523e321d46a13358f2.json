@@ -1,0 +1,743 @@
+{
+    "id": "8b3a78ea8c128375e4c3b2523e321d46a13358f2",
+    "meta": {
+        "filename": "dod-2014_RDTE_2014_AIRFORCE_V1_RDTE_MasterJustificationBook_Air_Force_PB_2014.zzz_unzipped_RDTE_MasterJustificationBook_Air_Force_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@format": "R2Long",
+        "ProgramElementNumber": {
+            "val": "0603840F"
+        },
+        "ProgramElementTitle": {
+            "val": "Global Broadcast Service (GBS)"
+        },
+        "R1LineItemNumber": {
+            "val": "59"
+        },
+        "MdapCodes": {
+            "val": "326"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "5.631"
+            },
+            "CurrentYear": {
+                "val": "14.652"
+            },
+            "BudgetYearOne": {
+                "val": "0.000"
+            },
+            "BudgetYearOneBase": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "0.000"
+            },
+            "BudgetYearThree": {
+                "val": "0.000"
+            },
+            "BudgetYearFour": {
+                "val": "0.000"
+            },
+            "BudgetYearFive": {
+                "val": "0.000"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Global Broadcast Service provides DoD with an efficient, high data rate broadcast capability from distributed information sources to dispersed warfighters who receive the broadcast directly on small, inexpensive user terminals.  This Program Element funds the broadcast transmit activities associated with the GBS architecture.  The GBS broadcast receive segment consists of  Service-funded terminals, known as Receive Suites, which receive the broadcast and then disseminate information to local users.   Service Receive Suites and the integration into service networks are funded in other Program Elements.  GBS broadcast data includes video (especially from Unmanned Aerial Vehicles), imagery, logistics, weather data, maps and operational orders.  The GBS space segment includes transponders on operational Navy satellites, currently Ultra High Frequency Follow-On (UFO) 8 and UFO 10, augmentation by commercial leased Ku-band transponders, and now the Wideband Global SATCOM (WGS) System.  \n\nCurrently, the GBS broadcast segment consists of Satellite Broadcast Managers (SBMs) for the broadcast build and Primary Injection Points (PIPs) for the broadcast uplink, and the Transportable Satellite Broadcast Managers (TSBMs) for the broadcast build in theatre.  The SBMs and PIPs, together known as Transmit Suites, are located at Navy facilities.  The Theatre Injection Point (TIP) is a ground mobile satellite terminal suite transportable via two heavy High Mobility Multi-purpose Wheeled Vehicles (HMMWV) consisting of the TSBM and the Army Phoenix terminal. The DECC will utilize a new hardware and software architecture to resolve impending Commercial Off the Shelf (COTS) obsolescence, Information Assurance compliance and sustainment issues. \n\nDuring FY09 to the present, the broadcast creation transitions to existing Defense Information Systems Agency (DISA) Defense Enterprise Computing Centers (DECCs). This transition addresses SBM hardware\/software obsolescence issues.  The DECC transition contract was awarded on 15 May 09.  This effort was designated as an ACAT III program and funding was realigned (i.e., a separate project was created) to delineate between the current ACAT I GBS program and the ACAT III SBM Transition program.    \n\nThis effort continues SBM transition\/upgrade to the DISA DECCs, as well as systems transmission security, test, information assurance, program office support and Operational Requirements Document (ORD) III studies. Funding for this effort ended in FY13.\n\nFunding is in Budget Activity 5, System Development and Demonstration, since program is fielding pre-production equipment."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "5.631"
+                },
+                "CurrentYear": {
+                    "val": "14.652"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "5.631"
+                },
+                "CurrentYear": {
+                    "val": "14.652"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "0.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "65A023"
+                    },
+                    "ProjectTitle": {
+                        "val": "Satellite Broadcast Management Transition"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "5.631"
+                        },
+                        "CurrentYear": {
+                            "val": "14.652"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Global Broadcast Service provides DoD with an efficient, high data rate broadcast capability from distributed information sources to dispersed warfighters who receive the broadcast directly on small, inexpensive user terminals.  This Program Element funds the broadcast transmit activities associated with the GBS architecture.  The GBS broadcast receive segment consists of  Service-funded terminals, known as Receive Suites, which receive the broadcast and then disseminate information to local users.   Service Receive Suites and the integration into service networks are funded in other Program Elements.  GBS broadcast data includes video (especially from Unmanned Aerial Vehicles), imagery, logistics, weather data, maps and operational orders.  The GBS space segment includes transponders on operational Navy satellites, currently Ultra High Frequency Follow-On (UFO) 8 and UFO 10, augmentation by commercial leased Ku-band transponders, and now the Wideband Global SATCOM (WGS) System.  \n\nCurrently, the GBS broadcast segment consists of Satellite Broadcast Managers (SBMs) for the broadcast build and Primary Injection Points (PIPs) for the broadcast uplink, and the Transportable Satellite Broadcast Managers (TSBMs) for the broadcast build in theatre.  The SBMs and PIPs, together known as Transmit Suites, are located at Navy facilities.  The Theatre Injection Point (TIP) is a ground mobile satellite terminal suite transportable via two heavy High Mobility Multi-purpose Wheeled Vehicles (HMMWV) consisting of the TSBM and the Army Phoenix terminal. The DECC will utilize a new hardware and software architecture to resolve impending Commercial Off the Shelf (COTS) obsolescence, Information Assurance compliance and sustainment issues. \n\nDuring FY09 to the present, the broadcast creation transitions to existing Defense Information Systems Agency (DISA) Defense Enterprise Computing Centers (DECCs). This transition addresses SBM hardware\/software obsolescence issues.  The DECC transition contract was awarded on 15 May 09.  This effort was designated as an ACAT III program and funding was realigned (i.e., a separate project was created) to delineate between the current ACAT I GBS program and the ACAT III SBM Transition program.    \n\nThis effort continues SBM transition\/upgrade to the DISA DECCs, as well as systems transmission security, test, information assurance, program office support and Operational Requirements Document (ORD) III studies. Funding for this effort ended in FY13.\n\nFunding is in Budget Activity 5, System Development and Demonstration, since program is fielding pre-production equipment."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Satellite Broadcast Management Transition"
+                                    },
+                                    "Description": {
+                                        "val": "Develop a robust satellite broadcast management architecture and implement systems transmission security (TRANSEC)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.631"
+                                            },
+                                            "Text": {
+                                                "val": "Continued development of a robust satellite broadcast management architecture and implemented systems TRANSEC."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "14.652"
+                                            },
+                                            "Text": {
+                                                "val": "Completes development and transition of the TRANSEC compliant satellite broadcast management architecture to DISA DECC."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPAF: BA03: Line Item # 836780"
+                                    },
+                                    "Title": {
+                                        "val": "MILSATCOM Space"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "16.117"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "129.979"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Awarded a new contract in FY09 based on full and open competition to transfer Satellite Broadcast Management functionality to two Defense Enterprise Computing Center (DECC) facilities."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "DECC Transition"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin Information Systems and Global Services"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Gaithersburg, MD"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.117"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "7.768"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Phase 2 Government System Integration"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.960"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.363"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Support (Various)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": ","
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.796"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Test and Evaluation (Various)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.758"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.773"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Administration"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.748"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "APPN_3600_BA_05_PE_0603840F_BPAC_65A023_0.jpg"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Systems Acceptance Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Development Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Operational Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Operational Acceptance"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "id": "863d98439e04f02f2ab3dd8c1433b5857d9ae4e4",
+    "meta": {
+        "filename": "dod-2015_PROCUREMENT_2015_DEFENSE_MDA_PROCUREMENT_JustificationBook_Missile_Defense_Agency_PB_2015.zzz_unzipped_PROCUREMENT_JustificationBook_Missile_Defense_Agency_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Missile Defense Agency",
+        "appropriation_code": "0300D",
+        "appropriation_name": "Procurement, Defense-Wide"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Millions",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Monthly",
+        "LineItemNumber": {
+            "val": "MD77"
+        },
+        "LineItemTitle": {
+            "val": "Radar Spares"
+        },
+        "P1LineNumber": {
+            "val": "33"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Missile Defense Agency"
+        },
+        "AppropriationNumber": {
+            "val": "0300D"
+        },
+        "AppropriationTitle": {
+            "val": "Procurement, Defense-Wide"
+        },
+        "BudgetActivityNumber": {
+            "val": "1"
+        },
+        "BudgetActivityTitle": {
+            "val": "Major Equipment"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "17"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Major Equipment, Missile Defense Agency"
+        },
+        "ResourceSummary": {
+            "TotalCost": {
+                "PriorYear": {
+                    "val": "10.901"
+                },
+                "Total": {
+                    "val": "10.901"
+                }
+            },
+            "NetProcurementP1": {
+                "PriorYear": {
+                    "val": "10.901"
+                },
+                "Total": {
+                    "val": "10.901"
+                }
+            },
+            "TotalObligationAuthority": {
+                "PriorYear": {
+                    "val": "10.901"
+                },
+                "Total": {
+                    "val": "10.901"
+                }
+            },
+            "InitialSpares": {
+                "PriorYear": {
+                    "val": "10.901"
+                },
+                "Total": {
+                    "val": "10.901"
+                }
+            }
+        },
+        "Code": {
+            "val": "B"
+        },
+        "CodeBProgramElementList": {
+            "ProgramElementNumber": [
+                {
+                    "val": "0603884C"
+                }
+            ]
+        },
+        "OtherRelatedProgramElementList": {
+            "ProgramElementNumber": [
+                {
+                    "val": "0603884C"
+                }
+            ]
+        },
+        "Description": {
+            "val": "Procure initial spares for Army Navy\/Transportable Radar Surveillance and Control (AN\/TPY-2) BMDS radars.\n\nNo FY 2015 funds are requested."
+        },
+        "Justification": {
+            "val": "FY 2013:  Initial spares for one AN\/TPY-2 BMDS radar."
+        },
+        "MDAPCode": {
+            "val": "362"
+        },
+        "ItemExhibitList": {
+            "P18Item": {
+                "Name": {
+                    "val": "Initial Spares"
+                },
+                "InitialSpares": {
+                    "EndItemBudgetActivity": [
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "1"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Major Equipment"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "Initial Spares"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "1"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "10.901"
+                                            },
+                                            "Total": {
+                                                "val": "10.901"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "SubtotalSparesCost": {
+                        "PriorYear": {
+                            "val": "10.901"
+                        },
+                        "Total": {
+                            "val": "10.901"
+                        }
+                    }
+                },
+                "Remarks": {
+                    "val": "Procure initial spares for one AN\/TPY-2 BMDS radar."
+                },
+                "TotalSparesCost": {
+                    "PriorYear": {
+                        "val": "10.901"
+                    },
+                    "Total": {
+                        "val": "10.901"
+                    }
+                }
+            }
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "expandItemSuppressExhibit"
+            }
+        }
+    }
+}

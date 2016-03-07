@@ -1,0 +1,564 @@
+{
+    "id": "0348320aa06b3d3ea0516714b74c23713c674484",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_ARMY_BA3_RDTE_JustificationBook_Army_PB_2015.zzz_unzipped_RDTE_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0603270A"
+        },
+        "ProgramElementTitle": {
+            "val": "Electronic Warfare Technology"
+        },
+        "R1LineNumber": {
+            "val": "44"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "3"
+        },
+        "BudgetActivityTitle": {
+            "val": "Advanced Technology Development (ATD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "19.561"
+            },
+            "CurrentYear": {
+                "val": "25.335"
+            },
+            "BudgetYearOne": {
+                "val": "26.057"
+            },
+            "BudgetYearOneBase": {
+                "val": "26.057"
+            },
+            "BudgetYearTwo": {
+                "val": "31.652"
+            },
+            "BudgetYearThree": {
+                "val": "30.471"
+            },
+            "BudgetYearFour": {
+                "val": "32.877"
+            },
+            "BudgetYearFive": {
+                "val": "34.116"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "FY13 decreases attributed to Congressional General Reductions (-37 thousand); SBIR\/STTR transfers (-451 thousand); and Sequestration reductions (-1.634 million)\nFY15 increase for Active Protection System threat detection sensors and electronic countermeasure techniques."
+        },
+        "ProgramElementMissionDescription": {
+            "val": "This program element (PE) matures and demonstrates electronic warfare (EW) sensors and software intended to deny, disrupt, locate or destroy the enemy's command, control and communications (C3) systems and intelligence, surveillance and reconnaissance assets. This PE matures both countermeasures (CM) and counter-countermeasures (CCM) to deny the enemy the use of their systems while protecting US assets from enemy deception and jamming. Project K15 matures and demonstrates capabilities to locate and exploit enemy communication systems including computer networks. Project K16 matures and demonstrates multifunctional EW capabilities (jamming) to enhance platform survivability and provide near real-time situational awareness to the Commander through the detection, identification and geo-location of emitters of interest.\n\nWork in this PE is complimentary of PE 0602120A (Sensors and Electronic Survivability), PE 0602270A (Electronic Warfare Technology) and PE 0603772A (Advanced Tactical Computer Science), and fully coordinated with PE 0602601A (Combat Vehicle and Automotive Technology), PE 0602618A (Ballistics Technology), PE 0603003A (Aviation Advanced Technology), PE 0603004A (Weapons and Munitions Advanced Technology), PE 0603005A (Combat Vehicle and Automotive Advanced Technology), PE 0603008A (Electronic Warfare Advanced Technology) and PE 0603313A (Missile and Rocket Advanced Technology).\n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering Science and Technology priority focus areas and the Army Modernization Strategy.\n\nWork in this PE is performed by the Army Research, Development, and Engineering Command (RDECOM), Communications-Electronics Research, Development, and Engineering Center (CERDEC), Aberdeen Proving Ground, MD."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "21.683"
+                },
+                "CurrentYear": {
+                    "val": "25.348"
+                },
+                "BudgetYearOne": {
+                    "val": "22.188"
+                },
+                "BudgetYearOneBase": {
+                    "val": "22.188"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "19.561"
+                },
+                "CurrentYear": {
+                    "val": "25.335"
+                },
+                "BudgetYearOne": {
+                    "val": "26.057"
+                },
+                "BudgetYearOneBase": {
+                    "val": "26.057"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-2.122"
+                },
+                "CurrentYear": {
+                    "val": "-0.013"
+                },
+                "BudgetYearOne": {
+                    "val": "3.869"
+                },
+                "BudgetYearOneBase": {
+                    "val": "3.869"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "-0.037"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.013"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.451"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "3.869"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "3.869"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Sequestration"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-1.634"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "K15"
+                    },
+                    "ProjectTitle": {
+                        "val": "Advanced Comm Ecm Demo"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "9.018"
+                        },
+                        "CurrentYear": {
+                            "val": "9.946"
+                        },
+                        "BudgetYearOne": {
+                            "val": "8.606"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "8.606"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "7.489"
+                        },
+                        "BudgetYearThree": {
+                            "val": "7.648"
+                        },
+                        "BudgetYearFour": {
+                            "val": "9.828"
+                        },
+                        "BudgetYearFive": {
+                            "val": "9.961"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "This project matures and demonstrates sensor and software technologies to locate and identify modern tactical enemy and blue force (friendly) radio frequency (RF) communications, radars and computer networks and nodes. This project enables uninterrupted air and ground based intelligence collection and long range targeting operations in a hostile electromagnetic and cyber environment, and enables communications countermeasures (CM) and counter-countermeasures (CCM) to first intercept, identify and locate tactical communications; then degrade threat-computer networks and their components.\n\nThis project supports Army science and technology efforts in the Command, Control, Communications and Intelligence, Soldier\/Squad, Ground Maneuver and Air portfolios.\n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering Science and Technology priority focus areas and the Army Modernization Strategy.\n\nWork in this project is performed by the Army Research, Development, and Engineering Command (RDECOM), Communications - Electronics Research, Development, and Engineering Center (CERDEC), Aberdeen Proving Ground, MD."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Offensive Operations"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates integrated electronic attack (EA) and computer network operations (CNO) hardware and software to execute force protection (FP), EA, electronic surveillance (ES) and signals intelligence (SIGINT) missions in a dynamic, distributed and coordinated fashion. This results in the capability to engage a multitude of diverse multi-node, multi-waveform, multi-platform and cyber (internetworked computers) targets while maximizing overall network efficiency and effectiveness, and preserving blue force\/non-combatant communications. Work being accomplished under PE 0603270A\/project K16 and PE 0602270\/project 906 compliment this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.694"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Developed and demonstrated supporting messaging structures and human-machine interfaces to enable remote users to coordinate the planning and management of electronic warfare (EW) assets; finalized specifications and protocols to support the collaborative on-the-move (OTM) EW functionality of future tactical EW systems; developed cyber situation awareness functionality for non-traditional tactical cyber\/EW assets."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.976"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Code and demonstrate protocol exploitation software and techniques that allow users to remotely coordinate, plan, control and manage tactical EW and cyber assets; develop techniques to exploit protocols of threat devices not conventionally viewed as cyber to expand total situational awareness by providing access to and control of adversary electronic devices in an area of operations."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.908"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.908"
+                                            },
+                                            "Text": {
+                                                "val": "Will mature techniques to enable tagging, tracking and locating missions for combined cyber\/EW signals and entities of interest; mature and demonstrate joint cyber\/EW architecture for combined mission operation; integrate and mature cyber\/EW and signals intelligence capability into an airborne platform and assess utility of conducting missions with all three capabilities simultaneously."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Stand-off Non-Cooperative Multi-Intelligence Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates hardware and software to conduct standoff intelligence, surveillance and reconnaissance in a three dimensional urban battlespace. The goal is to detect, identify, map and display personnel, RF devices and other anomalies located within structures and complex terrain to provide dismounted and remote users with real-time, immediate-area situational awareness."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.324"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Examined current and emerging RF threat discrimination and neutralization algorithms and hardware suites of disparate RF measurement and signals intelligence (MASINT) systems to design an integrated MASINT\/Multi-INT vehicle-mounted detection system that is fully interoperable with current electronic countermeasures; analyzed and identified new waveforms, techniques and common hardware components needed to facilitate integration and modularity of an integrated multi-INT system; composed sensor cross cueing algorithms to increase the probability of detection of threat devices with low or indistinct emissions at greater standoff distances; extended detection capability to monitor multiple threat device emissions\/transmissions simultaneously."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.970"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Integrate MASINT\/Multi-INT vehicle mounted detection capability with soldier and airborne sensors (electro- optic\/infrared\/full motion video) to support higher fidelity standoff detection and targeting of threat emitters for small units; mature multi-platform cross cueing techniques and test multi-int detection and geolocation in a laboratory environment; mature algorithms to fuse multi source detection, geolocation and targeting data into a high fidelity common display and design and code a mechanism to ingest this data into Distributed Common Ground Station-Army (DCGS-A) program of record for greater area situational awareness."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.698"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.698"
+                                            },
+                                            "Text": {
+                                                "val": "Will develop methods to efficiently cue collocated EO\/IR sensors with an RF direction finding capability; mature hardware platform that enables an RF direction finding cueing of a collocated EO\/IR sensor and conduct validation assessments of system performance; finalize methods to export data to DCGS-A; demonstrate capability to supply data to the intel enterprise in a relevant environment to provide tactically relevant data to the Soldier."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "K16"
+                    },
+                    "ProjectTitle": {
+                        "val": "Non-Commo Ecm Tech Dem"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "10.543"
+                        },
+                        "CurrentYear": {
+                            "val": "15.389"
+                        },
+                        "BudgetYearOne": {
+                            "val": "17.451"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "17.451"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "24.163"
+                        },
+                        "BudgetYearThree": {
+                            "val": "22.823"
+                        },
+                        "BudgetYearFour": {
+                            "val": "23.049"
+                        },
+                        "BudgetYearFive": {
+                            "val": "24.155"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "This project matures and demonstrates non-communication, multi-functional electronic warfare (EW) capabilities that enhance the survivability of Army air and ground platforms and dismounted Soldiers. This project matures and demonstrates radio frequency (RF), infrared (IR) and electro-optical (EO) sensors and jamming sources to detect, locate, deceive, and neutralize (jam) booby traps, radar-directed target acquisition systems, target-tracking sensors, surface-to-air missiles (SAMs), air-to-air missiles (AAMs), and top-attack and electronically-fuzed munitions. This project also enables electronic support (ES) hardware and software to detect, identify and geolocate emitters of interest from an effective standoff distance to provide near real-time situational awareness.\n\nThis project supports Army science and technology efforts in the Command Control, Communications and Intelligence, Ground Maneuver, Air and Soldier\/Squad portfolios.  \n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering Science and Technology priority focus areas and the Army Modernization Strategy.\n\nWork in this project is performed by the Army Research, Development, and Engineering Command (RDECOM), Communications-Electronic Research, Development, and Engineering Center (CERDEC), Aberdeen Proving Ground, MD."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Distributed Aperture Infrared Countermeasures (DAIRCM) Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates countermeasure technologies that provide platform protection and integrated cueing against electro-optically (EO), infra-red (IR) and radio frequency (RF) guided threats."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.540"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Modified the pointer tracker optics to broaden the wavelength coverage from near to mid-IR to allow for simultaneous jam and receive capability; integrated modified optics and design; coded and integrated jam\/receive deconfliction algorithms into pointer tracker system; demonstrated closed-loop interrogation techniques against seekers in a hardware-in-the-loop laboratory environment; conducted limited field assessment of closed-loop interrogation techniques against simulated IR missiles."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.012"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Modify IR jam\/receive deconfliction algorithms and interrogation techniques to develop cooperative countermeasures to protect multiple aircraft; integrate air threat detection and geo-location data with ground situational awareness to cooperatively defeat threats to both air and ground platforms; integrate miniature waveform generators, efficient high power amplifiers, and optical fiber signal distribution to add a low weight\/power RF jammer to Army rotorcraft; mature and leverage EO, IR and RF jammers for an integrated aircraft survivability architecture for more efficient jamming and reduced observable signature of the aircraft."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.235"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.235"
+                                            },
+                                            "Text": {
+                                                "val": "Will mature and fabricate a brassboard of a wideband RF warning sensor capable of detecting and identifying modern radar threat systems to airborne platforms; conduct lab testing of brassboard RF warning sensor to evaluate sensor capabilities using RF simulation hardware and software to determine effectiveness against emerging threats and document limitations in performance to enable the development of additionally required functionality."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Advanced Tactical Radio Frequency Countermeasures (ATRFCM) Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates integrated EW\/direction finding technologies that provide protection of air, ground and dismounts from emerging RF threats at standoff distances. Work accomplished under PE 0602120A\/project H15, PE 0602270A\/project 906, and PE 0603270A\/project K15 complements this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.070"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Enhanced software and firmware of advanced EW demonstration platform to implement and demonstrate coordinated detect\/defeat capability; demonstrated increased threat coverage and protection range offered by distributed, cooperative jamming capability for protection of convoys; developed dynamic, local area timing schemes to support simultaneous\/multi-function EW\/defensive electronic attack (EA) capabilities; designed logic circuitry and associated software code to integrate electronic support (ES) and EA functionalities in a coordinated ES\/EA capability."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.762"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Modify and integrate previously matured techniques and develop new techniques, algorithms and waveforms for the detection, location and neutralization of RF threat devices; mature techniques to provide an integrated situational awareness picture and countermeasures against identified threats; improve interoperability between detection and neutralization systems with other systems on the platform such as communications, networking and global positioning system\/position navigation."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.835"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.835"
+                                            },
+                                            "Text": {
+                                                "val": "Will mature techniques and architecture design to further improve interoperability between RF threat detection and neutralization systems with other systems on the platform such as communications, networking and Global Positioning System\/navigation; design, encode and mature algorithms and architecture elements to allow for the sharing of RF and computational resources between various systems that are collocated on a platform."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Combat ID Technology Demonstrations"
+                                    },
+                                    "Description": {
+                                        "val": "This effort augments and enhances existing light weight dismount and tactical vehicles systems to add real-time Combat Identification (CID) capabilities, along with embedded training, without significantly altering size, weight and power of current and emerging equipment packages. The focus is on making current systems and capabilities (weapon sites, radios, sensors, and etc.) multifunctional rather than adding stand-alone CID systems that would increase the burden on the Soldier. Work accomplished under PE 0602120A\/project H15 compliments this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.933"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Integrated interrogation (RF with weapons orientation sensors) capability to increase probability of positive friend, enemy, neutral, non-combatant identification at increased ranges; modified wireless personal area network waveforms and Soldier Radio Waveform to transmit RF position location information to existing mobile\/handheld displays; modified existing weapons system software to add audible, tactile and visual cues into weapon sight for display; improved CID training mode with electronic bullet capability for existing hardware to support both mission execution and training functions; exploited multiple sensor (infrared, RF, etc.) integration to support non-cooperative CID."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.115"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Complete component modifications to multifunction laser, site and weapon orientation module which are used to increase probability of positive friend, enemy, neutral non-combatant identification at increased ranges; conduct laboratory and limited field test to demonstrate modified wireless personal area network waveforms and Soldier Radio Waveform, weapons orientation module and multifunction laser;  document and assess user feedback and make appropriate component and integration modifications; mature non-cooperative target identification techniques."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "EW Counter Countermeasures"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates hardware and software to counter emerging electronic warfare threats to command, control, communications, computers, intelligence, surveillance and reconnaissance (C4ISR) platforms.  Work being accomplished under PE 0602270A\/project 906 compliments this effort."
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.500"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Leverage technical assessments of a family of threat systems and conduct a full vulnerability assessment on these systems, generate potential mitigation strategies, determine associated concept of operations and employment scenarios; mature and optimize mitigation strategies that have the highest probability of success by demonstrating the feasibility of the proposed approached in the laboratory, leveraging threat system components, surrogates and modeling and simulation resources."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.500"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.500"
+                                            },
+                                            "Text": {
+                                                "val": "Will extend capability to conduct hardware in the loop testing of a family of threat systems in a laboratory environment; assess current and emerging red force interference\/jamming sources and characterize their performance and conduct modeling and simulation and hardware in the loop testing to determine the extent of potentially harmful effects on blue force EW\/C4ISR sensors; generate candidate countermeasure techniques to neutralize these threat systems."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Active Protection System (APS) Soft Kill"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates hardware, software and techniques to provide an EW soft kill capability to the APS suite. This effort supports the Army's APS program to mature and demonstrate technologies to reduce vehicle weight by reducing reliance on armor through the use of other means such as sensing, warning, hostile fire detection, and active countermeasures to achieve increased protection against current and emerging threats.  Work being accomplished under PE 0602601A\/project C05, PE 0602618A\/project H80, PE 0603004A\/project 232, PE 0603005A\/project 221 and PE 0603313A\/project 263 compliments this effort."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.131"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.131"
+                                            },
+                                            "Text": {
+                                                "val": "Will mature sensor based threat detection, classification, tracking, warning and electronic countermeasure techniques in support of the APS science and technology program; conduct modeling and simulation (M&S) of potential electronic APS capabilities to evaluate and document potential system performance in  operational scenarios."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Integrated RF Operations"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates a capability to perform M&S of geographically dispersed RF systems to provide a coordinated, collaborative and interoperable suite of EW capabilities. A modular software architecture will allow for rapid, cost effective development and integration of new EW capabilities, target signals of interest and environmental simulations. Work being accomplished under PE 603008A\/project TR1 compliments this effort."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.750"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.750"
+                                            },
+                                            "Text": {
+                                                "val": "Will extend existing RF modeling and simulation capabilities to accurately depict the interaction between EW systems and selected signals of interest (SOI); extend the M&S capability to enable new EW techniques and threat SOI to be rapidly and accurately developed within the model environment to analyze the interaction between EW systems and various targets; validate the extended models and simulations to ensure accuracy and performance."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

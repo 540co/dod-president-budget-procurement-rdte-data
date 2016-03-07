@@ -1,0 +1,1768 @@
+{
+    "id": "8327a4d207dfe136933e2ac600d8e789db6796ab",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_ARMY_BA5A_RDTE_JustificationBook_Army_PB_2015.zzz_unzipped_RDTE_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0604820A"
+        },
+        "ProgramElementTitle": {
+            "val": "RADAR DEVELOPMENT"
+        },
+        "R1LineNumber": {
+            "val": "109"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "3.734"
+            },
+            "CurrentYear": {
+                "val": "1.548"
+            },
+            "BudgetYearOne": {
+                "val": "5.224"
+            },
+            "BudgetYearOneBase": {
+                "val": "5.224"
+            },
+            "BudgetYearTwo": {
+                "val": "12.213"
+            },
+            "BudgetYearThree": {
+                "val": "11.389"
+            },
+            "BudgetYearFour": {
+                "val": "10.906"
+            },
+            "BudgetYearFive": {
+                "val": "12.132"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "This system is a supporting program of the overall Air and Missile Defense (AMD) architecture and will provide for an incrementally fielded Integrated Air and Missile Defense Fire Control System\/capability for the composite Army Air and Missile Defense Brigades.  The Sentinel system is used with the Forward Area Air Defense Command and Control (FAAD C2) element and is a key component to the Integrated Air and Missile Defense (IAMD)architecture via the Integrated Air and Missile Defense Battle Command System (IBCS) to provide critical air surveillance of the forward areas.\n\nSentinel (AN\/MPQ-64A1) consists of a radar-based sensor with its prime mover\/power, Identification Friend or Foe (IFF), and Forward Area Air Defense (FAAD) Command, Control and Intelligence (C2I) interfaces.  The radar is deployed in both an air defense role and a force protection role for Counter-Rocket, Artillery, and Mortar (C-RAM) missions.  The sensor is an advanced three-dimensional battlefield X-Band air defense phased-array radar with an instrumented range of 75 km.  Sentinel is capable of operating day or night, in adverse weather conditions, in the battlefield environments of dust, smoke, aerosols and enemy countermeasures.  It provides 360-degree azimuth coverage for acquisition tracking.  Sentinel contributes to the digital battlefield by automatically detecting, classifying, identifying and reporting targets (cruise missiles, unmanned aerial systems, rotary wing and fixed wing aircraft). Sentinel acquires targets sufficiently forward of the battle area to allow weapons reaction time and engagement at optimum ranges.  Sentinel's integrated IFF reduces the potential for fratricide of US and Coalition aircraft.  \n\nThe Research and Development funding supports Sentinel modernization\/upgrades, hardware\/software issue resolution, resolution of obsolescence issues, engineering studies, and cost reduction initiatives.  The funding for Fiscal Year (FY) 2013 through FY2019 development activities addresses the following Sentinel system capability gaps and obsolescence issues identified by the User:  1) Target Detection gap; 2) Target Tracking gap; 3) Net Readiness gap; 4) Electronic Counter Measures (ECM) gap; and 5) Unmanned Aerial Systems (UAS) Defense gap. \n\nBattle Space Improvement addresses the Target Detection gap that currently exists with the Sentinel system.  This development effort modifies the radar signal processor algorithms to reduce system processing losses.  The modified algorithms will increase target acquisition and tracking range capability by a minimum of 12 percent against the threat set within the instrumented range band.  This effort also develops modifications to the radar hardware by utilizing an upgraded common signal processing card to the radar signal processor to provide a common hardware and software processing configuration across the Sentinel radar fleet.\n\nStop, Stare and Track addresses the Target Tracking Gap.  This development effort provides direct Fire Control Radar (FCR) support in an integrated air and missile defense architecture. In addition this provides significantly improved Non-Cooperative Target Recognition (NCTR) timeline and performance against all targets to include Unmanned Aerial Systems (UAS), Cruise Missiles, Rotary Wing and Fixed Wing aircraft. This upgrade also enables rapid classification of cued Rockets, Artillery and Mortars (RAM), UAS, Rotary wing and fixed wing aircraft, as well as very accurate Point of Origin (POO) and Point of Impact (POI) of RAM targets and enables a robust kill assessment capability of engaged targets.\n\nCross Domain Solution (CDS) Network Interface addresses net readiness and system security concerns. This effort develops a CDS interface to isolate the Sentinel radar from connected networks of lower classification levels.\n\nElectronic Attack\/Electronic Protect (EA\/EP) addresses the electronic countermeasures (ECM) gap.  This effort conducts additional design and testing to verify initial EA\/EP results and updates the database and associated software and hardware with more extensive EA\/EP signatures to address evolving threats.\n\nSignal Data Processor (SDP)\/North Finding Module (NFM) addresses the Target Detection, Target Tracking, and Electronic Countermeasures (ECM) capability gaps and funds the mitigation of the Signal Data Processor (SDP) and North Finding Module (NFM) obsolescence issues.  Signal Data Processor (SDP) cards are estimated to go obsolete every four to six years.\n\nMedium Bandwidth Waveform upgrade will address latent tracking issues that currently exist with Sentinel in certain applications.  This development effort modifies firmware as well as software in the Sentinel radar.  This effort will provide better target resolution and more accurate tracking in the slant range coordinate.  This improved target resolution and tracking accuracy will provide improved retention of target identification and more robust tracking that addresses the latent tracking issues.  \n\nMode S upgrade to existing Sentinel Identification Friend or Foe (IFF) will address Sentinel's objective requirement to interrogate IFF mode S which is currently not being met.  Mode S transmissions are a key component of the Automatic Dependent Surveillance-Broadcast (ADS-B) surveillance technology being used by the Federal Aviation Administration for tracking aircraft as part of the Next Generation Air Transportation System (NextGen).  In the United States, all aircraft required to have transponders (most aircraft) must transition to mode S capable units by 2020.  Without the Mode S upgrade, Sentinel will have to rely on these aircraft transponders responding to the legacy mode 3\/A interrogations.  The data available in the mode S response will be valuable in identifying the aircraft and correlating Sentinel tracks with civil aviation tracks\/data and other track data sources.\n\nThe Active Electronic Steered Array (AESA) is the next generation of radar technology to replace the current phase and frequency scanned array used by Sentinel today. The AESA effort is to develop and test a new single face, rotating AESA Antenna for the Sentinel radar and will be executed as a modification to the existing platform.  The single face AESA Antenna will provide increased capability including extended range for ground-based surveillance and situational awareness, faster and more accurate Non-Cooperative Target Recognition (NCTR) for clearing fires and preventing fratricide, improved Fire Control (FC) quality track accuracy, and management of larger track loads. The AESA will also provide improved operation in severe\/urban clutter.  The system will detect and track small targets, such as Unmanned Aerial Systems (UAS) and Cruise Missiles, in clutter and will detect and track slow targets, such as UAS and Rotary Wing (RW) aircraft, at low altitudes in clutter.  The system will detect, track, and classify Rocket, Artillery, and Mortar (RAM) threats and will support Integrated Air and Missile Defense (IAMD) requirements.  The AESA will support advanced Electronic Protect (EP) techniques to address the evolving Electronic Attack (EA) threat."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.486"
+                },
+                "CurrentYear": {
+                    "val": "1.549"
+                },
+                "BudgetYearOne": {
+                    "val": "5.264"
+                },
+                "BudgetYearOneBase": {
+                    "val": "5.264"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.734"
+                },
+                "CurrentYear": {
+                    "val": "1.548"
+                },
+                "BudgetYearOne": {
+                    "val": "5.224"
+                },
+                "BudgetYearOneBase": {
+                    "val": "5.224"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.248"
+                },
+                "CurrentYear": {
+                    "val": "-0.001"
+                },
+                "BudgetYearOne": {
+                    "val": "-0.040"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-0.040"
+                }
+            },
+            "AdjustmentDetails": {
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.622"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.094"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.004"
+                                },
+                                "CurrentYear": {
+                                    "val": "-0.001"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-0.040"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-0.040"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Other Adjustments 1"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.276"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "E10"
+                    },
+                    "ProjectTitle": {
+                        "val": "Sentinel"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "3.734"
+                        },
+                        "CurrentYear": {
+                            "val": "1.548"
+                        },
+                        "BudgetYearOne": {
+                            "val": "5.224"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "5.224"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "12.213"
+                        },
+                        "BudgetYearThree": {
+                            "val": "11.389"
+                        },
+                        "BudgetYearFour": {
+                            "val": "10.906"
+                        },
+                        "BudgetYearFive": {
+                            "val": "12.132"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "This system is a supporting program of the overall Air and Missile Defense (AMD) architecture and will provide for an incrementally fielded Integrated Air and Missile Defense Fire Control System\/capability for the composite Army Air and Missile Defense Brigades.  The Sentinel system is used with the Forward Area Air Defense Command and Control (FAAD C2) element and is a key component to the Integrated Air and Missile Defense (IAMD)architecture via the Integrated Air and Missile Defense Battle Command System (IBCS) to provide critical air surveillance of the forward areas.\n\nSentinel (AN\/MPQ-64A1) consists of a radar-based sensor with its prime mover\/power, Identification Friend or Foe (IFF), and Forward Area Air Defense (FAAD) Command, Control and Intelligence (C2I) interfaces.  The radar is deployed in both an air defense role and a force protection role for Counter-Rocket, Artillery, and Mortar (C-RAM) missions.  The sensor is an advanced three-dimensional battlefield X-Band air defense phased-array radar with an instrumented range of 75 km.  Sentinel is capable of operating day or night, in adverse weather conditions, in the battlefield environments of dust, smoke, aerosols and enemy countermeasures.  It provides 360-degree azimuth coverage for acquisition tracking.  Sentinel contributes to the digital battlefield by automatically detecting, classifying, identifying and reporting targets (cruise missiles, unmanned aerial systems, rotary wing and fixed wing aircraft). Sentinel acquires targets sufficiently forward of the battle area to allow weapons reaction time and engagement at optimum ranges.  Sentinel's integrated IFF reduces the potential for fratricide of US and Coalition aircraft.  \n\nThe Research and Development funding supports Sentinel modernization\/upgrades, hardware\/software issue resolution, resolution of obsolescence issues, engineering studies, and cost reduction initiatives.  The funding for Fiscal Year (FY) 2013 through FY2019 development activities addresses the following Sentinel system capability gaps and obsolescence issues identified by the User:  1) Target Detection gap; 2) Target Tracking gap; 3) Net Readiness gap; 4) Electronic Counter Measures (ECM) gap; and 5) Unmanned Aerial Systems (UAS) Defense gap. \n\nBattle Space Improvement addresses the Target Detection gap that currently exists with the Sentinel system.  This development effort modifies the radar signal processor algorithms to reduce system processing losses.  The modified algorithms will increase target acquisition and tracking range capability by a minimum of 12 percent against the threat set within the instrumented range band.  This effort also develops modifications to the radar hardware by utilizing an upgraded common signal processing card to the radar signal processor to provide a common hardware and software processing configuration across the Sentinel radar fleet.\n\nStop, Stare and Track addresses the Target Tracking Gap.  This development effort provides direct Fire Control Radar (FCR) support in an integrated air and missile defense architecture. In addition this provides significantly improved Non-Cooperative Target Recognition (NCTR) timeline and performance against all targets to include Unmanned Aerial Systems (UAS), Cruise Missiles, Rotary Wing and Fixed Wing aircraft. This upgrade also enables rapid classification of cued Rockets, Artillery and Mortars (RAM), UAS, Rotary wing and fixed wing aircraft, as well as very accurate Point of Origin (POO) and Point of Impact (POI) of RAM targets and enables a robust kill assessment capability of engaged targets.\n\nCross Domain Solution (CDS) Network Interface addresses net readiness and system security concerns. This effort develops a CDS interface to isolate the Sentinel radar from connected networks of lower classification levels.\n\nElectronic Attack\/Electronic Protect (EA\/EP) addresses the electronic countermeasures (ECM) gap.  This effort conducts additional design and testing to verify initial EA\/EP results and updates the database and associated software and hardware with more extensive EA\/EP signatures to address evolving threats.\n\nSignal Data Processor (SDP)\/North Finding Module (NFM) addresses the Target Detection, Target Tracking, and Electronic Countermeasures (ECM) capability gaps and funds the mitigation of the Signal Data Processor (SDP) and North Finding Module (NFM) obsolescence issues.  Signal Data Processor (SDP) cards are estimated to go obsolete every four to six years.\n\nMedium Bandwidth Waveform upgrade will address latent tracking issues that currently exist with Sentinel in certain applications.  This development effort modifies firmware as well as software in the Sentinel radar.  This effort will provide better target resolution and more accurate tracking in the slant range coordinate.  This improved target resolution and tracking accuracy will provide improved retention of target identification and more robust tracking that addresses the latent tracking issues.  \n\nMode S upgrade to existing Sentinel Identification Friend or Foe (IFF) will address Sentinel's objective requirement to interrogate IFF mode S which is currently not being met.  Mode S transmissions are a key component of the Automatic Dependent Surveillance-Broadcast (ADS-B) surveillance technology being used by the Federal Aviation Administration for tracking aircraft as part of the Next Generation Air Transportation System (NextGen).  In the United States, all aircraft required to have transponders (most aircraft) must transition to mode S capable units by 2020.  Without the Mode S upgrade, Sentinel will have to rely on these aircraft transponders responding to the legacy mode 3\/A interrogations.  The data available in the mode S response will be valuable in identifying the aircraft and correlating Sentinel tracks with civil aviation tracks\/data and other track data sources.\n\nThe Active Electronic Steered Array (AESA) is the next generation of radar technology to replace the current phase and frequency scanned array used by Sentinel today. The AESA effort is to develop and test a new single face, rotating AESA Antenna for the Sentinel radar and will be executed as a modification to the existing platform.  The single face AESA Antenna will provide increased capability including extended range for ground-based surveillance and situational awareness, faster and more accurate Non-Cooperative Target Recognition (NCTR) for clearing fires and preventing fratricide, improved Fire Control (FC) quality track accuracy, and management of larger track loads.  The AESA will also provide improved operation in severe\/urban clutter.  The system will detect and track small targets, such as Unmanned Aerial Systems (UAS) and Cruise Missiles, in clutter and will detect and track slow targets, such as UAS and Rotary Wing (RW) aircraft, at low altitudes in clutter.  The system will detect, track, and classify Rocket, Artillery, and Mortar (RAM) threats and will support Integrated Air and Missile Defense (IAMD) requirements. The AESA will support advanced Electronic Protect (EP) techniques to address the evolving Electronic Attack (EA) threat."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Product Development"
+                                    },
+                                    "Description": {
+                                        "val": "Funding is provided for the following efforts:"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.541"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Integrated firmware, software and hardware. Built prototype subsystems\/components for testing.  Completed software code coding and modification of the system search and track logic, clutter mapping, and waveforms.  Characterized performance, design & replace firmware, software and hardware.  Performed technical assessments, concept studies, cost reduction, risk reduction, threat analysis, and required documentation."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.561"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.561"
+                                            },
+                                            "Text": {
+                                                "val": "Integrate firmware, software and hardware. Build prototype subsystems\/components for testing.  Complete software code coding and modification of the system search and track logic, clutter mapping, and waveforms.  Characterize performance, design & replace firmware, software and hardware.  Perform technical assessments, concept studies, cost reduction, risk reduction, threat analysis, and required documentation."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Test & Evaluation"
+                                    },
+                                    "Description": {
+                                        "val": "Funding is provided for the following efforts:"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.888"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Conducted software qualification test and hardware verification testing, field testing against representative targets.  Prepared logistics products and required documentation for material release of software and hardware upgrades."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.408"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct system verification test and system qualification test on software upgrades."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.101"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.101"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct software qualification test and hardware verification testing, field testing against representative targets.  Prepare logistics products and required documentation for material release of software and hardware upgrades."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Management Support"
+                                    },
+                                    "Description": {
+                                        "val": "This funds Government and technical support."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.305"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Provided government management, technical and administrative support in FY 2013."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.140"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Provides government management, technical and administrative support in FY 2014."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.562"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.562"
+                                            },
+                                            "Text": {
+                                                "val": "Provides government management, technical and administrative support in FY 2015."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0604869A"
+                                    },
+                                    "Title": {
+                                        "val": "Proj M06, Patriot\/MEADS Combined Aggregate Program (CAP)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "348.234"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "348.234"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0605456A"
+                                    },
+                                    "Title": {
+                                        "val": "Proj PA3, PAC-3\/MSE MISSILE"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "63.123"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "68.807"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "35.009"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "35.009"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "2.271"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "SSN C53101"
+                                    },
+                                    "Title": {
+                                        "val": "MSE Missile"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "8.249"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "690.401"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "384.605"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "384.605"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "419.791"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "422.527"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "458.724"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "497.553"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0205456"
+                                    },
+                                    "Title": {
+                                        "val": "Proj EF9, System Integration and Test"
+                                    },
+                                    "Funding": {
+                                        "BudgetYearOne": {
+                                            "val": "78.758"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "78.758"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "64.628"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "67.461"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "65.734"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "117.666"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "SSN C50016"
+                                    },
+                                    "Title": {
+                                        "val": "Lower Tier Air and Missile Defense (AMD)"
+                                    },
+                                    "Funding": {
+                                        "BudgetYearOne": {
+                                            "val": "110.300"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "110.300"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "116.416"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "131.549"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "114.678"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "113.281"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0102419A"
+                                    },
+                                    "Title": {
+                                        "val": "Proj E55, JLENS"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "142.508"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "83.406"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "54.076"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "54.076"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "50.167"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "39.590"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "2.566"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.003"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0604319A"
+                                    },
+                                    "Title": {
+                                        "val": "Proj DU3, IFPC2 (FY12 PE0603305A IFPC II - Intercept)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "25.710"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "79.190"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "96.177"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "96.177"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "156.523"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "90.980"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "58.214"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "27.663"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0605457A"
+                                    },
+                                    "Title": {
+                                        "val": "Proj S40, Army Integrated Air and Missile Defense (AIAMD)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "233.892"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "369.452"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "142.584"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "142.584"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "215.659"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "228.791"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "170.828"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "154.565"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "SSN BZ5075"
+                                    },
+                                    "Title": {
+                                        "val": "IAMD Battle Command System"
+                                    },
+                                    "Funding": {
+                                        "BudgetYearTwo": {
+                                            "val": "21.091"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "206.300"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "298.990"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "379.981"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "PE 0604741A"
+                                    },
+                                    "Title": {
+                                        "val": "Proj 126, 146, 149; Air Defense C2I Eng Dev"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "42.876"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "18.284"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "15.906"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "15.906"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "20.248"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "19.632"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "19.878"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "20.165"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryRemarks": {
+                            "val": "This program is an integral part of the Army Integrated Air and Missile Defense (IAMD) architecture."
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Battle Space Improvement:  The Sentinel Product Office will contract with Thales Raytheon Systems (TRS) to update and modify the radar signal processor algorithms.  The updated software will be tested, documented and released for installation.  \n\nStop, Stare and Track:  The Sentinel Product Office will contract with Thales Raytheon Systems (TRS) to develop new and\/or modify existing Sentinel software.  The updated software will be tested, documented and released for installation. \n \nCross Domain Solution Interface:  The Sentinel Product Office will contract with Thales Raytheon Systems (TRS) to develop an interface solution to isolate Sentinel transmission from connected networks of lower classifications.  The updated software will be tested, documented and released for installation in the field.  \n\nElectronic Attack\/Electronic Protect (EA\/EP):  The Sentinel Product Office will contract with Thales Raytheon Systems (TRS) to verify the initial EA\/EP Database and update the database, software and hardware with more extensive EA\/EP signatures to address evolving threats.  The updated database will be tested, documented and released for installation.   \n\nSignal Data Processor (SDP)\/North Finding Module (NFM) Obsolescence:  The Sentinel Product Office will contract with Thales Raytheon Systems (TRS) to upgrade and mitigate the Signal Data Processor and North Finding Module issues.  The updated SDP and NFM hardware will be tested, documented and released for installation in the field.\n\nMedium Bandwidth Waveform:  The Sentinel Product Office will contract with Thales Raytheon Systems (TRS) to address latent tracking issues that currently exist with Sentinel in certain applications.  The effort modifies firmware as well as software in the Sentinel radar.  The updated medium bandwidth waveform software and firmware will be tested, documented and released for installation in the field.\n\nMode S: The Sentinel Product Office will contract with Thales Raytheon Systems (TRS) to address Sentinel's objective requirement to interrogate Identification Friend or Foe (IFF) mode S on board commercial aircraft.  The updated software will be tested, documented and released for installation in the field.\n\nActive Electronic Steered Array (AESA): The Sentinel Product Office will issue an RFI for solutions to an AESA single face rotating radar for the Sentinel.  The updated software and hardware will be tested, documented and released for installation in the field."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Improved Sentinel Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cruise Missile Defense Systems Project Office"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "11.398"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "11.398"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "System of Systems Mod Development & Integration"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cruise Missile Defense Systems Project Office"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.169"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.169"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Battle Space Improvement"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cruise Missile Defense Systems Project Office"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.139"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.031"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.049"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.050"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.050"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.269"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Stop, Stare and Track"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cruise Missile Defense Systems Project Office"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.118"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.255"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.091"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.050"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.050"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.514"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Electronic Attack\/Electronic Protect"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cruise Missile Defense Systems Project Office"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.313"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.313"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Cross Domain Solution Network Interface"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cruise Missile Defense Systems Project Office"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.031"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.031"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Signal Data Processor North Finding Module"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cruise Missile Defense Systems Project Office"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Huntsville, AL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.118"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.118"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Improved Sentinel Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "102.729"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "102.729"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "System of Systems Mod Development & Integration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "20.820"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "20.820"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Battle Space Improvement"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton,CA \/  Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.463"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.138"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.601"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Stop, Stare, and Track"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.201"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.403"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.604"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Electronic Attack\/Electronic Protect"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.046"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.046"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Cross Domain Solution Network Interface"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.219"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.219"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Signal Data Processor\/North Finding Module"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.296"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.296"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Improved Sentinel Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "16.930"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "16.930"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "System of Systems Mod Development & Integration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.352"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.352"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Improved Sentinel Mod Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "34.599"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "34.599"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "System of Systems Mod Development & Integration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.331"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.331"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Battle Space Improvement"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.086"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.335"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.447"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.318"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Stop, Stare and Track"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.086"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.572"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.961"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.069"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Electronic Attack\/Electronic Protect"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.201"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.201"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Cross Domain Solution Network Interface"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Signal Data Processor North Finding Module"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Thales Raytheon Systems & Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fullerton, CA \/ Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Battle Space Improvement"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Stop, Stare and Track (SS&T)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Cross Domain Solution (CDS) Network Interface"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Signal Data Processor (SDP) \/ North Finding Module (NFM)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Electronic Attack\/Electronic Protect (EA\/EP)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Medium Bandwidth"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Mode S"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Active Electronic Steered Array (AESA)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2024"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

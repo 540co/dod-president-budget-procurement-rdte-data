@@ -1,0 +1,773 @@
+{
+    "id": "ea30bfda7e6d5bf5dcbcfb785d2970b4d3fcb07a",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_ARMY_BA2_U_RDTE_JustificationBook_Army_PB_2017.zzz_unzipped_U_RDTE_JustificationBook_Army_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0602618A"
+        },
+        "ProgramElementTitle": {
+            "val": "Ballistics Technology"
+        },
+        "R1LineNumber": {
+            "val": "14"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Applied Research"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "83.610"
+            },
+            "CurrentYear": {
+                "val": "117.801"
+            },
+            "BudgetYearOne": {
+                "val": "85.436"
+            },
+            "BudgetYearOneBase": {
+                "val": "85.436"
+            },
+            "BudgetYearTwo": {
+                "val": "89.905"
+            },
+            "BudgetYearThree": {
+                "val": "90.842"
+            },
+            "BudgetYearFour": {
+                "val": "93.219"
+            },
+            "BudgetYearFive": {
+                "val": "94.325"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "This Program Element (PE) investigates and evaluates materials and technologies, and designs and develops methodologies and models required to enable enhanced lethality and survivability.  Project H80 focuses on applied research of lightweight armors and protective structures for the Soldier and vehicles; kinetic energy active protection; crew and components protection from ballistic shock and mine-blast; insensitive propellants\/munitions formulations; novel multi-function warhead concepts; affordable precision munitions design; and techniques, methodologies, and models to analyze combat effectiveness, and identify vulnerabilities of current and emerging technologies; and developing a demonstrator with associated methods and tools for injury prediction of vehicle occupants during under-body blast events.      \n\nWork in this PE makes extensive use of high performance computing and experimental validation and builds on research transitioned from PE 0601102A (Defense Research Sciences)\/Project H42 (Materials and Mechanics) and Project H43 (Ballistics); and utilizes emerging materials from PE 0602105A (Materials Technology) and applies it to specific Army platforms and the individual Soldier applications.  \n\nThe work in this PE complements and is fully coordinated with efforts in PE 0602120A (Sensors and Electronic Survivability), PE 0602303A (Missile Technology), PE 0602601A (Combat Vehicle and Automotive Technology), PE 0602624A (Weapons and Munitions Technology), PE 0602705A (Electronics and Electronic Devices), PE 0602716A (Human Factors Engineering), PE 0602786A (Warfighter Technology), PE 0603125A (Combating Terrorism-Technology Development), PE 0603001A (Warfighter Advanced Technology), PE 0603004A (Weapons and Munitions Advanced Technology), PE 0603005A (Combat Vehicle Advanced Technology), PE 0603313A (Missile and Rocket Advanced Technology), and PE 0708045A (Manufacturing Technology).\n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering science and technology priority focus areas and the Army Modernization Strategy. \n\nWork in this PE is performed by the Army Research Laboratory (ARL), Aberdeen Proving Ground, MD."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "85.575"
+                },
+                "CurrentYear": {
+                    "val": "92.801"
+                },
+                "BudgetYearOne": {
+                    "val": "87.540"
+                },
+                "BudgetYearOneBase": {
+                    "val": "87.540"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "83.610"
+                },
+                "CurrentYear": {
+                    "val": "117.801"
+                },
+                "BudgetYearOne": {
+                    "val": "85.436"
+                },
+                "BudgetYearOneBase": {
+                    "val": "85.436"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-1.965"
+                },
+                "CurrentYear": {
+                    "val": "25.000"
+                },
+                "BudgetYearOne": {
+                    "val": "-2.104"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-2.104"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalAdds": {
+                    "CurrentYear": {
+                        "val": "25.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-1.965"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "-2.104"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-2.104"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "H80"
+                    },
+                    "ProjectTitle": {
+                        "val": "Survivability And Lethality Technology"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "83.610"
+                        },
+                        "CurrentYear": {
+                            "val": "92.801"
+                        },
+                        "BudgetYearOne": {
+                            "val": "85.436"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "85.436"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "89.905"
+                        },
+                        "BudgetYearThree": {
+                            "val": "90.842"
+                        },
+                        "BudgetYearFour": {
+                            "val": "93.219"
+                        },
+                        "BudgetYearFive": {
+                            "val": "94.325"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "This project investigates, designs and develops materials, methods and models that provide Soldier protection by enhancing survivability and lethality. Specific technology and research thrusts include: lightweight armors and protective structures; crew and component protection from ballistic shock and\/or mine-blast; insensitive high energy propellants\/munitions to increase lethality and reduce propellant\/munitions vulnerability to attack; novel kinetic energy (KE) penetrator concepts to maintain\/improve lethality; novel multi-function warhead concepts to enable defeat of a full-spectrum of targets (anti-armor, bunker, helicopter, troops); and techniques, methodologies and models to analyze combat effectiveness and identify vulnerabilities of current and emerging technologies; and developing a demonstrator and associated methods and analysis tools for injury prediction (due to underbody blast).   \n\nThis project sustains Army science and technology efforts supporting the Ground, Lethality and Soldier\/Squad portfolios.\n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering science and technology priority focus areas and the Army Modernization Strategy.\n\nWork in this project is performed by the Army Research Laboratory (ARL), Aberdeen Proving Ground, MD."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Underbody Blast & Occupant Protection"
+                                    },
+                                    "Description": {
+                                        "val": "This effort investigates and designs tools, techniques, and technologies for protection against mine\/improvised explosive device (IED) blast threats, ballistic shock mitigation, and fuel\/ammunition fires to enable survivability of current and future platforms. This research is coordinated with PE 0602601A (Armor Applied Research) and PE 0603005A (Combat Vehicle Survivability)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "6.247"
+                                            },
+                                            "Text": {
+                                                "val": "Continued to develop experimental and modeling approaches to identify relevant physical parameters affecting the loading from buried blast and penetrator threats; developed experimental tools to track complex occupant motion during a blast event and validate associated numerical models; and developed and validated momentum transfer concepts to absorb energy from underbody threats through a combination of materials development and structural design research."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.314"
+                                            },
+                                            "Text": {
+                                                "val": "Investigate structural damage and response due to buried blast and penetrator threats and propose novel protection solutions to defeat these threats; design active mechanisms including momentum transfer and other technologies to mitigate lower-extremity injuries."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.220"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.220"
+                                            },
+                                            "Text": {
+                                                "val": "Will investigate active and adaptive concepts, such as threat detection, to protect against buried blast and penetrator threats."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Low Cost Hyper-Accuracy Munition Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort designs advanced components\/subsystems to enable a broad spectrum of future affordable direct and indirect fire precision munitions. The focus is on a multidisciplinary approach to munition systems design by coupling physics-based models of interior ballistics, launch dynamics, flight mechanics, and high-gravitational force guidance, navigation, and control (GN&C) technologies. The goal is smaller, cheaper and lighter munition components enabling low-collateral-damage precision munitions for future asymmetric operations in military operations on urban terrain (MOUT)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.907"
+                                            },
+                                            "Text": {
+                                                "val": "Advanced individual component guidance technologies and simulation capability by evaluating, at bench level, candidate actuator technologies, guided spin-stabilized munition technologies, and flow control technologies; and assessed concepts using multiple technologies for guided munitions in global positioning system (GPS) denied environments."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.812"
+                                            },
+                                            "Text": {
+                                                "val": "Develop nonlinear methods to assess flight dynamics and stability and to enhance control algorithm development for precision munitions; evaluate inertial navigation technologies to improve abilities to hit moving targets; and develop new electro-optic\/infrared-based navigation capabilities and assess associated in-lab maneuver performance of precision munitions."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.758"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.758"
+                                            },
+                                            "Text": {
+                                                "val": "Will advance development of nonlinear methods to assess aerodynamics and flight dynamics through coupled simulations, and apply to predict various geometry related flow interactions; and utilize various flight experiments to assess flight behavior of high maneuverability airframes and man-portable precision concepts such as use of video guidance to track and hit a moving target."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Disruptive Energetics and Propulsion Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort investigates, evaluates, models, and informs the selection of propulsion and energetic materials and technologies to validate novel energetic materials concepts (such as nano-structural and insensitive) that exploit managed energy release required for improving the effectiveness and reducing the vulnerability of future gun\/missile systems and warheads.  This effort builds on disruptive energetic materials discovery efforts in PE 0601102A (Defense Research Sciences)\/Project H43 (Ballistics) to synthesize new materials with energy content up to ten times that of Research Department Explosive (RDX)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "10.177"
+                                            },
+                                            "Text": {
+                                                "val": "Explored and exploited innovative methods for efficient synthesis and scale-up of disruptive energetic materials; developed novel energetic ingredients using chemical and high pressure synthesis methods; used these ingredients in new formulations for transition to weapons applications with significantly improved performance; developed multi-phase explosive and initiation concepts to maximize energy transfer to target; developed and validated numerical model of muzzle flow field in small caliber weapon systems to enable control of overpressure; and validated propulsion models and methods to enable 6 to 10 times solid propellant burn-rate\/regression-rate enhancement using nitrate ester and novel propellant ingredients."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "10.538"
+                                            },
+                                            "Text": {
+                                                "val": "Mature synthetic research on disruptive energetic materials, including nanodiamond-based materials and boron-based materials, confirming shock pressure\/temperature enhancement and measuring energies delivered to target; design laboratory experimental capabilities for evaluating gram-scale quantities of disruptive energetic materials to determine potential for further exploration and scale-up; explore methods to reduce power required to accelerate rounds for medium-caliber weapons using computational fluid dynamics (CFD)-based models; and design chemistry, thermodynamics, and multi-phase physics associated with increases in propellant burn rate sensitivity as a function of pressure to improve propellant efficiency and performance."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "8.307"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "8.307"
+                                            },
+                                            "Text": {
+                                                "val": "Will expand synthetic research for multiple classes of disruptive energetic materials; develop multiscale models to understand and predict chemical reactions, thermomechanical processes, and chemical compatibility of disruptive energetic materials; develop experimental and computational methods to improve understanding of initiation mechanisms; and use CFD-based models to explore methods to reduce power requirements in medium caliber weapons and begin extension to larger caliber systems."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Lethal and Scalable Effects Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort identifies and models preferred options to reduce energy\/mass required to defeat emerging armor threats and to provide multi-purpose capabilities for revolutionary future lethality. In addition, this effort investigates technology options for scaling warhead lethality to enhance urban Warfighting capabilities including control of collateral damage."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "6.232"
+                                            },
+                                            "Text": {
+                                                "val": "Developed small caliber soldier-portable mechanisms to defeat combatants in high-risk urban scenarios; validated robust kinetic energy penetrator concept with reduced mass while maintaining armor defeat capabilities to reduce life-cycle costs and enable defeat of future threats; and validated modeling and simulation capabilities to assess novel lethality concepts."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.691"
+                                            },
+                                            "Text": {
+                                                "val": "Develop energy requirements and associated mechanisms to adapt large caliber performance to a shoulder fired system; investigate new mechanisms that take advantage of increased energy availability from enhanced gun efficiencies and new energetic materials to increase lethal capabilities; and explore new concepts to utilize lower energies on target to achieve effects ranging from non-lethal to lethal."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "5.670"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "5.670"
+                                            },
+                                            "Text": {
+                                                "val": "Will investigate new launch mechanisms that enable significant increases in muzzle energies using enhanced gun efficiencies (such as recoil and muzzle blast reductions) and new energetic materials; develop new mechanisms that take advantage of target vulnerabilities to reduce required energy levels to defeat specific targets; and develop physics-based simulations and experiments to explore new modular lethality concepts that efficiently redistribute available energy into multiple impacts \/ bursts."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Survivability\/Lethality Analyses"
+                                    },
+                                    "Description": {
+                                        "val": "This effort devises state-of-the-art survivability\/lethality\/vulnerability methodologies to dynamically model the interaction of conventional ballistic threats against future weapon systems."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "12.566"
+                                            },
+                                            "Text": {
+                                                "val": "Developed new methodologies to characterize behind-helmet blunt trauma and assessed the associated injury incapacitation probabilities for soldiers; developed predictive ammunition vulnerability methodologies (vulnerability to unintended ammunition detonation due to incoming round); performed improvements to tools, techniques, and methodologies for ballistic survivability\/lethality analysis ensuring analysis tools  are relevant and credible for developmental and modernized Army systems; and conducted validation and verification of ballistic vulnerability and lethality codes."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "10.202"
+                                            },
+                                            "Text": {
+                                                "val": "Mature methodologies that characterize behind-helmet blunt trauma and assess the associated injury incapacitation probabilities for soldiers; mature predictive ammunition vulnerability methodologies (vulnerability to unintended ammunition detonation due to incoming round); mature tools, techniques, and methodologies for ballistic survivability\/lethality analysis to ensure analysis tools are relevant and credible for developmental and modernized Army systems in their operational context; and conduct validation and verification of mature ballistic vulnerability and lethality codes"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "8.273"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "8.273"
+                                            },
+                                            "Text": {
+                                                "val": "Will develop technically robust methodologies for characterizing the interactions between emerging threats and military targets to provide quantitative results to support formal evaluation of Army systems, design trade space examinations and milestone decisions; mature engineering-level system-of-systems methodologies that will provide leadership with a sound scientific understanding of the complex relationships between combat effectiveness, evolving technical and tactical threats, and Army systems."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Multi-Threat Armor Formulations and Designs"
+                                    },
+                                    "Description": {
+                                        "val": "This effort devises and matures multi-threat hybrid armor technologies incorporating both active and passive mechanisms for ground vehicle systems that are effective against future conventional weapons and evolving improvised threats. This research is coordinated with PE 0602601A (Armor Applied Research) and PE 0603005A (Combat Vehicle Survivability)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "20.121"
+                                            },
+                                            "Text": {
+                                                "val": "Investigated ceramic laminate characteristics to identify\/gain iterative improvements for protection during future threat\/armor engagement processes; investigated concepts for defeat of very large shaped charge threats, including developing an understanding of how various defeat mechanisms interact as threat size increases; explored novel explosive reactive armor mechanisms for defeat of advanced threats; developed new approaches for advanced kinetic energy (KE) multi-hit defeat for vehicle sides and front; validated protection capabilities against both explosively formed penetrators (EFPs) and rocket propelled grenades (RPGs) by utilizing multiple defeat mechanisms in a single system; developed new mechanisms to enable defeat of both KE and chemical energy (CE) threats in a single system; and supported transitions to the Army Tank Automotive Research, Development and Engineering Center (TARDEC) PE 0602601A\/Project C05 and PE 0603005A \/Project 441)."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "23.188"
+                                            },
+                                            "Text": {
+                                                "val": "Develop understanding of limiting mechanics of multiple impacts from advanced KE threats and expand our functional library of defeat mechanisms that are independent of size, severity, or configuration regarding shaped charge equipped warheads; develop defeat concepts that greatly expand protection from vast array of kinetic energy and shaped charge weapons; and continue support for transitions to the U.S. Army TARDEC through PE 0602601A (Combat Vehicle and Automotive Technology)\/ Project C05 (Armor Applied Research) and PE 0603005A (Combat Vehicle and Automotive Advanced Technology) \/Project 441(Combat Vehicle Mobility) as KE armors and warhead defeat mechanisms are matured."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "21.649"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "21.649"
+                                            },
+                                            "Text": {
+                                                "val": "Will develop novel passive and reactive armor protection concepts, including the use of promising materials technologies, to defeat a variety of current and future large caliber KE penetrators through further development of computational modeling and simulation capabilities and validation experiments; mature understanding and predictive multi-physics modeling capabilities of electromagnetic armor (EMA) and explosive reactive armor (ERA) to improve associated design tools and accelerate development; investigate stress wave propagation at dissimilar material interfaces through a combined experimental and computational approach to improve understanding of hybrid protection systems, in particular, multi-hit capabilities; and support transitions to the U.S. Army TARDEC through PE 0602601A \/ Project C05 and PE 0603005A \/ Project 441."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Adaptive and Cooperative Protection Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort pursues a holistic approach toward achieving significant weight reduction and defeat of future threats by utilizing real-time information, combined with threat knowledge, to provide ever-increasing protection. This approach includes the fusing of individual vehicle capabilities of armor, underbody blast protection, active protection systems (APS), and advanced soft kill methods into one solution to maximize survivability and minimize weight for combat and tactical vehicles. This research is coordinated with PE 0602601A (Armor Applied Research) and PE 0603005A (Combat Vehicle Survivability)."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.795"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.795"
+                                            },
+                                            "Text": {
+                                                "val": "Will assess current sensor\/warner\/tracker technologies that can warn of attack and identify threats of interest (such as RPGs) and anti-tank guided missile (ATGM)); and explore multiple actuation technologies including mechanical actuation, energetic materials, and pulsed power in conjunction with selected counter measures."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Ballistic and Blast Protection for Dismounted Soldiers"
+                                    },
+                                    "Description": {
+                                        "val": "This effort develops unique physics-based models to understand the deflection and stress wave interactions with the human during the complex target interactions between threats and personal protective equipment (PPE). Use this knowledge framework to develop low technology readiness level (TRL) PPE concepts that are informed by the human effects during impact and blast events."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.919"
+                                            },
+                                            "Text": {
+                                                "val": "Developed an objective blunt trauma test methodology for helmets using a combination of experimental and modeling approaches, exploring relationships to injury mechanisms; and explored the use of covers and surface coatings on ceramic performance for monolithic and flexible body armor concepts."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.758"
+                                            },
+                                            "Text": {
+                                                "val": "Explore novel helmet concepts that provide both ballistic and blunt trauma protection by incorporating understanding of  ballistic impact on curved structures fabricated from structural composites; explore light fabric solutions for protection from secondary blast fragments; explore novel ceramic configurations for protection against advanced kinetic energy rounds; and develop computational methodologies to support development of these technologies."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "6.561"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "6.561"
+                                            },
+                                            "Text": {
+                                                "val": "Will develop computational models for hard and soft tissue to improve capabilities to develop new personnel protection concepts; develop improved biofidelic materials to improve experimental capabilities to assess Soldier protective systems; explore novel helmet concepts with new understanding of ballistic impact on curved structures; conduct experiments and develop models that combine protective helmet material concepts with human head models to improve fidelity of and validate helmet concepts."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Soldier Lethality Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort focuses on development of advanced lethal mechanisms, improved accuracy approaches, and leverages state-of-the-art materials to enable a single small arms cartridge for defeat of hard and soft targets and enable the defeat of combatants in defilade out to 2 km."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.316"
+                                            },
+                                            "Text": {
+                                                "val": "Pursued novel concepts to enable significant increases in impact velocities, reduced muzzle pressures, and increased accuracy in small caliber systems; and developed understanding of alternate approaches to achieve long range precision for 50 caliber man-portable systems."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.299"
+                                            },
+                                            "Text": {
+                                                "val": "Investigate concepts and validate models to achieve significantly higher muzzle velocities in small caliber weapons; and mature deeper understanding of novel concepts such as gun tube geometries, weapon dynamics, blast attenuation, impulse management, and transitional ballistics to enhance accuracy and lethality of small caliber weapons."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.797"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.797"
+                                            },
+                                            "Text": {
+                                                "val": "Will investigate concepts to enable high muzzle energies and multi-platform single-round warhead technologies in a light weapon system."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Warrior Injury Assessment Manikin (WIAMan)"
+                                    },
+                                    "Description": {
+                                        "val": "This work develops an improved demonstrator blast test manikin, data acquisition system, and injury prediction methods and tools that incorporate new medical research and which provides an improved capability to measure and predict skeletal injuries for vehicle occupants during under-body blast events.  Transfer of responsibilities and funding from PE 0602787A (Medical Technology)\/Project 869 (Warfighter Health Protection & Performance Standards, Army Medical Research and Materiel Command (MRMC) to ARL effective Fiscal Year (FY) 2015. This effort is coordinated with PE 0602601A (Armor Applied Research) and PE 0603005A (Combat Vehicle Survivability)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "10.500"
+                                            },
+                                            "Text": {
+                                                "val": "Initiated validation and verification testing of the first generation WIAMan demonstrator; designed and initiated development of the WIAMan data acquisition system; transferred knowledge and tools for use in Live Fire Test & Evaluation and other under-body blast survivability efforts; and conducted research to establish human tolerance to the under-body blast loading environment and development of human injury probability curves; and transfer of responsibilities and funding (PE 0602787A\/Project 869) from MRMC to ARL effective FY15."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "11.393"
+                                            },
+                                            "Text": {
+                                                "val": "Complete validation and verification testing of the first whole-body WIAMan demonstrator; fabricate and integrate the WIAMan data acquisition system into the manikin; revise prototype manikin design and prepare technical data package for fabrication of the next generation prototype manikin and award fabrication contract; conduct program assessment milestone review; conduct injury medical research in a blast driven environment; transfer knowledge and tools for use in Live Fire Test and Evaluation and other under-body blast survivability efforts; and conduct research to establish human tolerance to the under-body blast loading environment and development of human injury probability curves."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "8.808"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "8.808"
+                                            },
+                                            "Text": {
+                                                "val": "Will validate data acquisition system\/instrumentation suite for fabrication of next generation WIAMan technology demonstrator; assess biofidelity compliance; refine and validate finite element analysis model of the WIAMan technology demonstrator; and conduct biomechanical research for human injury probability curves for all body regions under consideration, including foot\/ankle, lower leg, femur, pelvis, ribs\/sternum, and spine."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Vulnerability Assessment of Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort reviews developmental technologies in the context of current and emerging threats, identifies tradeoffs, develops risk reduction and mitigation strategies, and promotes the development of technologies that are \"threat ready\". State-of-the-art vulnerability assessment methodology and tools are applied across a broad spectrum of threats in order to determine vulnerabilities. This effort investigates, designs, and develops methods and tools and provides the oversight and coordination required to execute this research across the Army enterprise. This work complements and is coordinated with PE 0603125A (Combating Terrorism-Technology Development)\/Project DF5 (Agile Integration & Demonstration)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.500"
+                                            },
+                                            "Text": {
+                                                "val": "Selected developmental (current and emerging) technologies; identified spectrum of threats for technologies identified and selected high-priority threats for investigation; designed, developed and matured assessment methods and tools; designed and conducted experiments that demonstrated technology vulnerabilities; and identified mitigation strategies for vulnerabilities discovered. Technology selection was influenced by highest priority\/highest potential payoff technologies taking in to account intelligence research, such as that performed at the National Ground Intelligence Center (e.g., high priority threat\/capabilities, threat horizon, characterization of contested environment, etc.); and designed assessments with environments and factors that were used to demonstrate vulnerabilities (electronic warfare, cyber security, survivability, lethality and system of systems). Candidates and technologies included Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) and Network Modernization, Active Protection Systems, unmanned ground vehicle\/unmanned aerial vehicle technologies, hostile fire detection technologies, digital radio frequency memory (DRFM) for countermeasures\/counter-countermeasures, or optics technologies that benefited from reduction of optical augmentation."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "8.630"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct vulnerability assessments on critical 6.2 technologies based on Army priorities. These assessments identify very early-on, possible vulnerabilities and shortcomings of emerging technologies and influence future Science and Technology (S&T) investment decisions resulting in the fielding of more robust systems. Candidate technologies will be considered across all Army S&T portfolios."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "8.706"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "8.706"
+                                            },
+                                            "Text": {
+                                                "val": "Will complete analysis and reporting of findings for completed technology vulnerability assessments, including assessments of advanced sensor protection against future threats, advanced tactical networking technology, survivability implications of novel flight control concepts, assured positioning, navigation and timing in electronic warfare environments, advanced video processing technique, and sensing\/warning capability against emerging unmanned aerial system threats; and initiate approved set of FY17 technology vulnerability assessments that are prioritized based on coordination across the S&T, intelligence, requirements and acquisition communities."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Active Protection Modeling and Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort supports the development of APS technologies and common architecture to reduce vehicle weight while significantly increasing protection against current and emerging advanced threats by reducing reliance on armor through other means such as sensing, warning, and active countermeasures. The APS common architecture will provide adaptable APS solutions that can be integrated across Army vehicle platforms as required. This research includes the development of new modeling and simulation capabilities along with supporting experimental and theoretical approaches to enable active protective systems. This effort includes integrated information (e.g., battlefield geography, threat launch detection and tracking) and intelligence to inform protection optimization, requiring collaboration across multiple Army organizations. This effort complements and is coordinated with PE 0602601A (Combat Vehicle and Automotive Technology)\/Project C05 (Armor Applied Research), PE 0603004A (Weapons and Munitions Advanced Technology)\/Project 232 (Advanced Lethality & Survivability Demo), PE 0603005A (Combat Vehicle Survivability and Automotive Advanced Technology)\/Project 221 (Combat Vehicle Survivability), PE 0603270A (Electronic Warfare Technology)\/Project K16 (Non-Commo ECM Technology Demo), and PE 0603313A (Missile and Rocket Advanced Technology) \/ Project 263 (Future Missile Technology Integration)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.125"
+                                            },
+                                            "Text": {
+                                                "val": "Explored threat independent hybrid\/adaptive mechanisms; developed and validated initial computational model to examine interactions of sensors and defeat mechanisms against ballistic threats; and developed active protection concepts, including countermeasures, threat warning capabilities, and dynamic threat maps."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.976"
+                                            },
+                                            "Text": {
+                                                "val": "Develop ATGM flight models; conduct warhead damage experiments into larger threats with different warhead explosives; develop softkill countermeasure models; complete integration of softkill and hardkill components and controller algorithms into an overarching softkill\/hardkill simulation; integrate results into Research, Development, and Engineering Command (RDECOM)-level APS simulations suite."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.217"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.217"
+                                            },
+                                            "Text": {
+                                                "val": "Will integrate warhead damage experimental data into more complex damage mechanisms to study ATGM threats; incorporate threat counter measures into simulations to assess potential counter-counter measures; and examine softkill\/hardkill performance, modifying simulations as necessary."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Swarming Weapons Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort develops concepts for simultaneous and assured delivery of multiple lethal payloads at extended ranges to challenging (e.g., moving) targets in constrained and contested environments (such as highly dynamic and mixed personnel environments, and GPS denied environments) through the use of highly collaborative teaming and distributed intelligence, perception, estimation, and control theories and technologies."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.675"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.675"
+                                            },
+                                            "Text": {
+                                                "val": "Will develop new modeling and simulation capabilities to capture complex flight physics, such as non-linear flow phenomena, flight body dynamics for complex shape bodies, and rapid, extreme maneuvers; and develop novel nonlinear Guidance, Navigation, and Control (GNC) capabilities to enable cooperative control and extreme maneuverability."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "HB1"
+                    },
+                    "ProjectTitle": {
+                        "val": "SURVIVABILITY AND LETHALITY TECHNOLOGIES (CA)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "25.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "Not applicable for this item."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "These are Congressional Interest Items"
+                        },
+                        "CongressionalAddDetailList": {
+                            "CongressionalAddDetail": [
+                                {
+                                    "Title": {
+                                        "val": "Program Increase"
+                                    },
+                                    "CurrentYear": {
+                                        "Funding": {
+                                            "val": "20.000"
+                                        },
+                                        "Text": {
+                                            "val": "This is a Congressional Interest Item"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Improved Armor Technologies"
+                                    },
+                                    "CurrentYear": {
+                                        "Funding": {
+                                            "val": "5.000"
+                                        },
+                                        "Text": {
+                                            "val": "This is a Congressional Interest Item"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

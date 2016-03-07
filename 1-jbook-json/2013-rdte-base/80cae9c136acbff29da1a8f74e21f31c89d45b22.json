@@ -1,0 +1,805 @@
+{
+    "id": "80cae9c136acbff29da1a8f74e21f31c89d45b22",
+    "meta": {
+        "filename": "dod-2013_RDTE_2013_OSD_MasterJustificationBook_Office_of_Secretary_Of_Defense_PB_2013.zzz_unzipped_MasterJustificationBook_Office_of_Secretary_Of_Defense_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Office of Secretary Of Defense",
+        "appropriation_code": "0400",
+        "appropriation_name": "Research, Development, Test & Evaluation, Defense-Wide"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0602234D8Z"
+        },
+        "ProgramElementTitle": {
+            "val": "Lincoln Laboratory"
+        },
+        "R1LineItemNumber": {
+            "val": "10"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Office of Secretary Of Defense"
+        },
+        "AppropriationCode": {
+            "val": "0400"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Defense-Wide"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Applied Research"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "31.004"
+            },
+            "CurrentYear": {
+                "val": "36.608"
+            },
+            "BudgetYearOne": {
+                "val": "36.826"
+            },
+            "BudgetYearOneBase": {
+                "val": "36.826"
+            },
+            "BudgetYearTwo": {
+                "val": "37.014"
+            },
+            "BudgetYearThree": {
+                "val": "42.574"
+            },
+            "BudgetYearFour": {
+                "val": "43.782"
+            },
+            "BudgetYearFive": {
+                "val": "44.588"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "(U) The Lincoln Laboratory research line program (LL Program) is an advanced technology research and development effort conducted through a cost reimbursable contract with the Massachusetts Institute of Technology (MIT).  The LL Program funds innovations that directly lead to the development of new system concepts, new technologies, and new components and materials.\n\nThe LL Program has evolved in FY 2012 to include three new categories for a total of seven core technology areas and four continuing technical initiatives:\n- (U) Advanced Electronics Technologies, with emphasis on development of materials, devices, and subsystems utilizing microelectronic, photonic, biological, and chemical technologies to enable new system approaches to Department of Defense (DoD) sensors.\n- (U) Communications (formerly Advance Optical Communications), focusing on high-efficiency free-space optical communications links as well as development and applications of metamaterials.\n- (U) Intelligence, Surveillance, and Reconnaissance, including the development of novel active and passive Radio Frequency (RF) and electro-optic sensors useful for intelligence, surveillance, and reconnaissance applications.\n- (U) Net-centric Operations, with an emphasis on developing and demonstrating the key technologies that will enable composable and dynamic multi-mission net-centric operations on the Global Information Grid.\n- (U) Air and Missile Defense (new in FY 2012), with an emphases on novel discrimination schemes and electronic warfare applications.\n- (U) Space Control (new in FY 2012), focusing on advanced remote-sensing architectures and small satellite applications.\n- (U) Information, Computation, and Exploitation (new in FY 2012), which seeks to develop novel architectures, tools, and techniques for the processing, fusion, interpretation, computation and exploitation of multi-sensor, multi-intelligence data. \n- (U) Technical Initiatives, include biological sciences to aid the warfighter and develop tools for biological research; cybersecurity technologies to develop new techniques for the protection of systems against cyber attack and exploitation; autonomous systems technologies with the objective of developing mobile, autonomous, robotic platforms that demonstrate key capabilities needed for a wide range of defense applications; and quantum information sciences to develop basic technologies that support the storage, transport, and computation of quantum information.\n\n(U) In FY 2012, two efforts (Homeland Protection and Decision Support) no longer receive funding under the LL Program.  Work previously conducted under these initiatives is either being carried forward under the aforementioned application-specific areas or has been transitioned to external support.\n\n(U) Supporting these and other priority technology and capability areas are work efforts entitled Technical Intelligence and Testbed for Comparative Analysis:\n- (U) Technical Intelligence is working to develop a comprehensive understanding of technology emergence and advancement in a range of relevant scientific areas such as nanotechnology, directed energy, and propulsion.  Some details are classified, but one focus area is working to establish a broad horizon scanning and technology forecasting capability through a collaborative effort by the Department of Defense (DoD) and the Intelligence Community.  This effort will develop insight into our relative position in science and technology around the world over time, as well as determine potential impacts on DoD capability development and future threat environments.  \n- (U) The Testbed for Comparative Analysis will enable the evaluation of quantitative and horizon scanning and technology forecasting techniques for discovering disruptive technologies that may impact the DoD.  This effort will provide the DoD with objective ways to evaluate the accuracy of existing and future horizon scanning and technology forecasting efforts."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "32.830"
+                },
+                "CurrentYear": {
+                    "val": "37.916"
+                },
+                "BudgetYearOne": {
+                    "val": "38.359"
+                },
+                "BudgetYearOneBase": {
+                    "val": "38.359"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "31.004"
+                },
+                "CurrentYear": {
+                    "val": "36.608"
+                },
+                "BudgetYearOne": {
+                    "val": "36.826"
+                },
+                "BudgetYearOneBase": {
+                    "val": "36.826"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-1.826"
+                },
+                "CurrentYear": {
+                    "val": "-1.308"
+                },
+                "BudgetYearOne": {
+                    "val": "-1.533"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-1.533"
+                }
+            },
+            "AdjustmentDetails": {
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.879"
+                    },
+                    "CurrentYear": {
+                        "val": "-1.055"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Program Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.659"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-1.533"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-1.533"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "FFRDC"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.121"
+                                },
+                                "CurrentYear": {
+                                    "val": "-0.253"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Economic Assumptions"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.167"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "P534"
+                    },
+                    "ProjectTitle": {
+                        "val": "Lincoln Laboratory"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "27.839"
+                        },
+                        "CurrentYear": {
+                            "val": "30.385"
+                        },
+                        "BudgetYearOne": {
+                            "val": "32.710"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "32.710"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "32.841"
+                        },
+                        "BudgetYearThree": {
+                            "val": "38.268"
+                        },
+                        "BudgetYearFour": {
+                            "val": "39.361"
+                        },
+                        "BudgetYearFive": {
+                            "val": "40.097"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "(U) The Lincoln Laboratory research line program (LL Program) is an advanced technology research and development effort conducted through a cost reimbursable contract with the Massachusetts Institute of Technology (MIT).  The LL Program funds innovations that directly lead to the development of new system concepts, new technologies, and new components and materials.\n\n(U) The LL Program has evolved in FY 2012 to include three new categories for a total of seven core technology areas and four continuing technical initiatives:\n- (U) Advanced Electronics Technologies, with emphasis on development of materials, devices, and subsystems utilizing microelectronic, photonic, biological, and chemical technologies to enable new system approaches to DoD sensors.\n- (U) Communications (formerly Advance Optical Communications), focusing on high-efficiency free-space optical communications links as well as development and applications of metamaterials.\n- (U) Intelligence, Surveillance, and Reconnaissance, including the development of novel active and passive Radio Frequency (RF) and electro-optic sensors useful for intelligence, surveillance, and reconnaissance applications.\n- (U) Net-centric Operations, with an emphasis on developing and demonstrating the key technologies that will enable composable and dynamic multi-mission net-centric operations on the Global Information Grid.\n- (U) Air and Missile Defense (new in FY 2012), with an emphases on novel discrimination schemes and electronic warfare applications.\n- (U) Space Control (new in FY 2012), focusing on advanced remote-sensing architectures and small satellite applications.\n- (U) Information, Computation, and Exploitation (new in FY 2012), which seeks to develop novel architectures, tools, and techniques for the processing, fusion, interpretation, computation and exploitation of multi-sensor, multi-INT data. \n- (U) Technical Initiatives, include biological sciences to aid the warfighter and to develop tools for biological research; cybersecurity technologies to develop new techniques for the protection of systems against cyber attack and exploitation; autonomous systems technologies with the objective of developing mobile, autonomous, robotic platforms that demonstrate key capabilities needed for a wide range of defense applications; and quantum information sciences to develop basic technologies that support the storage, transport, and computation of quantum information.\n\n(U) In FY 2012, two efforts (Homeland Protection and Decision Support) no longer receive funding under the LL Program.  Work previously conducted under these initiatives is either being carried forward under the aforementioned application-specific areas or has been transitioned to external support.\n\n(U) Supporting these and other priority technology and capability areas is a work effort titled Technical Intelligence.  Technical Intelligence supports comprehensive understanding of technology emergence and advancement in a range of relevant scientific areas such as nanotechnology, directed energy and propulsion.  Some details are classified, but one effort focused on establishing a broad horizon scanning and technology forecasting effort is a collaborative effort by DOD and the Intelligence community.  This effort will develop insight over time into our relative position in science and technology around the world and potential impacts on capability development and future threat environments."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Advanced Electronics Technology"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.801"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Demonstrated imaging focal planes through the use of an advanced set of design and fabrication tools and developed 3-D integrated electronics and optoelectronics.  Developed coherent analog photonics via co-integration of silicon and III-V materials.  Developed high peak-power quantum cascade lasers (QCL) arrays for frequency-agile remote sensing applications."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.956"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Develop new imager and electronics architectures for multi-modal and extended wavelength imaging.  Continue development of photonics integrated-circuit-based coherent optical systems.  Investigate novel semiconductor optical waveguide laser and amplifier designs architected for beam-combined sensing and directed energy applications."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "5.644"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "5.644"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Extend infrared performance of high pixel count arrays of photon counting imagers.  Combine advanced imagers with higher density digital pixel processors. Demonstrate micro-photonic coherent components and processors."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Communications"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Improved the sensitivity of receivers and developed higher bandwidth ultra-low Size, Weight and Power (SWAP) transmitters for optical communications.  Developed new materials and resonator cavities for improved eye-safe optical communications."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.662"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Develop novel materials with improved spectral and spatial filtering for daytime optical communications.  Develop high efficiency arrays of photon counting receivers.  Investigate distributed algorithms for dynamic networks."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.840"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.840"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continue development of novel materials for filters and single photon emitters.  Develop free space receivers for verifiable, quantum encrypted communications.  Develop and test advanced distributed tactical communications with key encryption management."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Intelligence, Surveillance, and Reconnaissance (ISR)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "6.551"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Developed multiple ISR payloads for use on a small unmanned aerial system (UAS) platforms.  Fabricated and tested a digitally compensated active filter system-on-a-chip.  Conducted Red\/Blue experiments to explore and understand graph exploitation for network discovery.  Demonstrated weak signal detection using Signal Processing for Graphs."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.136"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continue development of small, unmanned aerial system (UAS)-based distributed Intelligence, Surveillance, and Reconnaissance (ISR) architecture with multi-intelligence (multi-INT)  sensor payloads.  Continue development of low Size, Weight and Power (SWaP) reconfigurable Radio Frequency (RF) System on Chip (SoC).  Develop compact, low-power, multi-modal active imaging systems.  Investigate high-resolution imaging capability using a synthetic aperture ladar.  Build and demonstrate a long-endurance solar-powered UAS with high-bandwidth optical downlink technology for relaying real-time high-definition video."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "5.414"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "5.414"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Develop low SWaP integrated RF\/electro-optics systems.  Demonstrate multi-mission, Unmanned Aerial Vehicle (UAV)-based sensing, processing and data exploitation for Counter Improvised Explosive Device (IED) applications."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Net-centric Operations (NCO)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.605"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Implemented and demonstrated a highly resilient messaging service prototype based on a novel distribute and federate approach for tactical edge services.  Developed an architecture for machine-based representation and processing of Trust in Net-Centric systems.  Implemented an initial software prototype framework for Knowledge Creation Services."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.253"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continue development of Knowledge Creation Services, to include improved access to massive heterogeneous data sources, resource allocation algorithms, and metadata extraction and linking algorithms.  Continue development of algorithms and techniques to implement trusted security of information in net-centric systems.  Explore novel techniques to enable operator queries to dynamically modify algorithms."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) All Net-centric activities are being carried forward under application specific areas or will be transitioned to external support.  No exclusive FY 2013 effort."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Air and Missile Defense"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) No exclusive FY 2011 effort."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.691"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Investigate advanced concepts for the electronic protection (EP) of radars from digital RF memory (DFRM) jammers using advanced waveform and adaptive signal processing approaches.  Explore concepts for a multi-beamforming antenna and receive architecture to provide extremely high sensitivity for electronic support (ES) functions.  Investigate the use of a fully polarimetric laser radar to measure the reflective properties of objects at long ranges in support of target characterization and identification."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.804"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.804"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Develop advanced sensor concepts and technologies for the detection, tracking, characterization and discrimination of air and ballistic missile targets.  Develop advanced interceptor concepts and technologies.  Explore technologies for the dynamic scheduling of sensor and kinetic and electronic weapons resources in complex, time-varying environments."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Space Control"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) No exclusive FY 2011 effort."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.190"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Develop architectures and sensing technologies for satellite-based remote sensing applications.  Begin development of micro-satellite payload components and deployment schemes."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.270"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.270"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continue development of novel sensing payloads, focusing on low Size, Weight and Power (SWaP) and high performance.  Continue development of micro-satellite-enabled sensing applications with a goal of an FY 2014 experimental launch."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Information, Computation and Exploitation Sciences"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) No exclusive FY 2011 effort."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.472"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Investigate full-motion video analytics, graph analytics and multi-sensor fusion techniques.  Develop video analysis tools on wide-area video sensor data from outdoor environments.  Prototype novel semantic analytics tailored to internet data sources.  Demonstrate automatic 3D construction and exploitation of a multi-intelligence world model."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.907"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.907"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Develop a data-intensive cloud analytics infrastructure to enable collection, fusion and exploitation of structured and unstructured datasets.  Begin demonstration of large-scale multi-intelligence data fusion, exploitation and visualization for specific application domains."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Technical Initiatives"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "8.613"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Biosciences: Evaluated performance of field-diagnostic platforms and further developed concept of integrated gene synthesis and sequencing platform.  Developed advanced signal processing techniques for biomarker depression and anticipatory monitoring.  Cybersecurity: Demonstrated advanced cyber warfare test range and cyber mission risk assessment tools.  Demonstrated utility of an open architecture anti-tamper hardware.  Demonstrated low-artifact network sensing.  Autonomous systems:  Demonstrated robot convoy leader functions and began development of cognitive robot architecture and algorithms.  Quantum Information Sciences: Developed several qubit technologies with improved coherence time for quantum information storage and computation."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "12.025"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Biosciences: Continue development of novel tools for depression assessment using physiological biomarkers.  Continue work on anticipatory monitoring, focusing on epileptic-seizure prediction.  Develop platform for gene synthesis under new Synthetic Biology initiative.  Cybersecurity: Develop automated mission-relevant cyber risk assessment tools, novel hardware sensors for low-level low-artifact cyber data collection and reference implementations for cyber testing standards.  Continue work on flexible anti-tamper architecture and physically unclonable functions.  Develop system for assessing Cyber situational awareness, using Lincoln Laboratory network operations.  Autonomous systems: Demonstrate optimized algorithms for distributed robotics networks and model-based autonomy algorithms for higher-level autonomy, and develop the technology underpinnings of a cognitive robotics architecture featuring biomimetic algorithms for true robot autonomy.  Quantum Information Sciences: Continue to work on optimization of qubits, with an objective of demonstrating few-qubit basic computational capability."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "12.831"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "12.831"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Biosciences: Grow techniques and platforms for synthetic biology research, focusing on digital-based gene synthesis.  Develop tools and methods for rapid assessment of traumatic brain injury.  Develop low Size, Weight and Power (SWaP) tools for physiological load monitoring.  Cybersecurity: Continue development of automated mission-relevant cyber risk assessment tools and novel hardware sensors for low-level low-artifact cyber data collection.  Promulgate Cyber situational awareness tools to sponsor communities.  Autonomous systems: Focus on growth of shared-perception for autonomous systems, cognitive robotics (including demonstration) and multi-unmanned aerial vehicle\/unmanned ground vehicle (UAV\/UGV) cooperative mission operations.  Quantum Information Sciences: Narrow focus of qubit research to one or more competing schemes.  Focus on demonstration of multi-qubit computation."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Decision Support"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.723"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continued development of knowledge building tools to facilitate decision support for the military.  Began work on Decision Support architectures for Cybersecurity, including collaborative gameplay exercises."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) All Decision Support activities are being supported within the relevant mission-specific initiatives.  No exclusive FY 2012 effort."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) All Decision Support activities are being supported within the relevant mission-specific initiatives.  No exclusive FY 2013 effort."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Homeland Protection"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.546"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Developed the critical infrastructure protection effort to include multi-camera tracking and forensics, under a video-analytics project.  Evaluated standoff biometric technologies and established a multi-modal testbed.  Explored small unmanned aerial vehicle (UAV)-based distributed sensing for border protection."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) All Homeland Protection activities are being supported by other funding sources and agencies.  No exclusive FY 2012 effort."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "(U) All Homeland Protection activities are being supported by other funding sources and agencies.  No exclusive FY 2013 effort."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "N\/A"
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "P535"
+                    },
+                    "ProjectTitle": {
+                        "val": "Technical Intelligence"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "3.165"
+                        },
+                        "CurrentYear": {
+                            "val": "3.295"
+                        },
+                        "BudgetYearOne": {
+                            "val": "3.634"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "3.634"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "3.649"
+                        },
+                        "BudgetYearThree": {
+                            "val": "4.306"
+                        },
+                        "BudgetYearFour": {
+                            "val": "4.421"
+                        },
+                        "BudgetYearFive": {
+                            "val": "4.491"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Technical Intelligence supports Assistant Secretary of Defense (Research and Engineering) priorities through two primary mechanisms: 1) leveraging the university community through the JASONs (this is not an acronym); and 2) accessing information on the emergence, maturation and development of technology globally.  \n\n(U) JASONs is a group of approximately 65 appropriately cleared experts who provide detailed independent technical assessments of challenging technological problems.  JASON members are primarily fully tenured professors in physics, mathematics, biosciences, and engineering, disciplines who hold active Sensitive Compartmented Information-level clearances.  The outputs of the JASONs annually are studies provided across the leadership and program manager levels which inform and often shape programmatic and technical decisions involving millions of dollars.  JASONs were previously funded through university research programs, but their level of technical expertise in systems and development is appropriate for incorporation into Applied Research.\n\n(U) The technical intelligence program will support collaborative work with the United States Intelligence community on emerging and disruptive technologies, primarily through continued development of Technical Assessment, including Science & Technology (S&T) Net Assessments and Baseline Assessments.  These assessments look at sets of technologies from both a domestic and foreign development perspective.  The program will also support focused technology and regional trend studies and collaborative work with international partner nations on assessments of emerging and disruptive technologies and their relevance to national defense.  The technical intelligence program also supports development of horizon scanning and technology forecasting approaches that enable broader assessment of emerging and disruptive technologies."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Technical Intelligence"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.165"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continued to focus the JASON studies and Technical Intelligence in areas critical to national security.  In 2011 the JASONs completed summer studies touching on a range of topics from electronic warfare and hypersonics to the challenge of loose nukes and a review of the basic research priority areas.  The studies have been reviewed for quality and potential to impact programs and lessons learned are being incorporated into formulation of questions for 2012.  For the Technical Intelligence portion, some details are classified.  A list of capability-based technical intelligence needs were formally provided to the intelligence community with detailed production requirements.  Subsequently, baseline assessments of current technical intelligence products were completed.  This formalized process has improved both integration of current intelligence into programs and prioritization of future intelligence collection and analysis of relevance the Department.  This program continued collaboration with the United Kingdom, Australia, Canada, and New Zealand (invited) to assess the best practices for identifying, assessing, prioritizing and integrating information on emerging and potentially disruptive technologies.  Lists from four nations (AUS, CAN, UK, and U.S.) were integrated and topic areas of common interest were identified for case study use.  A comparative analysis of analytic tools was initiated and templates for burden sharing on expert analysis were agreed.  Data was exchanged under the auspices of The Technical Cooperation Program (TTCP) sharing scientometric studies and expert analysis on topics of mutual interest.  Discussions on identifying and assessing 'wild cards' have also been initiated.  The program also continued the effort of the National Academy of Sciences (under the National Research Council) through the Board of Global Science and Technology to engage globally on targeted areas of science and technology to understand global shifts and their relevance to national security.  The Board sponsored several workshops with an initial focus on large data and computer processing.  In coordination with the National Intelligence Manager for Science and Technology and the Defense Intelligence Community the program continued an effort to strengthen science and technology analysis through improved articulation of science and technology requirements and definition of future high impact products."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.295"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continue to focus the JASON studies and Technical Intelligence in areas critical to national security.  JASON studies will be focused on the area most important in the security environment at the time.  For the Technical Intelligence portion some details are classified.  The program will initiate S&T baseline assessments for the S&T Intelligence priorities and full technical net assessments on global technology advancement in collaboration with the National S&T Intelligence Committee in the areas such as electronic warfare, and others as identified by the Science and Technology (S&T) net assessment program in FY 2010.  This program will continue 'five eyes' collaboration with the United Kingdom, Australia, Canada, and New Zealand to continue assessments on emerging and disruptive technologies and will leverage the best collection of methodologies for scanning\/discovery, prioritization and assessment of the military relevance for those emerging technologies.  The program will continue the effort of the National Academy of Sciences (under the National Research Council) through the Board of Global Science and Technology to engage globally on targeted areas of science and technology to understand global shifts and their relevance to national security.  The Board is sponsoring several conferences in countries in reference to technologies of interest, with the initial focus on the large data challenge.  A future technology war-game will be conducted at the National Defense University, focused on the potential disruptive impact of commercially available technologies relevant to an emerging threat.  In coordination with the National Intelligence Committee and the Defense Intelligence Community effort to Strengthen Science and Technology Analysis, this program will continue a strong partnership with the intelligence community to provide clear feedback on products, improve articulation of S&T requirements, and define higher impact products for future development.  Technical Intelligence will continue to update and refine the S&T Intelligence priorities and mechanisms for increasing information flow from the intelligence community."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.634"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.634"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Continue to focus the JASON studies and Technical Intelligence in areas critical to national security.  JASON studies will be focused on the area most important in the security environment at the time.  For the Technical Intelligence portion some details are classified.  The program will initiate S&T baseline assessments for the S&T Intelligence priorities and full technical net assessments on global technology advancement in collaboration with the National S&T Intelligence Committee in the areas such as electronic warfare, and others as identified by the S&T net assessment program in FY 2010.  This program will continue 'five eyes' collaboration with the United Kingdom, Australia, Canada, and New Zealand to continue assessments on emerging and disruptive technologies and will leverage the best collection of methodologies for scanning\/discovery, prioritization and assessment of the military relevance for those emerging technologies.  The program will continue the effort of the National Academy of Sciences (under the National Research Council) through the Board of Global Science and Technology to engage globally on targeted areas of science and technology to understand global shifts and their relevance to national security.  The Board is sponsoring several conferences in countries in reference to technologies of interest, with the initial focus on the large data challenge.  A future technology war-game will be conducted at the National Defense University, focused on the potential disruptive impact of commercially available technologies relevant to an emerging threat.  In coordination with the National Intelligence Committee and the Defense Intelligence Community effort to Strengthen Science and Technology Analysis, this program will continue a strong partnership with the intelligence community to provide clear feedback on products, improve articulation of S&T requirements, and define higher impact products for future development.  Technical Intelligence will continue to update and refine the S&T Intelligence priorities and mechanisms for increasing information flow from the intelligence community."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "N\/A"
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "P536"
+                    },
+                    "ProjectTitle": {
+                        "val": "Testbed for Comparative Analysis"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "2.928"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.482"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.482"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.524"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "(U) The Testbed for Comparative Analysis will include a data, test, and evaluation environment to enable analysis of both quantitative and qualitative techniques for technology forecasting and horizon scanning. This includes the ability to derive an understanding of accuracy, relevance, and robustness of analysis techniques and algorithms (e.g. cluster analysis) to identify emerging technology trends and potentially disruptive weak signals. The testbed will be developed in collaboration with other interested government agencies with modularity and expansion capabilities in mind."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Testbed for Comparative Analysis"
+                                    },
+                                    "Description": {
+                                        "val": "(U) The Testbed for Comparative Analysis will include a data, test, and evaluation environment to enable analysis of both quantitative and qualitative techniques for technology forecasting and horizon scanning.  This includes the ability to derive an understanding of accuracy, relevance, and robustness of analysis techniques and algorithms (for example, cluster analysis) to identify emerging technology trends and potentially disruptive weak signals.  The testbed will be developed in collaboration with other interested government agencies with modularity and expansion capabilities in mind."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A - New Project in FY 2012"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.928"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Design and implement an initial data, test, and evaluation environment to enable analysis of both quantitative and qualitative techniques for technology forecasting and horizon scanning.  This includes the ability to derive an understanding of accuracy, relevance, and robustness of analysis techniques and algorithms (for example, cluster analysis) to identify emerging technology trends and potentially disruptive weak signals.  The testbed will be developed in collaboration with other interested government agencies with modularity and expansion capabilities in mind."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.482"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.482"
+                                            },
+                                            "Text": {
+                                                "val": "(U) Design and implement an initial data, test, and evaluation environment to enable analysis of both quantitative and qualitative techniques for technology forecasting and horizon scanning.  This includes the ability to derive an understanding of accuracy, relevance, and robustness of analysis techniques and algorithms (for example, cluster analysis) to identify emerging technology trends and potentially disruptive weak signals.  The testbed will be developed in collaboration with other interested government agencies with modularity and expansion capabilities in mind."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "TBD"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

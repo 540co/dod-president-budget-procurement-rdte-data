@@ -1,0 +1,853 @@
+{
+    "id": "6c450bb940ed8215b8004d564f4b6d3cc6253ee5",
+    "meta": {
+        "filename": "dod-2014_PROCUREMENT_2014_ARMY_OTHER_2_PROCUREMENT_JustificationBook_Army_PB_2014.zzz_unzipped_PROCUREMENT_JustificationBook_Army_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Army",
+        "appropriation_code": "2035A",
+        "appropriation_name": "Other Procurement, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@quantityUnitName": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "LineItemNumber": {
+            "val": "BD3501"
+        },
+        "LineItemTitle": {
+            "val": "CSS Communications"
+        },
+        "P1LineNumber": {
+            "val": "119"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2035A"
+        },
+        "AppropriationTitle": {
+            "val": "Other Procurement, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Communications and Electronics Equipment"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "92"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Elect Equip - Automation"
+        },
+        "ResourceSummary": {
+            "Quantity": {
+                "AllPriorYears": {
+                    "val": "1192"
+                },
+                "CurrentYear": {
+                    "val": "2062"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "GrossWeaponSystemCost": {
+                "AllPriorYears": {
+                    "val": "476.337"
+                },
+                "PriorYear": {
+                    "val": "35.41"
+                },
+                "CurrentYear": {
+                    "val": "20.639"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "GrossWeaponSystemUnitCost": {
+                "CurrentYear": {
+                    "val": "10.009"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "476.337"
+                },
+                "PriorYear": {
+                    "val": "35.41"
+                },
+                "CurrentYear": {
+                    "val": "20.639"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "476.337"
+                },
+                "PriorYear": {
+                    "val": "35.41"
+                },
+                "CurrentYear": {
+                    "val": "20.639"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "CostType": {
+            "val": "AB"
+        },
+        "ComponentSplit": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "CurrentYear": {
+                                "Quantity": {
+                                    "val": "2062"
+                                },
+                                "TotalCost": {
+                                    "val": "20.639"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "Description": {
+            "val": "This Combat Service Support (CSS) Communications program supports the Army's full spectrum logistics communication requirements under two programs: Combat Service Support Automated Information System Interface (CAISI) and Combat Service Support Satellite Communications (CSS SATCOM).\n \nCAISI allows current and emerging battlefield Combat Service Support (CSS) automation devices within the logistics support areas to electronically exchange information via tactical networks.  CAISI also interfaces with other battlefield, CSS, and sustaining base automated systems.  CAISI provides unit commanders and managers an interface device to support current and future CSS doctrine during full spectrum operations, facilitating the concentration of users and the transfer of real time information in a highly fluid operational environment.  \n \nCSS SATCOM provides a highly effective, easy to use, transportable commercial SATCOM based solution to CSS nodes, supporting broadband information exchange up to Sensitive information, rapidly deployable anywhere in the world, and fully integrated into the Global Information Grid (GIG).  Many of the critical Army Logisitics Information Systems (LIS) operate on the CSS SATCOM network (backbone) to support the mission and units in the field."
+        },
+        "Justification": {
+            "val": "Program has no FY 2014 Base or OCO request.\n\nIAW Section 1815 of the FY08 NDAA this item is necessary for use by the active components and reserve components of the Armed Forces for homeland defense missions, domestic emergency responses, and providing military support to civil authorities."
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "CAISI"
+                    },
+                    "ItemNumber": {
+                        "val": "BD3512"
+                    },
+                    "ComponentSplit": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "PriorYear": {
+                                            "TotalCost": {
+                                                "val": "5.458"
+                                            }
+                                        },
+                                        "CurrentYear": {
+                                            "Quantity": {
+                                                "val": "1950"
+                                            },
+                                            "TotalCost": {
+                                                "val": "10.5"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army National Guard"
+                                    },
+                                    "Cost": {
+                                        "PriorYear": {
+                                            "TotalCost": {
+                                                "val": "8.555"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army Reserve"
+                                    },
+                                    "Cost": {
+                                        "PriorYear": {
+                                            "TotalCost": {
+                                                "val": "0.738"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "Quantity": {
+                            "CurrentYear": {
+                                "val": "1950"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "GrossWeaponSystemCost": {
+                            "AllPriorYears": {
+                                "val": "121.058"
+                            },
+                            "PriorYear": {
+                                "val": "14.751"
+                            },
+                            "CurrentYear": {
+                                "val": "10.5"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "GrossWeaponSystemUnitCost": {
+                            "AllPriorYears": {
+                                "val": "22.098"
+                            },
+                            "CurrentYear": {
+                                "val": "5.385"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "121.058"
+                            },
+                            "PriorYear": {
+                                "val": "14.751"
+                            },
+                            "CurrentYear": {
+                                "val": "10.5"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "121.058"
+                            },
+                            "PriorYear": {
+                                "val": "14.751"
+                            },
+                            "CurrentYear": {
+                                "val": "10.5"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Flyaway": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Processor Group S 2.0"
+                                                },
+                                                "Cost": {
+                                                    "AllPriorYears": {
+                                                        "UnitCost": {
+                                                            "val": "5.714"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "13856"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "79.178"
+                                                        }
+                                                    },
+                                                    "PriorYear": {
+                                                        "UnitCost": {
+                                                            "val": "47.652"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "302"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "14.391"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "UnitCost": {
+                                                            "val": "4.191"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "1652"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "6.924"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "TotalCost": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "TotalCost": {
+                                                            "val": "0.000"
+                                                        }
+                                                    }
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "TELOS"
+                                                            },
+                                                            "Location": {
+                                                                "val": "Ashburn"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2012"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "ACC-NCR, Alexandria, VA"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2012-06"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2012-09"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "302"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "47.652"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "SS"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2013"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "TBD"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2013-06"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2013-09"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "1652"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "4.191"
+                                                                        },
+                                                                        "FundingVehicle": {
+                                                                            "val": "TBD"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Accessory Kit"
+                                                },
+                                                "Cost": {
+                                                    "AllPriorYears": {
+                                                        "UnitCost": {
+                                                            "val": "21.781"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "1825"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "39.75"
+                                                        }
+                                                    },
+                                                    "PriorYear": {
+                                                        "TotalCost": {
+                                                            "val": "0.36"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "UnitCost": {
+                                                            "val": "12"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "298"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "3.576"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "TotalCost": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "TotalCost": {
+                                                            "val": "0.000"
+                                                        }
+                                                    }
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "TELOS"
+                                                            },
+                                                            "Location": {
+                                                                "val": "Ashburn"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2012"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "ACC-NCR, Alexandria, VA"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2012-06"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2012-09"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "0"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "0.000"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "SS"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2013"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "TBD"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2013-06"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2013-09"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "298"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "12.000"
+                                                                        },
+                                                                        "FundingVehicle": {
+                                                                            "val": "TBD"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Name": {
+                        "val": "CSS SATCOM"
+                    },
+                    "ItemNumber": {
+                        "val": "BD3513"
+                    },
+                    "ComponentSplit": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "PriorYear": {
+                                            "TotalCost": {
+                                                "val": "10.949"
+                                            }
+                                        },
+                                        "CurrentYear": {
+                                            "Quantity": {
+                                                "val": "112"
+                                            },
+                                            "TotalCost": {
+                                                "val": "10.139"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army National Guard"
+                                    },
+                                    "Cost": {
+                                        "PriorYear": {
+                                            "TotalCost": {
+                                                "val": "6.404"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army Reserve"
+                                    },
+                                    "Cost": {
+                                        "PriorYear": {
+                                            "TotalCost": {
+                                                "val": "3.306"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "Quantity": {
+                            "CurrentYear": {
+                                "val": "112"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "GrossWeaponSystemCost": {
+                            "AllPriorYears": {
+                                "val": "355.279"
+                            },
+                            "PriorYear": {
+                                "val": "20.659"
+                            },
+                            "CurrentYear": {
+                                "val": "10.139"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "GrossWeaponSystemUnitCost": {
+                            "AllPriorYears": {
+                                "val": "2065.576"
+                            },
+                            "CurrentYear": {
+                                "val": "90.527"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "355.279"
+                            },
+                            "PriorYear": {
+                                "val": "20.659"
+                            },
+                            "CurrentYear": {
+                                "val": "10.139"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "355.279"
+                            },
+                            "PriorYear": {
+                                "val": "20.659"
+                            },
+                            "CurrentYear": {
+                                "val": "10.139"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Flyaway": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Terminal Satellite Communication"
+                                                },
+                                                "Cost": {
+                                                    "AllPriorYears": {
+                                                        "UnitCost": {
+                                                            "val": "287"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "1238"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "355.279"
+                                                        }
+                                                    },
+                                                    "PriorYear": {
+                                                        "UnitCost": {
+                                                            "val": "152.893"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "135"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "20.659"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "UnitCost": {
+                                                            "val": "90.526"
+                                                        },
+                                                        "Quantity": {
+                                                            "val": "112"
+                                                        },
+                                                        "TotalCost": {
+                                                            "val": "10.139"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "TotalCost": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "TotalCost": {
+                                                            "val": "0.000"
+                                                        }
+                                                    }
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "TBD"
+                                                            },
+                                                            "Location": {
+                                                                "val": "TBD"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2012"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "DISA DITCO, Scott AFB, IL"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2012-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2013-02"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "135"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "152.893"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "false"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2013"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "TBD"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2013-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2014-02"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "112"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "90.526"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "false"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": []
+    }
+}

@@ -1,0 +1,2165 @@
+{
+    "id": "b51c8d0ac1b76504c05412f55477bab4afbb0e3e",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_NAVY_BA1_3_U_RDTE_MasterJustificationBook_Navy_PB_2017.zzz_unzipped_U_RDTE_MasterJustificationBook_Navy_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1319",
+        "appropriation_name": "Research, Development, Test & Evaluation, Navy"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0204228N"
+        },
+        "ProgramElementTitle": {
+            "val": "Surface Support"
+        },
+        "R1LineNumber": {
+            "val": "197"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationCode": {
+            "val": "1319"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "8.611"
+            },
+            "PriorYear": {
+                "val": "3.000"
+            },
+            "CurrentYear": {
+                "val": "36.045"
+            },
+            "BudgetYearOne": {
+                "val": "21.156"
+            },
+            "BudgetYearOneBase": {
+                "val": "21.156"
+            },
+            "BudgetYearTwo": {
+                "val": "13.529"
+            },
+            "BudgetYearThree": {
+                "val": "14.554"
+            },
+            "BudgetYearFour": {
+                "val": "12.421"
+            },
+            "BudgetYearFive": {
+                "val": "12.749"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Surface Support RDT&E funding will be used for the research, design, development, integration testing, and documentation of a new Inertial Navigation System (INS) for all Navy platforms.  The program will implement systems engineering processes to investigate major navigation system error sources, define new functions, research new technologies, algorithms, and techniques to improve system performance, conduct analyses of alternatives, create preliminary and final design concepts, develop new hardware components and associated software, and conduct land based and shipboard testing.  The INS-R consists of an Inertial Sensor Module (ISM) and a Navigation Processing Module (NPM).  The ISM is planned to be designed, developed, and procured through an open competition.  The NPM is a Government design.  A Request for Information (RFI) was issued in 22 Aug 2013 for initial concepts and market availability of the ISM.  The results of the RFI changed the FY16 and out requirements to complete development of all INS-R configurations (surface\/amphib, submarine, and carrier).  \n\nThe Navy's current INS is the AN\/WSN-7(V) Ring Laser Gyro Navigator (RLGN), a legacy 1980's design that was first installed in 1998 and is now obsolete.  This is a proprietary design.  The RLGN is reaching its limit with respect to providing the high-accuracy navigation solution required to meet known and emerging mission requirements.  Navigator of the Navy's Vision 2025 identified emergent requirements with respect to improved navigation in a GPS denied environment, littoral warfare, mine countermeasures, and manned and unmanned vehicle operations that cannot be met with existing systems.  The RLGN employs an Inertial Measuring Unit (IMU) with three single-axis ring laser gyros that allow the system to provide continuous and automatic data outputs of the ship's geographic position (latitude, longitude), horizontal and vertical linear velocity (Ve, Vn, Vv), attitude (heading, roll, and pitch) and attitude rates. The INS provides mission critical ship's position and attitude data to shipboard sensors (such as radars), combat systems, gun, and missile systems.  The INS uses data from the Global Positioning System (GPS) to periodically update (i.e., reset) its position and internal clock.  The INS is the ship's primary position source in absence of GPS.\n\nIn addition to INS-R, this funding will be used for the research, development, integration testing, and documentation of other navigation wholeness initiatives, including Phase I Cybersecurity Enclave Boundary Defense Capability, MK27 Gyrocompass Replacement, Own Ship Speed (OSS) and Course Repeater Replacement, submarine Time Frequency Distribution System (TFDS) Replacement, and new submarine speed sensors.  These efforts will provide replacement designs and architectures to address legacy obsolescence, capability gaps, and performance shortfalls that impact the quality, reliability, and total ownership costs of the overall navigation suite."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "2.878"
+                },
+                "CurrentYear": {
+                    "val": "36.045"
+                },
+                "BudgetYearOne": {
+                    "val": "24.918"
+                },
+                "BudgetYearOneBase": {
+                    "val": "24.918"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.000"
+                },
+                "CurrentYear": {
+                    "val": "36.045"
+                },
+                "BudgetYearOne": {
+                    "val": "21.156"
+                },
+                "BudgetYearOneBase": {
+                    "val": "21.156"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.122"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "-3.762"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-3.762"
+                }
+            },
+            "AdjustmentDetails": {
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.179"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.057"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Program Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-2.000"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-2.000"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Rate\/Misc Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-1.762"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-1.762"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "FY 2015 funding request includes an increased of $0.179 million for Navigation sensors and systems and reduction of $0.057 million for SBIR Transfer.\n\nFY 2017 funding request is reduced by $0.321 million for rate\/miscellaneous adjustments, $2 million for Navigation Sensor and Tools adjustments, $0.545 million to account for the availability of prior year balances, and $0.896 million for the Department of the Navy to comply with the Bipartisan Budget Act of 2015."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "3311"
+                    },
+                    "ProjectTitle": {
+                        "val": "Navigation Systems"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "8.611"
+                        },
+                        "PriorYear": {
+                            "val": "3.000"
+                        },
+                        "CurrentYear": {
+                            "val": "36.045"
+                        },
+                        "BudgetYearOne": {
+                            "val": "21.156"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "21.156"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "13.529"
+                        },
+                        "BudgetYearThree": {
+                            "val": "14.554"
+                        },
+                        "BudgetYearFour": {
+                            "val": "12.421"
+                        },
+                        "BudgetYearFive": {
+                            "val": "12.749"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Surface Support RDT&E funding will be used for the research, design, development, integration testing, and documentation of a new Inertial Navigation System (INS) for all Navy platforms.  The program will implement systems engineering processes to investigate major navigation system error sources, define new functions, research new technologies, algorithms, and techniques to improve system performance, conduct analyses of alternatives, create preliminary and final design concepts, develop new hardware components and associated software, and conduct land based and shipboard testing.  The INS-R consists of an Inertial Sensor Module (ISM) and a Navigation Processing Module (NPM).  The ISM is planned to be designed, developed, and procured through an open competition.  The NPM is a Government design.  A Request for Information (RFI) was issued in 22 Aug 2013 for initial concepts and market availability of the ISM.  The results of the RFI changed the FY16 and out requirements to complete development of all INS-R configurations (surface\/amphib, submarine, and carrier). \n\nThe Navy's current INS is the AN\/WSN-7(V) Ring Laser Gyro Navigator (RLGN), a legacy 1980's design that was first installed in 1998 and is now obsolete.  This is a proprietary design.  The RLGN is reaching its limit with respect to providing the high-accuracy navigation solution required to meet known and emerging mission requirements.  Navigator of the Navy's Vision 2025 identified emergent requirements with respect to improved navigation in a GPS denied environment, littoral warfare, mine countermeasures, and manned and unmanned vehicle operations that cannot be met with existing systems.  The RLGN employs an Inertial Measuring Unit (IMU) with three single-axis ring laser gyros that allow the system to provide continuous and automatic data outputs of the ship's geographic position (latitude, longitude), horizontal and vertical linear velocity (Ve, Vn, Vv), attitude (heading, roll, and pitch) and attitude rates. The INS provides mission critical ship's position and attitude data to shipboard sensors (such as radars), combat systems, gun, and missile systems.  The INS uses data from the Global Positioning System (GPS) to periodically update (i.e., reset) its position and internal clock.  The INS is the ship's primary position source in absence of GPS.\n\nIn addition to INS-R, this funding will be used for the research, development, integration testing, and documentation of other navigation wholeness initiatives, including Phase I Cybersecurity Enclave Boundary Defense Capability, MK27 Gyrocompass Replacement, Own Ship Speed (OSS) and Course Repeater Replacement, submarine Time Frequency Distribution System (TFDS) Replacement, and new submarine speed sensors.  These efforts will provide replacement designs and architectures to address legacy obsolescence, capability gaps, and performance shortfalls that impact the quality, reliability, and total ownership costs of the overall navigation suite."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Inertial Navigation System - Replacement (INS-R)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.821"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Continued design and development of the surface and submarine variants of the NPM.\n- Completed NPM initial design for the test lab.  \n- Completed Modeling and Simulation (M&S) for the Inertial Simulation Module (ISM) to support the NPM EDM.\n- Completed an Initial Design Review (IDR) on the NPM.\n- Released the ISM request for proposal to Industry for the ISM development, Low Rate Initial Production (LRIP) and Full Rate Production (FRP) contract."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "25.076"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Continue NPM Engineering Development Model (EDM) design.\n- Award the development contract for ISM development.\n- Complete Preliminary Design Review (PDR) for the ISM development.\n- Complete Preliminary Design Review (PDR) for the NPM development.\n- Build four ISM EDM's to support integration and testing \n- Integrate design of NPM and ISM and conduct an INS-R program level PDR.\n- Complete design documents to include the Systems Engineering Plan (SEP).\n- Deliver one NPM and one ISM simulator to CSEDS lab for testing."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "15.973"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "15.973"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Complete development of the ISM EDM.\n- Begin ISM EDM and NPM EDM hardware (HW) and software (SW) integration.\n- Complete the system test plans to support Developmental\/Operational (DT\/OA) testing.\n- Conduct Critical Design Review (CDR) on the ISM EDM, and NPM EDM.\n- Conduct CDR at the INSR system level.\n- Begin initial Vendor testing on the ISM EDM.\n- Award the ISM Pre Production Unit (PPU) Contract Line Item Number (CLIN) for production of ISM's.\n- Conduct Environmental Qualification Testing (EQT) on the NPM EDM.\n- Complete program documentation."
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Phase I Cybersecurity Enclave Boundary Defense Capability"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Complete development, testing, and implementation of external boundary enclave cyber defense solutions. \n- Develop navigation wholeness Cybersecurity requirements based on mandated requirements, threats and standards via Functional Requirements Document (FRD).  \n- Develop navigation architecture changes and Cybersecurity protections for current and future equipment.  \n- Develop future Boundary Defense technologies to meet Advanced Cyber threats."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.392"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.392"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "-Design a Navy ECDIS cybersecurity solution for fielded unclassified configurations\n-Address firewall planning\n-Develop an architecture design for the Navigation Suite\/Enclave for the layered boundary defense architecture\n-Develop requirements for shore to ship Navy Electronic Chart Display and Information System (ECDIS) software downloading procedures to ensure a robust cybersecurity posture."
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "MK27 Gyrocompass Replacement"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.400"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Complete design, development, and testing of a MK27 gyrocompass replacement for surface, amphibious and submarine platforms leveraging the INS-R architecture.  Includes build of three prototypes (one of each variant)."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Time Frequency Distribution System (TFDS) Replacement"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.400"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Replace legacy Time Frequency Distribution System (TFDS) architecture on submarines with modern architecture.  This leverages the development effort associated with the surface Time and Frequency Component (TFC) of Global Positioning System (GPS) - Based Positioning, Navigation, and Timing Service (GPNTS).   \n- Develop design documentation to adapt surface design to a submarine configuration and begin development of prototype."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.791"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.791"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "-Conduct the TFDS Analysis of Alternatives (AoA) to analyze options for meeting timing requirements for Submarines.\n-Finalize the Technical Requirements Document (TRD)."
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Own Ship Speed (OSS) and Course Repeater"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.722"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Complete design, development, and testing of an Own Ship Speed (OSS) and Course Repeater replacement for surface platforms.  Includes build of two prototypes for testing."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Submarine Speed Sensors"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.447"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Test new shark fin and Doppler speed sensors for submarines using Commercial Off the Shelf (COTS) technology to replace legacy speed sensors.  Effort will be used to guide future development of new speed sensor.  Includes build of two prototypes for testing."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Assured Positioning, Navigation and Timing Analysis of Alternatives"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.179"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Began Assured Positioning, Navigation and Timing Analysis of Alternatives (AoA)."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/0670"
+                                    },
+                                    "Title": {
+                                        "val": "Other Navigation"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "39.298"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "87.481"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "63.942"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "63.942"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "65.002"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "108.772"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "121.780"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "124.285"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "877.351"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Inertial Navigation System (INS) contract planned to be competitively awarded in FY 2016."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "FY15:\n- Completed the Inertial Simulation Module (ISM).\n- Continued design of NPM EDM.\n- Completed NPM initial design for the test lab.  \n- Released the ISM development contract Request for Proposal.\n- Completed NPM design review. \n\nFY16:\n- Award ISM development contract.\n- Complete ISM component PDR.\n- Complete NPM component PDR.\n- Complete system level (INSR) PDR.\n- Build four ISM EDM's to support integration and testing\n- Deliver NPM EDM to CSEDS lab for initial testing.\n- Deliver ISM simulator to CSEDS lab for initial testing.\n- Complete INSR design documents including the SEP.\n- Doppler\/Sharkfin speed sensor completed testing.\n- Complete FRD for Phase I Cybersecurity Enclave Boundary Defense Capability.\n- Build three prototype MK27 Gyrocompass Replacement.\n- Initiate TFDS prototype.\n- Build two prototype OSS and Course Repeaters.\n- Build two prototype Submarine Speed Sensors.\n\nFY17:\n- Complete development of the ISM EDM.\n- Begin ISM EDM and NPM EDM hardware (HW) and software (SW) integration.\n- Complete CDR for the ISM EDM and NPM EDM.\n- Complete system level CDR for the INSR.\n- Complete the system test plans to support Developmental\/Operational (DT\/OA) testing.\n- Complete the Program Protection Plan (PPP).\n- Complete Vendor Test Readiness Review (TRR).  Begin Vendor testing.\n- Build one ISM PPU.\n- Start NPM EQT.\n- SCSC\/CSEDS Navigation Unit (NU) deliveries\n- Consolidated Off Hull Assembly Test Site (COATS) NPM delivery"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "Remarks": {
+                                        "val": "- Based on the responses from the 22 Aug 2013 issued Request for Information (RFI) for initial concepts and market availability of the ISM, additional funding to complete development of all INS-R configurations (surface\/amphib, submarine, and carrier) has been added in FY16 and out."
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR Atlantic"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Little Creek, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.136"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.315"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "6.492"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.880"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.880"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "WR Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Norfolk, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.447"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.766"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "9.446"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "6.640"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "6.640"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Penn State\/ARL"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Warminster, PA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.591"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.429"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC Dahlgren"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dahlgren, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.358"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.025"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.068"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Old Dominion University"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Suffolk, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.450"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Contractor 1 TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "15.675"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "10.282"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "10.282"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Charleston, SC"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-04"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.563"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Diego, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC\/Carderock"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Philadelphia, PA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TCNI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Middletown, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Northrop Grumman"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Charlottesville, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.225"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Contractor 2 TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.669"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.629"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.265"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.557"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.354"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.354"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2017PB_0204228N_3311_FILE1.JPG"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Proj 3311"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "ISM LRIP Complete"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "LRIP Navigation Unit (NU) Available"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "NU Full Rate Production (FRP)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "NU IOC"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "ISM Preliminary Design Review (PDR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "NPM Pre-Production Unit (PPU)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "ISM Critical Design Review (CDR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "ISM\/NPM Integration Test Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Operational Test Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "ISM Proposal Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "ISM Contract"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2021"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "NPM EDM"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "BL9C2 CSEDS Delivery"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Sharkfin Doppler Testing"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "BL9C2 Technical Data Package (TDP)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "BL9C2 SCSC Delivery"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "PPU NU Available"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Environmental Qualification Testing (EQT)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Inertial Navigation System-Replacement (INS-R) Development Testing I (DT-I)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "INS-R DT-II DDG At Sea Alignment Testing (ASAT)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "VA Class Blk IV Consolidated Off Hull Assembly Test Site (COATS) 21"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "VA Class Blk IV COATS 22"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "DDG 84 Delivery"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "DDG 87 Delivery"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "M-Code SSN DT"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "INS-R DT-III SSN ASAT"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "DT\/OT CVNs"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Follow-on Test & Evaluation"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2020"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2021"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

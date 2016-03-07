@@ -1,0 +1,3010 @@
+{
+    "id": "597c335701aa5768073288b2629bbb258fba2f34",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_AIRFORCE_V1_U_RDTE_MasterJustificationBook_Air_Force_PB_2017.zzz_unzipped_U_RDTE_MasterJustificationBook_Air_Force_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0303140F"
+        },
+        "ProgramElementTitle": {
+            "val": "Information Systems Security Program"
+        },
+        "R1LineNumber": {
+            "val": "179"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "64.972"
+            },
+            "CurrentYear": {
+                "val": "46.303"
+            },
+            "BudgetYearOne": {
+                "val": "46.388"
+            },
+            "BudgetYearOneBase": {
+                "val": "46.388"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "36.477"
+            },
+            "BudgetYearThree": {
+                "val": "33.395"
+            },
+            "BudgetYearFour": {
+                "val": "36.401"
+            },
+            "BudgetYearFive": {
+                "val": "37.049"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Information Systems Security Program (ISSP) Element provides cradle-to-grave research, development, acquisitions, supply, sustainment, depot maintenance, and demilitarization of the Air Force (AF) cryptographic and key distribution\/management systems (known as the Key Management Enterprise (KME).  Additionally, ISSP funds the AF operation of its AF KME, one of two Department of Defense (DoD) Tier 1 key distribution centers.  The AF and the DoD require the capability to secure, collect, process, store, and disseminate an uninterrupted flow of information, while denying an adversary the ability to intercept, collect, destroy, interpret, or manipulate our information flows. Secure communication allows the DoD to achieve and maintain decision superiority, the key to successful application of the military instrument of national power. AF Communications Security (COMSEC) equipment protects information such as warfighter positions, mission planning, target strikes, commanders' orders, intelligence, force strength, and force readiness and ensures adversaries cannot interpret, manipulate, or destroy information. When an adversary is capable of interpretation, manipulation, or destruction of the information used by the warfighter, DoD military forces will suffer significant and\/or devastating mission degradation that can result in loss of life and resources and\/or disclose information that could be used against the United States in a public forum.\n\nThe overall focus of the Research, Development, Test, and Evaluation (RDT&E) efforts within this program is to transform electronic key delivery and cryptographic devices to meet the next generation warfighting requirements. These efforts are driven by the National Security Agency's (NSA) first tenet calling for an AF KME that allows for totally \"man-out-of-the-loop\" electronic crypto key distribution system from the generation of the key in the key processor all the way into the using End Crypto\nUnit (ECU). This eliminates the current key vulnerability of compromise\/interruption by individuals transporting or loading the key.  NSA's second tenet requires an inventory of cryptographic devices that are more robust, modular, scalable, capable, net-centric, and durable.  This enables more effective and efficient performance including reduced inventory, expanded data rates, simplified upgrades, and ensured global information grid-compatibility.\n\nThe FY 2017 funding request was reduced by $3.5 million to account for the availability of prior year execution balances.  \n\nThis program is in Budget Activity 7, Operational System Development, as these budget activities include development efforts in the AF KME to upgrade systems currently fielded or have approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "69.727"
+                },
+                "CurrentYear": {
+                    "val": "46.599"
+                },
+                "BudgetYearOne": {
+                    "val": "50.352"
+                },
+                "BudgetYearOneBase": {
+                    "val": "50.352"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "64.972"
+                },
+                "CurrentYear": {
+                    "val": "46.303"
+                },
+                "BudgetYearOne": {
+                    "val": "46.388"
+                },
+                "BudgetYearOneBase": {
+                    "val": "46.388"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-4.755"
+                },
+                "CurrentYear": {
+                    "val": "-0.296"
+                },
+                "BudgetYearOne": {
+                    "val": "-3.964"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-3.964"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.296"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-2.325"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-2.430"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-3.964"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-3.964"
+                                },
+                                "BudgetYearOneOCO": {
+                                    "val": "0.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "Reductions in FY15 funding due to higher Air Force priorities.\nReductions in FY16 funding due to higher Air Force priorities.\nReductions in FY17 funding due to higher Air Force priorities."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "674861"
+                    },
+                    "ProjectTitle": {
+                        "val": "EKMS (Electronic Key Management System)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.592"
+                        },
+                        "CurrentYear": {
+                            "val": "0.633"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.922"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.922"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.939"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "3.086"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Air Force Electronic Key Management System (AFEKMS) consists of multiple developments supporting the Air Force requirements portion of the DoD EKMS Program. The National Security Agency (NSA) acts as the Executive Agent for the DoD EKMS Program. AFEKMS, as part of the AF Key Management Enterprise (KME) and in concert with the overarching DoD EKMS program, provides a secure and flexible capability for the electronic generation, distribution, accounting, and management of key material, with users across DoD Command, Control, Communications, Computers, and Intelligence (C4I) and all AF weapon systems. AFEKMS supports U.S. DoD Information Assurance. Information Assurance emphasizes confidentiality, access control, multi-level secure databases, trusted computing, and information integrity. DoD EKMS has a three-tier hierarchical structure. This tiered structure provides capability to distribute, manage, and account for COMSEC keying material. Tier 1 installations comprise the key material generation and control capability. Tier 2 installations comprise the local distribution network (COMSEC accounts) and Tier 3 is where keying material is transferred from the EKMS infrastructure to the consumers End Cryptographic Units (ECUs). Additionally, AFEKMS resources provide maintenance\/distribution of AF Communications Security (COMSEC) publications for all AF users. \n\nEKMS improves protection of national security-related information by substantially enhancing confidentiality, integrity, and non-repudiation characteristics over the legacy manual key management systems. EKMS has and continues to greatly accelerate availability of crypto key materials through electronic transmission via Public Switched Telephone Network (PSTN) versus the manual handling and shipping of materials. While the current EKMS level-of-effort is directed at enhancing current and developing systems, the ultimate goal is for it to seamlessly transition to the net-centric DoD Key Management Infrastructure (KMI). The AFEKMS Program continues to provide software development to support emerging requirements during the KMI transition period. Activities include studies and analysis to support both current program planning and execution as well as development activities to extend life of the Simple Key Loader to bridge the gap between EKMS and the KMI implementation.\n\nNOTE:  AF KME Software development (e.g., Data Management Device - DMD, Common User Application Software - CUAS, and Simple Key Loader - SKL) is rolled up into Tier 2\/Tier 3 Development. Software upgrades can be bundled and tracked as a unit, thereby allowing less management overhead and more focus on configuration management and control."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Fill \/Load Device Post Production SW Development"
+                                    },
+                                    "Description": {
+                                        "val": "AF KME Post Production software development focuses on extending life of EKMS through transition to Key Management Infrastructure (KMI) capabilities.  This will be accomplished via  the Intermediary Application (iApp)  software and Tri-Service development of  KOV-21 replacement chip through Communications-Electronics Research, Development and Engineering Center (CERDEC) by U.S. Army.  The iApp is designed to include all major Data Management Device (DMD) capabilities. The iApp is designed to meet certification and accreditation requirements and iApp user interface is designed for ease of adoption and minimal user training for EKMS DMD, Consolidated Tier 3 Testing Infrastructure (CETTI) User Application Software (UAS), and Simple Key Loader (SKL).  The CERDEC effort develops a replacement KOV-21 Card for current Simple Key Loader (SKL) to extend life of SKL until KMI compatible key loader is available."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.592"
+                                            },
+                                            "Text": {
+                                                "val": "- Continued Post Production software for extending life of EKMS through transition to DOD-Level Key Management Infrastructure (KMI) capabilities"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.633"
+                                            },
+                                            "Text": {
+                                                "val": "- Continue Post Production software for extending life of EKMS through transition to DOD-Level Key Management Infrastructure (KMI) capabilities."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.922"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.922"
+                                            },
+                                            "Text": {
+                                                "val": "- Will continue Post Production software for extending life of EKMS through transition to DOD-Level Key Management Infrastructure (KMI) capabilities."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPAF:BA03: 831010"
+                                    },
+                                    "Title": {
+                                        "val": "COMSEC Equipment"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "2.150"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "4.950"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "1.047"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "1.047"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "3.060"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryRemarks": {
+                            "val": "Other Program Funding reflects Air Force Electronic Key Management System (AFEKMS) portion of Information Systems Security Program (ISSP) OPAF total."
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Implement AF portion of the DoD's Cryptographic Modernization(CM) Initiative through modernization\/modification efforts, in varying stages of the acquisition cycle, with focus on minimizing life cycle costs. All major contracts within this Project are open to full and open competition with technology knowledge, expertise, and prior experience on similar projects weighted heavily in the evaluation process."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Tier 2\/3 software modifications and updates"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.266"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.266"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Fill\/Load Device Post Production Software Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "T&M"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Mantech Sensor Technologies, Inc."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Belcamp, MD"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Tri-Service CERDEC Chip"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.464"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-04"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.502"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.527"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.527"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2018-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.493"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "SKL CETTI UAS Testing Spt DMS"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Diego, CA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.128"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-05"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.131"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.129"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.129"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "AFEKMS Tier 2\/3 SW Modification and Updates"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "675100"
+                    },
+                    "ProjectTitle": {
+                        "val": "Cryptographic Modernization"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "55.018"
+                        },
+                        "CurrentYear": {
+                            "val": "29.068"
+                        },
+                        "BudgetYearOne": {
+                            "val": "38.729"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "38.729"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "33.809"
+                        },
+                        "BudgetYearThree": {
+                            "val": "30.689"
+                        },
+                        "BudgetYearFour": {
+                            "val": "33.649"
+                        },
+                        "BudgetYearFive": {
+                            "val": "34.246"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The AF Cryptographic Modernization Effort modernizes cryptographic devices protecting critical national security information across cyber domain operations. In September 2000, the Defense Review Board (DRB) tasked National Security Agency (NSA) to evaluate the security posture of the cryptographic inventory. Systems with aging algorithms, those approaching non-sustainability, and those generally incompatible with modern key management systems were also identified and have been replaced or are being fielded. Priority systems that required immediate replacement were also identified. In addition, NSA documented the need to modernize the cryptographic inventory with capabilities designed to enable network-centric operations. Replacements\/Modernization of the near term vulnerable systems must occur within the timeframe specified by device and algorithm in Chairman Joint Chiefs of Staff Notice (CJCSN) 6510. The DoD Cryptographic Modernization Program was established to develop a modern cryptographic base that provides this assured security robustness, interoperability, advanced algorithms, releasability, programmability, and compatibility with the future Key Management Infrastructure (KMI-See PE 0303140F, BPAC 67523, AF KMI for a full description).  This AF effort supports an integrated effort across the cyber domain to transform to next-generation cryptographic capabilities.  It provides U.S. forces and multinational and interagency partners the security needed to protect the flow and exchange of operational decision making information in accordance with national and international policy\/standards, the validated operational requirements of the warfighters, and the intelligence communities.  \n\nThe AF Cryptographic Modernization Effort is a collection of projects accomplished in three phases: replacement, modernization, and transformation. The replacement phase of the program focused on updating and\/or replacing out-of-date algorithms along with unsustainable cryptographic products. The modernization phase provides crypto devices with common solutions that are more robust, modular, scalable, and provide the durability to existing cryptographic end items, as well as updating mid-term aging\/unsupportable crypto equipment. Manpower and logistics requirements will be reduced and manpower efficiencies gained, while incremental capability enhancements and footprint reduction are provided. The third phase of the Cryptographic Modernization Program, transformation, provides common joint solutions which enable secure, transparent, network-centric capabilities across the cyber domain. Activities also include studies and analysis to support both current program planning\/execution and future program planning."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "VINSON\/ANDVT Cryptographic Modernization (VACM)"
+                                    },
+                                    "Description": {
+                                        "val": "VINSON (VHF(Very High Frequency)\/UHF(Ultra High Frequency) Wideband Tactical Secure Voice System Cryptographic Equipment)-ANDVT (Advanced Narrowband Digital Voice Terminal) Cryptographic Modernization (VACM) will develop and acquire cryptographic capability to replace the legacy capability on VINSON\/ANDVT secure voice communications on aircraft, ships, and ground fixed and mobile platforms (Devices: KY-57\/58, KY-99\/100, KYV-5 and ARC-234 with Embedded Crypto)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "6.514"
+                                            },
+                                            "Text": {
+                                                "val": "- Completed production of 100 Low Rate Initial Production (LRIP) VINSON (VHF(Very High Frequency)\/UHF(Ultra High Frequency) Wideband Tactical Secure Voice System Cryptographic Equipment)-ANDVT (Advanced Narrowband Digital Voice Terminal) Cryptographic Modernization (VACM) test units \n\n- Entered Force Development Evaluation to test and evaluate the VACM devices\n\n- ARC 234 completed the modification development using VACM technology"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.015"
+                                            },
+                                            "Text": {
+                                                "val": "Complete Force Development Evaluation"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Space Telemetry Tracking & Commanding (TT&C) Aerospace Vehicle Equipment Increment 1 (AVE Inc1)"
+                                    },
+                                    "Description": {
+                                        "val": "Space Telemetry Tracking & Commanding (TT&C) Aerospace Vehicle Equipment Increment 1 (AVE Inc 1) develops and delivers space qualified cryptographic products to satellite platforms for securing the TT&C link"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.146"
+                                            },
+                                            "Text": {
+                                                "val": "- Continued development activities on Space TT&C AVE Inc 1 CAROUSEL Cryptographic Engine (CCE) contract"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.085"
+                                            },
+                                            "Text": {
+                                                "val": "- Complete development activities on Space TT&C AVE Inc 1 CCE contract"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Technology Development (TD)"
+                                    },
+                                    "Description": {
+                                        "val": "Technical Development (TD) conducts concept development and early systems engineering activities to analyze evolving threats and Communications Security (COMSEC) capability gaps across AF and DoD mission areas. Develops, plans and executes foundational technology demonstration efforts to inform COMSEC requirements, build capability roadmaps and support cost estimates prior to Materiel Development Decision (MDD). Mitigates risk for thousands of AF and DoD users affected by algorithm security issues and ensures required security upgrades can be integrated into the AF and DoD enterprise.  Works closely with NSA and other services to develop standards that increase security of communication and information products and facilitate efficient crypto and COMSEC enterprise management. Includes but is not limited to: Secure Micro-digital Data Link (SMDDL), Classified Data at Rest (CDAR), Common Encryption Management (CEMENT), Distributed Common Ground System (DCGS) Crypto, Transmission Security (TRANSEC) modernization, Enhanced Firefly (EFF) replacement development, Trusted Sensors, Integrated Data Denial (IDD) Crypto, Crypto Enterprise Tracking (CET), and Advanced Crypto Capabilities (ACC)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "19.808"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Completed SMDDL certification and demonstrated miniaturized cryptographic solution for Size, Weight, and Power (SWaP) constrained platforms \n\n\u2022Continued efforts for adoption of baseline Common Crypto Management Information Base (MIB) to provide framework for future common management of cryptographic devices amongst Army, Navy and Air Force  \n\n\u2022Analyzed CDAR capability gaps across multiple AF weapon systems and initiated effort to develop a JCIDS requirement with follow-on acquisition  \n\n\u2022Continued Air Force Distributed Common Ground System Communications Modernization (AF DCGS CM) analysis to determine cryptographic devices that allow AF DCGS to continue operating during and after a Communications Modernization from ATM to the Next Generation Deterministic Protocol (NGDP); formulated DCGS development and procurement strategies resulting from these analyses with follow-on DCGS sustainment plan    \n\n\u2022Initiated analysis for the replacement or upgrade of 150,000 Air Force devices in support of the Advanced Cryptographic Capabilities (ACC) program"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.000"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Continue solutions refinement analysis to complete Concept Characterization and Technology Descriptions (CCTDs) for high priority CDAR use cases and support MDD\n\n\u2022Complete development of common crypto management software for integration with Army CHIMERA effort to demonstrate the remote crypto management under CEMENT for disparate families of Internet Protocol (IP) encryptors \n\n\u2022Continue analysis for the replacement or upgrade of 150,000 Air Force devices in support of the Advanced Cryptographic Capabilities (ACC) program \n\n\u2022Continue analysis of TRANSEC capability gaps and initiate concept characterization study for requirements refinement \n\n\u2022Form Initiative Integrated Product Team (IIPT) to assess\/clarify IDD program requirements; prepare initiative for MDD"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.116"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.116"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Will continue solutions analysis to complete Concept Characterization and Technology Descriptions (CCTDs) for CDAR use cases to support MDD. \n\n\u2022Will continue analysis of TRANSEC capability gaps and CCTDs for requirements refinement. \n\n\u2022Refine analysis for the replacement or upgrade of 150,000 Air Force devices in support of the Advanced Cryptographic Capabilities (ACC) program.\n\n\u2022Will award IDD contract to develop a solution for hardware obsolescence issues."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Mini Crypto (MC)"
+                                    },
+                                    "Description": {
+                                        "val": "Mini Crypto (MC) plans to develop common miniaturized cryptographic solution(s) for use in protecting Secret and Below information on Size, Weight, and Power (SWaP) constrained platforms."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.045"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Achieved MS B and completed Source Selection for the Engineering and Manufacturing Development (EMD) contract"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.217"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Award EMD contract.  Contractor will host an Integrated Baseline Review (IBR) meeting, System Requirements Review (SRR), System Functional Review (SFR) as well as a Preliminary Design Review (PDR). Prototypes will be delivered for initial test activities in support of integrated testing"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "7.370"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "7.370"
+                                            },
+                                            "Text": {
+                                                "val": "- Will continue to execute the EMD contract\n\n- Production Representative Engineering Development Models (PREDMs) will be delivered to the Government to support Government Integrated Development\/Operational Testing and Operational Assessment\n\n- PREDMs will be used during this period for Security Verification Testing (SVT) as the program attempts to obtain NSA Type 1 Certification\n\n- Mini Crypto will seek Milestone C approval from the PEO"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Space Modular Common Crypto (SMCC)"
+                                    },
+                                    "Description": {
+                                        "val": "Space Modular Common Crypto (SMCC) provides Information Assurance (IA) services for new satellite architectures via a family of common crypto solutions that integrate Tracking, Telemetry, & Commanding (TT&C), Mission Data (MD), and\/or Transmission Security (TRANSEC) key stream functions for the Air Force and Intelligence Community space systems."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "15.711"
+                                            },
+                                            "Text": {
+                                                "val": "- Continued Technology Maturation\/Risk Reduction (TMRR) activities"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "10.596"
+                                            },
+                                            "Text": {
+                                                "val": "- Complete TMRR activities; achieved MS B in Nov 15; will award SMCC Cube\/Small Sat development contract"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "27.119"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "27.119"
+                                            },
+                                            "Text": {
+                                                "val": "- Will continue SMCC Cube\/Small Sat development contract activities.  Will award SMCC Medium\/Large Sat development contract"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Algorithm Transition Compliance and Support"
+                                    },
+                                    "Description": {
+                                        "val": "Cryptologic Systems Division-supported AF Space Command (AF Cyber Core Function Lead) in Algorithm Transition, Compliance and Support provides Information Assurance (IA) Support that performs transition and governance efforts to be able to effectively analyze 30 classified algorithms, thousands of associated COMSEC keying material short titles, and hundreds of equipment types. This effort also tracks and reports algorithm\/device integration across the AF. Based on analysis, determines and monitors mitigation strategies; develops and plans technology demonstration efforts to ensure new algorithms can be integrated into the AF enterprise.  Assesses current state of AF crypto across the enterprise. Develops and maintains a classified CM database system that tracks status of AF crypto device types that is accessible by the CM community via SIPRNET. Efforts support NC3, ISR, all AF platforms, and most ground networks."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.026"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Continued program to develop a method and\/or process to accurately transition, track, and manage crypto assets and COMSEC across the AF \n\n\u2022Cryptologic Systems Division-supported AF Space Command (AF Cyber Core Function Lead) supported algorithm transition and governance efforts to effectively track, analyze, and report on AF use of 30 classified algorithms in over 270,000 devices across the AF enterprise comprised of over 300 equipment types\/families and requiring thousands of associated COMSEC keying material short titles \n\n\u2022Provided Crypto-Mod analysis database to AF community to assist in annual assessments during long term effort to develop enterprise capabilities based assessment (CBA) to identify management capability gaps\n\n\u2022Conducted annual assessment of the state of the AF cryptographic enterprise \n\n\u2022Conducted initial evaluation of impacts of the emerging NSA Commercial Solutions for Classified (CSfC) cryptographic development model and its impacts on AF acquisition and sustainment\n\n\u2022Evaluated AF posture as it relates to NSA\u2019s Advanced Cryptographic Capabilities program by assessing the impacts to the warfighter"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.848"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Cryptologic Systems Division-supported AF Space Command (AF Cyber Core Function Lead) continues to support algorithm transition and governance efforts to effectively track, analyze, and report on AF use of 30 classified algorithms in over 270,000 devices across the AF enterprise comprised of over 300 equipment types\/families and requiring thousands of associated COMSEC keying material short titles \n\n\u2022Continue analysis and development of a method and\/or process to accurately transition, track, and manage crypto assets and COMSEC across the AF\n\n\u2022Provide Crypto-Mod analysis database to AF community to assist in annual assessments during long term effort to develop enterprise capabilities based assessment (CBA) to identify management capability gaps \n\n\u2022Conduct annual assessment of the state of the AF cryptographic enterprise \n\n\u2022Continue to evaluate NSA recommendations for Advanced Cryptographic Capabilities suite of algorithms and identify related tasks which affect the AF"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.013"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.013"
+                                            },
+                                            "Text": {
+                                                "val": "\u2022Will continue to support algorithm transition and governance efforts to effectively track, analyze, and report on AF use of 30 classified algorithms in over 270,000 devices across the AF enterprise comprised of over 300 equipment types\/families and requiring thousands of associated COMSEC keying material short titles \n\n\u2022Will continue analysis and development of a method and\/or process to accurately transition, track, and manage crypto assets and COMSEC across the AF\n\n\u2022Will provide Crypto-Mod analysis database to AF community to assist in annual assessments during long term effort to develop enterprise capabilities based assessment (CBA) to identify management capability gaps\n\n\u2022Will conduct annual assessment of the state of the AF cryptographic enterprise \n\n\u2022Will continue to evaluate NSA recommendations for Advanced Cryptographic Capabilities suite of algorithms and identify related tasks which affect the AF"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Missile Electronic Encryption Device (MEED) Modification"
+                                    },
+                                    "Description": {
+                                        "val": "The MEED Modification will modify the legacy Missile Entry Control System (MECS) devices used to securely authenticate personnel attempting access to this Nation's ground-based Intercontinental Ballistic Missile (ICBM) facilities. This effort will bring the MEED equipment into compliance with current NSA information assurance (IA) security design guidance."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.768"
+                                            },
+                                            "Text": {
+                                                "val": "Continued market research and hosted MEED Modification Industry Day. Developed and released Request For Proposals, performed Source Selection activities and garnered approval of Development Decision (Milestone B equivalent brief)"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.307"
+                                            },
+                                            "Text": {
+                                                "val": "Complete Source Selection, award MEED Modification development contract and prepare for production decision in FY17"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.111"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.111"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue development contract, complete Operational Testing and release Production RFP for Production contract"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPAF: BA03: 831010"
+                                    },
+                                    "Title": {
+                                        "val": "COMSEC Equipment"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "37.567"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "30.538"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "21.775"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "21.775"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "17.780"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "21.957"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "16.550"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "24.034"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryRemarks": {
+                            "val": "Remarks: Other Program Funding reflects Crypto Modernization (CM) portion of Information Systems Security Program (ISSP) OPAF total."
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Implement AF portion of the DoD's Cryptographic Modernization(CM) Initiative through modernization\/modification efforts, in varying stages of the acquisition cycle, with focus on minimizing life cycle costs. The CM portfolio of component acquisition projects is executing using a variety of approaches that vary from an evolutionary acquisition strategy using spiral development (for new component development) to incremental improvement leveraging leading-edge, certified non-developmental items (for modernization). Contract type is selected for each of the individual projects based upon its acquisition approach and its unique technology risks. A mixture of fixed-price and cost-reimbursement contracts have been selected which maximize the best value for the Government."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "VINSON\/ANDVT Cryptographic Modernization (VACM)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon Company"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft Wayne, IN"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "4.830"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-06"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "4.830"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "47.863"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "VINSON\/ANDVT\/Cryptographic Modernization (ARC-234)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Defense Microelectronic Activity"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Sacramento, CA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.720"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.720"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "32.737"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Space Telemetry, Tracking & Commanding (TT&C) Aerospace Vehicle Equipment (AVE Inc 1)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "General Dynamics C4 Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Scottsdale, AZ"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "4.027"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.857"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Tech Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "17.211"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.016"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.016"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Mini Crypto"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "VIASAT, INC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Carlsbad, CA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.685"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.478"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "4.820"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "4.820"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "7.983"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Space Modular Common Crypto (SMCC)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "10.329"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.022"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "19.010"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "19.010"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Missile Electronic Encryption Device (MEED) Modernization"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SAIC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Tampa, FL"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.600"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "4.241"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.111"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.111"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-08"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Mini Crypto"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Reqn"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "OSI Vision LLC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Antonio, TX"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.150"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-09"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "VINSON\/ANDVT Crypto Mod (VACM)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.104"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-09"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.015"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.119"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "5.001"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Space Telemetry, Tracking & Commanding (TT&C) Aerospace Vehicle Equipment Increment 1 (AVE Inc 1)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.529"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.455"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.984"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Mini Crypto"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.297"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.399"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.814"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.814"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Space Modular Common Crypto (SMCC)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.206"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.217"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.596"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.596"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Missile Electronic Encryption Device (MEED) Modernization"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MULTIPLE"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.155"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.554"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-07"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.234"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.234"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Administration (PMA)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "12.175"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "10.830"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "9.128"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "9.128"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "AN\/ARC-234 Cryptographic Modernization"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "VINSON\/ANDVT Cryptographic Modernization (VACM)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Space Telemetry Tracking and Commanding (TT&C) Aerospace Vehicle Equipment Increment 1 (AVE Inc 1)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Mini Crypto (MC)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Space Modular Common Crypto (SMCC)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2020"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Missle Electronic Encryption Device (MEED) Modernization"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Algorithm Transition, Compliance and Information Assurance (IA) Support"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Technology Development (TD)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Classified Data at Rest (CDAR)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2020"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Trusted Sensor (TS)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Integrated Data Denial (IDD)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Advanced Crypto Capabilities (ACC)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "675231"
+                    },
+                    "ProjectTitle": {
+                        "val": "AF Key Management Infrastructure (AF KMI)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "9.362"
+                        },
+                        "CurrentYear": {
+                            "val": "16.602"
+                        },
+                        "BudgetYearOne": {
+                            "val": "6.737"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "6.737"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "1.729"
+                        },
+                        "BudgetYearThree": {
+                            "val": "2.706"
+                        },
+                        "BudgetYearFour": {
+                            "val": "2.752"
+                        },
+                        "BudgetYearFive": {
+                            "val": "2.803"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Air Force Key Management Infrastructure (AF KMI) Program consists of multiple developments supporting the AF requirements\/portion of the DoD Key Management Infrastructure (KMI). The National Security Agency (NSA) acts as the Executive Agent for the DoD KMI Program. AF KMI, in concert with this overarching DoD KMI Program, will provide a secure and flexible capability for the electronic generation, distribution, accounting, and management of key material and other communications security (COMSEC) materials for all DoD Command, Control, Communications, Computers, and Intelligence (C4I) systems and for the Services' weapon systems. KMI represents a broad-scale replacement of the current Electronic Key Management System (EKMS). KMI will provide capabilities that will allow networked operation in consonance with the Global Information Grid (GIG) and other DoD, fellow Service, and AF enterprise objectives. It thereby will assure a viable support infrastructure for future weapons and C4I programs to incorporate key management into their system designs.\n\nThe DoD KMI will greatly improve protection of national, security-related information by substantially enhancing confidentiality, integrity, and non-repudiation characteristics over the legacy EKMS. KMI will greatly accelerate the availability of crypto key materials through electronic transmission versus shipping of materials, will enhance mission responsiveness and flexibility, and will eventually take the man \"out-of-the-loop\" in the distribution of crypto key materials.\n\nThe AF KMI Program in concert with the DoD KMI Program is transitioning the Air Force from the legacy EKMS to modern DoD KMI and building the AF KMI Last Mile architecture. This Research and Development effort includes system engineering, development and testing to successfully implement the AF KMI Last Mile architecture as part of the AF Key Management Enterprise (KME). The AF KMI Last Mile program is a holistic solution integrating the legacy and new and evolving cryptographic programs, materials, products, sources and consumers. The AF KMI Last Mile capabilities include as part of the AF KME distribution, management, and load of cryptographic materials from the KMI (COMSEC account) to the cryptographic load devices. It builds the linkage interfaces that will allow KMI systems to communicate and integrates other related developments to meet operational needs. AF KMI Last Mile is currently in the Development Phase. Activities also include studies and analysis to support both current program planning and execution and future program planning.\n\nIn parallel with AF KMI, DoD and the Services are addressing the need for a new generation of future KMI-aware End Crypto Unit(ECU)that will be capable of direct interaction with the DoD KMI Enterprise, under the Joint Crypto Modernization Initiative  (PE0303140F, BPAC 675100, Cryptographic Modernization, supports this initiative).In some cases these new ECUs, although needing to be supported by KMI, will not be KMI network-connected. \"Last mile\" transport of black (aka benign, or encrypted) and red (unencrypted) keying material from a KMI client to a new generation ECU or current legacy ECU will need to be handled in the early years by one of two data transfer devices. Initial early systems engineering must also be addressed to accommodate future connectivity between the DoD KMI and future KMI Aware\/Enabled ECUs.  This enabling form factor functionally defined as a common ECU KMI aware\/enabled key load module.  This is targeted to be a standardized module to be provided to ECU developers and, as such, it must precede any future ECU developments."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Air Force KMI Last Mile Space & Naval Warfare Systems Command (SPAWAR) Support(Tier 3)"
+                                    },
+                                    "Description": {
+                                        "val": "Support included architectural planning, systems engineering, testing and studies and analyses for migration to the Key Management Infrastructure (KMI) (includes acquisition planning, systems integration, engineering support and System Program Office (SPO) support).  Transitioned existing key management capabilities to AF KMI Last Mile Tier 3."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "- Continued to provide annual resources (no funding) to SPAWAR to plan and execute specific Unmanned Aircraft Systems (UAS) testing for all Air Force ECUs"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            },
+                                            "Text": {
+                                                "val": "- Continue to provide annual resources to SPAWAR to plan and execute specific UAS testing for all Air Force ECUs"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            },
+                                            "Text": {
+                                                "val": "- Will continue to provide annual resources to SPAWAR to plan and execute specific UAS testing for all Air Force ECUs"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Air Force KMI Last Mile (Tier 3)"
+                                    },
+                                    "Description": {
+                                        "val": "Air Force KMI Last Mile Tier 3 early system engineering, risk reduction and engineering development to include: concept development for distribution, load and management elements of last mile; studies and analyses for technology possibilities and prototyping efforts for the last mile; development of a certified KMI-aware, Product Delivery Enclave - enabled key load device."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "9.362"
+                                            },
+                                            "Text": {
+                                                "val": "- Achieved MS B and awarded\/executed the Portable Key Loader (PKL) EMD contract"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "16.502"
+                                            },
+                                            "Text": {
+                                                "val": "- Continue to execute the PKL EMD contract and begin preparations to award\/enter the PKL production phase"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "6.637"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "6.637"
+                                            },
+                                            "Text": {
+                                                "val": "- Will continue to execute the EMD contract and award\/enter the PKL production phase"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPAF: BA03: 831010"
+                                    },
+                                    "Title": {
+                                        "val": "COMSEC Equipment"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "3.890"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "4.676"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "14.207"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "14.207"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "11.062"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "11.109"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "10.927"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "12.591"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryRemarks": {
+                            "val": "Remarks: Other Program Funding reflects AF Key Management Infrastructure (KMI) portion of Information Systems Security Program (ISSP) OPAF total."
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Implement AF portion of the DoD's Cryptographic Modernization (CM) Initiative through modernization\/modification efforts, in varying stages of the acquisition cycle, with focus on minimizing life cycle costs.  All major contracts within this project are open to full and open competition with technology knowledge, expertise, and prior experience on similar projects weighted heavily in the evaluation process."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "T&M"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Antonio, TX"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.354"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.737"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.076"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.076"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "AF KMI Last Mile"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "L3 Comm: Camden NJ"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "6.010"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-09"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "12.942"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "5.116"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "5.116"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "13.364"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering & Technical Documentation"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "T&M"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Antonio, TX"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.037"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.217"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.700"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.700"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering & Technical Acquisition Support Service"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Jacobs Engineering"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Antonio, TX"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.004"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.759"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.210"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.210"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "AF KMI Last Mile (Tier 3)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "U.S. Navy SPAWAR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Diego, CA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "KMI Last Mile"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "PO"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "46 TS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Eglin AFB, FL"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.246"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.246"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.105"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.105"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "NSA Test Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.190"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.190"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "KMI Last Mile TES"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "605 TES"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Eglin AFB, FL"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Administration (PMA)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.611"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.601"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.140"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.140"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "AF KMI Tier 3 Last Mile"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
