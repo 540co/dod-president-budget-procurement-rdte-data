@@ -2,44 +2,116 @@
 
 ##What is this?
 
-This repo contains a data extract of the **DoD [Procurement](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=9be81897-aae7-4b76-8887-f9334c6d77af) (P-1) and [RDTE](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=e933639e-b773-4039-9a17-2eb20f44cf79) (R-1) [justification book](http://comptroller.defense.gov/BudgetMaterials.aspx) exhibits** submitted by the US DoD Military Departments and Defense Agencies into simple flat files for analysts to download and use with their tool of choice (Excel, Access, Tableau, Qlikview, etc).
+This repo contains a data extract of the public **DoD [Procurement](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=9be81897-aae7-4b76-8887-f9334c6d77af) (P-1) and [RDTE](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=e933639e-b773-4039-9a17-2eb20f44cf79) (R-1) [justification book](http://comptroller.defense.gov/BudgetMaterials.aspx) exhibits**  submitted by the US DoD Military Departments and Defense Agencies into various data formats for analysts to use in various tools.
+
+Includes extracts of:
+- 2013 base
+- 2014 base / amended
+- 2015 base / amended
+- 2016 base
+- 2017 base
+
+## What steps taken to parse the Justification Books?
+
+- Each PDF was downloaded and the XML files attached to the PDF were extracted
+
+- Each XML file was parsed to pull out **procurement line items** / **rdte program elements** and each item / element was converted into individual unique JSON objects
+
+- Each JSON object was uploaded to our [FedAPI](https://fedapi.com) platform to expose via an API
+
+- Each JSON object was converted to CSV and SQL
+
+- The SQL was loaded into a Amazon RDS instance
 
 
-##What file formats are available in the repo?
+##Ok, that was boring - can't I just have the data?
 
-For each exhibit a **CSV file** has been created as well as a **PostgresSQL script** if you want to import into your own database.
+### PDF
 
-| Folder  | What is included?  |
-|---------------|----------------|
-| **rdte**    |   rdte csv files with file format of **fedapi\_rdte\_[budget description]\_[section of jbook]_\[year]** where **[budget description]** is either **basebudget** or **amended** (for years that had amended budget justifications) and **[section of jbook]** is a short description of what area of the jbook the flattened file was extracted from | 
-| **procurement**    |   procurement csv files with file format of **fedapi\_procurement\_[budget description]\_[section of jbook]_\[year]** where **[budget description]** is either **basebudget** or **amended** (for years that had amended budget justifications) and **[section of jbook]** is a short description of what area of the jbook the flattened file was extracted from    |
-| **postgresql**   |   All SQL import files for **procurement** and **rdte**  |
+You want the PDF files?  Uggh...
 
-> NOTE:  Some files have been zipped since they are larger than 100 MB uncompressed
+While you could go download them from each MilDep site,  that is painful - and since we have already done that… here ya go:
 
-##How / why was this created?
+[2013 Base](https://github.com/540co/dod-2013-basebudget-justification-books)
 
-As part of our [FedAPI](http://fedapi.com) effort, we had already done the heavy lifting of creating scripts to [download the PDF justification books from the DoD comptroller websites, extract the embedded XML files](https://github.com/search?q=justification+books) and [harvest / import line items / program elements into our FedAPI DoD Budget catalog](https://fedapi.io/www/overview/dodbudget).
+[2014 Base](https://github.com/540co/dod-2014-basebudget-justification-books)
 
-**:-)** We found developers / data science folks who are comfortable using APIs loved the data and would simply use the APIs to access the data - usually calling the data at run time and doing more advanced searching across the data.
+[2015 Base](https://github.com/540co/dod-2015-basebudget-justification-books)
 
-**:-(** However, we often found that business analysts that had more traditional analysis tools weren't able to use the APIs - and therefore, were looking for exports of the data resources to load / import into their tools.
+[2014/2015 Amended](https://github.com/540co/dod-amended-budget-justification-books)
 
-While toying with our [API2Analyst "hack a thon" project](http://apps.fedapi.io/api2analyst-export/) (a tool designed to export and flatten data from APIs in bulk) we figured it made sense to simply take a snapshot of this data (since it doesn't change throughout the year and is only published annually, unless there is an amendment) and put it up on Github.
+[2016 Base](https://github.com/540co/dod-2016-basebudget-justification-books)
 
-> While API2Analyst it is still a work in progress - you can technically use this to create a personal data warehouse in the cloud also with other data resources we have made available as well.  You just pick the data your want and it will export, flatten and create your own database on Amazon Web Services with the data selected. 
+[2017 Base](https://github.com/540co/dod-2017-basebudget-justification-books)
 
-## Caveats / Recommendations
 
-1.  The order of columns is NOT necessarily consistent across the various flat files so sometimes you might have to look thru the columns to find the field you are looking for (sorry, this is a result of the way partial objects are queried from FedAPI and flattened in a generic manner - and would require some additional fine tuning on each export)
+### XML
 
-2.  As the FedAPI JSON is flattened into the CSV files, the keys are flattened into a dot notation and then reversed.  
+You still love XML and want to do all the XPath ninja work on the original Justification Book XML?  
 
-	>For example, **record.AppropriationTitle.value** would be represented in the CSV / SQL files as **value.AppropriateTitle.record**.  This is to help alleviate losing visibility when the depth of key / values is really deep and has to be truncated b/c of limitations of column names in tools such as PostgresSQL (only allows 60 chars by default)._
-	
-3. It might help at times to refer to the FedAPI DoD Budget catalog to review the various Data Elements and their typical values, distribution of values, etc.
+Just grab all the files in the XML folder.  
 
-	> For example, this is the breakdown of Appropriate Titles for 2016 Procurement Line Items - https://fedapi.io/www/records/dodbudget/procurement-base/2016/mapping/record.AppropriationTitle.value (don't forget the reverse dot notation noted above).
+> BTW, if you like doing it this way, reach out to me at jobrieniii@540.co and let me know your [540](https://540.co) start date.  We most definitely want you to join our [team](https://540.co/jobs.html).
 
-##Questions?
-Open an issue on the repo and we will definitely try to help - or contact me at jobrieniii@540.co if you want to do something super secret.
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Air Force</jb:ServiceAgencyName>
+    <jb:AppropriationCode>3010F</jb:AppropriationCode>
+    <jb:AppropriationName>Aircraft Procurement, Air Force</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:IntroductionDoc>
+            <jb:Title>Introduction and Explanation of Contents</jb:Title>
+            <jb:FileName>3010_APPN_Language_insert_Aircraft_2013_PB.pdf</jb:FileName>
+        </jb:IntroductionDoc>
+```
+
+
+### JSON (line items / program elements)
+
+You want to download all the JSON files to load up in [R](https://www.r-project.org/) or you just <3 JSON as much as we do?  
+
+A unique JSON object exists for each line item and program element - and can be found in the JSON folder.
+
+
+```
+
+```
+
+```
+
+```
+
+
+### API
+
+If you are building an API, or simply feel more comfortable consuming an API - you can access them at FedAPI:
+
+[https://fedapi.io/www/overview/dodpresbud](https://fedapi.io/www/overview/dodpresbud)
+
+####Examples
+
+
+```
+
+```
+
+> BTW, if you like doing it this way, also reach out and let me know your [540](https://540.co) start date.  We most definitely want you to join our [team](https://540.co/jobs.html).
+
+### CSV
+
+If you want a collection of CSV files to load into your tool of choice, here ya go.
+
+### SQL (Postgres)
+
+Want to spin your own datawarehouse.  Just download the SQL and have fun.
+
+### Database / Datawarehouse
+
+Want to connect your tool to a datawarehouse, but don’t feel like setting up your own DB?  We have the data loaded into an Amazon RDS instance - so shoot us a quick email and we will  a user for you.
