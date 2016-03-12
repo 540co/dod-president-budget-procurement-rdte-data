@@ -15,14 +15,13 @@ Includes extracts of:
 
 - Each PDF was downloaded and the XML files attached to the PDF were extracted
 
-- Each XML file was parsed to pull out **procurement line items** / **rdte program elements** and each item / element was converted into individual unique JSON objects
+- Each XML file was parsed to pull out **procurement line items** / **rdte program elements** from the various exhibits and each item / element was converted into individual unique JSON objects
 
 - Each JSON object was uploaded to our [FedAPI](https://fedapi.com) platform to expose via an API
 
 - Each JSON object was converted to CSV and SQL
 
 - The SQL was loaded into a Amazon RDS instance
-
 
 ##Ok, that was boring - can't I just have the data?
 
@@ -115,3 +114,8 @@ Want to spin your own datawarehouse.  Just download the SQL and have fun.
 ### Database / Datawarehouse
 
 Want to connect your tool to a datawarehouse, but don’t feel like setting up your own DB?  We have the data loaded into an Amazon RDS instance - so shoot us a quick email and we will  a user for you.
+
+
+## REFERENCES
+
+[RDTE Exhibit Overview](http://acqnotes.com/acqnote/acquisitions/rdte-programs-budget-exhibit)
