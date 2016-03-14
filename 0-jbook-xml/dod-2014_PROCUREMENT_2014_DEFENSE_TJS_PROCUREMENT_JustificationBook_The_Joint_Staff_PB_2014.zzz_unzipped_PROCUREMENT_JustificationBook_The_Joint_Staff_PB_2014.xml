@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2014</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2013-04</jb:SubmissionDate>
+    <jb:ServiceAgencyName>The Joint Staff</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>TJS FY2014 P1C.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement" targetSchemaVersion="PB2014.1.0">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>0201165J</proc:LineItemNumber>
+            <proc:LineItemTitle>Joint Staff Activities</proc:LineItemTitle>
+            <proc:P1LineNumber>40</proc:P1LineNumber>
+            <proc:BudgetYear>2014</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2013-04</proc:SubmissionDate>
+            <proc:ServiceAgencyName>The Joint Staff</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>15</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, TJS</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>5.282</proc:PriorYear>
+                    <proc:CurrentYear>7.195</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:Total>12.477</proc:Total>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>5.282</proc:PriorYear>
+                    <proc:CurrentYear>7.195</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:Total>12.477</proc:Total>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>5.282</proc:PriorYear>
+                    <proc:CurrentYear>7.195</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:Total>12.477</proc:Total>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>Supports critical Joint Staff functions necessary to maintain essential joint capability including: Joint Force Provider, Joint Force Trainer, Joint Force Enabler, Concept Development and Experimentation and Joint Force Integrator.  </proc:Description>
+            <proc:ItemExhibitList>
+                <proc:P5Item>
+                    <proc:Name>Joint Staff Activities</proc:Name>
+                    <proc:ResourceSummary>
+                        <proc:GrossWeaponSystemCost>
+                            <proc:PriorYear>5.282</proc:PriorYear>
+                            <proc:CurrentYear>7.195</proc:CurrentYear>
+                        </proc:GrossWeaponSystemCost>
+                        <proc:NetProcurementP1>
+                            <proc:PriorYear>5.282</proc:PriorYear>
+                            <proc:CurrentYear>7.195</proc:CurrentYear>
+                        </proc:NetProcurementP1>
+                        <proc:TotalObligationAuthority>
+                            <proc:PriorYear>5.282</proc:PriorYear>
+                            <proc:CurrentYear>7.195</proc:CurrentYear>
+                        </proc:TotalObligationAuthority>
+                    </proc:ResourceSummary>
+                    <proc:CostElementCategoryList>
+                        <proc:Support>
+                            <proc:Name>Joint Staff Activities</proc:Name>
+                            <proc:CostElementList>
+                                <proc:CostElement>
+                                    <proc:Name>Joint Staff Activities</proc:Name>
+                                    <proc:Cost>
+                                        <proc:PriorYear>
+                                            <proc:TotalCost>5.282</proc:TotalCost>
+                                        </proc:PriorYear>
+                                        <proc:CurrentYear>
+                                            <proc:TotalCost>7.195</proc:TotalCost>
+                                        </proc:CurrentYear>
+                                    </proc:Cost>
+                                </proc:CostElement>
+                            </proc:CostElementList>
+                        </proc:Support>
+                    </proc:CostElementCategoryList>
+                </proc:P5Item>
+            </proc:ItemExhibitList>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+                <proc:suppressP40As>false</proc:suppressP40As>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>0204571J</proc:LineItemNumber>
+            <proc:LineItemTitle>Joint Staff Analytical Support</proc:LineItemTitle>
+            <proc:P1LineNumber>40</proc:P1LineNumber>
+            <proc:BudgetYear>2014</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2013-04</proc:SubmissionDate>
+            <proc:ServiceAgencyName>The Joint Staff</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>15</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, TJS</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>1.228</proc:PriorYear>
+                    <proc:CurrentYear>2.7</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.000</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>2.7</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.000</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.000</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>6.628</proc:Total>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>1.228</proc:PriorYear>
+                    <proc:CurrentYear>2.7</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.000</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>2.7</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.000</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.000</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>6.628</proc:Total>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>1.228</proc:PriorYear>
+                    <proc:CurrentYear>2.7</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.000</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.000</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.000</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>2.7</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.000</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.000</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>6.628</proc:Total>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>The Joint Staff Analytical Support (JSAS) family of programs provides defense analytical support capabilities for the CJCS and COCOMs.  JSAS encompasses the developmental tools and infrastructure required to conduct analyses and formulate the results to best assist the Chairman in fulfilling his statutory responsibilities.  Key deliverables provided by JSAS include wide-ranging force structure assessments, course of action development for the Joint Force environment, analyses and studies to aid in decision-making, and other analysis efforts to implement timely, low-cost initiatives.  </proc:Description>
+            <proc:ItemExhibitList>
+                <proc:P5Item>
+                    <proc:Name>Joint Staff Analytical Support</proc:Name>
+                    <proc:ResourceSummary>
+                        <proc:GrossWeaponSystemCost>
+                            <proc:PriorYear>1.228</proc:PriorYear>
+                            <proc:CurrentYear>2.7</proc:CurrentYear>
+                            <proc:BudgetYearThree>2.7</proc:BudgetYearThree>
+                            <proc:Total>6.628</proc:Total>
+                        </proc:GrossWeaponSystemCost>
+                        <proc:NetProcurementP1>
+                            <proc:PriorYear>1.228</proc:PriorYear>
+                            <proc:CurrentYear>2.7</proc:CurrentYear>
+                            <proc:BudgetYearThree>2.7</proc:BudgetYearThree>
+                            <proc:Total>6.628</proc:Total>
+                        </proc:NetProcurementP1>
+                        <proc:TotalObligationAuthority>
+                            <proc:PriorYear>1.228</proc:PriorYear>
+                            <proc:CurrentYear>2.7</proc:CurrentYear>
+                            <proc:BudgetYearThree>2.7</proc:BudgetYearThree>
+                            <proc:Total>6.628</proc:Total>
+                        </proc:TotalObligationAuthority>
+                    </proc:ResourceSummary>
+                    <proc:CostElementCategoryList>
+                        <proc:Support>
+                            <proc:Name>Joint Staff Analytical Support</proc:Name>
+                            <proc:CostElementList>
+                                <proc:CostElement>
+                                    <proc:Name>Joint Staff Analytical Support</proc:Name>
+                                    <proc:Cost>
+                                        <proc:PriorYear>
+                                            <proc:TotalCost>1.228</proc:TotalCost>
+                                        </proc:PriorYear>
+                                        <proc:CurrentYear>
+                                            <proc:TotalCost>2.7</proc:TotalCost>
+                                        </proc:CurrentYear>
+                                        <proc:BudgetYearThree>
+                                            <proc:TotalCost>2.7</proc:TotalCost>
+                                        </proc:BudgetYearThree>
+                                        <proc:Total>
+                                            <proc:TotalCost>6.628</proc:TotalCost>
+                                        </proc:Total>
+                                    </proc:Cost>
+                                </proc:CostElement>
+                            </proc:CostElementList>
+                        </proc:Support>
+                    </proc:CostElementCategoryList>
+                </proc:P5Item>
+            </proc:ItemExhibitList>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+                <proc:suppressP40As>false</proc:suppressP40As>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>0208043J</proc:LineItemNumber>
+            <proc:LineItemTitle>Planning and Decision Aid System (PDAS)</proc:LineItemTitle>
+            <proc:P1LineNumber>40</proc:P1LineNumber>
+            <proc:BudgetYear>2014</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2013-04</proc:SubmissionDate>
+            <proc:ServiceAgencyName>The Joint Staff</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>15</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, TJS</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>1.389</proc:PriorYear>
+                    <proc:CurrentYear>1</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.527</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>0.527</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.5</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>0.5</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.5</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.5</proc:BudgetYearFive>
+                    <proc:Total>4.916</proc:Total>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>1.389</proc:PriorYear>
+                    <proc:CurrentYear>1</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.527</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>0.527</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.5</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>0.5</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.5</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.5</proc:BudgetYearFive>
+                    <proc:Total>4.916</proc:Total>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>1.389</proc:PriorYear>
+                    <proc:CurrentYear>1</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.527</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>0.527</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.5</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>0.5</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.5</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.5</proc:BudgetYearFive>
+                    <proc:Total>4.916</proc:Total>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>The Planning and Decision Aid System (PDAS) is a classified, protected program under the Secretary of Defense. PDAS supports the planning and execution of Integrated Joint Special Technical Operations. </proc:Description>
+            <proc:ItemExhibitList>
+                <proc:P5Item>
+                    <proc:Name>Planning and Decision Aid System</proc:Name>
+                    <proc:ResourceSummary>
+                        <proc:GrossWeaponSystemCost>
+                            <proc:PriorYear>1.389</proc:PriorYear>
+                            <proc:CurrentYear>1</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>0.527</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>0.527</proc:BudgetYearOne>
+                            <proc:BudgetYearTwo>0.5</proc:BudgetYearTwo>
+                            <proc:BudgetYearThree>0.5</proc:BudgetYearThree>
+                            <proc:BudgetYearFour>0.5</proc:BudgetYearFour>
+                            <proc:BudgetYearFive>0.5</proc:BudgetYearFive>
+                            <proc:Total>4.916</proc:Total>
+                        </proc:GrossWeaponSystemCost>
+                        <proc:NetProcurementP1>
+                            <proc:PriorYear>1.389</proc:PriorYear>
+                            <proc:CurrentYear>1</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>0.527</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>0.527</proc:BudgetYearOne>
+                            <proc:BudgetYearTwo>0.5</proc:BudgetYearTwo>
+                            <proc:BudgetYearThree>0.5</proc:BudgetYearThree>
+                            <proc:BudgetYearFour>0.5</proc:BudgetYearFour>
+                            <proc:BudgetYearFive>0.5</proc:BudgetYearFive>
+                            <proc:Total>4.916</proc:Total>
+                        </proc:NetProcurementP1>
+                        <proc:TotalObligationAuthority>
+                            <proc:PriorYear>1.389</proc:PriorYear>
+                            <proc:CurrentYear>1</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>0.527</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>0.527</proc:BudgetYearOne>
+                            <proc:BudgetYearTwo>0.5</proc:BudgetYearTwo>
+                            <proc:BudgetYearThree>0.5</proc:BudgetYearThree>
+                            <proc:BudgetYearFour>0.5</proc:BudgetYearFour>
+                            <proc:BudgetYearFive>0.5</proc:BudgetYearFive>
+                            <proc:Total>4.916</proc:Total>
+                        </proc:TotalObligationAuthority>
+                    </proc:ResourceSummary>
+                    <proc:CostElementCategoryList>
+                        <proc:Support>
+                            <proc:Name>Planning and Decision Aid System</proc:Name>
+                            <proc:CostElementList>
+                                <proc:CostElement>
+                                    <proc:Name>Planning and Decision Aid System</proc:Name>
+                                    <proc:Cost>
+                                        <proc:PriorYear>
+                                            <proc:TotalCost>1.389</proc:TotalCost>
+                                        </proc:PriorYear>
+                                        <proc:CurrentYear>
+                                            <proc:TotalCost>1</proc:TotalCost>
+                                        </proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>
+                                            <proc:TotalCost>0.527</proc:TotalCost>
+                                        </proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>
+                                            <proc:TotalCost>0.527</proc:TotalCost>
+                                        </proc:BudgetYearOne>
+                                        <proc:BudgetYearTwo>
+                                            <proc:TotalCost>0.5</proc:TotalCost>
+                                        </proc:BudgetYearTwo>
+                                        <proc:BudgetYearThree>
+                                            <proc:TotalCost>0.5</proc:TotalCost>
+                                        </proc:BudgetYearThree>
+                                        <proc:BudgetYearFour>
+                                            <proc:TotalCost>0.5</proc:TotalCost>
+                                        </proc:BudgetYearFour>
+                                        <proc:BudgetYearFive>
+                                            <proc:TotalCost>0.5</proc:TotalCost>
+                                        </proc:BudgetYearFive>
+                                        <proc:Total>
+                                            <proc:TotalCost>4.916</proc:TotalCost>
+                                        </proc:Total>
+                                    </proc:Cost>
+                                </proc:CostElement>
+                            </proc:CostElementList>
+                        </proc:Support>
+                    </proc:CostElementCategoryList>
+                </proc:P5Item>
+            </proc:ItemExhibitList>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+                <proc:suppressP40As>false</proc:suppressP40As>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>0902298J</proc:LineItemNumber>
+            <proc:LineItemTitle>Management Headquarters</proc:LineItemTitle>
+            <proc:P1LineNumber>40</proc:P1LineNumber>
+            <proc:BudgetYear>2014</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2013-04</proc:SubmissionDate>
+            <proc:ServiceAgencyName>The Joint Staff</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>15</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, TJS</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>21.794</proc:PriorYear>
+                    <proc:CurrentYear>10.983</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>14.265</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>14.265</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>18.72</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>18.623</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>18.762</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>19.222</proc:BudgetYearFive>
+                    <proc:Total>122.369</proc:Total>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>21.794</proc:PriorYear>
+                    <proc:CurrentYear>10.983</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>14.265</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>14.265</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>18.72</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>18.623</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>18.762</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>19.222</proc:BudgetYearFive>
+                    <proc:Total>122.369</proc:Total>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>21.794</proc:PriorYear>
+                    <proc:CurrentYear>10.983</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>14.265</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>14.265</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>18.72</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>18.623</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>18.762</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>19.222</proc:BudgetYearFive>
+                    <proc:Total>122.369</proc:Total>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>Management Headquarters provides the day-to-day financial resources necessary to support Joint Staff operations and the Joint Staff Information Network (JSIN).  JSIN is the network infrastructure (for both classified and unclassified information) that supports the Chairman of the Joint Chiefs of Staff and the Joint Staff enabling collaboration and information-sharing among the Joint Staff, COCOMs, Agencies, and Services.  It provides information management resources and an application required for decision superiority, and empowers the Joint Staff as a knowledge-enabled organization.  The JSIN system accomplishes this through a collection of capabilities and services.  JSIN is comprised of three integrated networks that serve Top Secret (JWICS), Secret (SIPRNET), and combined internal and external unclassified (NIPRNET) collaboration needs.  The major capabilities of JSIN include an office automation suite, collaboration, workflow, information archiving, and document retrieval.  The most critical of these is staff action processing (decision-making) for faster coordination of critical classified and unclassified issues between the CJCS, Joint Staff, and the COCOMs, Services and Agencies.  JSIN's other key services include strategic geographical information services, office automation, collaborative planning, automated message handling, local area networking, electronic mail, financial management, contract management, manpower and personnel management, and record management.  The Joint Staff’s continued service contracts streamline JS IT support processes with 24/7 availability.</proc:Description>
+            <proc:ItemExhibitList>
+                <proc:P5Item>
+                    <proc:Name>Management Headquarters</proc:Name>
+                    <proc:ResourceSummary>
+                        <proc:GrossWeaponSystemCost>
+                            <proc:PriorYear>21.794</proc:PriorYear>
+                            <proc:CurrentYear>10.983</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>14.265</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>14.265</proc:BudgetYearOne>
+                            <proc:BudgetYearTwo>18.72</proc:BudgetYearTwo>
+                            <proc:BudgetYearThree>18.623</proc:BudgetYearThree>
+                            <proc:BudgetYearFour>18.762</proc:BudgetYearFour>
+                            <proc:BudgetYearFive>19.222</proc:BudgetYearFive>
+                            <proc:Total>122.369</proc:Total>
+                        </proc:GrossWeaponSystemCost>
+                        <proc:NetProcurementP1>
+                            <proc:PriorYear>21.794</proc:PriorYear>
+                            <proc:CurrentYear>10.983</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>14.265</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>14.265</proc:BudgetYearOne>
+                            <proc:BudgetYearTwo>18.72</proc:BudgetYearTwo>
+                            <proc:BudgetYearThree>18.623</proc:BudgetYearThree>
+                            <proc:BudgetYearFour>18.762</proc:BudgetYearFour>
+                            <proc:BudgetYearFive>19.222</proc:BudgetYearFive>
+                            <proc:Total>122.369</proc:Total>
+                        </proc:NetProcurementP1>
+                        <proc:TotalObligationAuthority>
+                            <proc:PriorYear>21.794</proc:PriorYear>
+                            <proc:CurrentYear>10.983</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>14.265</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOne>14.265</proc:BudgetYearOne>
+                            <proc:BudgetYearTwo>18.72</proc:BudgetYearTwo>
+                            <proc:BudgetYearThree>18.623</proc:BudgetYearThree>
+                            <proc:BudgetYearFour>18.762</proc:BudgetYearFour>
+                            <proc:BudgetYearFive>19.222</proc:BudgetYearFive>
+                            <proc:Total>122.369</proc:Total>
+                        </proc:TotalObligationAuthority>
+                    </proc:ResourceSummary>
+                    <proc:CostElementCategoryList>
+                        <proc:Support>
+                            <proc:Name>Management Headquarters</proc:Name>
+                            <proc:CostElementList>
+                                <proc:CostElement>
+                                    <proc:Name>Management Headquarters</proc:Name>
+                                    <proc:Cost>
+                                        <proc:PriorYear>
+                                            <proc:TotalCost>21.794</proc:TotalCost>
+                                        </proc:PriorYear>
+                                        <proc:CurrentYear>
+                                            <proc:TotalCost>10.983</proc:TotalCost>
+                                        </proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>
+                                            <proc:TotalCost>14.265</proc:TotalCost>
+                                        </proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>
+                                            <proc:TotalCost>14.265</proc:TotalCost>
+                                        </proc:BudgetYearOne>
+                                        <proc:BudgetYearTwo>
+                                            <proc:TotalCost>18.72</proc:TotalCost>
+                                        </proc:BudgetYearTwo>
+                                        <proc:BudgetYearThree>
+                                            <proc:TotalCost>18.623</proc:TotalCost>
+                                        </proc:BudgetYearThree>
+                                        <proc:BudgetYearFour>
+                                            <proc:TotalCost>18.762</proc:TotalCost>
+                                        </proc:BudgetYearFour>
+                                        <proc:BudgetYearFive>
+                                            <proc:TotalCost>19.222</proc:TotalCost>
+                                        </proc:BudgetYearFive>
+                                        <proc:Total>
+                                            <proc:TotalCost>122.369</proc:TotalCost>
+                                        </proc:Total>
+                                    </proc:Cost>
+                                </proc:CostElement>
+                            </proc:CostElementList>
+                        </proc:Support>
+                    </proc:CostElementCategoryList>
+                </proc:P5Item>
+            </proc:ItemExhibitList>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+                <proc:suppressP40As>false</proc:suppressP40As>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

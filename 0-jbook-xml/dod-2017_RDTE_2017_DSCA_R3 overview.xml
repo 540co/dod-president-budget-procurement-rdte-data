@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?><Workbook xmlns:x="urn:schemas-microsoft-com:office:excel"
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40"
+          xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2"
+          xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb"
+          xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement"
+          xmlns:o="urn:schemas-microsoft-com:office:office">
+   <Styles>
+      <Style ss:ID="Default" ss:Name="Normal">
+         <Alignment ss:Vertical="Bottom"/>
+         <Borders/>
+         <Font/>
+         <Interior/>
+         <NumberFormat/>
+         <Protection/>
+      </Style>
+      <Style ss:ID="ColumnLabel">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+         </Borders>
+         <Font ss:Size="12" ss:Bold="1" ss:Color="#FFFFFF"/>
+         <Interior ss:Color="#27466E" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="PEDetails">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="0"/>
+         <Font ss:Size="11" ss:Color="#EEEEEE"/>
+         <Interior ss:Color="#768198" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="CCGroup">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="0"/>
+         <Font ss:Size="11"/>
+         <Interior ss:Color="#DDE0E7" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="CCIString">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="0"/>
+         <Font ss:Size="11"/>
+      </Style>
+      <Style ss:ID="CCINumber">
+         <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+         <Font ss:Size="11"/>
+         <NumberFormat ss:Format="0.000"/>
+      </Style>
+      <Style ss:ID="CCIDate">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+         <Font ss:Size="11"/>
+         <NumberFormat ss:Format="yyyy\-mm"/>
+      </Style>
+   </Styles>
+   <Worksheet ss:Name="R3 Overview">
+      <Table ss:ExpandedColumnCount="24" x:FullColumns="1" x:FullRows="1"
+             ss:StyleID="Default"
+             ss:DefaultRowHeight="12">
+         <Column ss:StyleID="Default" ss:Width="190"/>
+         <Column ss:StyleID="Default" ss:Width="240"/>
+         <Column ss:StyleID="Default" ss:Width="240"/>
+         <Column ss:StyleID="Default" ss:Width="140"/>
+         <Column ss:StyleID="Default" ss:Width="220"/>
+         <Column ss:StyleID="Default" ss:Width="80" ss:Span="18"/>
+         <Row ss:AutoFitHeight="0" ss:Height="20">
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Appropriation/Budget Activity</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">R-1 Program Element (Number/Name)</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Project (Number/Name)</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost Category Group</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost Category Item</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Contract Method</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Contract Type</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Performing Activity</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Performing Location</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel"/>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2015</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2016</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2017 Base</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2017 OCO</Data>
+            </Cell>
+            <Cell ss:MergeAcross="0" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2017</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost To Complete</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Total Cost</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Target Value of Contract</Data>
+            </Cell>
+         </Row>
+         <Row ss:AutoFitHeight="0" ss:Height="20">
+            <Cell ss:Index="10" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Prior Years</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Total Cost</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">0400 / 7</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">PE 0605127T / Partner Outreach and Collaboration Support (POCS); formerly: Regional International Outreach (RIO) - PfP Information Management System (PIMS)</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">000000 / Regional International Outreach - Partnership for Peace Information Management Systems</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails" ss:MergeAcross="18"/>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="4" ss:StyleID="CCGroup" ss:MergeAcross="18">
+               <Data ss:Type="String">Product Development</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Defense Security Cooperation Agency</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Civic Actions</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Berkeley, CA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">10.351</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">1.694</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-07</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">1.750</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">1.424</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">0400 / 7</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">PE 0605147T / Overseas Humanitarian Assistance Shared Information System (OHASIS)</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">000204 / Overseas Humanitarian Assistance Shared Information System</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails" ss:MergeAcross="18"/>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="4" ss:StyleID="CCGroup" ss:MergeAcross="18">
+               <Data ss:Type="String">Product Development</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Geospatial Research Integration Develoopment and Support (GriDS) II, IDIQ</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">SAIC</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Alexandria, VA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">1.129</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.275</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.294</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.287</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">0400 / 7</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">PE 0607327T / Global Theater Security Cooperation Management information Systems (G-TSCMIS)</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">1 / Global Theater Security Cooperation Management information Systems (G-TSCMIS)</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails" ss:MergeAcross="18"/>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="4" ss:StyleID="CCGroup" ss:MergeAcross="18">
+               <Data ss:Type="String">Product Development</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Systems Engineering</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">SSC LANT</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Charleston, SC</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">13.250</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">2.495</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">2.061</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.999</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Software Development</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">C</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">CPIF</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Leidos</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Reston, VA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">5.231</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">4.528</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">3.817</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Systems Engineering</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">MITRE</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">San Diego</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.203</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.168</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.263</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Training Development</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">SSC PAC</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">San Diego</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.201</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.166</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.604</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="4" ss:StyleID="CCGroup" ss:MergeAcross="18">
+               <Data ss:Type="String">Test and Evaluation</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Test &amp; Evaluation</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Various</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Various</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.247</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.196</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.348</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="4" ss:StyleID="CCGroup" ss:MergeAcross="18">
+               <Data ss:Type="String">Management Services</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Program Management Support</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Option</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">CPFF</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">BAH</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">San Diego, CA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">1.171</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.967</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">1.445</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Program Management Support</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Option</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">CPFF</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">ILS</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">TBD</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.000</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.063</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Program Managment</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Option</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">CPFF</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Sentek</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">San Diego, CA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.000</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.344</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Contract Engineering Support</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">SS</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">CPFF</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Seaport</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">San Diego, CA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.000</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.284</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.223</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Government Engineering Support</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">SSC PAC</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">San Diego,CA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.000</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.106</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.088</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.083</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Travel</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">SPAWAR</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">San Diego,CA / Charleston, SC</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.010</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.008</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">0.016</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String"/>
+            </Cell>
+         </Row>
+      </Table>
+   </Worksheet>
+</Workbook>

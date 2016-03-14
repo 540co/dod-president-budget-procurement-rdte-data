@@ -1,0 +1,363 @@
+{
+    "id": "972e3576529d6cc939dc2b2c096833baeaa3417f",
+    "meta": {
+        "filename": "dod-2017_PROCUREMENT_2017_DEFENSE_DISA_U_PROCUREMENT_JustificationBook_Defense_Information_Systems_Agency_PB_2017.zzz_unzipped_U_PROCUREMENT_JustificationBook_Defense_Information_Systems_Agency_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Defense Information Systems Agency",
+        "appropriation_code": "0300D",
+        "appropriation_name": "Procurement, Defense-Wide"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@quantityUnitName": "Each",
+        "@unitCostUnits": "Millions",
+        "@totalCostUnits": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "LineItemNumber": {
+            "val": "15"
+        },
+        "LineItemTitle": {
+            "val": "Joint Regional Security Stacks"
+        },
+        "P1LineNumber": {
+            "val": "15"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Defense Information Systems Agency"
+        },
+        "AppropriationNumber": {
+            "val": "0300D"
+        },
+        "AppropriationTitle": {
+            "val": "Procurement, Defense-Wide"
+        },
+        "BudgetActivityNumber": {
+            "val": "1"
+        },
+        "BudgetActivityTitle": {
+            "val": "Major Equipment"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "5"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Major Equipment, DISA"
+        },
+        "ResourceSummary": {
+            "TotalCost": {
+                "BudgetYearOneBase": {
+                    "val": "150.221"
+                },
+                "BudgetYearOne": {
+                    "val": "150.221"
+                },
+                "BudgetYearTwo": {
+                    "val": "42.716"
+                },
+                "BudgetYearThree": {
+                    "val": "54.819"
+                },
+                "BudgetYearFour": {
+                    "val": "61.782"
+                },
+                "BudgetYearFive": {
+                    "val": "62.679"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "NetProcurementP1": {
+                "BudgetYearOneBase": {
+                    "val": "150.221"
+                },
+                "BudgetYearOne": {
+                    "val": "150.221"
+                },
+                "BudgetYearTwo": {
+                    "val": "42.716"
+                },
+                "BudgetYearThree": {
+                    "val": "54.819"
+                },
+                "BudgetYearFour": {
+                    "val": "61.782"
+                },
+                "BudgetYearFive": {
+                    "val": "62.679"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "BudgetYearOneBase": {
+                    "val": "150.221"
+                },
+                "BudgetYearOne": {
+                    "val": "150.221"
+                },
+                "BudgetYearTwo": {
+                    "val": "42.716"
+                },
+                "BudgetYearThree": {
+                    "val": "54.819"
+                },
+                "BudgetYearFour": {
+                    "val": "61.782"
+                },
+                "BudgetYearFive": {
+                    "val": "62.679"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "Code": {
+            "val": "A"
+        },
+        "CodeBProgramElementList": {
+            "ProgramElementNumber": [
+                {
+                    "val": "0303228K"
+                }
+            ]
+        },
+        "Description": {
+            "val": "The Joint Regional Security Stacks (JRSS) are a joint DoD security architecture comprised of complementary defensive security solutions that remove redundant Information Assurance (IA) protections; leverages enterprise defensive capabilities with standardized security suites; protects the enclaves after the separation of server and user assets; and provides the tool sets necessary to monitor and control all security mechanisms throughout DoD's Joint Information Environment."
+        },
+        "Justification": {
+            "val": "FY 2017: ($150.221)  Will procure hardware\/software to enhance the DoD Cyber Situational Awareness Analytic Cloud (CSAAC) to incorporate Joint Regional Security Stacks\/Joint Managment Systems (JRSS\/JMS) analytics data and correlation capabilities at JRSS locations; tech refresh enhancements to JRSS 1.5 capabilities; and begin procurement of JRSS 2.0 capabilties required to meet functionality at the Department of Navy (DoN) Gateways.    Once complete, will enable ability to collect, aggregate and review syslog and security event data, and perform automated and manual correlation for both cyber defense and application performance monitoring and troubleshooting and enable DoN to begin migrating behind JRS.  DISA will procure the following capabilities:\n\nJRSS and JMS 1.5 Tech Refresh - ($69.369) Will procure hardware to support technology refresh enhancements to JRSS and JMS 1.5 active stack capabilities.  Tech refresh acceleration of Load Balancer, SSL decryption, and SIM will enable 2.0 capabilities.  DISA will pursue multi-year warranties of refreshed items, which will support 40 major HW\/SW end items & 400+ racks of equipment.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\u2022 Web Security Gateway - ($35.846) Supports fine grain content filtering of assembled pages, proxy and native SSL and provides Web Content (Malware\/Policy Based) filtering; Integrates with SSL break and inspect capability; and Provides inline antivirus for web-based file scans.\n\t\t\t\t\t\t\t\t\t\n\u2022 Break and Inspect (B&I) (client to server, SSL\/TLS only) -  ($29.706) Ability to break encrypted traffic, open attachments and segment off threat traffic.  Complements but does not replace DoD DMZ or other CDC\/IPN\/ISN B&I capabilities.  Primary JRSS break and inspect use-case is outbound SSL from DoD users to Internet. \t\n\t\t\t\t\t\t\t\t\t\t\t\n\u2022 Cyber Situational Awareness Analytic Cloud (CSAAC) - ($15.300) Will build-out the CSAAC requirements to enhances JRSS\/JMS 1.5 ArcSight and Splunk log analytics and correlation capabilities utilizing existing Data Orchestrator for event aggregation, enrichment and forwarding providing enhanced cyber SA for COCOMS, Services and Agencies.\n\nExplanation of Change from FY 2016 to FY 2017: The increase of +$150.221 between FY 2016 and FY 2017 is attributed to and the realignment of $30.421 from Line Item 14 and an increase of $119.800 to install and refresh the technology of JRSS globally, the upgrade to JRSS version 2.0 and begin the upgrade to version 3.0.  The increase includes contributions from the Services to DISA for execution.\n\n\nPerformance Metrics: \t\t\n1. Implement JMS CSAAC analytic capability at 12 JRSS locations by FY 2017\t\t\n2. Tech refresh 8 fielded NIPR JRSS break\/inspect and inline antivirus scan capabilities"
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "Joint Regional Security Stacks"
+                    },
+                    "ItemNumber": [],
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "BudgetYearOneBase": {
+                                "val": "150.221"
+                            },
+                            "BudgetYearOne": {
+                                "val": "150.221"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "42.716"
+                            },
+                            "BudgetYearThree": {
+                                "val": "54.819"
+                            },
+                            "BudgetYearFour": {
+                                "val": "61.782"
+                            },
+                            "BudgetYearFive": {
+                                "val": "62.679"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "BudgetYearOneBase": {
+                                "val": "150.221"
+                            },
+                            "BudgetYearOne": {
+                                "val": "150.221"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "42.716"
+                            },
+                            "BudgetYearThree": {
+                                "val": "54.819"
+                            },
+                            "BudgetYearFour": {
+                                "val": "61.782"
+                            },
+                            "BudgetYearFive": {
+                                "val": "62.679"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "BudgetYearOneBase": {
+                                "val": "150.221"
+                            },
+                            "BudgetYearOne": {
+                                "val": "150.221"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "42.716"
+                            },
+                            "BudgetYearThree": {
+                                "val": "54.819"
+                            },
+                            "BudgetYearFour": {
+                                "val": "61.782"
+                            },
+                            "BudgetYearFive": {
+                                "val": "62.679"
+                            },
+                            "Continuing": {
+                                "val": "true"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Hardware": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Joint Regional Security Stacks (JRSS)"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "1"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "1"
+                                                        },
+                                                        "BudgetYearTwo": {
+                                                            "val": "1"
+                                                        },
+                                                        "BudgetYearThree": {
+                                                            "val": "1"
+                                                        },
+                                                        "BudgetYearFour": {
+                                                            "val": "1"
+                                                        },
+                                                        "BudgetYearFive": {
+                                                            "val": "1"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "150.221"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "150.221"
+                                                        },
+                                                        "BudgetYearTwo": {
+                                                            "val": "42.716"
+                                                        },
+                                                        "BudgetYearThree": {
+                                                            "val": "54.819"
+                                                        },
+                                                        "BudgetYearFour": {
+                                                            "val": "61.782"
+                                                        },
+                                                        "BudgetYearFive": {
+                                                            "val": "62.679"
+                                                        },
+                                                        "Continuing": {
+                                                            "val": "true"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "BudgetYearOneBase": {
+                                                            "val": "150.221"
+                                                        },
+                                                        "BudgetYearOne": {
+                                                            "val": "150.221"
+                                                        },
+                                                        "BudgetYearTwo": {
+                                                            "val": "42.716"
+                                                        },
+                                                        "BudgetYearThree": {
+                                                            "val": "54.819"
+                                                        },
+                                                        "BudgetYearFour": {
+                                                            "val": "61.782"
+                                                        },
+                                                        "BudgetYearFive": {
+                                                            "val": "62.679"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "BudgetYearOneBase": {
+                                                "val": "150.221"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "150.221"
+                                            },
+                                            "BudgetYearTwo": {
+                                                "val": "42.716"
+                                            },
+                                            "BudgetYearThree": {
+                                                "val": "54.819"
+                                            },
+                                            "BudgetYearFour": {
+                                                "val": "61.782"
+                                            },
+                                            "BudgetYearFive": {
+                                                "val": "62.679"
+                                            },
+                                            "Continuing": {
+                                                "val": "true"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "BudgetYearOneBase": {
+                                            "val": "150.221"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "150.221"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "42.716"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "54.819"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "61.782"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "62.679"
+                                        },
+                                        "Continuing": {
+                                            "val": "true"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "expandItemSuppressExhibit"
+            }
+        }
+    }
+}

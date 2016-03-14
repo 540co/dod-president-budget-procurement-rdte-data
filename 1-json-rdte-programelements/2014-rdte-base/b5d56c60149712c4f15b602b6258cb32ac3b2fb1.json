@@ -1,0 +1,1219 @@
+{
+    "id": "b5d56c60149712c4f15b602b6258cb32ac3b2fb1",
+    "meta": {
+        "filename": "dod-2014_RDTE_2014_AIRFORCE_V1_RDTE_MasterJustificationBook_Air_Force_PB_2014.zzz_unzipped_RDTE_MasterJustificationBook_Air_Force_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@format": "R2Long",
+        "ProgramElementNumber": {
+            "val": "0305236F"
+        },
+        "ProgramElementTitle": {
+            "val": "Common Data Link (CDL)"
+        },
+        "R1LineItemNumber": {
+            "val": "219"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "0.000"
+            },
+            "CurrentYear": {
+                "val": "38.094"
+            },
+            "BudgetYearOne": {
+                "val": "40.503"
+            },
+            "BudgetYearOneBase": {
+                "val": "40.503"
+            },
+            "BudgetYearTwo": {
+                "val": "41.087"
+            },
+            "BudgetYearThree": {
+                "val": "41.254"
+            },
+            "BudgetYearFour": {
+                "val": "41.792"
+            },
+            "BudgetYearFive": {
+                "val": "42.536"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "In Fiscal Year 2013, CDL efforts transferred from program element 0305206F, project 674819, CDL, to program element 0305236F, project 674819, CDL."
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Common Data Link (CDL) provides the DoD standard for interoperable, multi-service, multi-agency, wideband datalinks for manned\/unmanned platforms performing Intelligence, Surveillance, and Reconnaissance (ISR) missions. As the CDL Executive Agent (EA), the Air Force is responsible for cross-service application of CDL RDT&E funds facilitating compliance to Congressional and DoD mandates. Military Intelligence Program (MIP) funds are used to maintain, distribute, and upgrade the CDL specifications while ensuring design configuration, commonality, and interoperability among ISR platforms. Additionally, funds are used for the management of resources allocated for development and migration of CDL technologies. Updates to the CDL specification and developmental systems impact 10,000+ DoD airborne and ground ISR systems. \n\nThe CDL program enables compliance with OSD and Congressional mandates to minimize spectrum usage, use of cryptographic equipment, and direct support to current operations. The CDL specifications permit current and future ISR assets to operate worldwide by providing sensor data directly via point-to-point broadcast to ground sites, airborne platforms and dismounted users. CDL is a vital link in DoD's emerging communication architectures. CDL provides the capability to relay data via air-to-air or compatible satellite links when the asset and ground site are not in line-of-sight. CDL provides the largest bandwidth datalink in DoD, accommodating numerous sensors collecting Signals Intelligence (SIGINT), Imagery Intelligence (IMINT), and video data. \n\nResearch and development activities include achieving higher data rates for CDL, operations in other spectral bands, and support of large area surveillance missions, while supporting continuous improvements and implementation of line-of-sight platform and CDL terminal Command and Control, plus increased Intelligence, Surveillance, and Reconnaissance (C2ISR) capabilities. Activities also include studies and analysis to support current and future program planning and execution. CDL terminal designs provide for future technology insertion and reduce non-recurring engineering and life-cycle costs to the user. \n\nThe addition of Gigabit Encryption thrust enables CDL to develop a miniaturized gigabit rate Communication Security (COMSEC) device that will be capable of managing CDL data.  The miniaturized COMSEC device will allow faster throughput while reducing Size, Weight, and Power (SWaP) requirements.\n\nThis program is in Budget Activity 7, Operational System Development, because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "38.094"
+                },
+                "BudgetYearOne": {
+                    "val": "38.503"
+                },
+                "BudgetYearOneBase": {
+                    "val": "38.503"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "38.094"
+                },
+                "BudgetYearOne": {
+                    "val": "40.503"
+                },
+                "BudgetYearOneBase": {
+                    "val": "40.503"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "2.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "2.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "2.000"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "2.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "In FY 2014, the $2M increase supports Gigabit Encryption development efforts."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "674819"
+                    },
+                    "ProjectTitle": {
+                        "val": "Common Data Link (CDL)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "38.094"
+                        },
+                        "BudgetYearOne": {
+                            "val": "40.503"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "40.503"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "41.087"
+                        },
+                        "BudgetYearThree": {
+                            "val": "41.254"
+                        },
+                        "BudgetYearFour": {
+                            "val": "41.792"
+                        },
+                        "BudgetYearFive": {
+                            "val": "42.536"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectNote": {
+                            "val": "In FY 2013, Project 674819, Common Data Link (CDL), efforts transferred from Program Element 0305206F, Airborne Reconnaissance, Project 674819, Common Data Link (CDL)."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Common Data Link (CDL) provides the DoD standard for interoperable, multi-service, multi-agency, wideband datalinks for manned\/unmanned platforms performing Intelligence, Surveillance, and Reconnaissance (ISR) missions. As the CDL Executive Agent (EA), the Air Force is responsible for cross-service application of CDL RDT&E funds facilitating compliance to Congressional and DoD mandates. Military Intelligence Program (MIP) funds are used to maintain, distribute, and upgrade the CDL specifications while ensuring design configuration, commonality, and interoperability among ISR platforms. Additionally, funds are used for the management of resources allocated for development and migration of CDL technologies. Updates to the CDL specification and developmental systems impact 10,000+ DoD airborne and ground ISR systems. \n\nThe CDL program enables compliance with OSD and Congressional mandates to minimize spectrum usage, use of cryptographic equipment, and direct support to current operations. The CDL specifications permit current and future ISR assets to operate worldwide by providing sensor data directly via point-to-point broadcast to ground sites, airborne platforms and dismounted users. CDL is a vital link in DoD's emerging communication architectures. CDL provides the capability to relay data via air-to-air or compatible satellite links when the asset and ground site are not in line-of-sight. CDL provides the largest bandwidth datalink in DoD, accommodating numerous sensors collecting Signals Intelligence (SIGINT), Imagery Intelligence (IMINT), and video data. \n\nResearch and development activities include achieving higher data rates for CDL, operations in other spectral bands, and support of large area surveillance missions, while supporting continuous improvements and implementation of line-of-sight platform and CDL terminal Command and Control, plus increased Intelligence, Surveillance, and Reconnaissance (C2ISR) capabilities. Activities also include studies and analysis to support current and future program planning and execution. CDL terminal designs provide for future technology insertion and reduce non-recurring engineering and life-cycle costs to the user. \n\nThe addition of Gigabit Encryption thrust enables CDL to develop a miniaturized gigabit rate Communication Security (COMSEC) device that will be capable of managing CDL data.  The miniaturized COMSEC device will allow faster throughput while reducing Size, Weight, and Power (SWaP) requirements.\n\nThis program is in Budget Activity 7, Operational System Development, because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "CDL Technology Advancement"
+                                    },
+                                    "Description": {
+                                        "val": "CDL evolutionary terminal development, advanced technology insertion, demonstrations, and studies per CDL IPT\ndirection to the CDL Executive Agent(CDL EA)."
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "26.370"
+                                            },
+                                            "Text": {
+                                                "val": "Continues the development and testing of Higher Data Rates to existing and emerging terminals, plus additional Size, Weight and Power (SWaP) improvements. Continues the technology developments for adapting\/testing networking and more effective portable ground and lightweight airborne terminal components, continuation of multispectral operations flexibility, increased spectrum efficiency, and integration of improved transmission components. Continues development of enhanced, CDL-based ISR communications capabilities across multiple platforms and rapid prototyping efforts. Continues support of emerging communication backbone architecture development across space, air, and terrestrial layers including agile high capacity data transport and creating mobile network hubs."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "26.361"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "26.361"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue development and testing of Higher Data Rates to existing and emerging terminals, plus additional Size, Weight and Power (SWaP) improvements. Will continue technology developments for adapting\/testing networking and more effective portable ground and lightweight airborne terminal components, continuation of multispectral operations flexibility, increased spectrum efficiency, and integration of improved transmission components. Will continue development of enhanced, CDL-based ISR communications capabilities across multiple platforms and rapid prototyping efforts. Will continue support of emerging communication backbone architecture development across space, air, and terrestrial layers including agile high capacity data transport and creating mobile network hubs."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "CDL specification maintenance and development"
+                                    },
+                                    "Description": {
+                                        "val": "CDL specification testing, maintenance, development, validation, configuration control, and distribution per CDL IPT direction to CDL EA."
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.573"
+                                            },
+                                            "Text": {
+                                                "val": "Continues research and development upgrades of current and future specification employment profiles to include the adding of capabilities required to support Joint Aerial Layer Network and other emerging operational capabilities. Enhances spectrally efficient CDL waveform specification. Continues to work with CDL industry and Services to document, validate, and implement common terminal control interfaces through the use of commercially recognized standards. Continues to maintain configuration control of the CDL architecture, standards, specifications, and modules."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "6.770"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "6.770"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue researching and\/or developing upgrades to support current and future specification employment profiles and include adding capabilities required to support Joint Aerial Layer Network and other emerging operational capabilities. Will enhance spectrally efficient CDL waveform specification. Will continue to work with CDL industry and Services to document, validate, and implement common terminal control interfaces through the use of commercially recognized standards. Will continue to maintain configuration control of the CDL architecture, standards, specifications, and modules."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Gigabit Encryption"
+                                    },
+                                    "Description": {
+                                        "val": "Develop a miniaturized gigabit rate COMSEC device capable of handling CDL data rates. Miniaturizing COMSEC components will enable faster data throughput (greater than12 GBPS) and reduce size, weight, and power. Once developed, CDL users will have to procure COMSEC components and fund installation\/integration."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.000"
+                                            },
+                                            "Text": {
+                                                "val": "Will initiate the development effort to build the gigabit encryption device which will be eventually fielded on numerous platforms. This device will allow faster data throughput and reduce the size, weight and power."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Program Management Administration (PMA)"
+                                    },
+                                    "Description": {
+                                        "val": "Program Support Administration costs support management with engineering and technical support for development and implementation."
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.151"
+                                            },
+                                            "Text": {
+                                                "val": "Supports program activities required for device production. Permits the System Program Office (SPO) to discharge responsibilities to support the fielding and installation of new and developing capabilities."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "5.372"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "5.372"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue to support program activities required for device production. Permits the System Program Office (SPO) to discharge responsibilities to support the fielding and installation of new and developing capabilities."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The CDL Executive Agent, supported by each of the Services' CDL program's Service laboratories, the Airborne Network Division (AFLCMC\/HNA), and the Defense Information Systems Agency (DISA), provide for development of interoperable wideband ISR data links as mandated by the Assistant Secretary of Defense (Networks and Information Integration) (ASD(NII)) policy. Once CDL technology development matures, platforms are responsible for program CDL procurement, National Security Agency (NSA) and DISA certifications, integration, and installation. Acquisition strategy varies by contract. When possible, contracts are awarded under full and open competition."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "AF Gigabit Plus, AF IA Modernization, Army Spec Verification"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "L-3 Communications"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Salt Lake City, UT"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "8.820"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "11.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "11.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Advanced Waveform Validation, Marine ISR Comm, Joint Spec Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cubic"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "San Diego, CA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "4.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "4.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "4.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Marine AH-1 - FMV"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Bell Helicopter"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Hurst, TX"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "3.400"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Under Threshold Combined"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "9.289"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "8.016"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "8.016"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Service Tech Support & Spec Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.597"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "5.765"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "5.765"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Joint Interoperability Test Center (JITC)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JITC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fort Huachuca, AZ"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "46 Test Squadron"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "PO"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "46 TS\/OGEX"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Eglin AFB, FL"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.337"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.350"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.350"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "PMA - MITRE Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "T&M"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE Corp."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Bedford, MA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.768"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.791"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.791"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "PMA - PASS Financial and PM Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "T&M"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PE Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Littleton, MA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.200"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "PMA - Under Threshold Program Mgmt\/Tech Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "3.283"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.381"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.381"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "TBD"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "APPN_3600_BA_07_PE_0305236F_BPAC_674819_0.jpg"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "CDL Waveform RDT&E"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Gen 4 CDL Dev"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "SWaP, Networking, Spectral Terminal Test & Enhancement"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Gen 3 Terminal Test & Enhancement"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Rapid Prototyping"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "CDL Spec Maint, Validation, Dev & Config Control"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "CDL Test Equipment Dev & Enhancement"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Joint Communication Layer Specification Development, A2\/AD Enhancements"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Bandwidth, Spectrum, Networking & Common Control Interface"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Gigabit Encryption"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

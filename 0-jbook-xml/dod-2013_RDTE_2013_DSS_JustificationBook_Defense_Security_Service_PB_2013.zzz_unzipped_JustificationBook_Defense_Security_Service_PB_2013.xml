@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Defense Security Service</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0400</jb:AppropriationCode>
+    <jb:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserR1Doc>
+            <jb:Title>Comptroller Exhibit R-1</jb:Title>
+            <jb:FileName>Final R-1C FY 2013 PB DSS.pdf</jb:FileName>
+        </jb:UserR1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <r2:R2ExhibitList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+        <r2:R2Exhibit monetaryUnit="Millions">
+            <r2:ProgramElement>
+                <r2:ProgramElementNumber>0604130V</r2:ProgramElementNumber>
+                <r2:ProgramElementTitle>Enterprise Security System </r2:ProgramElementTitle>
+                <r2:R1LineItemNumber>184</r2:R1LineItemNumber>
+                <r2:BudgetYear>2013</r2:BudgetYear>
+                <r2:BudgetCycle>PB</r2:BudgetCycle>
+                <r2:SubmissionDate>2012-02</r2:SubmissionDate>
+                <r2:ServiceAgencyName>Defense Security Service</r2:ServiceAgencyName>
+                <r2:AppropriationCode>0400</r2:AppropriationCode>
+                <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+                <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+                <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+                <r2:ProgramElementFunding>
+                    <r2:PriorYear>0.995</r2:PriorYear>
+                    <r2:CurrentYear>6.206</r2:CurrentYear>
+                    <r2:BudgetYearOne>8.866</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>8.866</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>6.523</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>6.197</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>6.386</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>6.386</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProgramElementFunding>
+                <r2:ProgramElementMissionDescription>The Defense Security Service (DSS) manages the Enterprise Security System (ESS) to provide an effective, real-time, security support capability for the Military Departments, DoD Agencies, the National Industrial Security Program (NISP), and other Federal Agencies.  In compliance with the Expanded Electronic Government, President’s Management Agenda, and the DoD Enterprise Architecture Framework, ESS is the unified offering of security mission systems which facilitate and automate improved national investigative and adjudicative standards, streamline security processes, and increase DoD community collaboration.
+
+DSS Information Technology (IT) systems provide service critical to the major DSS mission areas: Industrial Security Oversight, and Security Education.  DSS performs this critical function through operation of its production systems named the Enterprise Security System (ESS): the Industrial Security Facilities Database (ISFD); the DSS Gateway; and the Security Training Education and Professionalization Portal (STEPP) (formerly ENROL).
+</r2:ProgramElementMissionDescription>
+                <r2:ChangeSummary>
+                    <r2:PreviousPresidentBudget>
+                        <r2:PriorYear>5.522</r2:PriorYear>
+                        <r2:CurrentYear>8.706</r2:CurrentYear>
+                        <r2:BudgetYearOne>7.007</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>7.007</r2:BudgetYearOneBase>
+                    </r2:PreviousPresidentBudget>
+                    <r2:CurrentPresidentBudget>
+                        <r2:PriorYear>0.995</r2:PriorYear>
+                        <r2:CurrentYear>6.206</r2:CurrentYear>
+                        <r2:BudgetYearOne>8.866</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>8.866</r2:BudgetYearOneBase>
+                    </r2:CurrentPresidentBudget>
+                    <r2:TotalAdjustments>
+                        <r2:PriorYear>-4.527</r2:PriorYear>
+                        <r2:CurrentYear>-2.500</r2:CurrentYear>
+                        <r2:BudgetYearOne>1.859</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>1.859</r2:BudgetYearOneBase>
+                    </r2:TotalAdjustments>
+                    <r2:AdjustmentDetails>
+                        <r2:CongressionalGeneralReductions>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                        </r2:CongressionalGeneralReductions>
+                        <r2:CongressionalDirectedReductions>
+                            <r2:CurrentYear>-2.500</r2:CurrentYear>
+                        </r2:CongressionalDirectedReductions>
+                        <r2:CongressionalRescissions>
+                            <r2:PriorYear>-4.522</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                        </r2:CongressionalRescissions>
+                        <r2:CongressionalAdds>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                        </r2:CongressionalAdds>
+                        <r2:CongressionalDirectedTransfers>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                        </r2:CongressionalDirectedTransfers>
+                        <r2:Reprogrammings>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                        </r2:Reprogrammings>
+                        <r2:SBIRSTTRTransfer>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                        </r2:SBIRSTTRTransfer>
+                        <r2:OtherAdjustmentDetailList>
+                            <r2:OtherAdjustmentDetail>
+                                <r2:Title>Economic Adjustment</r2:Title>
+                                <r2:Funding>
+                                    <r2:PriorYear>-0.005</r2:PriorYear>
+                                    <r2:BudgetYearOne>0.109</r2:BudgetYearOne>
+                                    <r2:BudgetYearOneBase>0.109</r2:BudgetYearOneBase>
+                                </r2:Funding>
+                            </r2:OtherAdjustmentDetail>
+                            <r2:OtherAdjustmentDetail>
+                                <r2:Title>One-time Increase</r2:Title>
+                                <r2:Funding>
+                                    <r2:BudgetYearOne>1.750</r2:BudgetYearOne>
+                                    <r2:BudgetYearOneBase>1.750</r2:BudgetYearOneBase>
+                                </r2:Funding>
+                            </r2:OtherAdjustmentDetail>
+                        </r2:OtherAdjustmentDetailList>
+                    </r2:AdjustmentDetails>
+                </r2:ChangeSummary>
+                <r2:ProjectList>
+                    <r2:Project>
+                        <r2:ProjectNumber>000</r2:ProjectNumber>
+                        <r2:ProjectTitle>Enterprise Security System</r2:ProjectTitle>
+                        <r2:ProjectFunding>
+                            <r2:PriorYear>0.995</r2:PriorYear>
+                            <r2:CurrentYear>6.206</r2:CurrentYear>
+                            <r2:BudgetYearOne>8.866</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>8.866</r2:BudgetYearOneBase>
+                            <r2:BudgetYearTwo>6.523</r2:BudgetYearTwo>
+                            <r2:BudgetYearThree>6.197</r2:BudgetYearThree>
+                            <r2:BudgetYearFour>6.386</r2:BudgetYearFour>
+                            <r2:BudgetYearFive>6.386</r2:BudgetYearFive>
+                            <r2:CostToComplete>Continuing</r2:CostToComplete>
+                            <r2:TotalCost>Continuing</r2:TotalCost>
+                        </r2:ProjectFunding>
+                        <r2:R2aExhibit>
+                            <r2:ProjectMissionDescription>The Defense Security Service (DSS) manages the Enterprise Security System (ESS) to provide an effective, real-time, security support capability for the Military Departments, DoD Agencies, the National Industrial Security Program (NISP), and other Federal Agencies.  In compliance with the Expanded Electronic Government, President’s Management Agenda, and the DoD Enterprise Architecture Framework, ESS is the unified offering of security mission systems which facilitate and automate improved national investigative and adjudicative standards, streamline security processes, and increase DoD community collaboration.
+
+DSS Information Technology (IT) systems provide service critical to the major DSS mission areas: Industrial Security Oversight, and Security Education.  DSS performs this critical function through operation of its production systems named the Enterprise Security System (ESS): the Industrial Security Facilities Database (ISFD); the DSS Gateway; and the Security Training Education and Professionalization Portal (STEPP) (formerly ENROL).
+</r2:ProjectMissionDescription>
+                            <r2:AccomplishmentPlannedProgramList>
+                                <r2:AccomplishmentPlannedProgram>
+                                    <r2:Title>Systems Enhancement</r2:Title>
+                                    <r2:Description>RDT&amp;E for ESS primarily includes pre-planned product improvements (P3I) to the ESS applications, researching and improving assured information sharing, better posturing systems and networks against vulnerabilities, ensuring self-defense of systems and networks, and safeguarding data at all stages.  These enhancements are necessary for DSS OCIO to increase the efficiency, capabilities, and security of the ESS Applications.</r2:Description>
+                                    <r2:Accomplishment>
+                                        <r2:PriorYear>
+                                            <r2:Funding>0.995</r2:Funding>
+                                            <r2:Text>1. Industrial Security Facility Database (ISFD):  Accomplished the implementation of the ISFD “Metrics” Release system enhancement, which provides additional metric reporting and processing capability to ISFD for the tracking and reporting of information pertaining to facilities under DSS auspices. 
+
+2. ODAA Business Management System (OBMS):  Accomplished the Initial Operational Capability (IOC) for the DSS Office of the Designated Approving Authority (ODAA) Business Management System (OBMS).  OBMS supports the DSS national security mission by providing security oversight and protection of classified information and technologies in the hands of the Defense Industrial Base (DIB) under the National Industrial Security Program (NISPOM).
+</r2:Text>
+                                        </r2:PriorYear>
+                                    </r2:Accomplishment>
+                                    <r2:PlannedProgram>
+                                        <r2:CurrentYear>
+                                            <r2:Funding>6.206</r2:Funding>
+                                            <r2:Text>1. ODAA Business Management System (OBMS): Continue the development of the system to achieve Full Operational Capability (FOC) in FY13.
+
+2. Open Source Corporate Management Information System (OSCMIS):   Implement and automate an enterprise web-based system to effectively manage the agency's Manpower, Human Resources, and Training. Deliver IOC at the end of FY12.
+
+3. Field Operations System (FOS): The Field Operation System (FOS) will be the next generation enterprise capability, replacing the Industrial Security Facility Database (ISFD), which is nearing end of life and becoming too expensive to enhance and maintain.  Additionally, FOS will provide seamless integration of other DSS systems and applications, such as eFCL, OBMS, DD-254, and Mobile Workforce Applications.  FOS will provide DSS with a comprehensive enhanced capability to manage its entire mission portfolio.  FOS will improve information sharing and collaboration, providing timely and accurate data for decision-making in the hands of field representatives.  The system will provide agency-wide metrics to measure and improve agency performance in providing security oversight and the protection of national security.  The system will be developed in an iterative fashion in accordance with the Business Transformation Agency (BTA) Business Capability Lifecycle (BCL).
+
+High-level program plan is to complete the functional and technical requirements, and develop the first functional prototype for the core system.
+ 
+4. DD 254:  Research automation capabilities of the DoD Form 254 – Contract Security Classification Specification, which provide information on the classification requirements of contractors and contractor facilities that handle classified information in the performance of government contracts.
+</r2:Text>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Funding>8.866</r2:Funding>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Funding>8.866</r2:Funding>
+                                            <r2:Text>1. ODAA Business Management System (OBMS): Deliver the Full Operational Capability (FOC) by deploying the final solution to the DIB customers under the NISPOM. Completely modernizes the manual DSS security oversight and protection mission by automating the submission and management of System Security Plans (SSP) and Certification and Accreditation (C&amp;A) documentation.  This automation will allow DSS to more effectively oversee classified information in the hands of industry, improving mitigation and response to new and emerging threats to our Defense Industrial Base (DIB).
+
+2. Open Source Corporate Management Information System (OSCMIS): continue implementation of Security and Support Services including Continuity of Operations Planninig (COOP) functionalities to deliver FOC. Fully implementing all functionality for the OSCMIS suite of applications.
+
+3. Field Operations System (FOS): Deliver an Initial Operational Capability (IOC) that supports the core functionality of the system.  Continue planning and systems engineering development to develop future iterations and plan future integration activities with DSS systems and applications.
+
+4. DD 254:  Deliver the Initial Operational Capability (IOC) toward full automation of the oversight and management of providing classified information access and guidance required for the performance on classified contracts. The DoD Form 254 – Contract Security Classification Specification; required by DoD 5220.22-4, Industrial Security Regulation and the National Industrial Security Program Operating Manual (NISPOM). The DD Form 254, and underlying business processes, is critical to ensure access to our Nation’s classified information is properly safeguarded.
+
+5. Mobile Workforce Applications (MWA):  Research technical capabilities to implement mobile technologies to improve the efficacy of the DSS mission.  The global DSS industrial security and oversight mission requires field representatives to audit remote contract facilities and information systems that process classified information. By incorporating mobile technologies into daily operations, the workforce has access to relevant and timely information, critical in ensuring security oversight decision-making.
+</r2:Text>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:PlannedProgram>
+                                </r2:AccomplishmentPlannedProgram>
+                            </r2:AccomplishmentPlannedProgramList>
+                            <r2:AcquisitionStrategy>DSS will award a new Enterprise Security System (ESS) Development Blanket Purchase Agreement (BPA) in Fiscal Year 2012 which will allow development of new applications, enhancement of other applications, and perform system integration with COTS and GOTS solutions and technology. These efforts will be issued as Task Orders under this BPA.</r2:AcquisitionStrategy>
+                            <r2:PerformanceMetrics>N/A
+
+</r2:PerformanceMetrics>
+                        </r2:R2aExhibit>
+                        <r2:R3Exhibit>
+                            <r2:CostCategoryGroupList>
+                                <r2:CostCategoryGroup>
+                                    <r2:Name>Product Development</r2:Name>
+                                    <r2:Remarks>Specific Task Orders to be issued on DSS Development BPA are TBD.  </r2:Remarks>
+                                    <r2:CostCategoryItemList>
+                                        <r2:CostCategoryItem>
+                                            <r2:Name>Enterprise Security System</r2:Name>
+                                            <r2:ContractMethod>C</r2:ContractMethod>
+                                            <r2:ContractType>BPA</r2:ContractType>
+                                            <r2:PerformingActivity>SAIC, Northrop Grumman, EDS</r2:PerformingActivity>
+                                            <r2:PerformingActivityLocation>Herndon, VA and Columbia, MD</r2:PerformingActivityLocation>
+                                            <r2:Cost>
+                                                <r2:TotalPreviousYears>78.565</r2:TotalPreviousYears>
+                                                <r2:CurrentYear>
+                                                    <r2:Amount>6.206</r2:Amount>
+                                                </r2:CurrentYear>
+                                                <r2:BudgetYearOne>
+                                                    <r2:Amount>8.866</r2:Amount>
+                                                </r2:BudgetYearOne>
+                                                <r2:BudgetYearOneBase>
+                                                    <r2:Amount>8.866</r2:Amount>
+                                                </r2:BudgetYearOneBase>
+                                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                                <r2:TotalCost>Continuing</r2:TotalCost>
+                                                <r2:TargetValue>Continuing</r2:TargetValue>
+                                            </r2:Cost>
+                                        </r2:CostCategoryItem>
+                                    </r2:CostCategoryItemList>
+                                </r2:CostCategoryGroup>
+                            </r2:CostCategoryGroupList>
+                        </r2:R3Exhibit>
+                        <r2:R4Exhibit>
+                            <r2:ScheduleProfile>
+                                <r2:ImageFileName>RDOC.jpg</r2:ImageFileName>
+                            </r2:ScheduleProfile>
+                        </r2:R4Exhibit>
+                    </r2:Project>
+                </r2:ProjectList>
+            </r2:ProgramElement>
+        </r2:R2Exhibit>
+    </r2:R2ExhibitList>
+</jb:JustificationBook>

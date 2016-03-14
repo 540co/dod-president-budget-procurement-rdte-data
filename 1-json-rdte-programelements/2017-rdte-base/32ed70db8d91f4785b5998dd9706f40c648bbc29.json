@@ -1,0 +1,850 @@
+{
+    "id": "32ed70db8d91f4785b5998dd9706f40c648bbc29",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_ARMY_BA5A_U_RDTE_JustificationBook_Army_PB_2017.zzz_unzipped_U_RDTE_JustificationBook_Army_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0604822A"
+        },
+        "ProgramElementTitle": {
+            "val": "General Fund Enterprise Business System (GFEBS)"
+        },
+        "R1LineNumber": {
+            "val": "104"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "5.500"
+            },
+            "CurrentYear": {
+                "val": "21.155"
+            },
+            "BudgetYearOne": {
+                "val": "6.805"
+            },
+            "BudgetYearOneBase": {
+                "val": "6.805"
+            },
+            "BudgetYearTwo": {
+                "val": "24.809"
+            },
+            "BudgetYearThree": {
+                "val": "34.820"
+            },
+            "BudgetYearFour": {
+                "val": "39.828"
+            },
+            "BudgetYearFive": {
+                "val": "19.825"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Mission Description and Budget Item Justification: The General Fund Business Enterprise System (GFEBS) is a Major Automated Information System program and is currently in the sustainment phase. It followed the DoD Business Enterprise Architecture which is aligned to the mandated Federal Enterprise Architecture. GFEBS was implemented to fulfill the needs and comply with the Federal Financial Management Improvement Act, The Chief Financial Officers Act of 1990, the Government Performance and Results Act of 1993, the Government Management Reform Act of 1994, and the Clinger-Cohen Act of 1996 and to fulfill the stated mission of the Assistant Secretary of the Army for Financial Management and Comptroller. GFEBS replaced, in full or in part, financial systems operating in excess of 40 years including the Standard Finance Systems and other costly feeder systems which do not allow the Department of Defense or the U.S. government to achieve an unqualified audit opinion on its financial statements. GFEBS is used to administering the Army's General Fund. GFEBS was developed using a commercial off-the-shelf Enterprise Resource Planning system that is certified by the Chief, Financial Officer Council and provides six core financial functions. GFEBS allows tactical commanders to make informed decisions on a virtually real time system. On 1 October 2008, GFEBS deployed to Wave 1 end users at Fort Jackson Garrison, Defense Finance Accounting Service (DFAS) Indianapolis, Indiana and several other organizations. The Full Deployment Decision was received by the Milestone Decision Authority on 24 June 2011 and Full Deployment was Full Deployment was achieved on 1 July 2012.  Today, GFEBS continues in sustainment.  Efforts include sustaining the system and infrastructure, making modifications needed for audit readiness, compliancy, and upgrades requirement to maintain the system to meet SAP standards.  Additionally, GFEBS continues to make changes as requested by the user community through the Functional Governance Board, a board that prioritizes user needs, and to update the infrastructure as required to meet SAP requirements and best practices.  Some of these changes require developmental funding.\n\nGFEBS-Sensitive Activities (SA): GFEBS is a commercial off-the-shelf Enterprise Resource Planning System certified by the Chief Financial Officers Council.  Army still has classified and sensitive financial activity remaining in legacy systems that cannot be processed in our new, fully-fielded GFEBS. To protect sensitive information and enable auditability, Army needs a separate instance of GFEBS operated on a secure network for processing sensitive and classified financial transactions. GFEBS-SA will be implemented to 3,000 users across 100 locations worldwide. GFEBS-SA will integrate seamlessly with GFEBS to provide secure, web-based financial execution and reporting capabilities to the Army's classified and sensitive activities. SA is envisioned as a fully functional GFEBS application operated on a secure network leveraging off of the sustained system design.\n\nGFEBS Increment II: Provides development, integration, and sustainment of incremental enhancements with the delivery of two major builds.  Each build will deliver increased capabilities that will displace an additional 20+ legacy systems.  The new Increment II requirements have been categorized by the functional community as Integrated Resource Management (IRM) and Army Standard Labor Time Tracking (ASLTT). Pending maturity of requirements development, Supplier Self-Services (SUS) and Environmental Management (EM) are additional capabilities that may be included in INC II."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "15.700"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "5.500"
+                },
+                "CurrentYear": {
+                    "val": "21.155"
+                },
+                "BudgetYearOne": {
+                    "val": "6.805"
+                },
+                "BudgetYearOneBase": {
+                    "val": "6.805"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "5.500"
+                },
+                "CurrentYear": {
+                    "val": "5.455"
+                },
+                "BudgetYearOne": {
+                    "val": "6.805"
+                },
+                "BudgetYearOneBase": {
+                    "val": "6.805"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalDirectedTransfers": {
+                    "CurrentYear": {
+                        "val": "5.455"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "5.500"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "6.805"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "6.805"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "DV6"
+                    },
+                    "ProjectTitle": {
+                        "val": "General Fund Enterprise Business System"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "5.500"
+                        },
+                        "CurrentYear": {
+                            "val": "6.455"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "Project DV6 is General Fund Enterprise Business System - Sensitive Activities."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "SA is a fully functional GFEBS application operated on a secure network (SIPRNET), including additional performance requirements designed to protect sensitive intelligence operations and special operations missions. SA is essential to comply with the Chief Financial Officers (CFO) Act and the Federal Financial Management Improvement Act (FFMIA) and prevent compromise of data that could cause grave harm to U.S. forces. GFEBS SA integrates secure capability across domain interfaces.\n\nNo FY17 request."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Product Development"
+                                    },
+                                    "Description": {
+                                        "val": "Funds provide development efforts for GFEBS-SA."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.500"
+                                            },
+                                            "Text": {
+                                                "val": "Funds provide development efforts for GFEBS-SA."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.455"
+                                            },
+                                            "Text": {
+                                                "val": "Funds provide development efforts for GFEBS-SA."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "B55511, GFEBS SENSITIVE ACTIVITIES"
+                                    },
+                                    "Title": {
+                                        "val": "Other Procurement, Army"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "8.228"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Plan, develop, and manage GFEBS-SA as a separate instance from GFEBS base program to support evolutionary delivery of\ncapabilities."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Support Costs"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PdM GFEBS SA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Alexandria, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.726"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "5.500"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "6.455"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "14.681"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Testing"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "IA"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JITC\/ATEC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Alexandria, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "4.960"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "4.960"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "98178-159.png"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Milestone B"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Initial Operating Capabiity (IOC)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "EV4"
+                    },
+                    "ProjectTitle": {
+                        "val": "General Fund Enterprise Business System Inc 2"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "6.805"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "6.805"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "24.809"
+                        },
+                        "BudgetYearThree": {
+                            "val": "34.820"
+                        },
+                        "BudgetYearFour": {
+                            "val": "39.828"
+                        },
+                        "BudgetYearFive": {
+                            "val": "19.825"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "126.087"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "GFEBS Increment II New Start capabilities funded in EV4 beginning FY17."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "GFEBS Increment II: Provides development, integration, and sustainment of incremental enhancements with the delivery of two major builds.  Each build will deliver increased capabilities that will displace an additional 20+ legacy systems.  The new Increment II requirements have been categorized by the functional community as Integrated Resource Management (IRM) and Army Standard Labor Time Tracking (ASLTT). These gaps jeopardize the Army's ability to maintain financial compliance, achieve auditable financial statements, and reduce the Army's ability to maximize a return on its Enterprise Resource Planning (ERP) investments.  The Army is pursuing an IRM capability that focuses on programmed manning, program and budget planning and reporting processes across the Army.  The capability will enable the Army to efficiently reconcile budget execution against program & strategic plans, create forward looking predictive cost analytics, or efficiently manage its organizational structures. The capability will provide full visibility into programmed manning and budget execution planning & programming processes and data across Army Commands.  Until an enterprise solution is provided, the Army's IRM business process will lack enterprise level visibility and will be unable to author and manage Command TDA force structures that satisfy Global Force Management (GFM) requirements for an Army in motion.  Army Standard Labor Time Tracking (ASLTT), an enterprise labor tracking system, will be able to track labor hours for Civilian, Military and Contractors and map them to the Army authoritative outputs (products and services) which they support.  This effort will eliminate redundant labor tracking systems, increase efficiencies, ensure the workforce is the right size and mix, and will be financially auditable.  These labor hours will be accurate and the costs associated with this labor will be mapped in a timely manner (especially since some Army organizations are fully reimbursable).  By doing this, the Army can terminate other time tracking systems or processes currently being used.  Furthermore, it will support the audibility of reimbursable intra-Army work. These gaps jeopardize the Army's ability to maintain financial compliance, achieve auditable financial statements, and reduce the Army's ability to maximize a return on its Enterprise Resource Planning (ERP) investments. Pending maturity of requirements development, Supplier Self-Services (SUS) and Environmental Management (EM) are additional capabilities that may be included in INC II. Implementation of SUS provides upgrades and response to U.S. Treasury requirements to reduce current manual effort to process vendor electronic submitted invoices, reduce interest paid due to late payments to vendors, reduction in cost associated with current complex custom interfaces which are required to pay Army contract invoices and replace legacy systems, which are not auditable.  Integration of HQAES (Environmental Management) capabilities results in business enterprise synchronization of environmental data collection, analysis, and reporting with financial management capabilities.  Integration supports HQDA's strategy for achieving and maintaining audit readiness for Environmental and Disposal Liabilities under DoD FMR, Volume 14, Chapter 13, \"Environmental Liabilities\"."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "GFEBS Increment II"
+                                    },
+                                    "Description": {
+                                        "val": "GFEBS Increment II: Provides development, integration, and sustainment of incremental enhancements with the delivery of two major builds.  Each build will deliver increased capabilities that will displace an additional 20+ legacy systems.  The new Increment II requirements have been categorized by the functional community as Integrated Resource Management (IRM) and Army Standard Labor Time Tracking (ASLTT). Pending maturity of requirements development, Supplier Self-Services (SUS) and Environmental Management (EM) are additional capabilities that may be included in INC II."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "6.805"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "6.805"
+                                            },
+                                            "Text": {
+                                                "val": "Acquisition planning and pre-award documentation for development contract."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The PMO will participate in a robust requirements definition, comprehensive analyses of alternative, an initial business process design activities with the functional community, and will prepare the required acquisition documentation to achieve authorization to proceed with acquiring the required capability.  These efforts require PMO expertise across all areas: acquisition, technical, functional, testing, management, and programmatics (e.g. contracts, budget)."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Acuisition Planning and pre-award documentation"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Alexandria, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "6.805"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "6.805"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "6.805"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "98178-160.png"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "MS A"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "MS B"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "GF5"
+                    },
+                    "ProjectTitle": {
+                        "val": "General Fund Enterprise Business System"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "14.700"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "14.700"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "The General Fund Business Enterprise System (GFEBS) is a Major Automated Information System program and is currently in the sustainment phase. It followed the DoD Business Enterprise Architecture which is aligned to the mandated Federal Enterprise Architecture. GFEBS was implemented to fulfill the needs and comply with the Federal Financial Management Improvement Act, The Chief Financial Officers Act of 1990, the Government Performance and Results Act of 1993, the Government Management Reform Act of 1994, and the Clinger-Cohen Act of 1996 and to fulfill the stated mission of the Assistant Secretary of the Army for Financial Management and Comptroller. GFEBS replaced, in full or in part, financial systems operating in excess of 40 years including the Standard Finance Systems and other costly feeder systems which do not allow the Department of Defense or the U.S. government to achieve an unqualified audit opinion on its financial statements. GFEBS is used to administering the Army's General Fund. GFEBS was developed using a commercial off-the-shelf Enterprise Resource Planning system that is certified by the Chief, Financial Officer Council and provides six core financial functions. GFEBS allows tactical commanders to make informed decisions on a virtually real time system. On 1 October 2008, GFEBS deployed to Wave 1 end users at Fort Jackson Garrison, Defense Finance Accounting Service (DFAS) Indianapolis, Indiana and several other organizations. The Full Deployment Decision was received by the Milestone Decision Authority on 24 June 2011 and Full Deployment was Full Deployment was achieved on 1 July 2012.  Today, GFEBS continues in sustainment.  Efforts include sustaining the system and infrastructure, making modifications needed for audit readiness, compliancy, and upgrades required to maintain the system to meet SAP standards.  Additionally, GFEBS continues to make changes as requested by the user community through the Functional Governance Board, a board that prioritizes user needs, and to update the infrastructure as required to meet SAP requirements and best practices.  Some of these changes require developmental funding."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "HQAES Development and Integration"
+                                    },
+                                    "Description": {
+                                        "val": "Initial development and integration of HQAES capabilities for collection, analysis and reporting of environmental clean-up, quality and hazardous waste data."
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "14.700"
+                                            },
+                                            "Text": {
+                                                "val": "Development and integration of Environmental Management, Integrated Resource Management, and Total Cost Management. Integration of Environmental Management will migrate HQAES capabilities for collection, analysis, and reporting of environmental clean-up, quality and hazardous waste data."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "BE4168, GFEBS"
+                                    },
+                                    "Title": {
+                                        "val": "Other Procurement, Army"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "2.853"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "13.540"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "6.416"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "6.416"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "4.225"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "4.322"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "4.401"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "4.453"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "40.210"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "Remarks": {
+                                        "val": "There is no base funding in FY17"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Accenture"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Kingstowne VA 22305"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "120.968"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "HQAES Integration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "14.700"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "14.700"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "98178-161.png"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "HQAES Integration"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

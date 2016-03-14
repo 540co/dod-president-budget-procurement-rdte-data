@@ -1,0 +1,749 @@
+{
+    "id": "72fd42bf90adf472804e3bba2c45d8bf8dc9059e",
+    "meta": {
+        "filename": "dod-2016_PROCUREMENT_2016_ARMY_OTHER_2_PROCUREMENT_JustificationBook_Army_PB_2016.zzz_unzipped_PROCUREMENT_JustificationBook_Army_PB_2016.xml",
+        "budget_year": "2016",
+        "budget_cycle": "PB",
+        "submission_date": "2015-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2035A",
+        "appropriation_name": "Other Procurement, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Yearly",
+        "LineItemNumber": {
+            "val": "W60002"
+        },
+        "LineItemTitle": {
+            "val": "Logistics Automation"
+        },
+        "P1LineNumber": {
+            "val": "97"
+        },
+        "BudgetYear": {
+            "val": "2016"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2015-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2035A"
+        },
+        "AppropriationTitle": {
+            "val": "Other Procurement, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Communications and Electronics Equipment"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "89"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Elect Equip - Tactical C2 Systems"
+        },
+        "ResourceSummary": {
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "232.57"
+                },
+                "PriorYear": {
+                    "val": "15.476"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "232.57"
+                },
+                "PriorYear": {
+                    "val": "15.476"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "232.57"
+                },
+                "PriorYear": {
+                    "val": "15.476"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "15.476"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "TotalCost": {
+                    "PriorYear": {
+                        "val": "15.476"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "Logistics Automation is comprised of the current logistics automation systems that support Army logistical operations throughout the world during both peace and wartime missions.  Logistics Automation has the funding subcomponents of the current Standard Army Management Information Systems (STAMIS) which include Standard Army Maintenance System - Enhanced (SAMS-E), Standard Army Retail Supply System (SARSS), Unit Level Logistics Systems - Aviation Enhanced (ULLS-AE), Property Book Unit Supply Enhanced (PBUSE), and Standard Army Ammunition System - Modernized (SAAS-MOD). Logistics Automation is not directly related to Global Combat Support System - Army (GCSS-A), SSN W30001."
+        },
+        "Justification": {
+            "val": "This program does not have an FY 2016 procurement funding request."
+        },
+        "PriorYearsDelta": {
+            "Cost": {
+                "val": "89.531"
+            }
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "STANDARD ARMY MAINTENANCE SYSTEM (SAMS)"
+                    },
+                    "ItemNumber": {
+                        "val": "W11002"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "2.738"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "62.688"
+                            },
+                            "PriorYear": {
+                                "val": "2.738"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "62.688"
+                            },
+                            "PriorYear": {
+                                "val": "2.738"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "62.688"
+                            },
+                            "PriorYear": {
+                                "val": "2.738"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Flyaway": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Hardware Equipping and Implementation"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "2"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "13.194"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "6597"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Hardware Integration Support"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "2"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "1"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "3.579"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "0.852"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "1789.5"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "852"
+                                                        }
+                                                    }
+                                                },
+                                                "AllPriorYearsDeliveries": {
+                                                    "val": "2"
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "GSA"
+                                                            },
+                                                            "Location": {
+                                                                "val": "Chester, VA"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2014"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "GSA,  Chantilly, VA"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2014-08"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2014-08"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "1"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "852.000"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "false"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Hardware"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "10199"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "45.916"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "1.886"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "4.502"
+                                                        }
+                                                    }
+                                                },
+                                                "AllPriorYearsDeliveries": {
+                                                    "val": "10199"
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "CHESS"
+                                                            },
+                                                            "Location": {
+                                                                "val": "N\/A"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2014"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "CECOM, Ft Monmouth, NJ"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2013-11"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2014-03"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "0"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "0.000"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "false"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "IDIQ"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "62.689"
+                                            },
+                                            "PriorYear": {
+                                                "val": "2.738"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "62.689"
+                                        },
+                                        "PriorYear": {
+                                            "val": "2.738"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "OverallHistoryPlanningRemarks": {
+                        "val": "Items are COTS\/GOTS."
+                    }
+                },
+                {
+                    "Name": {
+                        "val": "PROPERTY BOOK USER SYSTEM ENHANCED (PBUSE)"
+                    },
+                    "ItemNumber": {
+                        "val": "W11006"
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "12.738"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "80.351"
+                            },
+                            "PriorYear": {
+                                "val": "12.738"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "80.351"
+                            },
+                            "PriorYear": {
+                                "val": "12.738"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "80.351"
+                            },
+                            "PriorYear": {
+                                "val": "12.738"
+                            }
+                        }
+                    },
+                    "CostElementCategoryList": {
+                        "Flyaway": [
+                            {
+                                "Recurring": {
+                                    "CostElementList": {
+                                        "CostElement": [
+                                            {
+                                                "Name": {
+                                                    "val": "Hardware Replacement"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "3881"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "74.709"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "11.882"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "19.25"
+                                                        }
+                                                    }
+                                                },
+                                                "AllPriorYearsDeliveries": {
+                                                    "val": "3881"
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "CHESS"
+                                                            },
+                                                            "Location": {
+                                                                "val": "N\/A"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2014"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "CECOM, Ft Monmouth, NJ"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2014-03"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2014-06"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "0"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "0.000"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "false"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "IDIQ"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Hardware Integration Support"
+                                                },
+                                                "Cost": {
+                                                    "Quantity": {
+                                                        "AllPriorYears": {
+                                                            "val": "1"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "1"
+                                                        }
+                                                    },
+                                                    "TotalCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "5.642"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "0.856"
+                                                        }
+                                                    },
+                                                    "UnitCost": {
+                                                        "AllPriorYears": {
+                                                            "val": "5642"
+                                                        },
+                                                        "PriorYear": {
+                                                            "val": "856"
+                                                        }
+                                                    }
+                                                },
+                                                "AllPriorYearsDeliveries": {
+                                                    "val": "1"
+                                                },
+                                                "ManufacturerList": {
+                                                    "Manufacturer": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "GSA"
+                                                            },
+                                                            "Location": {
+                                                                "val": "Chester, VA"
+                                                            },
+                                                            "InitialQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "ReorderQuantity": {
+                                                                "AdminLeadTimeBeforeOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                },
+                                                                "TotalLeadTimeAfterOct1InMonths": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "HistoryPlanningList": {
+                                                                "HistoryPlanning": [
+                                                                    {
+                                                                        "FiscalYear": {
+                                                                            "val": "2014"
+                                                                        },
+                                                                        "PCOLocation": {
+                                                                            "val": "GSA, Chantilly VA"
+                                                                        },
+                                                                        "AwardDate": {
+                                                                            "val": "2014-08"
+                                                                        },
+                                                                        "FirstDeliveryDate": {
+                                                                            "val": "2014-08"
+                                                                        },
+                                                                        "Quantity": {
+                                                                            "val": "1"
+                                                                        },
+                                                                        "UnitCost": {
+                                                                            "val": "856.000"
+                                                                        },
+                                                                        "SpecsAvailableNow": {
+                                                                            "val": "false"
+                                                                        },
+                                                                        "ContractMethod": {
+                                                                            "val": "C"
+                                                                        },
+                                                                        "ContractType": {
+                                                                            "val": "FFP"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "CategorySubtotal": {
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "80.351"
+                                            },
+                                            "PriorYear": {
+                                                "val": "12.738"
+                                            }
+                                        }
+                                    }
+                                },
+                                "CategorySubtotal": {
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "80.351"
+                                        },
+                                        "PriorYear": {
+                                            "val": "12.738"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "OverallHistoryPlanningRemarks": {
+                        "val": "Items are COTS\/GOTS."
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "item"
+            }
+        }
+    }
+}

@@ -1,0 +1,1379 @@
+{
+    "id": "41fa32655d1ea30bb67009b4ae193780783bae5c",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_ARMY_BA7_U_RDTE_JustificationBook_Army_PB_2017.zzz_unzipped_U_RDTE_JustificationBook_Army_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0303150A"
+        },
+        "ProgramElementTitle": {
+            "val": "WWMCCS\/Global Command and Control System"
+        },
+        "R1LineNumber": {
+            "val": "198"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "2.493"
+            },
+            "CurrentYear": {
+                "val": "7.034"
+            },
+            "BudgetYearOne": {
+                "val": "4.718"
+            },
+            "BudgetYearOneBase": {
+                "val": "4.718"
+            },
+            "BudgetYearTwo": {
+                "val": "4.710"
+            },
+            "BudgetYearThree": {
+                "val": "4.510"
+            },
+            "BudgetYearFour": {
+                "val": "5.441"
+            },
+            "BudgetYearFive": {
+                "val": "14.325"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Global Command and Control System-Army (GCCS-A): This project is the Army component system that directly supports the implementation of the Global Command and Control System Family of Systems. GCCS-A provides automated command and control tools for Army Strategic and Operational Theater Commanders to enhance warfighter capabilities throughout the spectrum of conflict during joint and combined operations in support of National Security. The GCCS-A developed software systems dramatically improves the Army's ability to analyze courses of action; develop and manage Army Forces; and ensure feasibility of war plans. In accordance with Army Command Post Computing Environment and Joint Command and Control objectives, GCCS-A will be re-architected away from a scalable process architecture based server - thick client architecture to a virtualized server - web client architecture hosted on Battle Command Common Services (BCCS)\/Tactical Server Infrastructure (TSI) and Mission Command Workstation by the end of Fiscal Year 2016. GCCS-A strategic tools for readiness reporting have been modernized and replaced with the Defense Readiness Reporting System - Army (DRRS-A), a suite of web based applications for Army Readiness, Force Registration and Force Projection.\n \nArmy Joint and Strategic Command and Control (AJaSC2) or \"Ajax\" is a modernization development effort for the Army's joint and strategic C2 capabilities. AJaSC2 provides the materiel solution in response to the Army Mission Command for Unified Action Capability Definition Package (AMCUA CDP). AJaSC2 enables Army operational headquarters to integrate with the Joint Force Commands and Unified Action Partners (UAP). AJaSC2 provides Army leaders: Joint Common Operating Picture (COP); Adaptive planning and execution capabilities for distributed, synchronous and asynchronous collaboration services to develop, revise, and execute their warfighting plans supported by theaterwide analytics; strategic Situational Awareness (SA) to coalition operations and other mission partners and Coordination and synchronization of Joint Execution Mission Management."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "2.150"
+                },
+                "CurrentYear": {
+                    "val": "7.053"
+                },
+                "BudgetYearOne": {
+                    "val": "9.767"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.767"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "2.493"
+                },
+                "CurrentYear": {
+                    "val": "7.034"
+                },
+                "BudgetYearOne": {
+                    "val": "4.718"
+                },
+                "BudgetYearOneBase": {
+                    "val": "4.718"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.343"
+                },
+                "CurrentYear": {
+                    "val": "-0.019"
+                },
+                "BudgetYearOne": {
+                    "val": "-5.049"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-5.049"
+                }
+            },
+            "AdjustmentDetails": {
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.343"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "CurrentYear": {
+                        "val": "-0.019"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "-5.049"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-5.049"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "FY2015 increase provided funding for DRRS-A.\nFY2016 slight reduction for SBIR\/STTR.\nFY2017 reduction due to level of support required for Strategic and Joint Mission Command."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "C86"
+                    },
+                    "ProjectTitle": {
+                        "val": "Army Global C2 System"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "2.493"
+                        },
+                        "CurrentYear": {
+                            "val": "7.034"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.467"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.467"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.316"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "10.310"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Global Command and Control System-Army (GCCS-A): This project is the Army component of the Global Command and Control System (GCCS) Family of Systems (FoS). GCCS-A provides automated command and control tools, including Force readiness, planning and movement, and situational awareness, for Army Strategic and Operational Theater commanders to enhance warfighter capabilities throughout the spectrum of conflict during Joint and combined operations in support of National Security. GCCS-A dramatically improves the Army's ability to analyze courses of action, develop and manage Army forces and execute war plans. GCCS-A links the GCCS-Joint Common Operating Picture with the Army Mission Command systems. In accordance with Army Command Post Computing Environment and Joint Command and Control objectives, GCCS-A will be re-architected away from a scalable process architecture based server - thick client architecture to a virtualized server - web client architecture hosted on Battle Command Common Services (BCCS)\/Tactical Server Infrastructure (TSI) and Mission Command Workstation by the end of Fiscal Year 2016. GCCS-A strategic tools for readiness reporting have been modernized and replaced with the Defense Readiness Reporting System - Army (DRRS-A), a suite of web based applications for Army Readiness, Force Registration and Force Projection.\n\nFiscal Year 2017 Base funding in the amount of $0.467 million supports GCCS-A 4.3 software updates and Army Interoperability Certification (AIC) testing of the GCCS-A Bridge Effort in conjunction with Common Operating Environment. Certification testing ensures that GCCS-A Bridge Effort software is successfully configured as a virtual machine on BCCS\/TSI and is interoperable with Army and Joint Mission Command Systems."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Software and System Engineering (Common Operating Environment (COE) System Engineering)"
+                                    },
+                                    "Description": {
+                                        "val": "Software and System Engineering for GCCS-A and DRRS-A Modernization"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.669"
+                                            },
+                                            "Text": {
+                                                "val": "Software and System Engineering for GCCS-A and DRRS-A Modernization"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.044"
+                                            },
+                                            "Text": {
+                                                "val": "Software and System Engineering for GCCS-A and DRRS-A Modernization"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.180"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.180"
+                                            },
+                                            "Text": {
+                                                "val": "Software and System Engineering modifications to existing GCCS-A version 4.3 baseline"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Synchronize with COE and Command Post Computing Environment (CP CE) and Joint C2 objective Architecture"
+                                    },
+                                    "Description": {
+                                        "val": "Software ehancement efforts required to synchronize with COE\/CPCE and Joint C2 objective Architecture"
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.910"
+                                            },
+                                            "Text": {
+                                                "val": "Software enhancement efforts required to synchronize with COE\/CPCE and Joint C2 objective Architecture"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.047"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.047"
+                                            },
+                                            "Text": {
+                                                "val": "Synchronize existing baseline with any COE standard modifications"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Data Engineering (COE Data Engineering)"
+                                    },
+                                    "Description": {
+                                        "val": "Data Engineering for GCCS-A and DRRS-A Modernization"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.678"
+                                            },
+                                            "Text": {
+                                                "val": "Data Engineering for GCCS-A and DRRS-A Modernization"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "Description": {
+                                        "val": "Test and Evaluation for GCCS-A"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.662"
+                                            },
+                                            "Text": {
+                                                "val": "Test and Evaluation for GCCS-A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.450"
+                                            },
+                                            "Text": {
+                                                "val": "Test and Evaluation for GCCS-A. JITC\/CTSF\/SEC testing."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.110"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.110"
+                                            },
+                                            "Text": {
+                                                "val": "Test and Evaluation for GCCS-A. CTSF and SEC testing\/support."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Program Support and Management"
+                                    },
+                                    "Description": {
+                                        "val": "Program management includes overall management of program execution, major events, reporting, funds execution, contract management, and logistical support. Includes participation in program planning meetings and IPTs"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.484"
+                                            },
+                                            "Text": {
+                                                "val": "Program Support and Management for GCCS-A and DRRS-A Modernization"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.630"
+                                            },
+                                            "Text": {
+                                                "val": "Program Support and Management for GCCS-A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.130"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.130"
+                                            },
+                                            "Text": {
+                                                "val": "Program Support and Management for GCCS-A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "BA8250"
+                                    },
+                                    "Title": {
+                                        "val": "BA8250  Army Global Cmd & Control Sys (AGCCS) - OPA"
+                                    },
+                                    "Funding": {
+                                        "CurrentYear": {
+                                            "val": "10.137"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "2.530"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "2.530"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "2.658"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "1.033"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0"
+                                        },
+                                        "TotalCost": {
+                                            "val": "16.358"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "GCCS-A is modernizing to meet the requirements defined in the Joint C2 Capability Development Document (CDD) and to align with the Joint and Army Enterprise architectures and Common Operating Environment (COE) standards.\n\nIn accordance with the Joint Requirements Oversight Committee (JROC) Memorandum (JROCM) 145-09 which states, \"The JROC endorses efforts to develop and implement programmatic recommendations to support the \"Do No Harm\" Strategy\", GCCS-A continues to synchronize and modernize along with the GCCS Family of Systems (FoS). \n\nThe GCCS-A Modernization Strategy will consist of two separate program efforts. (1) A Bridge effort, Acquisition Category (ACAT) III level and (2) a Modernization development effort for the Army's Joint and Strategic command and Control capabilities and Common Operating Environment (COE) infrastructure software products. The GCCS-A modernization development effort will be in compliance with Joint Command and Control Capability Development Document (JC2 CDD) and Army Mission Command for Unified Action Capability Definition Package (AMCUA CDP). DRRS-A developmental efforts will continue to satisfy readiness reporting requirements from Army Readiness Division (DAMO-ODR). The Bridge Effort's acquisition approach consists of a support agreement with CECOM LCMC SEC as the prime software developer utlizing a mix of government and contractor support. \n\nIn accordance with the Training and Doctrine Command (TRADOC) requirements document approved in 2011, entitled Net Enabled Mission Command (NeMC) Initial Capabilities Document (ICD), software capability will be developed in 3-year increments as capability sets designed to Collaborate, Collapse and Converge Mission Command products. The product development funded under this R-Form is an integral part of the Mission Command System of Systems, under a strategy designed to optimize opportunity for improved interoperability among the systems, to capture the benefits of competition where possible and to ensure the rapid integration of new capability into warfighter systems. This strategy is designed to reduce the physical footprint, logistics support requirements and increase operational efficiency through deployment as a virtualized server on Battle Command Common Services and web clients."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Management"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various Locations"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "14.694"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.484"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.630"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.130"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.130"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "15.938"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "15.805"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Software Development (Completed Contracts)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin Corp (LMC)"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Springfield, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "156.206"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "156.206"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "156.206"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "GCCS-A and DRRS-A  Bridge Effort Software Development (Completed Contract)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin Corp (LMC)"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Springfield, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "21.312"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "21.312"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "21.312"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "GCCS-A\/DRRS-A Bridge Effort Software Development (Completed Contract)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Software Engineering Center"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Aberdeen Proving Ground, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "15.069"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "15.069"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "16.304"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Defense Readiness Reporting System-Army Bridge Effort Software Development (Completed Contract)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Software Engineering Center"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "10.217"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "10.217"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "10.217"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "GCCS-A\/DRRS-A Bridge Effort Software Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Software Engineering Center"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "11.237"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.669"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.954"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.227"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.227"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "18.087"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "4.893"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Support Contractors"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "16.655"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.678"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "17.333"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "17.333"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "ATEC\/JTIC\/CTSF\/SEC"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "4.826"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.662"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.110"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.110"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "6.048"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "6.878"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "98191-67.png"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Software Fielding and IA 4.2b (Procurement Funded)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "GCCS-A Bridge Effort Software Development GCCS-A v4.3 (COE v2)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Integration & Test GCCS-A v4.3 (COE v2)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Software Materiel Release GCCS-A v4.3 (COE v2)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Software Fielding and IA GCCS-A v4.3 (COE v2) (Procurement Funded)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Full Deployment GCCS-A v4.3 (COE v2)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "DRRS-A Modernization Effort"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "EA5"
+                    },
+                    "ProjectTitle": {
+                        "val": "Strategic and Joint Mission Command"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "4.251"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "4.251"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "4.394"
+                        },
+                        "BudgetYearThree": {
+                            "val": "4.510"
+                        },
+                        "BudgetYearFour": {
+                            "val": "5.441"
+                        },
+                        "BudgetYearFive": {
+                            "val": "14.325"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "This is a new start Army program in support of the Joint Command and Control community's way ahead for modernizing the Global Command and Control family of systems."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Army Joint and Strategic Command and Control (AJaSC2) or \"Ajax\" is a modernization development effort for the Army's joint and strategic C2 capabilities. AJaSC2 provides the materiel solution in response to the Army Mission Command for Unified Action Capability Definition Package (AMCUA CDP). AJaSC2 enables Army operational headquarters to integrate with the Joint Force Commands and Unified Action Partners (UAP). AJaSC2 provides Army leaders: Joint Common Operating Picture (COP); Adaptive planning and execution capabilities for distributed, synchronous and asynchronous collaboration services to develop, revise, and execute their warfighting plans supported by theaterwide analytics; strategic Situational Awareness (SA) to coalition operations and other mission partners and Coordination and synchronization of Joint Execution Mission Management.\n\nFiscal Year 2017 Base funding in the amount of $4.251 million supports initial development of Capability Packages."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Software Development and Systems Engineering"
+                                    },
+                                    "Description": {
+                                        "val": "Software Development and Systems Engineering of Capability Packages (Common Operating Environment (COE) System Engineering)"
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.341"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.341"
+                                            },
+                                            "Text": {
+                                                "val": "Supports initial software development and engineering support of Capability Packages."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Synchronization with COE and Command Post Computing Environment (CP CE) and Joint C2 objective Architecture"
+                                    },
+                                    "Description": {
+                                        "val": "Software ehancement efforts required to sync with COE\/CPCE and Joint C2 objective architecture"
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.510"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.510"
+                                            },
+                                            "Text": {
+                                                "val": "Software enhancement efforts required to synchronize with COE\/CPCE and Joint C2 objective Architecture"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Program Support and Management"
+                                    },
+                                    "Description": {
+                                        "val": "Program management includes overall management of program execution, major events, reporting, funds execution, contract management, and logistical support. Includes participation in program planning meetings and IPTs"
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.400"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.400"
+                                            },
+                                            "Text": {
+                                                "val": "Program Support and Management for AJaSC2"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "BA8250A"
+                                    },
+                                    "Title": {
+                                        "val": "BA8250  Army Global Cmd & Control Sys (AGCCS) - OPA"
+                                    },
+                                    "Funding": {
+                                        "BudgetYearThree": {
+                                            "val": "1.610"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "4.688"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "12.592"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "18.890"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "In accordance with the Army Mission Command for Unified Action (AMCUA) CDP approved December of 2014. The AMCUA CDP provides an overarching structure for future Army Mission Command systems, to include the successor of GCCS-A. The AMCUA initiative will meet the requirements to enable planning and share situational awareness within an interdependent enterprise services network comprised of Unified Action Partners (UAP) and sister service components to achieve integrated mission operations. The AMCUA CDP defines the Land Component-unique Mission Command (MC) capabilities that the Army will develop to enable unified action through integration with existing and future Joint and Service command and control applications. MC capability contributions will enable Joint Forces Land Component Command (JFLCC) Commanders to gain and maintain Situational Awareness (SA), make decisions, and exercise authority and direction via a flexible, distributive and seamless system.\n\nThe acquisition strategy for AJaSC2 consists of the development, testing and fielding of Capability Packages implemented over time and synchronized with Command Post Computing Environment infrastructure. AJaSC2 will utilize the \"Information Technology (IT) Box\" construct. As such, evolutionary development of the software will continue as defined Capability Packages to meet emerging requirements that fall within the bounds of the approved IT Box. AJaSC2 strategy will consist of agile application development which will utilize and leverage existing and emerging technologies from Programs of Record and Common Operating Environment (COE) infrastructure. The product development under this R-Form will be accomplished in part under a Project Manager, Mission Command engineering services contract approach which will consist of multiple prime contractors competitively bidding on development efforts."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Management"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.400"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.400"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.400"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Software Development and Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.341"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.341"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.341"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Synchronization with COE, CP CE, and Joint C2"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.510"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.510"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.510"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "98191-68.png"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "AJaSC2 MDD"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Build Decision Milestone B"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "AJaSC2 Development (CPs #1-6)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Test and Integration (CPs #1-6)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2021"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

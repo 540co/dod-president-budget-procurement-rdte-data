@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2015</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2014-03</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Department of Defense Education Activity</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>DODEA P-1C.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateR1>true</jb:GenerateR1>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+        <jb:IncludeTableOfVolumes>true</jb:IncludeTableOfVolumes>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions" manufacturerRateUnits="Monthly">
+            <proc:LineItemNumber>30</proc:LineItemNumber>
+            <proc:LineItemTitle>Major Equipment, Automation/Educational Support &amp; Logistics</proc:LineItemTitle>
+            <proc:P1LineNumber>22</proc:P1LineNumber>
+            <proc:BudgetYear>2015</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2014-03</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Department of Defense Education Activity</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>26</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, DODEA</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:TotalCost>
+                    <proc:AllPriorYears>2.887</proc:AllPriorYears>
+                    <proc:PriorYear>1.457</proc:PriorYear>
+                    <proc:CurrentYear>1.454</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>1.269</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>1.269</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1.308</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1.324</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1.323</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1.355</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalCost>
+                <proc:NetProcurementP1>
+                    <proc:AllPriorYears>2.887</proc:AllPriorYears>
+                    <proc:PriorYear>1.457</proc:PriorYear>
+                    <proc:CurrentYear>1.454</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>1.269</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>1.269</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1.308</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1.324</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1.323</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1.355</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:AllPriorYears>2.887</proc:AllPriorYears>
+                    <proc:PriorYear>1.457</proc:PriorYear>
+                    <proc:CurrentYear>1.454</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>1.269</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>1.269</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1.308</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1.324</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1.323</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1.355</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:Code>B</proc:Code>
+            <proc:Description>Program Overview
+
+The Department of Defense Dependents Education (DoDDE) programs are the Department of Defense Education Activity (DoDEA), the Family Advocacy/Assistance Program (FA/FAP).
+
+DoDEA is the Presidential and National showcase for education excellence.  The DoDEA provides a world-class education program that inspires and prepares all students in military communities around the world to be successful and responsible citizens in a dynamic global environment.  Courses of study in DoDEA schools are often more rigorous than those found in public schools in the United States.  The DoDEA schools’ diverse curriculum offerings fully support the DoDEA Community Strategic Plan.  DoDEA schools are an important quality of life issue for military families and impacts the level of military retention.  The DoDEA is a DoD field activity operating under the direction, authority and control of the Under Secretary of Defense for Personnel and Readiness (P&amp;R) and Deputy Under Secretary of Defense for Military Community and Family Policy (MC&amp;FP).  The DoDEA is comprised of the Management Headquarters, the Consolidated School Support, the Department of Defense Dependents Schools (DoDDS), and the DoD Domestic Dependent Elementary and Secondary Schools (DDESS).
+
+Purpose and Scope of Work
+
+To provide resources necessary to replace mission essential systems and to procure new investments items required to perform Enterprise management of DoDEAs educational technology and administrative information systems.</proc:Description>
+            <proc:Justification>Resources are required to:
+
+PRIORITY 1: Purchase an Enterprise capability for Wide Area Network (WAN) optimization to include Quality of Service (QOS) controls across the OSI 7-Layer Spectrum.  This requirement is intended to cover all 196 DoDEA schools around the world.
+
+PRIORITY 2: Purchase a single Enterprise Point-of-Entry (POE) capability for the availability monitoring of systems and web applications across DoDEA.
+
+PRIORITY 3: Purchase a replacement of a worldwide Enterprise Messaging System to ensure that communication between offices and schools continue to be secure and reliable.</proc:Justification>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

@@ -1,0 +1,173 @@
+{
+    "id": "9b607a6b2224349d9d5a3db4d34d06337c108ed0",
+    "meta": {
+        "filename": "dod-2016_PROCUREMENT_2016_NAVY_AIRCRAFT_BA1-4_PROCUREMENT_JustificationBook_Navy_PB_2016.zzz_unzipped_PROCUREMENT_JustificationBook_Navy_PB_2016.xml",
+        "budget_year": "2016",
+        "budget_cycle": "PB",
+        "submission_date": "2015-02",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1506N",
+        "appropriation_name": "Aircraft Procurement, Navy"
+    },
+    "record": {
+        "@APOnlyFlag": "true",
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Yearly",
+        "LineItemNumber": {
+            "val": "0158"
+        },
+        "LineItemTitle": {
+            "val": "CH-53K (Heavy Lift)"
+        },
+        "BudgetYear": {
+            "val": "2016"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2015-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationNumber": {
+            "val": "1506N"
+        },
+        "AppropriationTitle": {
+            "val": "Aircraft Procurement, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "1"
+        },
+        "BudgetActivityTitle": {
+            "val": "Combat Aircraft"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "1"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Combat Aircraft"
+        },
+        "ResourceSummary": {
+            "CYAdvanceProcurement": {
+                "BudgetYearOneBase": {
+                    "val": "41.3"
+                },
+                "BudgetYearOne": {
+                    "val": "41.3"
+                }
+            },
+            "TotalObligationAuthority": {
+                "BudgetYearOneBase": {
+                    "val": "41.3"
+                },
+                "BudgetYearOne": {
+                    "val": "41.3"
+                }
+            }
+        },
+        "Code": {
+            "val": "B"
+        },
+        "OtherRelatedProgramElementList": {
+            "ProgramElementNumber": [
+                {
+                    "val": "0605212N"
+                }
+            ]
+        },
+        "MDAPCode": {
+            "val": "390"
+        },
+        "AdvanceProcurement": {
+            "P1LineNumber": {
+                "val": "7"
+            },
+            "Description": {
+                "val": "The CH-53K is a marinized heavy-lift helicopter replacing the Marine Corps CH-53E, introduced in 1980.  The CH-53 mission is the conduct of expeditionary heavy-lift assault transport of armored vehicles, equipment and personnel to support distributed operations deep inland from a sea-based center of operations.  The CH-53K King Stallion is designed to support Marine Air-Ground Task Force heavy-lift requirements in the 21st century joint environment, and is the only heavy-lift platform that can lift the Marine Air-Ground Task Force ashore in the 21st century environment. The CH-53K provides improvements in range and payload, performance, cargo handling, turn-around times, reliability and maintainability, interoperability and survivability. \nTotal procurement quantities for the CH-53K program are 194 APN funded aircraft."
+            },
+            "Justification": {
+                "val": "Advance Procurement (AP) is required in FY 2016 for long lead material associated with the procurement of two Low Rate Initial Production aircraft in FY 2017.\nThe AP will be used to procure long lead contractor furnished material and aircraft components with a production lead time of 12 months or more.  These long lead requirements are essential to establishing and maintaining a production schedule in support of the Marine Aviation Plan and Marine Air-Ground Task Force CH-53E replacement schedule."
+            }
+        },
+        "ItemExhibitList": {
+            "P5Item": [
+                {
+                    "Name": {
+                        "val": "CH-53K (Heavy Lift)"
+                    },
+                    "ItemNumber": {
+                        "val": "1"
+                    },
+                    "ResourceSummary": {
+                        "CYAdvanceProcurement": {
+                            "BudgetYearOneBase": {
+                                "val": "41.3"
+                            },
+                            "BudgetYearOne": {
+                                "val": "41.3"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "BudgetYearOneBase": {
+                                "val": "41.3"
+                            },
+                            "BudgetYearOne": {
+                                "val": "41.3"
+                            }
+                        }
+                    },
+                    "P10AdvanceProcurement": {
+                        "FirstSystemAwardDate": {
+                            "val": "2016-11"
+                        },
+                        "FirstSystemCompletionDate": {
+                            "val": "2019-10"
+                        },
+                        "IntervalBetweenSystems": {
+                            "val": "3"
+                        },
+                        "Description": {
+                            "val": "The AP will be used to procure long lead contractor furnished material and aircraft components with a production lead time of 12 months or more.  These long lead requirements are essential to establishing and maintaining a production schedule in support of the Marine Aviation Plan and Marine Air-Ground Task Force CH-53E replacement schedule."
+                        },
+                        "APCostElementCategoryList": {
+                            "CFE": {
+                                "APCostElement": [
+                                    {
+                                        "Name": {
+                                            "val": "FY17 Long Lead"
+                                        },
+                                        "WhenRequiredInMonths": {
+                                            "val": "0"
+                                        },
+                                        "QuantityPerAssembly": {
+                                            "val": "0"
+                                        },
+                                        "Cost": {
+                                            "BudgetYearOne": {
+                                                "val": "41.3"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "CategorySubtotal": {
+                                    "BudgetYearOne": {
+                                        "val": "41.3"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "total"
+            }
+        }
+    }
+}

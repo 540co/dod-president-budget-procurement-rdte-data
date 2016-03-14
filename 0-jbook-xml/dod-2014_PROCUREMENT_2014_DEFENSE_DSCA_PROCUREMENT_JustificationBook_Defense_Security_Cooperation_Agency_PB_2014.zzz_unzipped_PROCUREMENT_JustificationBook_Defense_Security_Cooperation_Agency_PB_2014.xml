@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2014</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2013-04</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Defense Security Cooperation Agency</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>P-1 Reports.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement" targetSchemaVersion="PB2014.1.0">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>20</proc:LineItemNumber>
+            <proc:LineItemTitle>Equipment</proc:LineItemTitle>
+            <proc:P1LineNumber>20</proc:P1LineNumber>
+            <proc:BudgetYear>2014</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2013-04</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Defense Security Cooperation Agency</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>24</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, Defense Security Cooperation Agency</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>0.971</proc:PriorYear>
+                    <proc:BudgetYearOneBase>0.978</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>0.978</proc:BudgetYearOne>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>0.971</proc:PriorYear>
+                    <proc:BudgetYearOneBase>0.978</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>0.978</proc:BudgetYearOne>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>0.971</proc:PriorYear>
+                    <proc:BudgetYearOneBase>0.978</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>0.978</proc:BudgetYearOne>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:OtherRelatedProgramElementList>
+                <proc:ProgramElementNumber>0800101T</proc:ProgramElementNumber>
+            </proc:OtherRelatedProgramElementList>
+            <proc:Description>Funding allows for the (1) Asia Pacific Center for Stragetic Studies (APCSS) Rooftop Photovoltaic (PV) installation. Contract for and install grid-connected PV systems consisting of rooftop solar panels, a central outdoor grid-tie inverter, and monitoring, metering, interconnection and maintenance services.  (2) The continuance of Regional Centers (RC) life cycle replacement of ADP equipment.
+</proc:Description>
+            <proc:DocumentAssemblyOptions/>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

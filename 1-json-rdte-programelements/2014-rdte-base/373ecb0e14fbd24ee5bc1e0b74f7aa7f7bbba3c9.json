@@ -1,0 +1,2294 @@
+{
+    "id": "373ecb0e14fbd24ee5bc1e0b74f7aa7f7bbba3c9",
+    "meta": {
+        "filename": "dod-2014_RDTE_2014_ARMY_BA5A_RDTE_JustificationBook_Army_PB_2014.zzz_unzipped_RDTE_JustificationBook_Army_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0604760A"
+        },
+        "ProgramElementTitle": {
+            "val": "Distributive Interactive Simulations (DIS) - Eng Dev"
+        },
+        "R1LineItemNumber": {
+            "val": "100"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "15.357"
+            },
+            "CurrentYear": {
+                "val": "13.926"
+            },
+            "BudgetYearOne": {
+                "val": "14.575"
+            },
+            "BudgetYearOneBase": {
+                "val": "14.575"
+            },
+            "BudgetYearTwo": {
+                "val": "14.647"
+            },
+            "BudgetYearThree": {
+                "val": "15.042"
+            },
+            "BudgetYearFour": {
+                "val": "15.365"
+            },
+            "BudgetYearFive": {
+                "val": "15.616"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "Change Summary Explanation: Funding realigned for C78 One Semi-Automated Forces and C77 Army Geospatial Data Master Plan requirements."
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The program element \"Distributive Interactive Simulations - Engineering Development\" applies to the Army's Advanced Simulation Program, which enables operational readiness and the development of concepts and systems for the Future Force through the application of new simulation technology and techniques.  The development and application of simulation technology will provide the means to link electronically a range of various simulation tools in a manner that is transparent to the user.  The amalgam of simulations and tools is linked together to enable execution of an event; to verify the scenarios, tactics\/techniques and procedures; to train testers on new hardware\/software; and to conduct trial test runs before costly live field tests.  The tools developed are available for reuse by developers and users of simulations throughout the Army.  \n\nProject C74 provides the resources necessary to perform the formally chartered mission of the Army's Simulation-to-C4I* Interoperability Overarching Integrated Product Team (SIMCI OIPT).  (*C4I = Command, Control, Communications, Computers and Intelligence.)  Project C77, Army Geospatial Data Master Plan, focuses on activities that start with data acquisition from multiple sources and culminate in (1) accurate, robust and timely geospatial data and data management and (2) integration and conversion tools that support multiple battle command, training and mission-rehearsal applications.  Project C78 develops the One Semi-Automated Forces (OneSAF) program, which will combine and improve the functionality and behaviors of several current semi-automated forces to provide a single SAF for Army use in simulations.  \n\nFY 2014 funding for Project C74 continues management of the SIMCI OIPT's Army-wide collaborative, interoperability enhancement activities, including architecture alignment, data model alignment, common standards, components, and products. Project C77 has no FY 2013 funding.  Project C78 continues development of software as required to provide OneSAF Pre-Planned Product Improvements (P3Is) as prioritized and approved by the Training and Doctrine Command."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "15.787"
+                },
+                "CurrentYear": {
+                    "val": "13.926"
+                },
+                "BudgetYearOne": {
+                    "val": "13.920"
+                },
+                "BudgetYearOneBase": {
+                    "val": "13.920"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "15.357"
+                },
+                "CurrentYear": {
+                    "val": "13.926"
+                },
+                "BudgetYearOne": {
+                    "val": "14.575"
+                },
+                "BudgetYearOneBase": {
+                    "val": "14.575"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.430"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.655"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.655"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "-0.024"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.406"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "0.655"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "0.655"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "C74"
+                    },
+                    "ProjectTitle": {
+                        "val": "Devel Simulation Tech"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "3.540"
+                        },
+                        "CurrentYear": {
+                            "val": "2.206"
+                        },
+                        "BudgetYearOne": {
+                            "val": "1.476"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "1.476"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "1.740"
+                        },
+                        "BudgetYearThree": {
+                            "val": "1.745"
+                        },
+                        "BudgetYearFour": {
+                            "val": "1.870"
+                        },
+                        "BudgetYearFive": {
+                            "val": "1.901"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Project C74 funds the HQDA-chartered mission of the Simulation-to-Mission Command Interoperability (SIMCI) Overarching Integrated Product Team (OIPT). The SIMCI OIPT mission is to provide policy recommendations to Army senior leadership to improve organizations by allowing Soldiers to fight in the same manner which they train. This is accomplished by interoperability between Mission Command (MC) systems and the Modeling and Simulation (M&S) systems the Army uses to stimulate MC systems for training Soldiers and their Leaders. SIMCI also invests in targeted solutions to critical problem areas that exist between MC and Simulations. The SIMCI OIPT, led by Program Executive Office (PEO) Simulation, Training, and Instrumentation (STRI) and PEO Command Control Communications-Tactical (C3T), uses focused collaborative processes among its 30+ Army organizations to identify key\/critical interoperability shortfalls and the required materiel solutions.\n\nThe SIMCI OIPT provides the following: (1) Advisor to Army Leadership--improve MC and M&S interoperability programs, policies, directives, resourcing, and procedures; (2) Technical Investment--sponsor\/support initiatives that seek common solutions to critical interoperability issues surrounding MC and M&S systems; (3) Outreach--conduct & participate in interoperability outreach activities. SIMCI investments consist primarily of cost-sharing initiatives, leveraging initial system solutions of acquisition programs to enhance the interoperability of multiple systems in the Joint Operational Environment. SIMCI investments accelerate implementation within MC and M&S systems, of common data models and information exchanges that are used by other Services and coalition nations, thus enhancing the inherent ability of Army systems to interoperate seamlessly in a Joint, Interagency, Intergovernmental, and Multinational (JIIM) environment.  \n\nFY 2014 funding continues management of the SIMCI OIPT'S Army-wide collaborative, interoperability enhancement activities, including architecture alignment, data model alignment, common standards, components, and products. It is focused first on reducing costs and improving capabilities in the areas of automating Operational Plans, Orders, and Reports in support of Army, Joint, and Coalition operations.  Objectives are: identify and articulate to HQDA senior leadership specific standards that require Army-wide implementation; co-develop data standards, architecture standards, implementation specifications and Joint\/Coalition products; continue transition of SIMCI knowledge and proof-of-principle products to Army and Joint acquisition programs."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Program Management for the SIMCI Overarching Integrated Product Team (OIPT) Projects."
+                                    },
+                                    "Description": {
+                                        "val": "Program Management of the SIMCI OIPT's Army-wide collaborative, interoperability enhancement activities, including architecture alignment, data model alignment, common standards, components, and products."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.454"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continues management of the SIMCI OIPT'S Army-wide collaborative, interoperability enhancement activities, including architecture alignment, data model alignment, common standards, components, and products.  It is focused first on reducing costs and improving capabilities in the areas of automating Operational Plans, Orders, and Reports in support of Army, Joint, and Coalition operations.  Objectives are: identify and articulate to HQDA senior leadership specific standards that require Army-wide implementation; co-develop data standards, architecture standards, implementation specifications and Joint\/Coalition products; co-develop Mission Command (MC) and Modeling & Simulation (M&S) products to support PEO Integration; continue transition of SIMCI knowledge and proof-of-principle products to Army and Joint acquisition programs."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.206"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continues management of the SIMCI OIPT'S Army-wide collaborative, interoperability enhancement activities, including architecture alignment, data model alignment, common standards, components, and products.  It is focused first on reducing costs and improving capabilities in the areas of automating Operational Plans, Orders, and Reports in support of Army, Joint, and Coalition operations.  Objectives are: identify and articulate to HQDA senior leadership specific standards that require Army-wide implementation; co-develop data standards, architecture standards, implementation specifications and Joint\/Coalition products; co-develop MC\/M&S products to support PEO Integration; continue transition of SIMCI knowledge and proof-of-principle products to Army and Joint acquisition programs."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.476"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.476"
+                                            },
+                                            "Text": {
+                                                "val": "Continues management of the SIMCI OIPT'S Army-wide collaborative, interoperability enhancement activities, including architecture alignment, data model alignment, common standards, components, and products. It is focused first on reducing costs and improving capabilities in the areas of automating Operational Plans, Orders, and Reports in support of Army, Joint, and Coalition operations.  Objectives are: identify and articulate to HQDA senior leadership specific standards that require Army-wide implementation; co-develop data standards, architecture standards, implementation specifications and Joint\/Coalition products; continue transition of SIMCI knowledge and proof-of-principle products to Army and Joint acquisition programs."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Small Business Innovative Research\/Small Business Technology Transfer Programs (SBIR\/STTR)"
+                                    },
+                                    "Description": {
+                                        "val": "SBIR\/STTR"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.086"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Small Business Innovative Research\/Small Business Technology Transfer Programs (SBIR\/STTR)"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "SIMCI OIPT resources are allocated to multiple organizations in both the Mission Command (MC) and Modeling and Simulation (M&S) Communities.  The funds are contracted to execute approved functions and to projects that advance the efforts of SIMCI and components-based architecture alignment.  Products developed transition to the lead or sponsor's program which then maintains the product for the cost savings of itself and other programs in both Communities."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Performance metrics used in the preparation of this justification material may be found in the FY 2010 Army Performance Budget Justification Book, dated May 2010."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PEO STRI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "9.284"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.216"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.183"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.183"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "SBIR\/STTR"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PEO STRI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.086"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.086"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Transition of simulation initialization capability"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JCW"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Suffolk, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.461"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.373"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.193"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.142"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.142"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Geospatial Initiative"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GMU"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fairfax, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.028"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.360"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.215"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.147"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.147"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Data Model applications and reference implementations"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Viecore FSD, George Mason Univ,"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft. Monmouth, NJ"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.912"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.451"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.144"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.095"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.095"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Implementation of Initialization Products"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Alion Science & Technology"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Tysons Corner, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.795"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.460"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.150"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.103"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.103"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Initialization Study Implementation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "IDA"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Alexandria, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.710"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.300"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.170"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.119"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.119"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Mission Comand systems data mediation\/web services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NVESD, CERDEC, AGC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.419"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.191"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.095"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.095"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Expanding MTOE System Architecture (SA) Data"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "General Dynamics"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.619"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.202"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.821"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "1.829"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "C2 Adapter Web Services and Tools"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PEO STRI & ACG"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.918"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.442"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.225"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.125"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.125"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "SIMCI Program\/OIPT Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Alion Science & Technology"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.541"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.400"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.650"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.408"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.408"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Army Initialization Program and Technical Work Groups (TWG)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Alion Science & Tecnology"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.522"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.059"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.059"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.059"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.059"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "C77"
+                    },
+                    "ProjectTitle": {
+                        "val": "Army Geospatial Data Master Plan"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.468"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.722"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.722"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.706"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.718"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.730"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.741"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Project C77 addresses the implementation and acceleration of objectives of the Army Geospatial Data Integrated Master Plan (AGDIMP), approved by the Chief of Staff, Army in April 2005.  The AGDIMP provides the framework for generating, analyzing and distributing geospatial data for battle management operations, training, and mission rehearsal.  The AGDIMP also provides the procedures for identifying and refining Army geospatial resource requirements.  Geospatial data provide soldiers with the framework and background for displaying the location of friendly and enemy forces and the location of other critical features on the battlefield.  Geospatial data -- used in Army command and control systems, course of action analysis, mission rehearsal tools, simulators and simulations -- provide insights on how the physical environment will impact combat operations.  This minimizes exposure of soldiers to hostile environments.  The AGDIMP describes the operations for a complete, integrated network-centric enterprise for managing and updating geospatial data required for the Army's Future Force.  Although this plan encompasses most of the issues of an enterprise solution for geospatial needs and concerns, it does not contain the full level of detail or complexity required to be considered complete.  The AGDIMP includes all activities starting with data acquisition from multiple sources (including raw sensor feeds from national sensors to soldier\/platform level) and concluding with accurate, robust, and timely geospatial (terrain-related) data management, integration, and conversion tools that support multiple battle command, training, and mission-rehearsal applications.  The AGDIMP does not include the algorithms and functions used by the applications themselves to produce finished battle command or intelligence products.  The AGDIMP will become part of a much larger effort to integrate geospatial activities across all Services while documenting the complex framework for a \"net ready\" geospatial information and service architecture, an environment in which the Army's current and future forces must operate to achieve information dominance within the total battle space.  This larger effort is currently being developed in conjunction with the Joint Forces Command and the other Services, including Special Operations Command.\n\nFY 2014 funding continues development efforts associated with the Ground-Warfighter Geospatial Data Model(GGDM) and Geospatial Data Standards."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Ground-Warfighter Geospatial Data Model (GGDM) formerly Army Geospatial Data Model (AGDM)"
+                                    },
+                                    "Description": {
+                                        "val": "The GGDM incorporates common data elements that conform to standards mandated by the Department of Defense Information Technology Standards Registry (DISR) for the National System for Geospatial Intelligence (NSG).  Incorporating common geospatial data standards into the GGDM makes the Programs of Record (POR) consistent with new DISR-mandated geospatial intelligence standards for the NSG."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.232"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Contribute to the development of the Army Geospatial Data Model version 2.1"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.350"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.350"
+                                            },
+                                            "Text": {
+                                                "val": "Perform data modeling actions necessary to develop the next version of the GGDM (ver 2.2.) including aligning content from Aviation, Human Geography and adding and aligning new content from NGA's 8 domain data stores."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Geospatial Data Standards"
+                                    },
+                                    "Description": {
+                                        "val": "Army Geospatial Standards including data standards and standards for services to manage process and disseminate and utilized geospatial data."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.236"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Develop geospatial data standards and integrate geospatial data into the Battle Command (BC) systems."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.372"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.372"
+                                            },
+                                            "Text": {
+                                                "val": "FY14 funds will be directed toward the development and consistent integration of geospatial enterprise data standards, including standard practices for production and management of geospatial data, into Army Mission Command, Simulation and Training programs, systems and organizations."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Resources are allocated to multiple organizations for approval and execution of projects in support of the Army Geospatial Data Integrated Master Plan (AGDIMP)."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Performance metrics used in the preparation of this justification material may be found in the FY 2010 Army Performance Budget Justification Book, dated May 2010."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Army Geospatial Model and Data Standards"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.114"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.468"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.722"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.722"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "4.304"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "3.614"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "C78"
+                    },
+                    "ProjectTitle": {
+                        "val": "One Semi-Automated Forces"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "11.349"
+                        },
+                        "CurrentYear": {
+                            "val": "11.720"
+                        },
+                        "BudgetYearOne": {
+                            "val": "12.377"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "12.377"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "12.201"
+                        },
+                        "BudgetYearThree": {
+                            "val": "12.579"
+                        },
+                        "BudgetYearFour": {
+                            "val": "12.765"
+                        },
+                        "BudgetYearFive": {
+                            "val": "12.974"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "One Semi-Automated Forces (OneSAF) develops and delivers a software system that represents activities of units and forces in simulation.  This representation is used to support the concept evaluation, experimentation, materiel acquisition and training communities.  The focus of this project is systems engineering and design for development and evolution of the architecture and software tools for a universal system of Army computer-generated forces -- OneSAF.  OneSAF is a high fidelity brigade-and-below SAF that represents a full range of operations, systems and control processes in support of stand-alone and embedded training and Research, Development and Acquisition (RDA) simulation applications.  OneSAF is fully interoperable with the Army's emerging virtual, live, and division-and-above constructive simulations and provides next-generation simulation products.  OneSAF replaces a variety of legacy simulations currently used within the Army to support analytic and training simulation activities.  \n\nFY 2014 funding will continue development of the software product line by providing OneSAF Pre-Planned Product Improvements (P3Is) as prioritized and approved by the OneSAF Project Office - Training and Doctrine Command (TRADOC)."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Engineering and Manufacturing Development (EMD) phase contract activities for the One Semi-Automated Forces program."
+                                    },
+                                    "Description": {
+                                        "val": "Continue EMD phase contract activities for the OneSAF program."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "7.970"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Provided for the development of software for OneSAF Pre-Planned Product Improvements (P3Is) as prioritized and approved by the Training and Doctrine Command (TRADOC) Project Office.  Executed software development of functionality to provide architectural services, components, synthetic environment and infrastructure capable of supporting initial model development. Completed development, test and release of Version 5.1.1 and Version 5.5."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "8.120"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue the development of software capabilities to provide OneSAF Pre-Planned Product Improvements (P3Is) as prioritized and approved by the Training and Doctrine Command (TRADOC) Project Office.  Continue software development of functionality to enhance architectural services, components, synthetic environment and infrastructure capable of supporting model development. Perform Software development, test and release of Version 6.0"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "8.772"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "8.772"
+                                            },
+                                            "Text": {
+                                                "val": "Continues the development of software capabilities to provide OneSAF Pre-Planned Product Improvements (P3Is) as prioritized and approved by Training and Doctrine Commands (TRADOC) OneSAF Project Office.  Continues enhancement of functionality of architectural services, components, the synthetic environment and infrastructure capable of supporting model development. Performs Software development, test and release of Version 7.0."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Government System Test and Evaluation for the One Semi-Automated Forces program."
+                                    },
+                                    "Description": {
+                                        "val": "Government System Test and Evaluation for the OneSAF program."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.965"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Perform development software, test, release and verification for Version 5.1.1 and 5.5.  Provide support to the user community in conducting experiments and validation events as needed for continued integration into the Joint Land Component Constructive Training Capability (JLCCTC) federation and Live Virtual Constructive (LVC) applications."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.100"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Perform development software, test, release and verification for Version 6.0.  Provide support to the user community in conducting experiments and validation events as needed for integration into the JLCCTC federation and LVC applications."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.200"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.200"
+                                            },
+                                            "Text": {
+                                                "val": "Perform software development, test, integration, release and verification for Version 7.0. Continue to provide support to the user community in conducting experiments and validation events as needed for integration into the JLCCTC federation and LVC applications"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Government Program Management for the OneSemi-Automated Forces (OneSAF) program."
+                                    },
+                                    "Description": {
+                                        "val": "Government Program Management for the OneSAF program."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.414"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "The Government Program Management Office for OneSAF supports the design, development and integration of OneSAF Versions 5.1.1 and 5.5.  Provides for government manpower, facilities, training, operations and maintenance of the OneSAF infrastructure."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.500"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Provides for Government Program Management Office support of the development and integration of OneSAF version 6.0.  Funding supports manpower, facilities, training, operations and maintenance and other infrastructure."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.405"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.405"
+                                            },
+                                            "Text": {
+                                                "val": "Provides for Government Program Management Office support for the development and integration of OneSAF Version 7.0 scheduled for release in FY 14.  Funding also supports manpower, facilities, training, operations and maintenance and other infrastructure requirements across the OneSAF Program."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OMA"
+                                    },
+                                    "Title": {
+                                        "val": "OMA,  121014000"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "3.930"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "4.232"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "5.043"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "5.043"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "5.028"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "5.141"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "5.224"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "5.313"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryRemarks": {
+                            "val": "OMA funds provide for maintenance of existing OneSAF product line to include life cycle software support and OneSAF TRADOC Project Office (TPO)."
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Continue the yearly release of the OneSAF Software (SW) versions containing performance enhancements resulting from the development and integration of both approved Product Improvements and Co-Developer handovers. PM OneSAF continues to manage two Delivery Orders for the Development, Integration, Interoperability, and Support (I2S) of capabilities products, data, and documentation that fully serves the current and evolving needs of the user community.\n\nThe enhancements will be executed within the development line as modifications to the released baseline via Engineering Change Proposals (ECPs); Change Requests (CRs): Pre-Planned Product Improvements (P3I); and correction of deficiencies identified as Problem Test Reports (PTRs) and Deficiency Reports (DRs) by the user community. \n\t\nThe Development Delivery Order is primarily focused on capability enhancements within the OneSAF Product Line.  The key objectives here are to develop the capabilities needed to execute the OneSAF production line and deliver OneSAF SW product line, data, and documentation to meet the needs of the growing user community.  These software products will include capabilities supporting the requirements of the OneSAF program; other US Army PEOs and PMs, TRADOC Battle Labs, Research and Development Centers (RDECs) and agencies; other Service and Joint agencies; Foreign Countries; non Department of Defense government organizations and agencies; academic institutions and other Co-Developers. \n\nThe I2S Delivery Order is primarily focused on the Configuration Management and Control of the released OneSAF Product Line and executes the overarching OneSAF integration, interoperability and support efforts required for delivery of OneSAF SW, data and documentation products to the User Community.  It also provides the Conceptual Modeling, Architectural and Engineering support to the OneSAF Co-Developers as required to support their OneSAF SW product deliveries; the training products and support required by the OneSAF user community; and integration of capabilities. \n\n."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Performance metrics used in the preparation of this justification material may be found in the FY 2010 Army Performance Budget Justification Book, dated May 2010."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PEO STRI, Orlando, FL"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "15.481"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.414"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.405"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.405"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Architecture Dev & System Integration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Science Applications International Corp"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "51.466"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "51.466"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "51.466"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Model and Tools Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Science Applications International Corp"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "27.625"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "27.625"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "27.625"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Environmental Runtime Component"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Science\nApplications"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "7.981"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "7.981"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "7.981"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "OneSAF Component Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "9.648"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "9.648"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "9.648"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Integrated Environment Dev"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Advanced Systems Technology, Inc"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "11.702"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "11.702"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "11.702"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "OneSAF Bridge Contract"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Science Applications International Corp"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.797"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.797"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "3.797"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Integration, Interoperability, and Support (I2S)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Cole Engineering Services, Inc."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.350"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.650"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Software Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Science Applications International Corp"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Orlando, FL"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.150"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "5.354"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "4.310"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "5.222"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "5.222"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "System Analysis"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.937"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.160"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Domain Analysis"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.175"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.150"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.150"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Architecture Engr & Tech Spt"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE FFRDC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft. Monmouth, NJ"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.616"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.360"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.360"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.400"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.400"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Integrated Development Environment"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.260"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.246"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.300"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.300"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "OneSAF integration, evaluation and test"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "7.714"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.765"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.900"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.950"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.950"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "OneSAF Verification, Validation & Accreditation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "6.147"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "OneSAF Version Release 5.5"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "OneSAF Version Release 6.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "OneSAF Version Release 7.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "OneSAF Version Release 8.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "OneSAF Version Release 9.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "OneSAF Version Release 10.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "OneSAF Version Release 11.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

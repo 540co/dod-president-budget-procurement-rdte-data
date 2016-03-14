@@ -1,0 +1,1561 @@
+{
+    "id": "6cde838207077945b334669140031fdb5555333d",
+    "meta": {
+        "filename": "dod-2016_PROCUREMENT_2016_ARMY_WTCV_PROCUREMENT_JustificationBook_Army_PB_2016.zzz_unzipped_PROCUREMENT_JustificationBook_Army_PB_2016.xml",
+        "budget_year": "2016",
+        "budget_cycle": "PB",
+        "submission_date": "2015-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2033A",
+        "appropriation_name": "Procurement of W&TCV, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Yearly",
+        "LineItemNumber": {
+            "val": "GC0401"
+        },
+        "LineItemTitle": {
+            "val": "M119 Modifications"
+        },
+        "P1LineNumber": {
+            "val": "30"
+        },
+        "BudgetYear": {
+            "val": "2016"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2015-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2033A"
+        },
+        "AppropriationTitle": {
+            "val": "Procurement of W&TCV, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Weapons and Other Combat Vehicles"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "20"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Mod of Weapons and Other Combat Veh"
+        },
+        "ResourceSummary": {
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "213.288"
+                },
+                "PriorYear": {
+                    "val": "22.207"
+                },
+                "CurrentYear": {
+                    "val": "72.718"
+                },
+                "BudgetYearOneBase": {
+                    "val": "20.599"
+                },
+                "BudgetYearOne": {
+                    "val": "20.599"
+                },
+                "BudgetYearTwo": {
+                    "val": "3.894"
+                },
+                "BudgetYearThree": {
+                    "val": "3.925"
+                },
+                "BudgetYearFour": {
+                    "val": "4.921"
+                },
+                "BudgetYearFive": {
+                    "val": "5.465"
+                },
+                "Total": {
+                    "val": "347.017"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "213.288"
+                },
+                "PriorYear": {
+                    "val": "22.207"
+                },
+                "CurrentYear": {
+                    "val": "72.718"
+                },
+                "BudgetYearOneBase": {
+                    "val": "20.599"
+                },
+                "BudgetYearOne": {
+                    "val": "20.599"
+                },
+                "BudgetYearTwo": {
+                    "val": "3.894"
+                },
+                "BudgetYearThree": {
+                    "val": "3.925"
+                },
+                "BudgetYearFour": {
+                    "val": "4.921"
+                },
+                "BudgetYearFive": {
+                    "val": "5.465"
+                },
+                "Total": {
+                    "val": "347.017"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "213.288"
+                },
+                "PriorYear": {
+                    "val": "22.207"
+                },
+                "CurrentYear": {
+                    "val": "72.718"
+                },
+                "BudgetYearOneBase": {
+                    "val": "20.599"
+                },
+                "BudgetYearOne": {
+                    "val": "20.599"
+                },
+                "BudgetYearTwo": {
+                    "val": "3.894"
+                },
+                "BudgetYearThree": {
+                    "val": "3.925"
+                },
+                "BudgetYearFour": {
+                    "val": "4.921"
+                },
+                "BudgetYearFive": {
+                    "val": "5.465"
+                },
+                "Total": {
+                    "val": "347.017"
+                }
+            }
+        },
+        "Code": {
+            "val": "A"
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "12.974"
+                                },
+                                "CurrentYear": {
+                                    "val": "44.105"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "12.359"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "12.359"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "2.336"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "2.355"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "2.953"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "3.279"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "Name": {
+                            "val": "Army National Guard"
+                        },
+                        "Cost": {
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "9.233"
+                                },
+                                "CurrentYear": {
+                                    "val": "28.613"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "8.24"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "8.24"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "1.558"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "1.57"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "1.968"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "2.186"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "TotalCost": {
+                    "PriorYear": {
+                        "val": "22.207"
+                    },
+                    "CurrentYear": {
+                        "val": "72.718"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "20.599"
+                    },
+                    "BudgetYearOne": {
+                        "val": "20.599"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "3.894"
+                    },
+                    "BudgetYearThree": {
+                        "val": "3.925"
+                    },
+                    "BudgetYearFour": {
+                        "val": "4.921"
+                    },
+                    "BudgetYearFive": {
+                        "val": "5.465"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "The M119A3 Towed Howitzer provides direct fire support for the Infantry Brigade Combat Teams. Funding in the M119 Modifications budget supports the application of modernization system enhancements.  Modifications to the howitzer include a Recoil System Capability Package, which will enhance survivability by replacing the Buffer and Recuperator in the recoil system and add suspension modifications.  A Power System Modification will replace current system batteries to increase power output and cold temperature performance.  The Training Devices modification products include M119A3 legacy desktop personal computer trainer, M119A3 desktop crew trainer, and M119A3 computer based trainer.  The durability modification provides for modified spades on the howitzers."
+        },
+        "Justification": {
+            "val": "FY 2016 Base procurement dollars in the amount of $20.599 million supports the procurement of Recoil Systems for 127 howitzers, Power System Modifications for 238 howitzers, Training Devices, and durability modifications.  The Recoil System modification will enhance durability of the howitzer and address deficiencies in the legacy recoil system.  The Training Devices modification provides for Training Aids, Devices, Simulators and Simulations (TADSS) products for use in training artillerymen and maintainers in the field and at school houses.  The Power System modification will increase system electrical power output and meet system operating requirements for low temperature environments.  The Durability modifications will increase system durability and decrease system weight.\n\nIAW Section 1815 of the FY 2008 NDAA this item is necessary for use by the active and reserve components of the Armed Forces for Homeland Defense missions, domestic emergency responses, and providing military support to civil authorities."
+        },
+        "ItemExhibitList": {
+            "P3AModificationItemGroup": [
+                {
+                    "ModificationTitle": {
+                        "val": "M119 Modifications"
+                    },
+                    "ModificationNumber": {
+                        "val": "GC0401"
+                    },
+                    "ModificationType": {
+                        "val": "Increase Performance"
+                    },
+                    "Model": {
+                        "val": "M119A2\/A3 Howitzer"
+                    },
+                    "PriorYearsDelta": {
+                        "Cost": {
+                            "val": "95.558"
+                        }
+                    },
+                    "ResourceSummary": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "213.288"
+                            },
+                            "PriorYear": {
+                                "val": "22.207"
+                            },
+                            "CurrentYear": {
+                                "val": "72.718"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearOne": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "3.894"
+                            },
+                            "BudgetYearThree": {
+                                "val": "3.925"
+                            },
+                            "BudgetYearFour": {
+                                "val": "4.921"
+                            },
+                            "BudgetYearFive": {
+                                "val": "5.465"
+                            },
+                            "Total": {
+                                "val": "347.017"
+                            }
+                        },
+                        "NetProcurementP1": {
+                            "AllPriorYears": {
+                                "val": "213.288"
+                            },
+                            "PriorYear": {
+                                "val": "22.207"
+                            },
+                            "CurrentYear": {
+                                "val": "72.718"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearOne": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "3.894"
+                            },
+                            "BudgetYearThree": {
+                                "val": "3.925"
+                            },
+                            "BudgetYearFour": {
+                                "val": "4.921"
+                            },
+                            "BudgetYearFive": {
+                                "val": "5.465"
+                            },
+                            "Total": {
+                                "val": "347.017"
+                            }
+                        },
+                        "TotalObligationAuthority": {
+                            "AllPriorYears": {
+                                "val": "213.288"
+                            },
+                            "PriorYear": {
+                                "val": "22.207"
+                            },
+                            "CurrentYear": {
+                                "val": "72.718"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearOne": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "3.894"
+                            },
+                            "BudgetYearThree": {
+                                "val": "3.925"
+                            },
+                            "BudgetYearFour": {
+                                "val": "4.921"
+                            },
+                            "BudgetYearFive": {
+                                "val": "5.465"
+                            },
+                            "Total": {
+                                "val": "347.017"
+                            }
+                        }
+                    },
+                    "SecondaryDistribution": {
+                        "ComponentList": {
+                            "Component": [
+                                {
+                                    "Name": {
+                                        "val": "Army Active"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "12.974"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "44.105"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "12.359"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "12.359"
+                                            },
+                                            "BudgetYearTwo": {
+                                                "val": "2.336"
+                                            },
+                                            "BudgetYearThree": {
+                                                "val": "2.355"
+                                            },
+                                            "BudgetYearFour": {
+                                                "val": "2.953"
+                                            },
+                                            "BudgetYearFive": {
+                                                "val": "3.279"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Army National Guard"
+                                    },
+                                    "Cost": {
+                                        "TotalCost": {
+                                            "PriorYear": {
+                                                "val": "9.233"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "28.613"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "8.24"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "8.24"
+                                            },
+                                            "BudgetYearTwo": {
+                                                "val": "1.558"
+                                            },
+                                            "BudgetYearThree": {
+                                                "val": "1.57"
+                                            },
+                                            "BudgetYearFour": {
+                                                "val": "1.968"
+                                            },
+                                            "BudgetYearFive": {
+                                                "val": "2.186"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "ModificationItemList": {
+                        "ModificationItem": [
+                            {
+                                "Title": {
+                                    "val": "Digitization"
+                                },
+                                "Procurement": {
+                                    "AKits": {
+                                        "Recurring": {
+                                            "KitList": {
+                                                "Kit": [
+                                                    {
+                                                        "Name": {
+                                                            "val": "Integration Prod\/Init Spares"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "AllPriorYears": {
+                                                                    "val": "393"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "38"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "71"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "502"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "AllPriorYears": {
+                                                                    "val": "83.36"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "11.498"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "22.347"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "117.205"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name": {
+                                                            "val": "Logistics & Fielding"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "AllPriorYears": {
+                                                                    "val": "0"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "AllPriorYears": {
+                                                                    "val": "8.148"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "1.95"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "3.785"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "13.883"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name": {
+                                                            "val": "Program Management"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "AllPriorYears": {
+                                                                    "val": "0"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "AllPriorYears": {
+                                                                    "val": "6.702"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "2.103"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "1.604"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "10.409"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name": {
+                                                            "val": "System Engineering"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "AllPriorYears": {
+                                                                    "val": "0"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "AllPriorYears": {
+                                                                    "val": "9.82"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "4.056"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "3.7"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "17.576"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name": {
+                                                            "val": "Engineering Change Orders (ECO)"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "AllPriorYears": {
+                                                                    "val": "0"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "AllPriorYears": {
+                                                                    "val": "9.7"
+                                                                },
+                                                                "PriorYear": {
+                                                                    "val": "2.6"
+                                                                },
+                                                                "CurrentYear": {
+                                                                    "val": "2.223"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "14.523"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "CategorySubtotal": {
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "117.73"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "22.207"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "33.659"
+                                                    },
+                                                    "Total": {
+                                                        "val": "173.596"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "CategorySubtotal": {
+                                            "TotalCost": {
+                                                "AllPriorYears": {
+                                                    "val": "117.73"
+                                                },
+                                                "PriorYear": {
+                                                    "val": "22.207"
+                                                },
+                                                "CurrentYear": {
+                                                    "val": "33.659"
+                                                },
+                                                "Total": {
+                                                    "val": "173.596"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "ManufacturerList": {
+                                        "Manufacturer": [
+                                            {
+                                                "Name": {
+                                                    "val": "Various"
+                                                },
+                                                "Location": {
+                                                    "val": "Various"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "TotalCost": {
+                                        "Quantity": {
+                                            "AllPriorYears": {
+                                                "val": "393"
+                                            },
+                                            "PriorYear": {
+                                                "val": "38"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "71"
+                                            },
+                                            "Total": {
+                                                "val": "502"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "AllPriorYears": {
+                                                "val": "117.73"
+                                            },
+                                            "PriorYear": {
+                                                "val": "22.207"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "33.659"
+                                            },
+                                            "Total": {
+                                                "val": "173.596"
+                                            }
+                                        }
+                                    }
+                                },
+                                "Installation": {
+                                    "ImplementationMethodList": {
+                                        "ImplementationMethod": [
+                                            {
+                                                "OrganicInstallation": {
+                                                    "ImplementationMethodName": {
+                                                        "val": "Organic"
+                                                    },
+                                                    "InstallationQuantity": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "Title": {
+                                    "val": "Recoil Capability Package"
+                                },
+                                "Procurement": {
+                                    "AKits": {
+                                        "Recurring": {
+                                            "KitList": {
+                                                "Kit": [
+                                                    {
+                                                        "Name": {
+                                                            "val": "Recoil System Upgrade"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "CurrentYear": {
+                                                                    "val": "375"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "127"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "127"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "502"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "CurrentYear": {
+                                                                    "val": "32.959"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "11.802"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "11.802"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "44.761"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "CategorySubtotal": {
+                                                "TotalCost": {
+                                                    "CurrentYear": {
+                                                        "val": "32.959"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "11.802"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "11.802"
+                                                    },
+                                                    "Total": {
+                                                        "val": "44.761"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "CategorySubtotal": {
+                                            "TotalCost": {
+                                                "CurrentYear": {
+                                                    "val": "32.959"
+                                                },
+                                                "BudgetYearOneBase": {
+                                                    "val": "11.802"
+                                                },
+                                                "BudgetYearOne": {
+                                                    "val": "11.802"
+                                                },
+                                                "Total": {
+                                                    "val": "44.761"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "ManufacturerList": {
+                                        "Manufacturer": [
+                                            {
+                                                "Name": {
+                                                    "val": "Various"
+                                                },
+                                                "Location": {
+                                                    "val": "Various"
+                                                },
+                                                "ContractDates": {
+                                                    "CurrentYear": {
+                                                        "val": "2015-04"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "2016-01"
+                                                    }
+                                                },
+                                                "DeliveryDates": {
+                                                    "CurrentYear": {
+                                                        "val": "2015-06"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "2016-03"
+                                                    }
+                                                },
+                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                    "val": "4"
+                                                },
+                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                    "val": "2"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "TotalCost": {
+                                        "Quantity": {
+                                            "CurrentYear": {
+                                                "val": "375"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "127"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "127"
+                                            },
+                                            "Total": {
+                                                "val": "502"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "CurrentYear": {
+                                                "val": "32.959"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "11.802"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "11.802"
+                                            },
+                                            "Total": {
+                                                "val": "44.761"
+                                            }
+                                        }
+                                    }
+                                },
+                                "Installation": {
+                                    "ImplementationMethodList": {
+                                        "ImplementationMethod": [
+                                            {
+                                                "OrganicInstallation": {
+                                                    "ImplementationMethodName": {
+                                                        "val": "Organic"
+                                                    },
+                                                    "InstallationQuantity": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "Title": {
+                                    "val": "Training Devices (TADSS)"
+                                },
+                                "Procurement": {
+                                    "AKits": {
+                                        "NonRecurring": {
+                                            "KitList": {
+                                                "Kit": [
+                                                    {
+                                                        "Name": {
+                                                            "val": "Training Devices"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "CurrentYear": {
+                                                                    "val": "0"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "0"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "0"
+                                                                },
+                                                                "BudgetYearTwo": {
+                                                                    "val": "0"
+                                                                },
+                                                                "BudgetYearThree": {
+                                                                    "val": "0"
+                                                                },
+                                                                "BudgetYearFour": {
+                                                                    "val": "0"
+                                                                },
+                                                                "BudgetYearFive": {
+                                                                    "val": "0"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "0"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "CurrentYear": {
+                                                                    "val": "1.1"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "4.647"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "4.647"
+                                                                },
+                                                                "BudgetYearTwo": {
+                                                                    "val": "3.894"
+                                                                },
+                                                                "BudgetYearThree": {
+                                                                    "val": "3.925"
+                                                                },
+                                                                "BudgetYearFour": {
+                                                                    "val": "2.496"
+                                                                },
+                                                                "BudgetYearFive": {
+                                                                    "val": "2.688"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "18.75"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "CategorySubtotal": {
+                                                "TotalCost": {
+                                                    "CurrentYear": {
+                                                        "val": "1.1"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "4.647"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "4.647"
+                                                    },
+                                                    "BudgetYearTwo": {
+                                                        "val": "3.894"
+                                                    },
+                                                    "BudgetYearThree": {
+                                                        "val": "3.925"
+                                                    },
+                                                    "BudgetYearFour": {
+                                                        "val": "2.496"
+                                                    },
+                                                    "BudgetYearFive": {
+                                                        "val": "2.688"
+                                                    },
+                                                    "Total": {
+                                                        "val": "18.75"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "CategorySubtotal": {
+                                            "TotalCost": {
+                                                "CurrentYear": {
+                                                    "val": "1.1"
+                                                },
+                                                "BudgetYearOneBase": {
+                                                    "val": "4.647"
+                                                },
+                                                "BudgetYearOne": {
+                                                    "val": "4.647"
+                                                },
+                                                "BudgetYearTwo": {
+                                                    "val": "3.894"
+                                                },
+                                                "BudgetYearThree": {
+                                                    "val": "3.925"
+                                                },
+                                                "BudgetYearFour": {
+                                                    "val": "2.496"
+                                                },
+                                                "BudgetYearFive": {
+                                                    "val": "2.688"
+                                                },
+                                                "Total": {
+                                                    "val": "18.75"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "ManufacturerList": {
+                                        "Manufacturer": [
+                                            {
+                                                "Name": {
+                                                    "val": "Organic"
+                                                },
+                                                "Location": {
+                                                    "val": "Various"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "TotalCost": {
+                                        "Quantity": {
+                                            "CurrentYear": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearTwo": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearThree": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearFour": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearFive": {
+                                                "val": "0"
+                                            },
+                                            "Total": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "CurrentYear": {
+                                                "val": "1.1"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "4.647"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "4.647"
+                                            },
+                                            "BudgetYearTwo": {
+                                                "val": "3.894"
+                                            },
+                                            "BudgetYearThree": {
+                                                "val": "3.925"
+                                            },
+                                            "BudgetYearFour": {
+                                                "val": "2.496"
+                                            },
+                                            "BudgetYearFive": {
+                                                "val": "2.688"
+                                            },
+                                            "Total": {
+                                                "val": "18.75"
+                                            }
+                                        }
+                                    }
+                                },
+                                "Installation": {
+                                    "ImplementationMethodList": {
+                                        "ImplementationMethod": [
+                                            {
+                                                "OrganicInstallation": {
+                                                    "ImplementationMethodName": {
+                                                        "val": "Organic"
+                                                    },
+                                                    "InstallationQuantity": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "Title": {
+                                    "val": "Power System Management"
+                                },
+                                "Procurement": {
+                                    "AKits": {
+                                        "NonRecurring": {
+                                            "KitList": {
+                                                "Kit": [
+                                                    {
+                                                        "Name": {
+                                                            "val": "Power System Mods"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "CurrentYear": {
+                                                                    "val": "264"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "238"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "238"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "502"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "CurrentYear": {
+                                                                    "val": "3.5"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "3.315"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "3.315"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "6.815"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "CategorySubtotal": {
+                                                "TotalCost": {
+                                                    "CurrentYear": {
+                                                        "val": "3.5"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "3.315"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "3.315"
+                                                    },
+                                                    "Total": {
+                                                        "val": "6.815"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "CategorySubtotal": {
+                                            "TotalCost": {
+                                                "CurrentYear": {
+                                                    "val": "3.5"
+                                                },
+                                                "BudgetYearOneBase": {
+                                                    "val": "3.315"
+                                                },
+                                                "BudgetYearOne": {
+                                                    "val": "3.315"
+                                                },
+                                                "Total": {
+                                                    "val": "6.815"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "ManufacturerList": {
+                                        "Manufacturer": [
+                                            {
+                                                "Name": {
+                                                    "val": "TBD"
+                                                },
+                                                "Location": {
+                                                    "val": "TBD"
+                                                },
+                                                "ContractDates": {
+                                                    "CurrentYear": {
+                                                        "val": "2015-04"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "2016-01"
+                                                    }
+                                                },
+                                                "DeliveryDates": {
+                                                    "CurrentYear": {
+                                                        "val": "2015-06"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "2016-03"
+                                                    }
+                                                },
+                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                    "val": "4"
+                                                },
+                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                    "val": "2"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "TotalCost": {
+                                        "Quantity": {
+                                            "CurrentYear": {
+                                                "val": "264"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "238"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "238"
+                                            },
+                                            "Total": {
+                                                "val": "502"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "CurrentYear": {
+                                                "val": "3.5"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "3.315"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "3.315"
+                                            },
+                                            "Total": {
+                                                "val": "6.815"
+                                            }
+                                        }
+                                    }
+                                },
+                                "Installation": {
+                                    "ImplementationMethodList": {
+                                        "ImplementationMethod": [
+                                            {
+                                                "OrganicInstallation": {
+                                                    "ImplementationMethodName": {
+                                                        "val": "Organic"
+                                                    },
+                                                    "InstallationQuantity": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "Title": {
+                                    "val": "Durability Mods"
+                                },
+                                "Procurement": {
+                                    "AKits": {
+                                        "Recurring": {
+                                            "KitList": {
+                                                "Kit": [
+                                                    {
+                                                        "Name": {
+                                                            "val": "Kit Quantity"
+                                                        },
+                                                        "Cost": {
+                                                            "Quantity": {
+                                                                "CurrentYear": {
+                                                                    "val": "98"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "53"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "53"
+                                                                },
+                                                                "BudgetYearFour": {
+                                                                    "val": "165"
+                                                                },
+                                                                "BudgetYearFive": {
+                                                                    "val": "186"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "502"
+                                                                }
+                                                            },
+                                                            "TotalCost": {
+                                                                "CurrentYear": {
+                                                                    "val": "1.5"
+                                                                },
+                                                                "BudgetYearOneBase": {
+                                                                    "val": "0.835"
+                                                                },
+                                                                "BudgetYearOne": {
+                                                                    "val": "0.835"
+                                                                },
+                                                                "BudgetYearFour": {
+                                                                    "val": "2.425"
+                                                                },
+                                                                "BudgetYearFive": {
+                                                                    "val": "2.777"
+                                                                },
+                                                                "Total": {
+                                                                    "val": "7.537"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "CategorySubtotal": {
+                                                "TotalCost": {
+                                                    "CurrentYear": {
+                                                        "val": "1.5"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.835"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.835"
+                                                    },
+                                                    "BudgetYearFour": {
+                                                        "val": "2.425"
+                                                    },
+                                                    "BudgetYearFive": {
+                                                        "val": "2.777"
+                                                    },
+                                                    "Total": {
+                                                        "val": "7.537"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "CategorySubtotal": {
+                                            "TotalCost": {
+                                                "CurrentYear": {
+                                                    "val": "1.5"
+                                                },
+                                                "BudgetYearOneBase": {
+                                                    "val": "0.835"
+                                                },
+                                                "BudgetYearOne": {
+                                                    "val": "0.835"
+                                                },
+                                                "BudgetYearFour": {
+                                                    "val": "2.425"
+                                                },
+                                                "BudgetYearFive": {
+                                                    "val": "2.777"
+                                                },
+                                                "Total": {
+                                                    "val": "7.537"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "ManufacturerList": {
+                                        "Manufacturer": [
+                                            {
+                                                "Name": {
+                                                    "val": "TBD"
+                                                },
+                                                "Location": {
+                                                    "val": "TBD"
+                                                },
+                                                "ContractDates": {
+                                                    "CurrentYear": {
+                                                        "val": "2015-03"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "2016-01"
+                                                    },
+                                                    "BudgetYearFour": {
+                                                        "val": "2019-01"
+                                                    },
+                                                    "BudgetYearFive": {
+                                                        "val": "2020-01"
+                                                    }
+                                                },
+                                                "DeliveryDates": {
+                                                    "CurrentYear": {
+                                                        "val": "2015-05"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "2016-03"
+                                                    },
+                                                    "BudgetYearFour": {
+                                                        "val": "2019-03"
+                                                    },
+                                                    "BudgetYearFive": {
+                                                        "val": "2020-03"
+                                                    }
+                                                },
+                                                "AdminLeadTimeAfterOct1InMonths": {
+                                                    "val": "4"
+                                                },
+                                                "ProductionLeadTimeAfterOct1InMonths": {
+                                                    "val": "2"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "TotalCost": {
+                                        "Quantity": {
+                                            "CurrentYear": {
+                                                "val": "98"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "53"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "53"
+                                            },
+                                            "BudgetYearFour": {
+                                                "val": "165"
+                                            },
+                                            "BudgetYearFive": {
+                                                "val": "186"
+                                            },
+                                            "Total": {
+                                                "val": "502"
+                                            }
+                                        },
+                                        "TotalCost": {
+                                            "CurrentYear": {
+                                                "val": "1.5"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.835"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.835"
+                                            },
+                                            "BudgetYearFour": {
+                                                "val": "2.425"
+                                            },
+                                            "BudgetYearFive": {
+                                                "val": "2.777"
+                                            },
+                                            "Total": {
+                                                "val": "7.537"
+                                            }
+                                        }
+                                    }
+                                },
+                                "Installation": {
+                                    "ImplementationMethodList": {
+                                        "ImplementationMethod": [
+                                            {
+                                                "OrganicInstallation": {
+                                                    "ImplementationMethodName": {
+                                                        "val": "Organic"
+                                                    },
+                                                    "InstallationQuantity": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "ProcurementSubtotal": {
+                        "Quantity": {
+                            "AllPriorYears": {
+                                "val": "393"
+                            },
+                            "PriorYear": {
+                                "val": "38"
+                            },
+                            "CurrentYear": {
+                                "val": "808"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "418"
+                            },
+                            "BudgetYearOne": {
+                                "val": "418"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "165"
+                            },
+                            "BudgetYearFive": {
+                                "val": "186"
+                            },
+                            "Total": {
+                                "val": "2008"
+                            }
+                        },
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "117.73"
+                            },
+                            "PriorYear": {
+                                "val": "22.207"
+                            },
+                            "CurrentYear": {
+                                "val": "72.718"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearOne": {
+                                "val": "20.599"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "3.894"
+                            },
+                            "BudgetYearThree": {
+                                "val": "3.925"
+                            },
+                            "BudgetYearFour": {
+                                "val": "4.921"
+                            },
+                            "BudgetYearFive": {
+                                "val": "5.465"
+                            },
+                            "Total": {
+                                "val": "251.459"
+                            }
+                        }
+                    },
+                    "Description": {
+                        "val": "Modifications to M119A2 Howitzer.  Contractor dates will vary by item and cannot be predicted. \nMod 2 (Recoil Capability Package):  Procurement of the Digital Fire Control System is contracted separately for each major component, with various contract award dates.  Application will occur in Battalion sets of 17 each over a two-month period. Recoil Capability Package is for a new recoil system which will enhance the survivability of the M119.  The recoil system upgrade will consist of the recoil buffer, recuperator, and suspension modification.  \nMod 3 (TADSS):   This modification is for the procurement of Training Aids, Devices, Simulators and Simulations (TADSS) for use in training artillerymen and maintainers in fielded units as well as in classroom instruction at school houses.  Products will include M119A3 Legacy Desktop Personal Computer Trainer, M119A3 Desktop Crew Trainer, and M119A3 Computer Based Trainer.\nMod 4 (Power System):  Power System Management Mod will procure a new power supply for the M119A3 Digital Fire Control System.  The modification will increase system electrical power and meet system operating requirements for low temperature environments.\nMod 5 (Durability):   Durability Mods will optimize the design of the spades on the M119 howitzer to increase durability and decrease weight."
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "item"
+            }
+        }
+    }
+}

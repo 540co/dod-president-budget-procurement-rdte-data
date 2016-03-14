@@ -1,0 +1,929 @@
+{
+    "id": "bb594defa0873013e22517dc043c8e9cadf88bd3",
+    "meta": {
+        "filename": "dod-2014_RDTE_2014_DCMA_RDTE_JustificationBook_Defense_Contract_Management_Agency_PB_2014.zzz_unzipped_RDTE_JustificationBook_Defense_Contract_Management_Agency_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Defense Contract Management Agency",
+        "appropriation_code": "0400",
+        "appropriation_name": "Research, Development, Test & Evaluation, Defense-Wide"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0605013BL"
+        },
+        "ProgramElementTitle": {
+            "val": "Information Technology Development"
+        },
+        "R1LineItemNumber": {
+            "val": "125"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Defense Contract Management Agency"
+        },
+        "AppropriationCode": {
+            "val": "0400"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Defense-Wide"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "96.157"
+            },
+            "PriorYear": {
+                "val": "12.228"
+            },
+            "CurrentYear": {
+                "val": "12.699"
+            },
+            "BudgetYearOne": {
+                "val": "13.812"
+            },
+            "BudgetYearOneBase": {
+                "val": "13.812"
+            },
+            "BudgetYearTwo": {
+                "val": "14.083"
+            },
+            "BudgetYearThree": {
+                "val": "14.358"
+            },
+            "BudgetYearFour": {
+                "val": "14.786"
+            },
+            "BudgetYearFive": {
+                "val": "15.511"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "DCMA is executing a strategy to consolidate all web-based applications in concert with the integrated enterprise architecture that is being developed. The web-based capabilities support DCMA's unique mission and provide cross functional capabilities that support the full range of acquisition and contract management. The capabilities help DCMA acquisition workforce access real time data; thus, enabling them to make sound contract management and business decisions. The objective behind the web-based capabilities is to provide mission-effective and efficient solutions to unique sets of problems that slow down or hinder performance based contract management for DCMA and other DoD support components. DCMA will begin monitoring the end user desk top experience as we shift from network availability to network performance monitoring. DCMA is planning to develop non-proprietary solutions to replace commercial software that will reduce the overall infrastructure costs for COTS related tools.  Also, to comply with Cyber Command mandates, we plan to test and support systems to reduce the security risk impact on daily operations.  In addition we plan to develop an enterprise level access management solution that is a key priority for our future support against vulnerabilities.\nFY 2012 Actual:  In FY 2012($12.228)  DCMA finished developing and testing the Enterprise Integrated Tool Set (EITS) that provides a baseline supplier capabilities assessment architecture and operating concept to assemble timely, accurate, predictive, and actionable business information, while allowing visibility into contractor capabilities across the DoD Acquisition Enterprise; provided testing support for the new releases of the Wide Area Workflow (WAWF), and the Electronic Data Interchange (EDI) system; finished developing the Contractor Business Analysis Repository (CBAR) that ensures customers are provided with real-time information on rates, business systems, and reportable audits; DCMA continued to lay the groundwork for the Learned Management System (LMS) that will assist in building critical acquisition competencies; and lastly defined requirements for the new Integrated Workflow Management system (IWMS).\nFY 2013-2014 Plan:  In FY 2013 ($12.699) and FY 2014 ($13.812) DCMA will continue to evolve EITS functionality to focus on the development and integration of related enterprise tool solutions and data sources which increase the depth of supply chain assessment, increase automation, and therefore enhance the accuracy and efficiency of these assessment products while providing access to external customer users; enhance the functionality of the Contractor Business Analysis Repository (CBAR); fully develop the Learned Management System (LMS); and develop agency level Performance Indicators to assess the contract management performance. Also, DCMA is planning to develop solutions for using enterprise actionable data in a mobile environment; and to explore the use of Virtual Desktop Interface (VDI) for day-to-day operations that will support the mobility of the Agency.  Development and migration to IWMS and DCMA 360, which provides an integrated suite of DCMA collaborative web-applications, will be a major focus in the future as well and the development of an Enterprise Surveillance Plan tool that will analyze technical requirements and contract risk, and determine surveillance requirement."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "12.228"
+                },
+                "CurrentYear": {
+                    "val": "12.699"
+                },
+                "BudgetYearOne": {
+                    "val": "12.955"
+                },
+                "BudgetYearOneBase": {
+                    "val": "12.955"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "12.228"
+                },
+                "CurrentYear": {
+                    "val": "12.699"
+                },
+                "BudgetYearOne": {
+                    "val": "13.812"
+                },
+                "BudgetYearOneBase": {
+                    "val": "13.812"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.857"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.857"
+                }
+            },
+            "AdjustmentDetails": {
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Cost of Life Adjustment"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "0.857"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "0.857"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "01"
+                    },
+                    "ProjectTitle": {
+                        "val": "Systems Modifications and Development"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "96.157"
+                        },
+                        "PriorYear": {
+                            "val": "12.228"
+                        },
+                        "CurrentYear": {
+                            "val": "12.699"
+                        },
+                        "BudgetYearOne": {
+                            "val": "13.812"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "13.812"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "14.083"
+                        },
+                        "BudgetYearThree": {
+                            "val": "14.358"
+                        },
+                        "BudgetYearFour": {
+                            "val": "14.786"
+                        },
+                        "BudgetYearFive": {
+                            "val": "15.511"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "DCMA is executing a strategy to consolidate all web-based applications in concert with the integrated enterprise architecture that is being developed. The web-based capabilities support DCMA's unique mission and provide cross functional capabilities that support the full range of acquisition and contract management. The capabilities help DCMA acquisition workforce access real time data; thus, enabling them to make sound contract management and business decisions. The objective behind the web-based capabilities is to provide mission-effective and efficient solutions to unique sets of problems that slow down or hinder performance based contract management for DCMA and other DoD support components. DCMA will begin monitoring the end user desk top experience as we shift from network availability to network performance monitoring. DCMA is planning to develop non-proprietary solutions to replace commercial software that will reduce the overall infrastructure costs for COTS related tools.  Also, to comply with Cyber Command mandates, we plan to test and support systems to reduce the security risk impact on daily operations.  In addition we plan to develop an enterprise level access management solution that is a key priority for our future support against vulnerabilities.\nFY 2012 Actual:  In FY 2012($12.228)  DCMA finished developing and testing the Enterprise Integrated Tool Set (EITS) that provides a baseline supplier capabilities assessment architecture and operating concept to assemble timely, accurate, predictive, and actionable business information, while allowing visibility into contractor capabilities across the DoD Acquisition Enterprise; provided testing support for the new releases of the Wide Area Workflow (WAWF), and the Electronic Data Interchange (EDI) system; finished developing the Contractor Business Analysis Repository (CBAR) that ensures customers are provided with real-time information on rates, business systems, and reportable audits; DCMA continued to lay the groundwork for the Learned Management System (LMS) that will assist in building critical acquisition competencies; and lastly defined requirements for the new Integrated Workflow Management system (IWMS).\nFY 2013-2014 Plan:  In FY 2013 ($12.699) and FY 2014 ($13.812) DCMA will continue to evolve EITS functionality to focus on the development and integration of related enterprise tool solutions and data sources which increase the depth of supply chain assessment, increase automation, and therefore enhance the accuracy and efficiency of these assessment products while providing access to external customer users; enhance the functionality of the Contractor Business Analysis Repository (CBAR); fully develop the Learned Management System (LMS); and develop agency level Performance Indicators to assess the contract management performance. Also, DCMA is planning to develop solutions for using enterprise actionable data in a mobile environment; and to explore the use of Virtual Desktop Interface (VDI) for day-to-day operations that will support the mobility of the Agency.  Development and migration to IWMS and DCMA 360, which provides an integrated suite of DCMA collaborative web-applications, will be a major focus in the future as well and the development of an Enterprise Surveillance Plan tool that will analyze technical requirements and contract risk, and determine surveillance requirement."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Software Development"
+                                    },
+                                    "Description": {
+                                        "val": "DCMA is executing a strategy to consolidate all web-based applications in concert with the integrated enterprise architecture that is being developed. The web-based capabilities support DCMA's unique mission and provide cross functional capabilities that support the full range of acquisition and contract management. The capabilities help DCMA acquisition workforce access real time data; thus, enabling them to make sound contract management and business decisions. The objective behind the web-based capabilities is to provide mission-effective and efficient solutions to unique sets of problems that slow down or hinder performance based contract management for DCMA and other DoD support components. DCMA will begin monitoring the end user desk top experience as we shift from network availability to network performance monitoring. DCMA is planning to develop non-proprietary solutions to replace commercial software that will reduce the overall infrastructure costs for COTS related tools.  Also, to comply with Cyber Command mandates, we plan to test and support systems to reduce the security risk impact on daily operations.  In addition we plan to develop an enterprise level access management solution that is a key priority for our future support against vulnerabilities."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "12.228"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "DCMA finished developing and testing the Enterprise Integrated Tool Set (EITS) that provides a baseline supplier capabilities assessment architecture and operating concept to assemble timely, accurate, predictive, and actionable business information, while allowing visibility into contractor capabilities across the DoD Acquisition Enterprise; provided testing support for the new releases of the Wide Area Workflow (WAWF), and the Electronic Data Interchange (EDI) system; finished developing the Contractor Business Analysis Repository (CBAR) that ensures customers are provided with real-time information on rates, business systems, and reportable audits; DCMA continued to lay the groundwork for the Learned Management System (LMS) that will assist in building critical acquisition competencies; and lastly defined requirements for the new Integrated Workflow Management system (IWMS)."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "12.699"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "DCMA will continue to evolve EITS functionality to focus on the development and integration of related enterprise tool solutions and data sources which increase the depth of supply chain assessment, increase automation, and therefore enhance the accuracy and efficiency of these assessment products while providing access to external customer users; enhance the functionality of the Contractor Business Analysis Repository (CBAR); fully develop the Learned Management System (LMS); and develop agency level Performance Indicators to assess the contract management performance. Also, DCMA is planning to develop solutions for using enterprise actionable data in a mobile environment; and to explore the use of Virtual Desktop Interface (VDI) for day-to-day operations that will support the mobility of the Agency.  Development and migration to IWMS and DCMA 360, which provides an integrated suite of DCMA collaborative web-applications, will be a major focus in the future as well and the development of an Enterprise Surveillance Plan tool that will analyze technical requirements and contract risk, and determine surveillance requirement."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "13.812"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "13.812"
+                                            },
+                                            "Text": {
+                                                "val": "DCMA will continue to evolve EITS functionality to focus on the development and integration of related enterprise tool solutions and data sources which increase the depth of supply chain assessment, increase automation, and therefore enhance the accuracy and efficiency of these assessment products while providing access to external customer users; enhance the functionality of the Contractor Business Analysis Repository (CBAR); fully develop the Learned Management System (LMS); and develop agency level Performance Indicators to assess the contract management performance. Also, DCMA is planning to develop solutions for using enterprise actionable data in a mobile environment; and to explore the use of Virtual Desktop Interface (VDI) for day-to-day operations that will support the mobility of the Agency.  Development and migration to IWMS and DCMA 360, which provides an integrated suite of DCMA collaborative web-applications, will be a major focus in the future as well and the development of an Enterprise Surveillance Plan tool that will analyze technical requirements and contract risk, and determine surveillance requirement."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "0701113BL"
+                                    },
+                                    "Title": {
+                                        "val": "PDW:  Procurement Operations"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "2.076"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "2.129"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "5.711"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "5.711"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "4.860"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "2.356"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "2.976"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "3.299"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "0701113 BL"
+                                    },
+                                    "Title": {
+                                        "val": "O&M: Procurement Operations"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "155.760"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "120.483"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "124.835"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "124.835"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "125.202"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "125.819"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "127.759"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "129.808"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Contractors are utilized to perform specialized functions such as software development and testing.  A number of mini-competitions are held with Federal Supply Schedule, Government Wide Acquisition Contracts, and DCMA Basic Purchasing Agreement Vendors."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "Remarks": {
+                            "val": "DCMA Information Technology supports the Agency\u2019s combat support mission through unique software applications that improve its contract management workforce\u2019s productivity, efficiency, and effectiveness."
+                        },
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Software Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "96.157"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "12.228"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "12.699"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "13.812"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "13.812"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "N\/A"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase VIII - Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase VIII - Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase VIII - Deployment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase IX - Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase IX - Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase IX - Deployment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase X - Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase X - Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase X - Deployment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XI - Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XI - Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XI - Deployment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XII - Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XII - Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XII - Deployment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XIII - Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XIII - Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XIII - Deployment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XIV - Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XIV - Testing"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Phase XIV - Deployment"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

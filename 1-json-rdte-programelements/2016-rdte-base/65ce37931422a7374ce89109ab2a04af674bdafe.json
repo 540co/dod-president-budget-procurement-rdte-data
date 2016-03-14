@@ -1,0 +1,2268 @@
+{
+    "id": "65ce37931422a7374ce89109ab2a04af674bdafe",
+    "meta": {
+        "filename": "dod-2016_RDTE_2016_NAVY_BA5_RDTE_JustificationBook_Navy_PB_2016.zzz_unzipped_RDTE_JustificationBook_Navy_PB_2016.xml",
+        "budget_year": "2016",
+        "budget_cycle": "PB",
+        "submission_date": "2015-02",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1319",
+        "appropriation_name": "Research, Development, Test & Evaluation, Navy"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0604574N"
+        },
+        "ProgramElementTitle": {
+            "val": "Navy Tactical Computer Resources"
+        },
+        "R1LineNumber": {
+            "val": "122"
+        },
+        "BudgetYear": {
+            "val": "2016"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2015-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationCode": {
+            "val": "1319"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "17.746"
+            },
+            "PriorYear": {
+                "val": "3.582"
+            },
+            "CurrentYear": {
+                "val": "3.935"
+            },
+            "BudgetYearOne": {
+                "val": "4.096"
+            },
+            "BudgetYearOneBase": {
+                "val": "4.096"
+            },
+            "BudgetYearTwo": {
+                "val": "4.205"
+            },
+            "BudgetYearThree": {
+                "val": "4.268"
+            },
+            "BudgetYearFour": {
+                "val": "4.351"
+            },
+            "BudgetYearFive": {
+                "val": "4.441"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Common Processing System (CPS) and Common Display System (CDS) programs support developing open architecture hardware and technology in a competitively sourced environment. CPS & CDS provide technical replacements for obsolete display and processing equipment (such as AN\/UYQ-70) for multiple warfare systems aboard CVN, LHA, LPD, LHD, CG-47, DDG-1000, and DDG-51 class ships. CPS provides the computer processing and memory, data storage and extraction, and Input\/Output (I\/O) interface to support hosting Navy combat system software applications and computing resources in AEGIS Modernization, AEGIS new construction, Surface Electronic Warfare Improvement Program (SEWIP), CVN-TSC, and other Navy programs. CDS provides operator display consoles with a common human machine interface for AEGIS modernization, AEGIS new construction, DDG-1000, CVN, Gun Weapon System (GWS), Ship Self Defense System (SSDS) MK 2, SEWIP, and Unmanned Carrier Launched Airborne Surveillance and Strike (UCLASS). Funding provides for technical management and Engineering Change Proposals (ECP) development for the common baseline. Procurement and development funds provided by user programs to support program unique requirements.  \n\nNote: Project 1353 transitioned into two separate Projects beginning in FY15.  Projects are 3360 Common Processing System (CPS) and Project 3361 Common Display System (CDS)."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.689"
+                },
+                "CurrentYear": {
+                    "val": "3.935"
+                },
+                "BudgetYearOne": {
+                    "val": "4.141"
+                },
+                "BudgetYearOneBase": {
+                    "val": "4.141"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.582"
+                },
+                "CurrentYear": {
+                    "val": "3.935"
+                },
+                "BudgetYearOne": {
+                    "val": "4.096"
+                },
+                "BudgetYearOneBase": {
+                    "val": "4.096"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.107"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "-0.045"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-0.045"
+                }
+            },
+            "AdjustmentDetails": {
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.107"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Rate\/Misc Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-0.045"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-0.045"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "1353"
+                    },
+                    "ProjectTitle": {
+                        "val": "Standard Hardware"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "17.746"
+                        },
+                        "PriorYear": {
+                            "val": "3.582"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "21.328"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectNote": {
+                            "val": "Funding distributed to Projects 3360 and 3361 beginning in FY15."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Common Processing System (CPS) and Common Display System (CDS) programs support developing open architecture hardware and technology in a competitively sourced environment. CPS & CDS provide technical replacements for obsolete display and processing equipment (such as AN\/UYQ-70) for multiple warfare systems aboard CVN, LHA, LPD, LSD, CG-47, DDG-1000, and DDG-51 class ships. CPS provides the computer processing and memory, data storage and extraction, and Input\/Output (I\/O) interface to support hosting Navy combat system software applications and computing resources in AEGIS Modernization, AEGIS new construction, SEWIP, CVN, and other Navy programs. CDS provides operator display consoles with a common human machine interface for AEGIS Modernization, AEGIS new construction, DDG-1000, CVN, GWS, SSDS MK 2, SEWIP, and UCLASS. Funding provides for technical management and ECP development for the common baseline. Procurement and development funds provided by user programs to support program unique requirements."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Systems Engineering"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.582"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Completed support of CDS TI-12 on multiple platforms including AEGIS Destroyers and Cruisers undergoing modernization, DDG-51 new construction, AEGIS Ashore, CVN, DDG 1000, UCLASS, SEWIP and SSDS Mk 2 ships.  Began development of AEGIS Common Console under CDS TI-16 Design and Production contract.\nCompleted support of CPS TI-12 on multiple platforms including AEGIS Destroyers and Cruisers undergoing modernization, DDG-51 new construction, AEGIS Ashore, CVN, DDG 1000, UCLASS, SEWIP and SSDS Mk 2 ships. Continued development of CPS TI-16."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Contracts:\nCDS:\nTI 12 Indefinite Delivery Indefinite Quantity (IDIQ) Production continued in FY14.\n\nCPS:\nTI 12 IDIQ Production continued in FY14."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Major Milestones:\nCPS\/CDS TI 16 In-Process Review in third qtr FY14"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "PHD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.215"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.215"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dahlgren"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.780"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "3.395"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "9.175"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "General Dynamics"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fairfax, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "6.197"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "6.197"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Global Technical Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Virginia Beach, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.529"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.529"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Crane"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.799"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.799"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Ssytems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DRS Technologies"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Gaithersburg, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.478"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.478"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.097"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.097"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.651"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.187"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.100"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.938"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2016PB_0604574N_1353_FILE1.GIF"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Proj 1353"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS\/CDS TI 16 In-Process Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "3360"
+                    },
+                    "ProjectTitle": {
+                        "val": "Common Processing System (CPS)"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "0.000"
+                        },
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "1.314"
+                        },
+                        "BudgetYearOne": {
+                            "val": "1.368"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "1.368"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "1.393"
+                        },
+                        "BudgetYearThree": {
+                            "val": "1.416"
+                        },
+                        "BudgetYearFour": {
+                            "val": "1.445"
+                        },
+                        "BudgetYearFive": {
+                            "val": "1.475"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectNote": {
+                            "val": "Funding transferred from Project 1353 beginning in FY15."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Common Processing System (CPS) program supports developing open architecture computer processing hardware and storage technology in a competitively sourced environment. CPS provides technical replacements for obsolete processing equipment (such as AN\/UYQ-70) for multiple warfare systems aboard CVN, LHA, LHD, LSD, CG-47, and DDG-51 class ships.  CPS serves as the computer processing and memory, data storage and extraction, and Input\/Output (I\/O) interface to support hosting Navy combat system software applications and computing resources in AEGIS Modernization, AEGIS new construction, SSDS, SEWIP, CVN, UCLASS and other Navy programs. Funding provides for technical management and ECP development for the common product baseline. Procurement and development funds are provided by user programs to support program unique requirements."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Common Processing System (CPS)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.314"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue system engineering support of CPS TI-12 on installed platforms including AEGIS Destroyers and Cruisers undergoing modernization, DDG new construction, AEGIS Ashore, CVN, and CVN\/Amphib, SEWIP, UCLASS and SSDS Mk 2 ships. Continue build to print requirements development in support of contract award efforts for TI-16 CPS equipment."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.368"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.368"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue system engineering support of CPS TI-12 \/ TI-16 on installed platforms including AEGIS Destroyers and Cruisers undergoing modernization, DDG new construction, AEGIS Ashore, CVN, and CVN\/Amphib, SEWIP, UCLASS and SSDS Mk 2 ships.  Support System Engineering efforts required to achieve Production Readiness Review (PRR) milestone required to support AEGIS Modernization, AEGIS New Construction, CVN, CVN\/Amphib, SEWIP, UCLASS and SSDS Mk 2 Ships."
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "CPS TI-12: Continue IDIQ Production through FY14. \nCPS TI-16: Award build to Print IDIQ production contract for FY16-FY21."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Major Milestones:\nCPS TI-12 Build-To-Print Contract Award in second quarter FY15\nCPS TI-12 Production Readiness Review in fourth quarter FY15\nCPS TI-16 Production Contract Award in fourth quarter FY15\nCPS TI-16 Preliminary Design Review in first quarter FY16\nCPS TI-16 Critical Design Review in second quarter FY16\nCPS TI-16 Test Readiness Review in third quarter FY16\nCPS TI-16 Production Readiness Review in fourth quarter FY16\nCPS TI-20 In Process Review No. 1 in third quarter FY17\nCPS TI-20 In Process Review No. 2 in first quarter FY18\nCPS TI-20 Production Readiness Review in fourth quarter FY19"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "PHD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.010"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dahlgren"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.619"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.785"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.785"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.643"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.583"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.583"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.226"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.042"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2016PB_0604574N_3360_FILE1.GIF"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Proj 3360"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 12 Built-To-Print Contract Award"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 12 Production Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 16 Production Contract Award"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 16 Preliminary Design Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 16 Critical Design Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 16 Test Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 16 Production Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 20 In Progress Review (IPR) No. 1"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 20 In Progress Review (IPR) No. 2"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CPS TI 20 Production Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "3361"
+                    },
+                    "ProjectTitle": {
+                        "val": "Common Display System (CDS)"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "0.000"
+                        },
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "2.621"
+                        },
+                        "BudgetYearOne": {
+                            "val": "2.728"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "2.728"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "2.812"
+                        },
+                        "BudgetYearThree": {
+                            "val": "2.852"
+                        },
+                        "BudgetYearFour": {
+                            "val": "2.906"
+                        },
+                        "BudgetYearFive": {
+                            "val": "2.966"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectNote": {
+                            "val": "Funding transferred from Project 1353 beginning in FY15."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Common Display System (CDS) program supports developing open architecture hardware and technology in a competitively sourced environment. CDS provides technical replacements for obsolete display equipment (such as AN\/UYQ-70) for multiple warfare systems aboard CVN, LHA, LHD, LSD, CG-47,DDG-1000, and DDG-51 class ships. CDS provides operator display consoles with a common human machine interface for AEGIS Modernization, AEGIS new construction, SSDS, DDG-1000, CVN, GWS, SSDS MK 2, SEWIP, and UCLASS. Funding provides for technical management and ECP development for the common baseline. Procurement and development funds provided by user programs for program unique requirements."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Common Display System (CDS)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.621"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue system engineering support of CDS TI-12 on multiple platforms including AEGIS Destroyers and Cruisers undergoing modernization, DDG new construction, AEGIS Ashore, CVN, DDG 1000, CVN\/Amphib SSDS and other ships.  Award CDS TI-16 Common Display System award.  Support Engineering efforts required to complete Preliminary Design Review (PDR) and Critical Design Review (CDR) as planned to support AEGIS Modernization, DDG new construction, AEGIS Ashore, CVN, DDG 1000, CVN\/Amphib SSDS and other ships."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.728"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.728"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue system engineering support of CDS TI-12 \/ TI-16 on multiple platforms including AEGIS Destroyers and Cruisers undergoing modernization, DDG new construction, AEGIS Ashore, CVN, DDG 1000, CVN\/Amphib SSDS and other ships.  Support Engineering efforts required to complete Test Readiness Review (TRR) and Production Readiness Review (PRR) as planned to support AEGIS Modernization, DDG new construction, AEGIS Ashore, CVN, DDG 1000, CVN\/Amphib SSDS and other ships."
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Contracts:\nCDS Indefinite Delivery Indefinite Quantity (IDIQ) Production continues FY14-FY16."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "CDS TI-12 Contract Award in second quarter FY15\nCDS TI-12 Production Readiness Review in fourth quarter FY15\nCDS TI-16 Contract Award in fourth quarter FY15\nCDS TI-16 Preliminary Design Review in first quarter FY16\nCDS TI-16 Critical Design Review in second quarter FY16\nCDS TI-16 Test Readiness Review in third quarter FY16\nCDS TI-16 Production Readiness Review in fourth quarter FY16\nCDS TI 20 In Process Review No. 1 in third quarter FY17\nCDS TI 20 System Requirements Review in fourth quarter FY17\nCDS TI 20 In Process Review No. 2 in first quarter FY18\nCDS TI 20 Preliminary Design Review in third quarter FY18\nCDS TI 20 Critical Design Review in fourth quarter FY 18\nCDS TI 20 In Process Review No. 3 in second quarter FY19\nCDS TI 20 Test Readiness Review in third quarter FY19\nCDS TI 20 Production Readiness Review in fourth quarter FY19"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "PHD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.114"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.098"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.098"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineeing"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dahlgren"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.698"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.819"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.819"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "General Dynamics"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fairfax, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.311"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.311"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DRS Technologies"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Gaithersburg, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.373"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.373"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.811"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.811"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.811"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.125"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2016PB_0604574N_3361_FILE1.GIF"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Proj 3361"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 12 Contract Award"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI12 Production Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI16 Production Contract Award"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI16 Preliminary Design Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI16 Critical Design Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI16 Test Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI16 Production Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 IPR No. 1"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 System Requirements Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 IPR No. 2"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 Preliminary Design Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 Critical Design Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 IPR No. 3"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 Test Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDS TI 20 Production Readiness Review"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2019"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

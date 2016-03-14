@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2014</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2013-04</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Washington Headquarters Service</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>P-1C 3_11_13.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement" targetSchemaVersion="PB2014.1.0">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>31v2</proc:LineItemNumber>
+            <proc:LineItemTitle>Major Equipment</proc:LineItemTitle>
+            <proc:P1LineNumber>41</proc:P1LineNumber>
+            <proc:BudgetYear>2014</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2013-04</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Washington Headquarters Service</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>4</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, WHS</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:Quantity>
+                    <proc:AllPriorYears>1</proc:AllPriorYears>
+                    <proc:PriorYear>1</proc:PriorYear>
+                    <proc:CurrentYear>1</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1</proc:BudgetYearFour>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:Quantity>
+                <proc:GrossWeaponSystemCost>
+                    <proc:AllPriorYears>42.029</proc:AllPriorYears>
+                    <proc:PriorYear>54.624</proc:PriorYear>
+                    <proc:CurrentYear>26.55</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>35.259</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>35.259</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>29.606</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>28.217</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>26.851</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>29.615</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:AllPriorYears>42.029</proc:AllPriorYears>
+                    <proc:PriorYear>54.624</proc:PriorYear>
+                    <proc:CurrentYear>26.55</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>35.259</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>35.259</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>29.606</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>28.217</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>26.851</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>29.615</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:AllPriorYears>42.029</proc:AllPriorYears>
+                    <proc:PriorYear>54.624</proc:PriorYear>
+                    <proc:CurrentYear>26.55</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>35.259</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOne>35.259</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>29.606</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>28.217</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>26.851</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>29.615</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>The WHS IT procurement FY 2014 funding request of $35.259 million is for the modernization and life-cycle refresh of office automation and IT infrastructure requirements for the WHS/OSD, White House Military Office (WHMO), the US Court of Appeals for the Armed Forces, and 14 organizational components of the Office of the Secretary of Defense (OSD).  
+
+The budget funds approximately 20 to 50 office automation and IT infrastructure modernization and life-cycle refresh projects annually.  The FY 2014 funding includes continued upgrade and support of the network infrastructure, and office automation systems that are at the end of their life-cycle.  Special emphasis is placed on continuing to implement enterprise-wide common applications and systems resulting in efficient, cost-effective and interoperable IT solutions for the WHS and OSD organizations.  
+
+IT services have been expanded to include the newly established DoD Central Adjudications Facilities (CAF), a consolidation to promote and enhance greater consistency, standardization, and efficiency throughout the adjudicative process.  The program also funds Continuity of Operations IT requirements that support the sustainment of critical business operations in the event of an emergency.  Additionally, the life-cycle refresh program is in support of the Secretary, Deputy, and Senior DoD officials and replaces one (1) Commercial Heavy Armored Vehicle (CHAV).													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+							
+													
+													
+													
+													
+													
+													
+													
+													
+													
+</proc:Description>
+            <proc:Justification>The WHS request of $54.624 million in FY 2012 includes $14.854 million for the Indian Financing Act.  
+
+The requested funding is for the modernization and life-cycle refresh of major information technology (IT) systems, infrastructure, and office automation capabilities which are required to support the business needs of the WHS/OSD White House Military Office (WHMO), the US Court of Appeals for the Armed Forces (USCAAF), 14 organizational components of the Office of the Secretary of Defense (OSD), and the newly established DoD Central Adjudication Facilities (CAF).  
+
+The DoD CAF is the consolidation of the Department's Personnel Security adjudication, Homeland Security Presidential Directive 12 (HSPD-12), and Suitability adjudicative functions, exclusive of Intelligence Agency adjudicative functions, into a single DoD organization under the direction and control of the Director, Administration and Management.  The purpose of the consolidation is to promote and enhance greater consistency, standardization, and efficiency throughout the adjudicative process.  DoD CAF funding will provide continued and improved EITSD Enterprise IT Standard Support and Services for 800 personnel that migrated to the EITSD network.  
+
+The VTC upgrades enable the planning, and procurement of infrastructure technology hardware and software (to include licensing) for an integrated, robust, unclassified and classified VTC system to support all Office of the Secretary of Defense (OSD), Washington Headquarters Services (WHS), Pentagon Force Protection Agency (PFPA) needs and currently planned organizational changes.  This includes the refresh and integration of all endpoints as well as associated installation and integration costs with a goal to modernize the VTC capability of all OSD and WHS, and supported components.  It will consolidate and modernize the infrastructure SIPR and NIPR environment and increase the number of clients that connect concurrently.  The modernization and life-cycle refresh of the infrastructure and systems for the customers described above would be delayed, reduced, and/or terminated if the requested funding levels are not approved.
+
+Special emphasis is being placed on implementing enterprise-wide common applications and systems resulting in efficient, cost-effective and interoperable IT solutions.  Funding for Continuity of Operations (COOP) IT requirements is vital to support the sustainment of critical business operations in the event of an emergency.
+
+The life-cycle refresh program also includes funding to replace the Commercially Heavy Armored Vehicles (CHAVs) which are used by senior OSD DoD officials.  The average life-cycle for these vehicles is about 5 years.  Without the funding, the program will be unable to support the replacement of 1 CHAV per year to ensure reliable vehicles and protective services are available to senior DoD officials.
+
+$00.500 million of Procurement funding was realigned to Research, Development, Testing and Evaluation to develop, test, pilot, and deploy new integrated business tools that will enhance human resource management, acquisition, and executive services business processes that support WHS/OSD.  Funds will also be used for developing and testing tools that will improve the delivery of IT services and capabilities for all WHS/OSD users.
+											
+
+</proc:Justification>
+            <proc:ItemExhibitList>
+                <proc:P40AItemGroup>
+                    <proc:Name>Information Technology</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name>WHS Enterprise Lifecycle Replacement</proc:Name>
+                                    <proc:ItemNumber>4</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>1</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>2.569</proc:AllPriorYears>
+                                            <proc:PriorYear>3.607</proc:PriorYear>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>2.569</proc:AllPriorYears>
+                                            <proc:PriorYear>3.607</proc:PriorYear>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-05</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>3.607</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:FundingVehicle>MIPR</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2011</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-05</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>2.569</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>WHS COOP Enterprise Upgrades</proc:Name>
+                                    <proc:ItemNumber>5</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>1</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>0.798</proc:AllPriorYears>
+                                            <proc:PriorYear>1.255</proc:PriorYear>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>0.798</proc:AllPriorYears>
+                                            <proc:PriorYear>1.255</proc:PriorYear>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-02</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-03</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>1.255</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2011</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-02</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-03</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.798</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>WHS/OSD Blackberry Program</proc:Name>
+                                    <proc:ItemNumber>7</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>0</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:PriorYear>2.971</proc:PriorYear>
+                                            <proc:CurrentYear>0.000</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>3.261</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>3.261</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:PriorYear>2.971</proc:PriorYear>
+                                            <proc:CurrentYear>0.000</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>3.261</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>3.261</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2013-05</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2013-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>0</proc:Quantity>
+                                                    <proc:UnitCost>0.000</proc:UnitCost>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2014</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2013-05</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2014-05</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>3.261</proc:UnitCost>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>HA Architecture</proc:Name>
+                                    <proc:ItemNumber>3</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>1</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>2.782</proc:AllPriorYears>
+                                            <proc:PriorYear>6.146</proc:PriorYear>
+                                            <proc:CurrentYear>2.314</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>7.417</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>7.417</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>2.782</proc:AllPriorYears>
+                                            <proc:PriorYear>6.146</proc:PriorYear>
+                                            <proc:CurrentYear>2.314</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>7.414</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>7.417</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2014</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2014-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2015-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>7.417</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2013-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2013-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>2.314</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS /Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>6.146</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>Critical Infrastructure</proc:Name>
+                                    <proc:ItemNumber>2</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>1</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>10.258</proc:AllPriorYears>
+                                            <proc:PriorYear>12.457</proc:PriorYear>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>10.258</proc:AllPriorYears>
+                                            <proc:PriorYear>12.457</proc:PriorYear>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2011</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>10.258</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>12.457</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>EITSD Infrastructure</proc:Name>
+                                    <proc:ItemNumber>10</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:CurrentYear>23.539</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>23.876</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>23.876</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:CurrentYear>23.539</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>23.876</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>23.876</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2014</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS / Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2014-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2014-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>23.876</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2013-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2013-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>23.539</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>Desktop Environment</proc:Name>
+                                    <proc:ItemNumber>1</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>1</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>10.226</proc:AllPriorYears>
+                                            <proc:PriorYear>12.71</proc:PriorYear>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>10.226</proc:AllPriorYears>
+                                            <proc:PriorYear>12.71</proc:PriorYear>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>12.710</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington,va</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2011</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-04</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>10.226</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:ContractMethod>C</proc:ContractMethod>
+                                                    <proc:ContractType>FP</proc:ContractType>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                                <proc:Item>
+                                    <proc:Name>WHMO IT Lifecycle Replacements</proc:Name>
+                                    <proc:ItemNumber>8</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>1</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>0.396</proc:AllPriorYears>
+                                            <proc:PriorYear>0.393</proc:PriorYear>
+                                            <proc:CurrentYear>0.403</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0.406</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>0.406</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>0.396</proc:AllPriorYears>
+                                            <proc:PriorYear>0.393</proc:PriorYear>
+                                            <proc:CurrentYear>0.403</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0.406</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>0.406</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>WHS</proc:Name>
+                                            <proc:Location>Arlington, VA</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2013-03</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2013-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.398</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:FundingVehicle>MIPR</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS/ Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-03</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.393</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:FundingVehicle>MIPR</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2014</proc:FiscalYear>
+                                                    <proc:PCOLocation>WHS / Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2015-03</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2015-04</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.406</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:FundingVehicle>MIPR</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+                <proc:P40AItemGroup>
+                    <proc:Name>Acquisition Resource Analysis</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name>Indian Incentive</proc:Name>
+                                    <proc:ItemNumber>1</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>1</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>15</proc:AllPriorYears>
+                                            <proc:PriorYear>14.854</proc:PriorYear>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>15</proc:AllPriorYears>
+                                            <proc:PriorYear>14.854</proc:PriorYear>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>AT&amp;L</proc:Name>
+                                            <proc:Location>Arlington,va</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>AT&amp;L/Arlington, VA</proc:PCOLocation>
+                                                    <proc:AwardDate>2011-10</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2011-10</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>14.854</proc:UnitCost>
+                                                    <proc:SpecsAvailableNow>false</proc:SpecsAvailableNow>
+                                                    <proc:FundingVehicle>Grant</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+                <proc:P40AItemGroup>
+                    <proc:Name>Commercial Heavy Armored Vehicles</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name>Commercial Heavy Armored Vehicles</proc:Name>
+                                    <proc:ResourceSummary>
+                                        <proc:Quantity>
+                                            <proc:AllPriorYears>0</proc:AllPriorYears>
+                                            <proc:PriorYear>1</proc:PriorYear>
+                                            <proc:CurrentYear>1</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:Quantity>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                                            <proc:PriorYear>0.235</proc:PriorYear>
+                                            <proc:CurrentYear>0.294</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0.299</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>0.299</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemCost>
+                                        <proc:GrossWeaponSystemUnitCost>
+                                            <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                                            <proc:PriorYear>0.235</proc:PriorYear>
+                                            <proc:CurrentYear>0.294</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>0.299</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>0.299</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemUnitCost>
+                                    </proc:ResourceSummary>
+                                    <proc:ManufacturerList>
+                                        <proc:Manufacturer>
+                                            <proc:Name>State Dept.</proc:Name>
+                                            <proc:Location>Washington, DC</proc:Location>
+                                            <proc:HistoryPlanningList>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2012</proc:FiscalYear>
+                                                    <proc:PCOLocation>State Dept./Washington, DC</proc:PCOLocation>
+                                                    <proc:AwardDate>2012-06</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2012-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.235</proc:UnitCost>
+                                                    <proc:FundingVehicle>MIPR</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2013</proc:FiscalYear>
+                                                    <proc:PCOLocation>State Dept./Washington, DC</proc:PCOLocation>
+                                                    <proc:AwardDate>2013-06</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2013-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.294</proc:UnitCost>
+                                                    <proc:FundingVehicle>MIPR</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                                <proc:HistoryPlanning>
+                                                    <proc:FiscalYear>2014</proc:FiscalYear>
+                                                    <proc:PCOLocation>State Dept./Washington, DC</proc:PCOLocation>
+                                                    <proc:AwardDate>2014-06</proc:AwardDate>
+                                                    <proc:FirstDeliveryDate>2014-06</proc:FirstDeliveryDate>
+                                                    <proc:Quantity>1</proc:Quantity>
+                                                    <proc:UnitCost>0.299</proc:UnitCost>
+                                                    <proc:FundingVehicle>MIPR</proc:FundingVehicle>
+                                                </proc:HistoryPlanning>
+                                            </proc:HistoryPlanningList>
+                                        </proc:Manufacturer>
+                                    </proc:ManufacturerList>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+            </proc:ItemExhibitList>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>total</proc:p40AItemScheduleSetting>
+                <proc:suppressP40As>false</proc:suppressP40As>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

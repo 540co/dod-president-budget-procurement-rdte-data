@@ -1,0 +1,1801 @@
+{
+    "id": "43d68e88a187d36623b963568216a21d4e305a69",
+    "meta": {
+        "filename": "dod-2014_RDTE_2014_NAVY_BA1_3_RDTE_MasterJustificationBook_Navy_PB_2014.zzz_unzipped_RDTE_MasterJustificationBook_Navy_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1319",
+        "appropriation_name": "Research, Development, Test & Evaluation, Navy"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0204228N"
+        },
+        "ProgramElementTitle": {
+            "val": "Surface Support"
+        },
+        "R1LineItemNumber": {
+            "val": "173"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationCode": {
+            "val": "1319"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "0.000"
+            },
+            "PriorYear": {
+                "val": "3.292"
+            },
+            "CurrentYear": {
+                "val": "4.171"
+            },
+            "BudgetYearOne": {
+                "val": "2.374"
+            },
+            "BudgetYearOneBase": {
+                "val": "2.374"
+            },
+            "BudgetYearTwo": {
+                "val": "3.099"
+            },
+            "BudgetYearThree": {
+                "val": "2.582"
+            },
+            "BudgetYearFour": {
+                "val": "2.398"
+            },
+            "BudgetYearFive": {
+                "val": "2.440"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Surface Support RDT&E funding will be used for the research, design, development, integration testing, and documentation of a new Inertial Navigation System (INS) to support the Ballistic Missile Defense (BMD) mission.  The program will implement systems engineering processes to identify specific BMD performance requirements, investigate major navigation system error sources, define new functions, research new technologies, algorithms, and techniques to improve system performance, conduct analyses of alternatives, create preliminary and final design concepts, develop new hardware components and associated software, and conduct land based and shipboard testing.\n\nThe Navy's current INS is the AN\/WSN-7(V) Ring Laser Gyro Navigator (RLGN), a legacy 1980's design that was first installed in 1998 and is now obsolete.  This is a proprietary design.  Estimates to redesign obsolete components for new production systems for SCN platforms exceed current budgets.  The RLGN is reaching its limit with respect to providing the high-accuracy navigation solution required to meet known and emerging mission requirements.  Navigator of the Navy's Vision 2025 identifies emergent requirements with respect to improved navigation in a GPS denied environment, littoral warfare, mine countermeasures, and manned and unmanned vehicle operations that cannot be met with existing systems.  The RLGN employs an Inertial Measuring Unit (IMU) with three single-axis ring laser gyros that allow the system to provide continuous and automatic data outputs of the ship's geographic position (latitude, longitude), horizontal and vertical linear velocity (Ve, Vn, Vv), attitude (heading, roll, and pitch) and attitude rates. The INS provides mission critical ship's position and attitude data to shipboard sensors (such as radars), combat systems, gun and missile systems.  The INS uses data from the Global Positioning System (GPS) to periodically update (i.e., reset) its position and internal clock.  The INS is the ship's primary position source in absence of GPS."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.377"
+                },
+                "CurrentYear": {
+                    "val": "4.171"
+                },
+                "BudgetYearOne": {
+                    "val": "2.963"
+                },
+                "BudgetYearOneBase": {
+                    "val": "2.963"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.292"
+                },
+                "CurrentYear": {
+                    "val": "4.171"
+                },
+                "BudgetYearOne": {
+                    "val": "2.374"
+                },
+                "BudgetYearOneBase": {
+                    "val": "2.374"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.085"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "-0.589"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-0.589"
+                }
+            },
+            "AdjustmentDetails": {
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.085"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Rate\/Misc Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-0.589"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-0.589"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "3311"
+                    },
+                    "ProjectTitle": {
+                        "val": "Navigation Systems"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "0.000"
+                        },
+                        "PriorYear": {
+                            "val": "3.292"
+                        },
+                        "CurrentYear": {
+                            "val": "4.171"
+                        },
+                        "BudgetYearOne": {
+                            "val": "2.374"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "2.374"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "3.099"
+                        },
+                        "BudgetYearThree": {
+                            "val": "2.582"
+                        },
+                        "BudgetYearFour": {
+                            "val": "2.398"
+                        },
+                        "BudgetYearFive": {
+                            "val": "2.440"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Surface Support RDT&E funding will be used for the research, design, development, integration testing, and documentation of a new Inertial Navigation System (INS) to support the Ballistic Missile Defense (BMD) mission.  The program will implement systems engineering processes to identify specific BMD performance requirements, investigate major navigation system error sources, define new functions, research new technologies, algorithms, and techniques to improve system performance, conduct analyses of alternatives, create preliminary and final design concepts, develop new hardware components and associated software, and conduct land based and shipboard testing.\n\nThe Navy's current INS is the AN\/WSN-7(V) Ring Laser Gyro Navigator (RLGN), a legacy 1980's design that was first installed in 1998 and is now obsolete.  This is a proprietary design.  Estimates to redesign obsolete components for new production systems for SCN platforms exceed current budgets.  The RLGN is reaching its limit with respect to providing the high-accuracy navigation solution required to meet known and emerging mission requirements.  Navigator of the Navy's Vision 2025 identifies emergent requirements with respect to improved navigation in a GPS denied environment, littoral warfare, mine countermeasures, and manned and unmanned vehicle operations that cannot be met with existing systems.  The RLGN employs an Inertial Measuring Unit (IMU) with three single-axis ring laser gyros that allow the system to provide continuous and automatic data outputs of the ship's geographic position (latitude, longitude), horizontal and vertical linear velocity (Ve, Vn, Vv), attitude (heading, roll, and pitch) and attitude rates. The INS provides mission critical ship's position and attitude data to shipboard sensors (such as radars), combat systems, gun and missile systems.  The INS uses data from the Global Positioning System (GPS) to periodically update (i.e., reset) its position and internal clock.  The INS is the ship's primary position source in absence of GPS."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Systems Engineering"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.292"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Assessed current AN\/WSN-7 design, performance, and support gaps.\n- Completed draft INS-R sensor, processing hardware\/software, and interface specification documents.\n- Generated acquisition documentation.\n- Issued draft Request for Proposal (RFP) for INS-R sensor development."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.171"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Award competitive contract for INS-R sensor development.\n- Develop INS-R processing hardware\/software design.\n- Develop INS-R Modeling and Simulation capability."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.374"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.374"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "- Integrate INS-R sensor with processing hardware\/software."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/0670"
+                                    },
+                                    "Title": {
+                                        "val": "Other Navigation"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "20.582"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "23.392"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "39.509"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "39.509"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "41.392"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "40.974"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "32.298"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "42.378"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "302.147"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Procurement of the Inertial Navigation System (INS) planned to begin in FY14."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "FY12:\n- Completed Design, performance, and support gap analysis.  \n- Drafted Request for Proposal (RFP) issued for INS-R sensor development.\n- Completed INS-R Single Acquisition Management Plan (SAMP).\n\nFY13:\n- Initial INS-R processing hardware\/software development.  \n- Initial INS-R Modeling and Simulation capability.\n- Complete INS-R CDD.\n\nFY14:\n- INS-R sensor integration with processing hardware\/software."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR Atlantic"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Little Creek, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.777"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-07"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.761"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.448"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.448"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "WR Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Norfolk, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.019"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.545"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.278"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.278"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.842"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Penn State\/ARL"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Warminster, PA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.891"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.266"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.266"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.657"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC Dahlgren"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dahlgren, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.154"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.117"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.025"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.025"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.296"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Old Dominion University"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Suffolk, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.450"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering\/Design"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Contractor TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.672"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-07"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.672"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.201"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.376"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.357"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.357"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.934"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2014PB_0204228N_3311_FILE1.JPG"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Proj 3311"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Analysis of Alternatives (AoA) White Paper"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Capability Development Document (CDD)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Single Acquisition Management Plan (SAMP)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Designation Letter"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Validate New Requirements"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Assess WSN-7 Req Gaps"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Inertial Navigation System (INS) Requirement Traceability Matrix"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "INS Sensor Tech Requirements Document (TRD)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Navigation Input Ouput Processor (NIOP) TRD"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Sensor\/NIOP Interface Design Specification (IDS)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "INS-Replacement (INS-R) Modeling & Simulation (M&S)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "System Requirement Review (SRR)\/System Function Review (SFR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Draft Request For Proposal (RFP) INS Sensor"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Submit Acquisition Plan (AP)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Statement of Work (SOW)\/Procurement Request (PR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Issue RFP INS Sensor"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "NIOP Design, Development, Coding & Test"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Sensor Sub Assembly (SSA) Source Selection"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Milestone B Acquisition Program Baseline (APB)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Software Specification Review (SSR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Competitive Contract Award (INS Sensor Development)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Laboratory Integration\/Land Based Test Site (LBTS)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Preliminary Design Review (PDR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Milestone B Acquisition Decision Memo (ADM)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Design Readiness Review (DRR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Critical Design Review (CDR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Submit AP 2"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Competitive Contract Option Award (INS Sensor Development)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "SOW\/PR 2"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Test Readiness Review (TRR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "SSA Source Selection 2"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Environmental Qualification Test (EQT)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Milestone C APB"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Lab Asset for Wallops"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Competitive Contract Award (INS Sensor Production)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Low Rate Initial Production (LRIP)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Development Test (DT)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Milestone C ADM"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Operational Test Readiness Review (OTRR)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Operational Test (OT) At Sea Alignment Testing\/Ballistic Missile Defense (ASAT\/BMD)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Competitive Contract Option Award (INS Sensor Production)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Full Rate Production (FRP)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Follow on Test & Evaluation (FOT&E)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Initial Operational Capability (IOC)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

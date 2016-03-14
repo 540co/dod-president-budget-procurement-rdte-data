@@ -1,0 +1,2024 @@
+{
+    "id": "d5525beeb0c398cb37902ca83c19c04057b319f9",
+    "meta": {
+        "filename": "dod-2013_RDTE_2013_DISA_JustificationBook_Defense_Information_Systems_Agency_PB_2013.zzz_unzipped_JustificationBook_Defense_Information_Systems_Agency_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Defense Information Systems Agency",
+        "appropriation_code": "0400",
+        "appropriation_name": "Research, Development, Test & Evaluation, Defense-Wide"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0303610K"
+        },
+        "ProgramElementTitle": {
+            "val": "Teleport Program"
+        },
+        "R1LineItemNumber": {
+            "val": "215"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Defense Information Systems Agency"
+        },
+        "AppropriationCode": {
+            "val": "0400"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Defense-Wide"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "5.935"
+            },
+            "CurrentYear": {
+                "val": "6.418"
+            },
+            "BudgetYearOne": {
+                "val": "6.050"
+            },
+            "BudgetYearOneBase": {
+                "val": "6.050"
+            },
+            "BudgetYearTwo": {
+                "val": "5.610"
+            },
+            "BudgetYearThree": {
+                "val": "5.533"
+            },
+            "BudgetYearFour": {
+                "val": "5.536"
+            },
+            "BudgetYearFive": {
+                "val": "5.597"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Department of Defense (DoD) Teleport system is a Satellite Communications (SATCOM) gateway that links the deployed warfighter to the sustaining base.  It provides high-throughput, multi-band, and multi-media telecommunications services for deployed forces.  The system provides centralized integration capabilities, contingency capacity, and the necessary interfaces to access the Defense Information System Network (DISN) in a seamless, interoperable, and economical manner.  The Teleport system is an upgrade of satellite telecommunication capabilities at selected DoD gateways indentified as Standardized Tactical Entry Point (STEP) sites.  Each Teleport investment increases the warfighters\u2019 ability to communicate with a worldwide interconnected set of information capabilities, which is vital for the DoD to maintain a persistent presence among its adversaries.\n\nThe Teleport program began fielding system capabilities incrementally using a multi-generational, evolutionary development approach.  Generation 1 fielded capabilities for C, X, Ku, Ultra High Frequency (UHF)-band, Extremely High Frequency (EHF) (Low Data Rate [LDR] & Medium Data Rate [MDR]) band, and integrated military Ka-band into the Teleport system.  Generation 1 added Commercial Satellite Communication (COMSATCOM) and expanded the Military Satellite communication (MILSATCOM) terminal, baseband equipment, and serial circuit based network services segment capabilities to six Standard Tactical Entry Point (STEP) sites.  Generation One (FY2002 \u2013 FY2010) fielded capabilities in four Full Deployment Decision (FDD) events.  FDD 1 completed in March 2004 and implemented C, X, and Ku band capability at six sites.  FDD 2 completed in November 2006 and implemented UHF-band capability at four sites.  FDD 3, completed in March 2007, implemented additional C, Ku, and UHF band capabilities, and added EHF and limited Internet Protocol (IP) capabilities.  FDD 4 completed in August 2010 integrated military Ka-band SATCOM capabilities into Teleport. Generation Two (FY2006 \u2013 FY2010) added additional military Ka band and legacy capability and implemented IP Net-Centric communications to increase capacity at the Teleport sites.  A Full Deployment was recommended by DISA on 23 December 2010. \n\nA Teleport Acquisition Decision Memorandum (ADM) dated March 2, 2010 approved the Materiel Development Decision (MDD) for the next increment of Teleport, Generation 3.  The current Teleport Generation 3 Production APB was signed 13 September 2010.  The baseline is based on the three Gen 3 phases, satellite availability, and user availability for testing.\n\nPhase 1:  Gateway Advanced Extremely High Frequency (AEHF) [Extended Data Rate (XDR)] terminals.  This enhancement provides the President, Secretary of Defense, and Combatant Commanders with survivable, anti-jam communications through all peacetime and combat operations. \n \nPhase 2:  Gateway Wideband Global SATCOM X\/Ka-band terminals.  This enhancement provides deployed commanders with sufficient bandwidth to rapidly transmit the largest video and data products to the battlefield warfighter, including Unmanned Aerial Vehicle (UAV) streaming video, digital imagery intelligence, and mapping and weather products and services.\n\nPhase 3:  Mobile User Objective System (MUOS) to Legacy ultra high frequency systems interoperability.  This enhancement allows tactical warfighters using the most capable and cost effective narrowband capabilities to communicate with users possessing outdated technology until those legacy systems are replaced.\n\nMobile User Objective System (MUOS) Legacy Gateway Component (MLGC):  The MLGC program will provide the capability to interconnect all services between legacy UHF satellite systems and the MUOS.  To sustain the current UHF SATCOM constellation capabilities, the MUOS satellites will also offer a legacy UHF communications payload that will provide capabilities to existing deployed UHF terminals.  This will provide the warfighter the voice and data communications bridging between these satellite systems supporting maritime, airborne, and ground mobile tactical operations.  \n\nMobile User Objective System to Defense Switched Network (DSN):  The MUOS to DSN project will allow MUOS users the ability to place secure but unclassified calls within the DSN network.  Currently, MUOS users can only place secure classified calls to DSN users which only make up approximately 3% of the DSN users.  The MUOS to DSN project will enable the Warfighter to place a secure but unclassified call to any DSN user.  A reduction in funding would impact design and development efforts.  Without this capability, warfighters in the field environment will have limited communication ability with the DSN network.  Specifically, warfighters using the MUOS radio will be limited to placing calls to DSN users with auto secure cryptographic telephones.  \n\nGeneric Discovery Server Enclave:  The purpose of the Generic Discovery Server (GDS) Enclave effort is to provide a dynamic discovery service capability for non-secret security enclaves (Cipher Text and Plain Text addresses).  Presently, dynamic discovery services are only being provided for Secret-US only enclave.  A decrease in funding will impact project initiation and procurement of required hardware and software.  Without the GDS capability, the warfighters ability to communicate will be impacted.  Specifically, a significant burden will be placed on communication planners and limit the flexibility of swapping terminals with users in the field.  Static address tables will have to be used for thousands of unclassified users, reducing the flexibly to reach a user in a dynamic environment."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "6.880"
+                },
+                "CurrentYear": {
+                    "val": "6.418"
+                },
+                "BudgetYearOne": {
+                    "val": "5.987"
+                },
+                "BudgetYearOneBase": {
+                    "val": "5.987"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "5.935"
+                },
+                "CurrentYear": {
+                    "val": "6.418"
+                },
+                "BudgetYearOne": {
+                    "val": "6.050"
+                },
+                "BudgetYearOneBase": {
+                    "val": "6.050"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.945"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.063"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.063"
+                }
+            },
+            "AdjustmentDetails": {
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustment"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.945"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "0.063"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "0.063"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "The FY 2011 decrease of -$0.945 supports ISOM mission requirements.\n\nThe FY 2013 increase of +$0.063 is due to inflationary adjustments."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "NS01"
+                    },
+                    "ProjectTitle": {
+                        "val": "Teleport Program"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "5.935"
+                        },
+                        "CurrentYear": {
+                            "val": "6.418"
+                        },
+                        "BudgetYearOne": {
+                            "val": "6.050"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "6.050"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "5.610"
+                        },
+                        "BudgetYearThree": {
+                            "val": "5.533"
+                        },
+                        "BudgetYearFour": {
+                            "val": "5.536"
+                        },
+                        "BudgetYearFive": {
+                            "val": "5.597"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "Total RDT&E line includes Mobile User Objective System (MUOS) funding in FYs 2011 through 2014."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Department of Defense (DoD) Teleport system is a Satellite Communications (SATCOM) gateway that links the deployed warfighter to the sustaining base.  It provides high-throughput, multi-band, and multi-media telecommunications services for deployed forces.  The system provides centralized integration capabilities, contingency capacity, and the necessary interfaces to access the Defense Information System Network (DISN) in a seamless, interoperable, and economical manner.  The Teleport system is an upgrade of satellite telecommunication capabilities at selected DoD gateways indentified as Standardized Tactical Entry Point (STEP) sites.  Each Teleport investment increases the warfighters\u2019 ability to communicate with a worldwide interconnected set of information capabilities, which is vital for the DoD to maintain a persistent presence among its adversaries.\n\nA Teleport Acquisition Decision Memorandum (ADM) dated 2 March 2010 approved the Materiel Development Decision (MDD) for the next increment of Teleport, Generation 3.  The ADM approved using a three phased approach to decouple the dependencies between the enhancements and minimize risk to the overall program.  \n\nPhase 1:  Gateway Advanced Extremely High Frequency (AEHF) [Extended Data Rate (XDR)] terminals.  Teleport Generation 3 Phase 1 will provide AEHF XDR capability to warfighters worldwide, by installing terminals from the Navy Multiband Terminal (NMT) program at Teleport and other gateway sites. To realize this capability, the TPO will procure 19 terminals from the NMT program, installing one terminal at the Teleport test bed, and fielding 18 terminals at Teleport\/gateway sites in the FY10-15 timeframe.\n \nPhase 2:  Gateway Wideband Global SATCOM (WGS) X\/Ka-band terminals. Teleport Generation 3 Phase 2 will provide enhanced WGS X\/Ka capability to warfighters worldwide, by installing terminals from the Modernization of Enterprise Terminal (MET) program at Teleport and other gateway sites. This gateway enhancement allows Teleport to refresh end-of-life Defense Satellite Communications System (DSCS) terminals and remain interoperable with tactical WGS X\/Ka-band users. Additionally, it enables the Teleport system to maintain operational availability consistent with Generation 2 requirements and reduce the overall life-cycle cost of X\/Ka capabilities across the DoD. To realize this capability, the TPO will procure and field 14 METs at Teleport\/gateway sites beginning in FY12.\n \nPhase 3:  MUOS to Legacy Ultra High Frequency (UHF) systems interoperability.  Teleport Generation 3 Phase 3 will provide interoperability between MUOS users and Legacy UHF users by installing MUOS-to-Legacy UHF SATCOM Gateway Component (MLGC) suites of equipment at Teleport\/gateway sites. The equipment suites from the MLGC program will enable translation between the two UHF waveforms, duplex operating modes, crypto algorithms, and vocoders. To realize this capability, six MLGC suites will be fielded at Teleport\/gateway sites in the FY10-15 timeframe. The equipment suites will be fielded in accordance with a planned Generation 3 Phase 3 CDR architecture. \n\nThe Mobile User Objective System (MUOS) is the next generation Department of Defense (DoD) Ultra High Frequency (UHF) SATCOM system that will provide the warfighter with modern worldwide mobile communication services, utilizing the Code Division Multiple Access (CDMA) waveform for use in the military UHF SATCOM band.  The MLGC program will provide the capability to interconnect all services between legacy UHF satellite systems and the MUOS. This will provide the warfighter the voice and data communications bridging these satellite systems supporting maritime, airborne, and ground mobile tactical operations.\n\nWithout Phase 1, the warfighter will not have reachback to DISN services using the higher data rate capabilities of the AEHF satellite constellation providing DoD\u2019s most secure and interoperable SATCOM capability. Warfighters will be forced to lower data rate modes of operation over AEHF that would constrain applications and services requiring the increased data rates provided with the XDR mode.  \n\nWithout Phase 2, Teleport and other gateway sites will have insufficient capacity to fully utilize the advance WGS capabilities.  The current complement of enterprise terminals are approaching end of life and without a replacement program, warfighters will be forced to conduct operations with limited assets resulting in possible mission failure.  \n\nWithout Phase 3, MUOS will not be interoperable with existing UHF SATCOM equipment and Tactical users deployed in harm\u2019s way will be unable to efficiently communicate with one another and their commanders through existing legacy systems.  Without the MLGC program, warfighters utilizing the current UHF satellite systems and services will not be able to communicate with the warfighters equipped with the MUOS capable services.  This means that all military forces operating with legacy radios will be unable to communicate to military forces operating with MUOS radios.  The direct impact of this and based on the mission of the warfighter will force the warfighter to carry two separate terminals depending on their specific mission and network requirements.  Further, the warfighter will be forced to continue operating in their existing environment (either Legacy UHF or MUOS), delaying the phase out\/end of life for UHF legacy terminals and delaying the planning for the fielding, training and transition of the MUOS capability.  The warfighter will be forced to standup separate networks based on the deployed terminals.  This results in a lack of coordination, risk to forces, and risk to mission success in tactical missions globally."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Teleport Program"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.935"
+                                            },
+                                            "Text": {
+                                                "val": "Technology Refresh and Generation 3 ($3.845): Funding allowed the program to continue the technology refreshment schedule and testing activities required to sustain Gens 1 and 2 fielded capabilities and complete an evaluation of the existing Teleport Management & Control System (TMCS) to revise the architecture to enhance security.  SEPM efforts continued the program's acquisition plan to purchase Commercial-Off-The-Shelf (COTS) and Government-Off-The-Shelf (GOTS) equipment to integrate Gen 3 Phase 1 and Phase 2 with the system's architectural design.  Engineers refined Gen 3 designs and specifications and began test planning efforts Phase 1 at the program's test facility, the Joint Satellite Communications Engineering Center (JSEC).  The program prepared acquisition documentation for Gen 3 Phase 2 to refresh end-of-life DSCS terminals with METs to remain interoperable with WGS X\/Ka-band users to achieve an Acquisition Decision Memorandum for an initial quantity procurement prior to Milestone C.  MUOS to DISN ($1.310): Our Emerging Technologies office performed initial research, development, test, and evaluation of the MUOS to DISN system design and implementation.  MLGC ($0.300): The MLGC program continued to mature the vendor design and commenced development, conducted successful Systems Requirement Review (SRR) Preliminary Design Review (PDR) and Management and Control (M&C) Demonstration to demonstrate the systems\u2019 readiness for delivery. Held two Program Management Reviews and Initial Program Baseline Review.  GDS Enclave ($0.110):  Obtained Key Decision Point (KDP) to proceed.  Initiated a design for a dynamic discovery service capability for non-secret security enclaves (Cipher Text and Plain Text addresses), and developed key acquisition documentation. MUOS to DSN ($0.370): Obtained Key Decision Point (KDP) to proceed and developed key acquisition documentation."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.418"
+                                            },
+                                            "Text": {
+                                                "val": "Technology Refresh ($2.122) and Generation 3 ($2.886): Continue a technology refreshment schedule and testing activities required to sustain Gens-1\/2 fielded capabilities and schedule and test the refined Management & Control system.  Conduct final tests for MUOS-DISN for initial operational capability at two Teleport sites.  Continue preparation of engineering and program documentation to support a Gen 3 Phase 2 Milestone C decision for enhanced X\/Ka capability. Oversee progress and of the MLGC activities, update the Gen 3 Phase 3 schedule accordingly, and participate in design and strategy reviews held by the Emerging Technologies office for MUOS to Legacy capability.  MLGC ($0.400): Continue program office support, support a Milestone C decision, conduct a Critical Design Review (CDR), commence factory testing and address any technical issues during the installation and testing of the two EDMs.   MUOS to DISN ($0.400):  Develop initial research, development, test, and evaluation of the MUOS to UHF system design and implementation.  MUOS to DSN ($0.470):  Following a KDP A, commence system design and development, conduct a System Requirement Review (SRR), a Preliminary Design Review (PDR), a Critical Design Review (CDR), and commence factory testing.  GDS Enclave ($0.140):  Continue to mature a dynamic discovery service capability for non-secret security enclaves (Cipher Text and Plain Text addresses).  Following KDP A, commence system design and development, conduct a System Requirement Review (SRR), a Preliminary Design Review (PDR), a Critical Design Review (CDR) and commence factory testing.  \n\nThe increase of +$0.483 between FY 2011 and FY 2012 is due to a slight shift in efforts to continue a technology refreshment schedule designed to support Gens 1 and 2 fielded capabilities and the installation of a refined Management & Control System."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "6.050"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "6.050"
+                                            },
+                                            "Text": {
+                                                "val": "Technology Refresh ($2.177) and Generation 3 ($3.153): Funding will allow the program to continue a technology refreshment schedule and testing activities required to sustain Gens-1\/2 fielded capabilities.  Funding will support pre-Milestone C documentation development for Gen 3 Phase 3 and the Milestone C decision to include schedule updates, a Critical Design Review, and a life cycle cost estimate. MLGC ($0.100):  Funding will support documentation and planning for an MLGC Milestone C decision, finalizing the design, schedule, and cost estimates.  MUOS to DISN ($0.240):  Funding will continue efforts to develop initial research, development, test, and evaluation of the MUOS to UHF system design and implementation. MUOS to DSN ($0.290):  Plan is to commence efforts to obtain a KDP B and C Decision and to install and test, and declare Initial Operational Capability (IOC).  GDS Enclave ($0.090):  Plan is to commence efforts to obtain a KDP B and C Decision, install and test, and declare Initial Operational Capability (IOC).  \n\nThe decrease of -$0.368 between FY 2012 and FY 2013 is due to reduced planning, engineering and testing required to support Gen 1 and 2 technology refresh."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "O&M, DW\/PE0303610K"
+                                    },
+                                    "Title": {
+                                        "val": "O&M, DW"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "13.237"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "27.146"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "25.076"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "15.611"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "9.465"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "15.688"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "16.002"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "15.510"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "15.734"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "Procurement, DW\/PE0303610K"
+                                    },
+                                    "Title": {
+                                        "val": "Procurement, DW"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "68.709"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "58.050"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "52.210"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "46.950"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "5.260"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "68.932"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "54.177"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "40.615"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "23.093"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The TPO utilizes the DoD preferred evolutionary acquisition approach to acquire COTS and modified COTS equipment when possible.  The two TPO procuring agencies, Program Manager Defense Communications and Army Transmission Systems (PM DCATS), and the Space and Naval Warfare Systems Command (SPAWAR) provide direct contracting support.  Required assistance from other Departments including Army, Navy, and Air Force is acquired via Military Interdepartmental Purchase Request (MIPR) for both organic and contracted support.  The TPO maximizes the use of performance-based contracts and requires contractors to establish and manage specific earned value data to mitigate risk and monitor deviations from cost, schedule, and performance objectives.  Performance is evaluated thorough Post-award contract reviews, performance assessment during quarterly program reviews.  The MUOS to Legacy Gateway Component (MLGC) program will use various contract types to employ the vendor best suited to deliver the program\u2019s capabilities to the warfighter."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Tech Refresh and Generation 3 Cost and Schedule Performance Metrics: \nTeleport manages and tracks its cost and schedule performance parameters using a tailored Earned Value Management System (EVMS) process, integrating the program plan, the program schedule, Work Breakdown Structure (WBS), and financial data.  Progress is monitored\/documented monthly showing percentages complete for schedule and cost.  Formal updates with changes to the schedule are documented against the program baseline.\n\nTech Refresh and Generation 3 Program Metrics:\nPerformance metrics have been established in four measurement areas: 1) customer results, 2) mission and business results, 3) processes and activities, and 4) technology.  Specific measurement indicators and units of measure vary by measurement area, and metrics in each of the aforementioned areas are measured annually.  In FY2011, all targets have been met.  Teleport will use the same measurement areas for performance metrics in FY2012 and FY2013."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Technical & Design Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "IA"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SSC Atlantic"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.140"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.140"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.140"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Technical & Design Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.400"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.240"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.240"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-05"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Services"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "STF Ltd."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fredericksburg, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.297"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": ".297"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "IA"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR Atlantic"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Charleston, SC"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.075"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": ".075"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "BAH"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "13.210"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SAIC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Falls Church, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.166"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": ".166"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": ".166"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "STF"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Fredericksburg, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.157"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": ".157"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": ".157"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "IA"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SPAWAR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "DCATS"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.221"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.221"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "1.221"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Contractor Program Office Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SSC Atlantic, STF"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Charleston, SC"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.582"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.400"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.100"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "IA"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "CERDEC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.003"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.003"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.003"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Technical & Design Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "IA"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "PM DCATS"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft. Belvoir, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.352"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.294"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.294"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.294"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-02"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering Program Management Support (G3P2\/3)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.751"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-09"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.751"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.751"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-09"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering  Program Management Support (Tech Refresh)"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.365"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.751"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-09"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.751"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.751"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-09"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Technical Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.564"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.380"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.380"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "IA"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SSC Atlantic"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.090"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.090"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.090"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.066"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.342"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.342"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Program Office Engineering"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.300"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.300"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.300"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Testing Support Services"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JITC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Ft. Huachuca"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "8.079"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.659"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.659"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.659"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Teleport Program"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Generation Two-FD"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Technology Refresh-Generation Three"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Generation Three-Phase 2 Milestone C WGS X\/Ka"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Generation Three-Phase 3 Milestone C MUOS \u2013 Legacy"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Generation Three-Phase 3 FDD MUOS - Legacy"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2014"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "MUOS to Legacy Gateway Component"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "MLGC Contract award"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "SRR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "PDR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Phase 1 Testing \u2013 Vendor Site"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Phase 2 Testing \u2013 First Article Testing"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Phase 3 Operational Assessment \u2013 Northwest"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Ms C Decision"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "MUOS to Defense Switched Network"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Acquisition Documentation"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Key Decision Point (MS B Equivalent)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Commence Development"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "SRR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "PDR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Factory Testing"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "KDP B"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Installation"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "T&E (DT\/OT)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "KDP C"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "IOC"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Generic Discovery Server"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Acquisition Documentation"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Key Decision Point (MS B Equivalent)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Commence Development"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "SRR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "PDR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "CDR"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Factory Testing"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "KDP B"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "Installation"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "T&E (DT\/OT)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "KDP C"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "IOC"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

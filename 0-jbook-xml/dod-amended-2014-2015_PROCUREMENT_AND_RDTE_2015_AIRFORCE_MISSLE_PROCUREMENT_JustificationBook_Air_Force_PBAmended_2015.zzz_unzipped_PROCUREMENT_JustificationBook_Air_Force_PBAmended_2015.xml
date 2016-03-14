@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2015</jb:BudgetYear>
+    <jb:BudgetCycle>PBAmended</jb:BudgetCycle>
+    <jb:SubmissionDate>2014-06</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Air Force</jb:ServiceAgencyName>
+    <jb:AppropriationCode>3020F</jb:AppropriationCode>
+    <jb:AppropriationName>Missile Procurement, Air Force</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>P-1_PB15_3020_Missile_OCO.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" unitCostUnits="Millions" totalCostUnits="Millions" manufacturerRateUnits="Yearly">
+            <proc:LineItemNumber>PRDTA2</proc:LineItemNumber>
+            <proc:LineItemTitle>Predator Hellfire Missile</proc:LineItemTitle>
+            <proc:P1LineNumber>6</proc:P1LineNumber>
+            <proc:BudgetYear>2015</proc:BudgetYear>
+            <proc:BudgetCycle>PBAmended</proc:BudgetCycle>
+            <proc:SubmissionDate>2014-06</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Air Force</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>3020F</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Missile Procurement, Air Force</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>2</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Other Missiles</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>2</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Tactical</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:Quantity>
+                    <proc:PriorYear>708</proc:PriorYear>
+                    <proc:CurrentYear>624</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>283</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>983</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>1266</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1853</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>2257</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>612</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>588</proc:BudgetYearFive>
+                </proc:Quantity>
+                <proc:TotalCost>
+                    <proc:PriorYear>81.649</proc:PriorYear>
+                    <proc:CurrentYear>64.928</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>33.878</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>114.939</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>148.817</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>221.742</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>274.686</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>76.681</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>75.059</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalCost>
+                <proc:UnitCost>
+                    <proc:PriorYear>0.115</proc:PriorYear>
+                    <proc:CurrentYear>0.104</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>0.12</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.117</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>0.118</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>0.12</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>0.122</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>0.125</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>0.128</proc:BudgetYearFive>
+                </proc:UnitCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>81.649</proc:PriorYear>
+                    <proc:CurrentYear>64.928</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>33.878</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>114.939</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>148.817</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>221.742</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>274.686</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>76.681</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>75.059</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>81.649</proc:PriorYear>
+                    <proc:CurrentYear>64.928</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>33.878</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>114.939</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>148.817</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>221.742</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>274.686</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>76.681</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>75.059</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:Code>A</proc:Code>
+            <proc:OtherRelatedProgramElementList>
+                <proc:ProgramElementNumber>0305219F</proc:ProgramElementNumber>
+            </proc:OtherRelatedProgramElementList>
+            <proc:Description>FY2013 funding totals include $34.350M appropriated for Overseas Contingency Operations.
+FY2014 funding totals include $24.200M appropriated for Overseas Contingency Operations.
+
+Hellfire is an air-to-ground missile system that provides precision-kill capability and has become a key weapon in Overseas Contingency Operations.  Laser Hellfire uses semi-active laser terminal guidance.  The latest variant provides for point target precision strike and is effective against countermeasures.  The Hellfire missiles are used by the MQ-1 Predator and MQ-9 Reaper aircraft.  The Army is the lead service for the Hellfire Missile program with Air Force missiles being procured through the Army's Redstone Arsenal.  Unit cost may vary depending on lead Service, other Services and/or FMS procurement quantities. Prior to FY2008, Hellfire missiles were procured under the Predator PE 0305219F.
+
+Funding for this exhibit contained in PE 0201109F.</proc:Description>
+            <proc:Justification>Missile procurement for 283 AGM-114 Hellfire missiles, Telemetry Measurement (TM) kits, load training missiles, existing warhead improvements and production implementation for the Height of Burst capability for R-model variants which incorporates a multi-purpose warhead, variable delay fuze and increased lethality.  Multiple variants (K, M, N, P, R, R-2, R9B, R9E etc.) of the Hellfire missile may be procured based upon operational requirements for various warheads and the enhanced weapon engagement zone.  Quantities are based on current estimated price for purchase through the Army.  The Hellfire missiles are used for test, training and operations. 
+
+FY15 OVERSEAS CONTINGENCY OPERATION (OCO) funds will procure an additional 983 AGM-114 Hellfire missiles, flight training missiles, telemetry measurement (TM) kits and load training missiles.  OCO funding is required to replenish Hellfire missiles expended in Operation Enduring Freedom during FY12 and a portion of the FY13 expenditures. This funding will increase inventory levels required to maintain readiness to execute DoD approved combat plans and test/training requirements.   The Hellfire missile has been used extensively to provide close air support and engage time-sensitive targets such as improvised explosive device implacers, vehicles and personnel both in the open and in structures.  Continued procurement of Hellfire weapons will enable the U.S. Air Force to meet their contingency requirements and ensure that Warfighter requirements are met. Quantities are based on current estimated price for purchase through the Army.  The Hellfire missiles are used for test, training and operations.</proc:Justification>
+            <proc:ItemExhibitList>
+                <proc:P5Item>
+                    <proc:Name>Predator Hellfire Missile</proc:Name>
+                    <proc:ItemNumber></proc:ItemNumber>
+                    <proc:ResourceSummary>
+                        <proc:Quantity>
+                            <proc:PriorYear>708</proc:PriorYear>
+                            <proc:CurrentYear>624</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>283</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOneOCO>983</proc:BudgetYearOneOCO>
+                            <proc:BudgetYearOne>1266</proc:BudgetYearOne>
+                        </proc:Quantity>
+                        <proc:TotalCost>
+                            <proc:PriorYear>81.649</proc:PriorYear>
+                            <proc:CurrentYear>64.928</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>33.878</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOneOCO>114.939</proc:BudgetYearOneOCO>
+                            <proc:BudgetYearOne>148.817</proc:BudgetYearOne>
+                        </proc:TotalCost>
+                        <proc:UnitCost>
+                            <proc:PriorYear>0.115</proc:PriorYear>
+                            <proc:CurrentYear>0.104</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>0.12</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOneOCO>0.117</proc:BudgetYearOneOCO>
+                            <proc:BudgetYearOne>0.118</proc:BudgetYearOne>
+                        </proc:UnitCost>
+                        <proc:NetProcurementP1>
+                            <proc:PriorYear>81.649</proc:PriorYear>
+                            <proc:CurrentYear>64.928</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>33.878</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOneOCO>114.939</proc:BudgetYearOneOCO>
+                            <proc:BudgetYearOne>148.817</proc:BudgetYearOne>
+                        </proc:NetProcurementP1>
+                        <proc:TotalObligationAuthority>
+                            <proc:PriorYear>81.649</proc:PriorYear>
+                            <proc:CurrentYear>64.928</proc:CurrentYear>
+                            <proc:BudgetYearOneBase>33.878</proc:BudgetYearOneBase>
+                            <proc:BudgetYearOneOCO>114.939</proc:BudgetYearOneOCO>
+                            <proc:BudgetYearOne>148.817</proc:BudgetYearOne>
+                        </proc:TotalObligationAuthority>
+                    </proc:ResourceSummary>
+                    <proc:CostElementCategoryList>
+                        <proc:Flyaway>
+                            <proc:Name>Flyaway Cost Element Category</proc:Name>
+                            <proc:Recurring>
+                                <proc:CostElementList>
+                                    <proc:CostElement>
+                                        <proc:Name>AGM-114 - All-up-Rounds</proc:Name>
+                                        <proc:Cost>
+                                            <proc:Quantity>
+                                                <proc:PriorYear>708</proc:PriorYear>
+                                                <proc:CurrentYear>624</proc:CurrentYear>
+                                                <proc:BudgetYearOneBase>283</proc:BudgetYearOneBase>
+                                                <proc:BudgetYearOneOCO>983</proc:BudgetYearOneOCO>
+                                                <proc:BudgetYearOne>1266</proc:BudgetYearOne>
+                                            </proc:Quantity>
+                                            <proc:TotalCost>
+                                                <proc:PriorYear>71.668</proc:PriorYear>
+                                                <proc:CurrentYear>56.786</proc:CurrentYear>
+                                                <proc:BudgetYearOneBase>29.151</proc:BudgetYearOneBase>
+                                                <proc:BudgetYearOneOCO>102.296</proc:BudgetYearOneOCO>
+                                                <proc:BudgetYearOne>131.447</proc:BudgetYearOne>
+                                            </proc:TotalCost>
+                                            <proc:UnitCost>
+                                                <proc:PriorYear>0.101</proc:PriorYear>
+                                                <proc:CurrentYear>0.091</proc:CurrentYear>
+                                                <proc:BudgetYearOneBase>0.103</proc:BudgetYearOneBase>
+                                                <proc:BudgetYearOneOCO>0.104</proc:BudgetYearOneOCO>
+                                                <proc:BudgetYearOne>0.104</proc:BudgetYearOne>
+                                            </proc:UnitCost>
+                                        </proc:Cost>
+                                    </proc:CostElement>
+                                </proc:CostElementList>
+                                <proc:CategorySubtotal>
+                                    <proc:TotalCost>
+                                        <proc:PriorYear>71.668</proc:PriorYear>
+                                        <proc:CurrentYear>56.786</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>29.151</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOneOCO>102.296</proc:BudgetYearOneOCO>
+                                        <proc:BudgetYearOne>131.447</proc:BudgetYearOne>
+                                    </proc:TotalCost>
+                                </proc:CategorySubtotal>
+                            </proc:Recurring>
+                            <proc:CategorySubtotal>
+                                <proc:TotalCost>
+                                    <proc:PriorYear>71.668</proc:PriorYear>
+                                    <proc:CurrentYear>56.786</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>29.151</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOneOCO>102.296</proc:BudgetYearOneOCO>
+                                    <proc:BudgetYearOne>131.447</proc:BudgetYearOne>
+                                </proc:TotalCost>
+                            </proc:CategorySubtotal>
+                        </proc:Flyaway>
+                        <proc:Hardware>
+                            <proc:Name>Hardware Cost Element Category</proc:Name>
+                            <proc:Recurring>
+                                <proc:CostElementList>
+                                    <proc:CostElement>
+                                        <proc:Name>Test Equipment</proc:Name>
+                                        <proc:Cost>
+                                            <proc:TotalCost>
+                                                <proc:PriorYear>1</proc:PriorYear>
+                                                <proc:CurrentYear>1</proc:CurrentYear>
+                                                <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                                <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                            </proc:TotalCost>
+                                        </proc:Cost>
+                                    </proc:CostElement>
+                                </proc:CostElementList>
+                                <proc:CategorySubtotal>
+                                    <proc:TotalCost>
+                                        <proc:PriorYear>1</proc:PriorYear>
+                                        <proc:CurrentYear>1</proc:CurrentYear>
+                                        <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                        <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                    </proc:TotalCost>
+                                </proc:CategorySubtotal>
+                            </proc:Recurring>
+                            <proc:CategorySubtotal>
+                                <proc:TotalCost>
+                                    <proc:PriorYear>1</proc:PriorYear>
+                                    <proc:CurrentYear>1</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>1</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOne>1</proc:BudgetYearOne>
+                                </proc:TotalCost>
+                            </proc:CategorySubtotal>
+                        </proc:Hardware>
+                        <proc:Support>
+                            <proc:CostElementList>
+                                <proc:CostElement>
+                                    <proc:Name>Program Management Administration</proc:Name>
+                                    <proc:Cost>
+                                        <proc:TotalCost>
+                                            <proc:PriorYear>4.899</proc:PriorYear>
+                                            <proc:CurrentYear>3.896</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>2.033</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>6.896</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>8.929</proc:BudgetYearOne>
+                                        </proc:TotalCost>
+                                    </proc:Cost>
+                                </proc:CostElement>
+                                <proc:CostElement>
+                                    <proc:Name>Production Engineering Support</proc:Name>
+                                    <proc:Cost>
+                                        <proc:TotalCost>
+                                            <proc:PriorYear>4.082</proc:PriorYear>
+                                            <proc:CurrentYear>3.246</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>1.694</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOneOCO>5.747</proc:BudgetYearOneOCO>
+                                            <proc:BudgetYearOne>7.441</proc:BudgetYearOne>
+                                        </proc:TotalCost>
+                                    </proc:Cost>
+                                </proc:CostElement>
+                            </proc:CostElementList>
+                            <proc:CategorySubtotal>
+                                <proc:TotalCost>
+                                    <proc:PriorYear>8.981</proc:PriorYear>
+                                    <proc:CurrentYear>7.142</proc:CurrentYear>
+                                    <proc:BudgetYearOneBase>3.727</proc:BudgetYearOneBase>
+                                    <proc:BudgetYearOneOCO>12.643</proc:BudgetYearOneOCO>
+                                    <proc:BudgetYearOne>16.37</proc:BudgetYearOne>
+                                </proc:TotalCost>
+                            </proc:CategorySubtotal>
+                            <proc:Name>Support Cost Element Category</proc:Name>
+                        </proc:Support>
+                    </proc:CostElementCategoryList>
+                </proc:P5Item>
+            </proc:ItemExhibitList>
+            <proc:DocumentAssemblyOptions>
+                <proc:p40AItemScheduleSetting>expandItemSuppressExhibit</proc:p40AItemScheduleSetting>
+            </proc:DocumentAssemblyOptions>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

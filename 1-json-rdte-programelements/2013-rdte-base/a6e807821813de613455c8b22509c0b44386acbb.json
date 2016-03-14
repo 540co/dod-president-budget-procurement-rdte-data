@@ -1,0 +1,1406 @@
+{
+    "id": "a6e807821813de613455c8b22509c0b44386acbb",
+    "meta": {
+        "filename": "dod-2013_RDTE_2013_ARMY_BA7_JustificationBook_Army_PB_2013.zzz_unzipped_JustificationBook_Army_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0303140A"
+        },
+        "ProgramElementTitle": {
+            "val": "Information Systems Security Program"
+        },
+        "R1LineItemNumber": {
+            "val": "177"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "12.232"
+            },
+            "CurrentYear": {
+                "val": "15.684"
+            },
+            "BudgetYearOne": {
+                "val": "15.961"
+            },
+            "BudgetYearOneBase": {
+                "val": "15.961"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "9.725"
+            },
+            "BudgetYearThree": {
+                "val": "10.253"
+            },
+            "BudgetYearFour": {
+                "val": "5.327"
+            },
+            "BudgetYearFive": {
+                "val": "5.417"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "Prior year adjustments reflect the realignment of the Biometrics and DOD Biometrics Program Management (PM) from this Program Element (PE) into a stand-alone PE, 0607665A, Biometrics Enterprise."
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Cryptographic Modernization (CM) program supports the implementation of the National Security Agency (NSA) developed Communications Security (COMSEC) technologies into the Army by providing COMSEC system capabilities through encryption, trusted software or standard operating procedures, and integrating these mechanisms into specific systems in support of securing the National Network Enterprise.  This entails architecture studies, modeling and simulation, system integration, testing, certification, and accreditation of COMSEC systems and equipment.  COMSEC technology ensures total signal and data security for all Army information systems to include any operational enhancement and specialized Army configurations.  The program also assesses, develops, and integrates COMSEC tools (hardware and software) which provide protection for fixed infrastructure posts, camp or station networks as well as tactical networks.  The cited work is consistent with Strategic Planning Guidance and the Army Modernization Strategy.  The Army Key Management System (AKMS) automates key generation and distribution while supporting joint interoperability, providing communications and network planning with key management.\n\nThe program provides Commanders with an automated capability to plan, engineer, distribute, and manage all systems that employ Electronic Key, Electronic Protection (EP), and Signal Operating Instructions (SOI).\n\nArmy Key Management System (AKMS) consists of two Workstations, one hosting Local COMSEC Management Software (LCMS) for COMSEC Management, one hosting Automated Communication Engineering System (ACES) for Cryptonet Planning and the Simple Key Loader (SKL). LCMS is the COMSEC accounting and generation software that provides Information Systems with Cryptographic Key capability.  Key Management Infrastructure (KMI) will be replacing LCMS. KMI will provide an integrated operational environment that will bring essential key management personnel and functions in-band; achieving an integrated, over the network key management solution to support emerging cryptographically modernized systems. The KMI client nodes will be the Army?s subset of NSA?s Key Management Infrastructure System supporting DoD GIG Net Centric and Crypto Modernization Initiatives. The Mission Planning Mission Support System (MPMSS) Interface for KMI will create a secure and highly automated interface to enable transparent provisioning of KMI products.  This interface shall facilitate transparent communications between MPMSS and KMI to achieve integration between provisioning services and the communications net plan of the Warfighter. ACES provides Information Systems with Cryptonet Planning & SOI\/EP Fill for Combat Net. SKLs move the ACES\/LCMS data to End Crypto Units (ECUs). The Next Generation Load Device (NGLD) Large is the fill device slated for use with the Joint Tactical Radio System (JTRS) Wideband Network Waveform(WNW) and Soldier Radio Waveform (SRW) radios, providing critical key fill and mission data set loading operations as well as preventing the need for additional redundant Software Loader Verifier (SLV) laptops in the field. The NGLD Large will support loading of Military GPS User Equipment (MGUE) which will replace all current Selective Availability Anti-Spoofing Module(SASSM) based GPS devices.  It meets the critical requirement for time to first fix.  The NGLD Large may also be used to configure WIN-T nodes. MIDS JTRS also intends to use this device for their fill requirements.  Its internal HAIPE process will allow users to pass black keys across SIPR without having to use the Electronic Key Distribution (EKD) process. The NGLD Large also has potential in meeting Over-The-Network-Keying (OTNK) requirements."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "118.090"
+                },
+                "CurrentYear": {
+                    "val": "61.220"
+                },
+                "BudgetYearOne": {
+                    "val": "55.924"
+                },
+                "BudgetYearOneBase": {
+                    "val": "55.924"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "12.232"
+                },
+                "CurrentYear": {
+                    "val": "15.684"
+                },
+                "BudgetYearOne": {
+                    "val": "15.961"
+                },
+                "BudgetYearOneBase": {
+                    "val": "15.961"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-105.858"
+                },
+                "CurrentYear": {
+                    "val": "-45.536"
+                },
+                "BudgetYearOne": {
+                    "val": "-39.963"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-39.963"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "-39.963"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-39.963"
+                                },
+                                "BudgetYearOneOCO": {
+                                    "val": "0"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Other Adjustments 1"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-105.858"
+                                },
+                                "CurrentYear": {
+                                    "val": "-45.536"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "491"
+                    },
+                    "ProjectTitle": {
+                        "val": "INFORMATION ASSURANCE DEVELOPMENT"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "11.525"
+                        },
+                        "CurrentYear": {
+                            "val": "15.684"
+                        },
+                        "BudgetYearOne": {
+                            "val": "8.380"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "8.380"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "9.725"
+                        },
+                        "BudgetYearThree": {
+                            "val": "10.253"
+                        },
+                        "BudgetYearFour": {
+                            "val": "5.327"
+                        },
+                        "BudgetYearFive": {
+                            "val": "5.417"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "This program supports the implementation of the National Security Agency (NSA) developed Communications Security (COMSEC) technologies into the Army by providing COMSEC system capabilities through encryption, trusted software or standard operating procedures, and integrating these mechanisms into specified systems in support of securing the National Network Enterprise in as transparent a manner as possible.  \n\nThis entails architecture studies, modeling, system integration and testing, installation kits, and certification and accreditation of Automation Information Systems.  The program assesses, develops and integrates information assurance (IA)\/COMSEC tools (hardware and software) which provide protection for fixed infrastructure post, camp and station networks as well as efforts on tactical networks.  The cited work is consistent with Strategic Planning Guidance and the Army Modernization Plan."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Assessing emerging COMSEC hardware and software systems and products"
+                                    },
+                                    "Description": {
+                                        "val": "This program researches, assesses, tests and plans for cryptographic and information assurance technology insertions within the existing and future network infrastructure; provides the basis for adjusting COMSEC capabilities and policies to reflect the latest technologies.  Supports risk mitigation of IA networked vulnerabilities in end-to-end network operations and common operating environment."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.980"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continued development and planned for the transition of cryptographic and information assurance solutions to the Army Warfighter, Alternate Command Authorities (ACAs) and other Programs of Record (PORs).  Researched new crypto and key management technologies and developed IA tools (Armadillo and Purge Farm).  Executed concept exploration and concept validation on proof of concept prototypes, infrastructure and policies for IA\/COMSEC."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.827"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "This Program researches new cryptographic, information assurance, and key management technologies, perform operational assessments, concept exploration and validation to develop strategies and policies capitalizing on and leveraging emerging Cryptographic and Key Management technologies. Continuing to provide information, knowledge sharing and new equipment capabilities, limitations, and impacts on the Army network to assist in bridging the gap between the tactical edge and the Army Enterprise Network.  Test proof of concept prototypes and provide infrastructure support to facilitate information assurance technology transition.  Continue to provide guidance for the adjustment of COMSEC programs and ensure COMSEC policies remains in synchronization with the latest COMSEC technologies."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.942"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.942"
+                                            },
+                                            "Text": {
+                                                "val": "This program will research new cryptographic, information assurance, and key management technologies, perform operational assessments, concept exploration and validation to develop strategies and policies capitalizing on and leveraging advanced Cryptographic and Key Management technologies. Continue providing information and knowledge sharing on new equipment capabilities, limitations, and impacts on the Army network to assist in bridging the gap between the tactical edge and the Army Enterprise Network.  Test proof of concept prototypes and provide infrastructure support to facilitate information assurance technology transition.  Provide guidance for the adjustment of COMSEC programs and ensure COMSEC policies remains in synchronization with the latest COMSEC technologies."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Cryptographic Modernization and Key Management Test and Evaluation"
+                                    },
+                                    "Description": {
+                                        "val": "This Program supports the Army Cryptographic Modernization Transformational Initiative.  This is accomplished by providing test and evaluation capabilities to the COMSEC community in order to assess emerging technologies before being released and approved for Army use; testing can be performed on hardware, software, or network systems."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.545"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Evaluated the performance Crypto Mod compliant devices, including new software releases to High Assurance Internet Protocol Encryptor (HAIPE) 4.0 devices.  As part of Comprehensive National Cybersecurity Initiative (CNCI) integration, begin migration to NSA approved Commercial Off The Shelf (COTS) solutions, including secure laptop and data-at-rest solutions.  Evaluated the performance of initial software releases to Key Management Infrastructure (KMI) Capability Increment (CI)-2.  Began to evaluate the performance of initial Electronic Key Management System (EKMS) \/ Army Key Management System (AKMS) to KMI transition strategies."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.357"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "The Program will continue to test and evaluate advanced prototypes and cryptographic devices to confirm capability and interoperability on Army networks and systems as well as identifying risk areas for compliance with COMSEC regulations and procedures.   Continuing to evaluate performance of Cryptographic Modernization (CM) compliant devices, including the initial Suite B Internet Protocol Security (IPSec) devices built based on commercial standards.  This is the first step in the migration to NSA approved COTS devices for Secret and below information in place of Government Off-The-Shelf (GOTS) devices.  Started evaluation of Secure Smartphones based on COTS platform for Mobile secure use.   Evaluating KMI CI-2, Spiral 2 initial release and migration of initial HAIPE 4.0 compliant crypto devices to KMI based key delivery.  Development plan for delivery of NSA produced keys for COTS devices. Complete evaluation of the performance of initial EKMS \/ AKMS to KMI transition strategies. These efforts will support network operations from end-to-end throughout the force and the Common Operating Environment (COE) thus mitigating Information Assurance (IA) vulnerabilities to the national network enterprise."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.438"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.438"
+                                            },
+                                            "Text": {
+                                                "val": "The Program will continue to test and evaluate advanced prototypes within the system to confirm capability and interoperability on Army networks and systems as well as identifying risk areas for compliance with COMSEC regulations and procedures.   The Program will continue to test and evaluate Crypto Mod compliant devices, Suite B IPSec devices built on commercial standards, Cryptographic High Value Product (CHVP), commercial solutions for Classified Standards, and new software releases to HAIPE 4.X devices in accordance with AR 700-142 Rapid Action Revision dated October 16, 2008.  Will continue to evaluate Secure Smartphone based on a COTS platform for Mobile secure use, KMI CI-2, Spiral 2 initial release, and migrate crypto devices to KMI based key delivery.  Evaluate delivery of NSA produced keys for COTS devices.  Complete implementation of EKMS \/ AKMS to KMI transition strategies."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Mission Planning Mission Support System (MPMSS) Interface"
+                                    },
+                                    "Description": {
+                                        "val": "The program creates a secure highly automated interface to enable transparent provisioning of Key Management Infrastructure (KMI) products.  The Mission Planning Mission Support System (MP\/MSS) system is to be used by both the KMI system developer and MP\/MSS developers to have a standard interface to electronically exchange information, enabling Warfighter Operations; achieves integration between provisioning services and the communications net plan of the Warfighter."
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.500"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue to develop additional capabilities\/upgrades if Mission Planning Mission Support System (MP\/MSS).  Develop the capability to validate signatures of payloads from MP\/MSS using the Technical Readiness Level (TRL) 6 (client) emulator. MP\/MSS moves under the AKMS funding line BA1201 in FY2013."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The objective of this program is to develop, integrate and validate hardware and software solutions that will secure current and objective architecture and electronic business\/commerce transactions.  The program focuses on completing development and evaluation of Mission Command and control Information Assurance (IA) common tools and the procurement and institutionalization of information assurance related hardware and software, as well as techniques and procedures.  The objective of the DOD Crypto Modernization Program is to provide adaptive, flexible, and programmable cryptographic systems using best practices, lessons learned and programmatic management to meet the challenge of modernizing the Army's aging cryptographic systems. The network operations effort will support the network operations from end-to-end throughout the force and the Common Operating Environment (COE) thus mitigating IA networked vulnerabilities to National information security systems."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Performance metrics used in the preparation of this justification material may be found in the FY 2010 Army Performance Budget Justification Book, dated May 2010."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "System Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "CECOM RDEC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "CECOM RDEC APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "70.773"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.547"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.360"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.360"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Hardware\/Software Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "CECOM RDEC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.224"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.800"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.800"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Information Assurance System Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MITRE"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McLean, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.178"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.150"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "C2 Protect Common Tools"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "CECOM RDEC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "9.899"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.450"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Information Assurance System Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DSCI Consulting"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "6.396"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "VIATECH"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "6.180"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.939"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.800"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.800"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "CACI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.100"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.500"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Booz Allen Hamilton"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.730"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.800"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.800"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Engineering Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "CSC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "APG, MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "14.341"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.107"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.170"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.170"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Mission Planning Mission Support System (MPMSS) Interface"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "IDIQ"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "4.500"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "4.500"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Network Operations"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.941"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.941"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "Remarks": {
+                                        "val": "Not Applicable"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Test Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.000"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "EVALUATE KMI CI - 2\/3"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "TEST & EVALUATION OF CRYPTO PRODUCTS"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "501"
+                    },
+                    "ProjectTitle": {
+                        "val": "ARMY KEY MGT SYSTEM"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "7.581"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "7.581"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Provides Commander with an automated capability to plan, engineer, distribute, and manage all systems that employ Electronic Key, Electronic Protection (EP), and Signal Operating Instructions (SOI).\n    - Army Key Management System (AKMS) AKMS consists of two Workstations, one hosting Local COMSEC Management Software (LCMS) for COMSEC Management, one hosting Automated Communication Engineering System (ACES) for Cryptonet Planning and the Simple Key Loader (SKL).\n    - LCMS is the Communications Security (COMSEC) accounting and generation software that provides Information Systems with Cryptographic Key capability.\n   -Key Management Infrastructure (KMI) will be replacing LCMS. KMI will provide an integrated operational environment that will bring essential key management personnel and functions in-band; achieving an integrated, over the network key management solution to support emerging cryptographically modernized systems. The KMI client nodes will be the Army?s subset of NSA?s Key Management Infrastructure System supporting DoD Global Information Grid (GIG) Net Centric and Crypto Modernization Initiatives. The Mission Planning Mission Support System (MPMSS) Interface for KMI will create a secure and highly automated interface to enable transparent provisioning of KMI products.  This interface shall facilitate transparent communications between MPMSS and KMI to achieve integration between provisioning services and the communications net plan of the Warfighter.\n    - The Next Generation Load Device (NGLD) Large is the fill device slated to provide critical key fill and mission data set loading operations as well as preventing the need for additional redundant Software Loader Verifier (SLV) laptops in the field. The NGLD Large will support loading of Military GPS User Equipment (MGUE) which will replace all current Selective Availability Anti-Spoofing Module (SAASM) based Global Positioning Satellite (GPS) devices.  It meets the critical requirement for time to first fix.  The NGLD Large may also be used to configure Warfighter Information Network- Tactical (WIN-T) nodes. Its internal High Assurance Internet Protocol Encryptor (HAIPE) process will allow users to pass black keys across Secure Internet Protocol, Router (SIPR) without having to use the Electronic Key Distribution (EKD) process. The NGLD Large also has potential in meeting Over-The-Network-Keying (OTNK) requirements."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Common Load Device (CLD)"
+                                    },
+                                    "Description": {
+                                        "val": "Funding is provided for the following effort"
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "7.581"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "7.581"
+                                            },
+                                            "Text": {
+                                                "val": "Provides soldiers with the ability to load cryptographic key material and mission planning data into numerous emerging\nend cryptographic units, which will not be fully supported by any other fill devices."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "xx"
+                                    },
+                                    "Title": {
+                                        "val": "TSEC - AKMS"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "25.959"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "12.541"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "23.111"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "23.111"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "25.899"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "15.872"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "34.640"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "AKMS Milestone III was conducted\/approved in FY1999. LCMS completed fielding of software v5.0.3 in FY2009 to all COMSEC custodians to provide Encrypted Key capability. LCMS hardware refresh began 2QFY2010. The AKMS acquisition strategy to procure Simple Key Loaders was updated in an Acquisition Decision Memorandum (ADM) approved by the PEO C3T Milestone Decision Authority (MDA) 3QFY2002. SKL Fielding began 3QFY2005 and continues. Science Applications International Corporation (SAIC) began efforts in 1QFY2009 to upgrade SKL software and v6.0 was released 2QFY2010 to provide interoperability with emerging systems (all services). ACES software v2.0 development began in FY2009 and was released 2QFY2010. ACES software development continues with v2.1 supporting Vista scheduled for release 2QFY2011. ACES hardware refresh occurred in FY10. FY 10 continued enhancement and support of next generation of AKMS software tools to meet emerging Army systems' requirements.  In FY2010, an Engineering Change Proposal was initiated to modify the current SKL design in order to meet emerging requirements of modern end cryptographic units and Joint Tactical Radio Systems (JTRS)."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Performance metrics used in the preparation of this justification material may be found in the FY 2010 Army Performance Budget Justification Book, dated May 2010."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Technical Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.250"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.250"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.250"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Integration Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.000"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Technical Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.331"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.331"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.331"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "CLD Development, Production, and Fielding"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "50B"
+                    },
+                    "ProjectTitle": {
+                        "val": "BIOMETRICS"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.707"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "Biometrics (measurable physical and behavioral characteristics that enable the establishment and verification of an individual's identity), is a component within the Information System Security Program (ISSP).  Prior to FY11 there were two biometrics organizations executing funds described in this R Form:  the Biometrics Identity Management Agency (BIMA), formerly the Biometrics Task Force (BTF), and Program Manager (PM) Department of Defense (DoD) Biometrics.  Currently, only BIMA uses project 50B.\n\nBIMA acts as the DoD proponent for biometrics; leads in the development and implementation of biometric technologies for Combatant Commands, Services, and Agencies; delivers capabilities in order to contribute to the enhancement of biometric community; increases Joint Service interoperability and; empowers the warfighter by improving operational effectiveness on the battlefield.\n\nThis program has no FY13 Base or OCO RDTE requirement."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Biometrics Identity Management Agency (BIMA)"
+                                    },
+                                    "Description": {
+                                        "val": "Biometrics Identity Management Agency (BIMA)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.707"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "BIMA solicits proposals for Biometric Technology Demonstrations (BTDs) with specified focus areas tailored to address current operational needs and capability gaps.  These BTDs promote the identification and transition of new or emergent biometric technologies that enhance biometrics-enabled capabilities in DoD.\nBIMA utilizes memberships in research and development organizations as well as the annual Multiple Biometric Grand Challenge event to investigate, test and improve performance of biometric technologies and capabilities.  The current focus is on face and iris recognition technology on both still and video imagery through a series of challenge problems and evaluation using large sequestered data sets.\nBIMA is required to use the Joint Interoperability Test Command to test biometric technologies and provide certification that biometric equipment is interoperable and can be utilized by all branches of the armed services and government.\nBIMA uses RDTE contract labor and development projects to directly impact the efficiency and operation of the Automated Biometric Identification System.  Projects include Gallery Manager and Development of an Iris Quality Measurement Algorithm Tool."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "BIMA OMA"
+                                    },
+                                    "Title": {
+                                        "val": "BIMA Operations and Maintenance Army"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "27.560"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "27.391"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0"
+                                        },
+                                        "TotalCost": {
+                                            "val": "54.951"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "BIMA OCO OMA"
+                                    },
+                                    "Title": {
+                                        "val": "BIMA Operations and Maintenance Army OCO"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "69.548"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0"
+                                        },
+                                        "TotalCost": {
+                                            "val": "69.548"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "C. Acquisition Strategy  Support DoD Acquisition organizations in developmental testing, systems integration, and\/or independent verification and validation of biometric systems."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Performance metrics used in the preparation of this justification material may be found in the FY 2010 Army Performance Budget Justification Book, dated May 2010."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Enterprise Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "various"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.707"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.707"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

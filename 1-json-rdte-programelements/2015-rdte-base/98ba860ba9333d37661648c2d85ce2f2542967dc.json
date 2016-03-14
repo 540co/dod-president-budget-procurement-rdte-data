@@ -1,0 +1,515 @@
+{
+    "id": "98ba860ba9333d37661648c2d85ce2f2542967dc",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_ARMY_BA3_RDTE_JustificationBook_Army_PB_2015.zzz_unzipped_RDTE_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0603772A"
+        },
+        "ProgramElementTitle": {
+            "val": "Advanced Tactical Computer Science and Sensor Technology"
+        },
+        "R1LineNumber": {
+            "val": "53"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "3"
+        },
+        "BudgetActivityTitle": {
+            "val": "Advanced Technology Development (ATD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "22.900"
+            },
+            "CurrentYear": {
+                "val": "32.995"
+            },
+            "BudgetYearOne": {
+                "val": "39.164"
+            },
+            "BudgetYearOneBase": {
+                "val": "39.164"
+            },
+            "BudgetYearTwo": {
+                "val": "41.296"
+            },
+            "BudgetYearThree": {
+                "val": "42.565"
+            },
+            "BudgetYearFour": {
+                "val": "45.523"
+            },
+            "BudgetYearFive": {
+                "val": "46.383"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "FY 13 decreases attributed to Congressional Undistributed reductions (-53 thousand); Sequestration reductions (-1916 million); and SBIR\/STTR transfers (-357 thousand)"
+        },
+        "ProgramElementMissionDescription": {
+            "val": "This program element (PE) matures and demonstrates technologies that allow the Warfighter to effectively collect, analyze, transfer and display situational awareness information in a network-centric battlefield environment. It matures and demonstrates architectures, hardware, software and techniques that enable synchronized command and control (C2) during rapid, mobile, dispersed and Joint operations. Project 101 matures and develops software, algorithms, services and devices to more effectively integrate mission command (MC) across all echelons and enable more effective utilization of Warfighter resources. Project 243 matures and demonstrates signal processing and information\/intelligence fusion software, algorithms, services and systems for Army sensors; radio frequency (RF) systems to track and identify enemy forces and personnel; and multi-sensor control and correlation software and algorithms to improve reconnaissance, surveillance, tracking, and target acquisition.\n\nWork in this PE is complimentary of PE 0602120A (Sensors and Electronic Survivability), PE 0602270A (Electronic Warfare Technology), PE 0602705A (Electronics and Electronic Devices), PE 0602782A (Command, Control, Communications Technology), and PE 0603270A (Electronic Warfare Technology); and fully coordinated with PE 0602783A (Computer and Software Technology) and PE 0603008A (Electronic Warfare Advanced Technology).\n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering Science and Technology priority focus areas and the Army Modernization Strategy.\n\nWork in this PE is performed by the Army Research, Development, and Engineering Command (RDECOM), Communications-Electronics Research, Development, and Engineering, Center (CERDEC), Aberdeen Proving Ground, MD."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "25.226"
+                },
+                "CurrentYear": {
+                    "val": "33.012"
+                },
+                "BudgetYearOne": {
+                    "val": "40.046"
+                },
+                "BudgetYearOneBase": {
+                    "val": "40.046"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "22.900"
+                },
+                "CurrentYear": {
+                    "val": "32.995"
+                },
+                "BudgetYearOne": {
+                    "val": "39.164"
+                },
+                "BudgetYearOneBase": {
+                    "val": "39.164"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-2.326"
+                },
+                "CurrentYear": {
+                    "val": "-0.017"
+                },
+                "BudgetYearOne": {
+                    "val": "-0.882"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-0.882"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "-0.053"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.017"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.357"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "-0.882"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-0.882"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Sequestration"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-1.916"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "101"
+                    },
+                    "ProjectTitle": {
+                        "val": "Tactical Command and Control"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "10.580"
+                        },
+                        "CurrentYear": {
+                            "val": "22.341"
+                        },
+                        "BudgetYearOne": {
+                            "val": "19.140"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "19.140"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "15.101"
+                        },
+                        "BudgetYearThree": {
+                            "val": "15.071"
+                        },
+                        "BudgetYearFour": {
+                            "val": "15.611"
+                        },
+                        "BudgetYearFive": {
+                            "val": "17.275"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "This project matures and demonstrates software, algorithms, services and devices that move and display timely and relevant information across the battlefield to provide commanders at all echelons with situational awareness (SA) that allows them to understand, decide and act faster than their adversaries. This project also matures and demonstrates software, algorithms and devices supporting information storage and retrieval; digital transfer and display of battlefield SA and navigation (nav), position (pos) and location information; synchronization of combined and Joint force operations; software, algorithms and services optimized for command and control (C2) on-the-move (OTM).\n\nThis project supports Army science and technology efforts in the Command, Control, Communications and Intelligence portfolio.\n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering Science and Technology priority focus areas and the Army Modernization Strategy.\n\nWork in this project is performed by the Army Research, Development, and Engineering Command, Communications-Electronics Research, Development, and Engineering, Center (CERDEC), Aberdeen Proving Ground, MD."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Integrated Mission Command (MC)"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates technologies that allow forces to effectively collect, analyze, transfer, and display information in a net-centric battlefield environment across multiple computing environment (CEs). In order to manage acquisition costs and reduce duplicative efforts the Army has introduced the notion of the Common Operating Environment (COE) composed of several distinct CEs such as the Mobile (hand held devices) and the Mounted (vehicle based devices) CEs. Technology areas in this effort are designed to support all applicable CEs and include intelligent software agents, server virtualization, knowledge management, and automated query technologies. Work accomplished under PE 0602782A\/project 779 compliments this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "7.145"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Coded and demonstrated MC software applications for tasks such as team coordination and situational awareness for dismounted users equipped with hand held devices (a.k.a. Mobile CE) to maximize effective use of available information; coded and integrated decision support software capabilities based on information sharing in the Mounted CE to assist in locating and collaborating with friendly forces using tactical communication systems; coded MC software capabilities to help with mission planning, execution and tracking unit progress in meeting mission goals within the Command Post CE; added cognitive enhancements such as question-driven input and pop-up activity-driven suggestions to improve existing MC software systems by automatically assisting users, who may have limited training, to perform at higher levels of efficiency."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "11.104"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Architect, design, fabricate, code and integrate a platoon level MC demonstration suite to provide actionable intelligence and timely information sharing over the Army's low bandwidth small unit tactical edge network; code and integrate additional decision support and collaboration tools, including knowledge management and the necessary database connections and deliver information pertinent to a small unit's mission to increase situational awareness\/understanding and decrease tactical surprise; demonstrate this suite's capability to allow Soldiers to access and use all relevant information available on the network most effectively, accounting for the Soldier's cognitive abilities and contextual framework for ease of use and ensure relevance of the delivered information to the unit's mission; analyze social networks and identify in near real-time team strengths, weaknesses, and vulnerabilities and highlight collaboration opportunities which could be leveraged more effectively to foster the efficient use of combat power."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "15.113"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "15.113"
+                                            },
+                                            "Text": {
+                                                "val": "Will code, integrate, and validate a Company level (dismounted, mounted, CP) MC suite to provide actionable intelligence and timely information sharing over a Company level low bandwidth tactical network; code and integrate additional decision support and collaboration tools, including knowledge management and necessary database connections, that will increase situational awareness\/understanding, decrease tactical surprise and deliver pertinent mission information from dismounted to CP; validate this suite's capability to allow Soldiers to access relevant information available on the network most effectively, accounting for Soldier cognitive abilities and contextual framework for ease of use and to ensure relevance of the delivered information to the upper echelons; for company level low bandwidth environments code, integrate, and validate an enhanced MC suite of collaborative software tools that allows for faster and more accurate target identification and handoff, real time alerts, natural information collection, Soldier-composable leader tools, and support for operations across diverse human and geographical and GPS denied terrains."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Battle Space Awareness and Positioning"
+                                    },
+                                    "Description": {
+                                        "val": "This effort demonstrates position and navigation tools to mitigate the impacts of jamming, terrain features and obstacles such as buildings that limit the performance of Global Positioning System (GPS) receivers to enhance the performance of navigation systems in a GPS denied or degraded environment. Work being accomplished under PE 0602782A\/project 779 compliments this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.435"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Pursued two parallel approaches to integrating novel pos\/nav capabilities, using JTRS radios for one approach and Android smartphones for the other, for both approaches, implemented sensor integration algorithms that incorporate navigation enhancements such as radio frequency-ranging and network assisted navigation in combination with selected pos\/nav sensor equipment; completed fabrication and integration of brassboard radio\/sensor navigation systems for laboratory assessment of system performance"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.490"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Enhance and demonstrate navigation sensors such as pedometry, human motion classification, and visual odometry fused with   radio frequency and smart phone approaches to enhance pos\/nav and improve positional situation awareness; integrate navigation sensor and network algorithms into personal Android based smart phones or tablets and demonstrate situational awareness in a representative platoon size Soldier network; mature, integrate and demonstrate interfaces, software and protocols and that will allow handheld electronics to integrate with emerging modernized code (M Code) capable secure GPS chips."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.027"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.027"
+                                            },
+                                            "Text": {
+                                                "val": "Will demonstrate sensor fusion for navigation systems for dismounted Soldiers and ground vehicles to allow modular and scalable system designs providing configuration flexibility to meet Soldier specific needs for navigation; integrate mature sensors into navigation systems such as radio frequency ranging sensors, vision based sensors, pseudolite receivers and signals of opportunity sensors to reduce dependence upon GPS; evaluate advanced anti-jam antennas and M Code GPS receivers integrated with multi-global navigation satellite system receivers; design, code, and develop interfaces, protocols and software for networked navigation devices to share information and enhance navigation solutions for network users."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Collaborative Battle Management"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates mission command (MC) software to improve sharing and understanding of data between the intelligence and operations communities."
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.747"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Design, code, fabricate and demonstrate an enhanced mission command capability with collaborative software tools that allows for faster and more accurate target identification and handoff, real time alerts, natural information collection, Soldier-composable leader tools, and support for operations across diverse human and geographic terrains to enable tactical overmatch for the small units by acting before the adversary can respond; develop these capabilities to operate in a platoon level low bandwidth tactical network using planned Army infrastructure."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "243"
+                    },
+                    "ProjectTitle": {
+                        "val": "Sensors And Signals Processing"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "12.320"
+                        },
+                        "CurrentYear": {
+                            "val": "10.654"
+                        },
+                        "BudgetYearOne": {
+                            "val": "20.024"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "20.024"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "26.195"
+                        },
+                        "BudgetYearThree": {
+                            "val": "27.494"
+                        },
+                        "BudgetYearFour": {
+                            "val": "29.912"
+                        },
+                        "BudgetYearFive": {
+                            "val": "29.108"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "This project matures and demonstrates improved radar, sensor fusion, and correlation software, services, devices and systems for wide area reconnaissance, surveillance, tracking and targeting of platforms and individuals in all terrains, including complex and urban environments. Sensor fusion efforts mature and demonstrate software, algorithms and services for sensor management, data correlation, and relationship discovery for a multi-intelligence fusion system. Sensor and simulated sensor candidates may include moving-target-indicator\/synthetic aperture radar, electro-optical\/infrared (EO\/IR), signals intelligence (SIGINT), measurements and signatures intelligence (MASINT), human intelligence (HUMINT) and biometrics.\n\nThis project supports Army science and technology efforts in the Command, Control, Communications and Intelligence, Ground Maneuver and Air portfolios.\n\nThe cited work is consistent with the Assistant Secretary of Defense, Research and Engineering Science and Technology priority focus areas and the Army Modernization Strategy.\n\nWork in this project is performed by the Army Research, Development, and Engineering Command, Communications - Electronics Research, Development, and Engineering Center (CERDEC), Aberdeen Proving Ground, MD."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Measurement and Signature Intelligence Technologies (MASINT) for clandestine tagging, tracking and locating (TTL)"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates MASINT sensors and software techniques capable of detecting, tracking, and\/or identifying human activities and\/or infrastructures. The emphasis is to identify appropriate technical approaches, demonstrate embedded processing, and mature algorithms for multi-mode fusion of sensor data. Candidate technologies include: fiber optic seismic\/magnetic sensors, highly sensitive for detection of walking personnel with\/without weapons and\/or tunneling detection; air deployable (air droppable) networked sensor system for a jungle environment (integration of seismic\/acoustic sensor with jungle canopy relay); human infrastructure detection technologies (algorithms, sensors, etc); radio frequency MASINT detector, ultra-light multi-target indicator radar for unattended ground sensors and unmanned air vehicles. Work accomplished under PE 0602120A\/project H16 compliments this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.870"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Designed and fabricated an extended range facial recognition sensor and optimize code of associated facial-matching algorithms; demonstrated the positive identification of an individual as a person-of-interest and the tracking of that individual throughout a forward operating area using a network of unattended facial recognition sensors communicating with intelligence\/biometrics databases over a secure network in near real time."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Collaborative ISR Sensors"
+                                    },
+                                    "Description": {
+                                        "val": "This effort fabricates multi-function ISR sensors and sensor management systems that act collaboratively to improve their individual performance and increase the effectiveness and action-ability of battlespace awareness\/intelligence data in an area of operations. Efforts focus on existing, modified and emerging radar technologies in support of air defense & area\/base camp protection. This effort implements an open architecture that is extensible to multiple base sizes and environments and allows growth for future ISR sensors. Work being accomplished under PE 62270\/906 complements this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.933"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Coded, demonstrated and assessed software algorithms that allow existing radar systems to track targets and performed air surveillance simultaneously; integrated software algorithm into counter target acquisition systems (lightweight counter-mortal radar (LCMR)) to improve the accuracy of target recognition, identification and classification; coded software and firmware to correlate data from existing short range (LCMR) and long range (Enhanced Firefinder Radar (EQ-36)) radar systems to more accurately validate and verify threats at increased ranges and combine targeting information into a single display."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.095"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Demonstrate improved target recognition, identification and classification for Counter-Target Acquisition (CTA) and air Defense Surveillance radars (LCMR and EQ-36); demonstrate increased detection, identification and classification range and accuracy gained from correlating short (LCMR) and long range (EQ-36) radar systems; develop a method to allow ground sensors to cue airborne radars to events on the ground and allow them to track the scene in that area (i.e. cueing a ground moving target indicator radar to follow insurgents away from a rocket launch point after CTA radar has discovered the rocket's point of origin)."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "10.466"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "10.466"
+                                            },
+                                            "Text": {
+                                                "val": "Will conduct an assessment of a variety of moving target indicator (MTI) data sources to establish metrics for quality of MTI data sets to improve radar design; establish a software development process to mature new and alternative concepts for increasing the information content of radar data and tracks; conduct an assessment to determine an optimal design of a multi-static beamforming radar; assess current counterfire and ISR radar programs of record to determine component, configuration and software modifications to design a more accurate multistatic (separated multiple transmit\/receive elements) radar and to determine their potentials to search, track and classify small unmanned aerial systems (UAS); develop requirements for doppler resolution, search volume and update rate for improvements that are necessary for the system to perform a counter UAS mission; develop requirements for a low size, weight and power, man portable system to detect and locate small arms fire, dismounts and vehicles over a 360 degree search area; research the advantage of using existing gunshot detection systems to cue a radar to provide a more precise location of the shooter and reduce the probability of a false alarm."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Omni-directional Situational Awareness (SA) (Airborne) radar technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort matures and demonstrates low power multi-function SA sensors for small UAS and other aircraft to improve sensing and detection capabilities in support of wide-area persistent surveillance."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.009"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.009"
+                                            },
+                                            "Text": {
+                                                "val": "Will design a stationary airborne dismount moving target indicator (DMTI) penetrating radar capability for use on a fixed wing, moving platform; conduct modeling and simulation to evaluate processing techniques that could be applied to the fixed wing DMTI scenario."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Advanced All Source Fusion"
+                                    },
+                                    "Description": {
+                                        "val": "This effort develops software technologies for intelligence\/mission command (Intel\/MC) mission collaboration to provide faster and higher quality decision making support for the commander and his key staff. Specific efforts focus on integrating intelligence, surveillance and reconnaissance (ISR) planning and execution at the Task Force\/Battalion through troop-level, as well as efforts that provide the capability to identify, fuse, and trace\/track specific targets in an asymmetric environment. Work accomplished under PE 0602270A\/project 906 compliments this effort."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.517"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Composed, coded and assessed automated exploitation and fusion analysis tools, applications, and services that provide advanced planning, execution and assessment capabilities to support the tactical edge user; coded and demonstrated applications and services to generate actionable intelligence in support of simultaneous offense, defense, stability, and civil support missions; defined new data fields and associated values necessary to improve action-ability of tactical intelligence products; coded and assessed new correlation and pattern analysis algorithms that incorporated these new data fields; coded and assessed complex analysis and prediction software to aid the decision making process."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.559"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Continue to assess the utility of automated exploitation and fusion analysis tools for tactical edge users in a network constrained environment; mature data transformation services to provide intelligence data as SA reports for a small unit; employ correlation and pattern analysis algorithms to provide actionable and timely intelligence that is relevant to small units based on their geographic area, mission type and objective; integrate automated exploitation and fusion analysis tools, intelligence\/SA transformation services, threat prediction software, and enterprise data feeds into a proactive data service framework that supports timely situation understanding for a small unit; will conduct networked laboratory experiments to validate this framework and gather user feedback."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "6.549"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "6.549"
+                                            },
+                                            "Text": {
+                                                "val": "Will develop software tools and analytics to produce intelligence products from big data sets (e.g. biometric databases); integrate Company Intelligence Support Team workflow tools, predictive analytics and data distribution services into the previously defined, network constrained environment; demonstrate integrated automated exploitation and fusion analysis tools, intelligence to SA transformation services, threat prediction software, and enterprise data feeds, quantify the improved ability of the end users to execute their missions and document the performance of the capabilities being demonstrated."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

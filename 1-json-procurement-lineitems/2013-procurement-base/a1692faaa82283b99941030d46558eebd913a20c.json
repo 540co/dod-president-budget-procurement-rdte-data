@@ -1,0 +1,913 @@
+{
+    "id": "a1692faaa82283b99941030d46558eebd913a20c",
+    "meta": {
+        "filename": "dod-2013_PROCUREMENT_2013_NAVY_WEAPONS_JustificationBook_Navy_PB_2013.zzz_unzipped_JustificationBook_Navy_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1507N",
+        "appropriation_name": "Weapons Procurement, Navy"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@quantityUnitName": "Each",
+        "@unitCostUnits": "Dollars",
+        "@totalCostUnits": "Millions",
+        "LineItemNumber": {
+            "val": "6120"
+        },
+        "LineItemTitle": {
+            "val": "Spares and Repair Parts"
+        },
+        "P1LineItemNumber": {
+            "val": "34"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationNumber": {
+            "val": "1507N"
+        },
+        "AppropriationTitle": {
+            "val": "Weapons Procurement, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "6"
+        },
+        "BudgetActivityTitle": {
+            "val": "Spares and Repair Parts"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "1"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Spares And Repair Parts"
+        },
+        "ResourceSummary": {
+            "GrossWeaponSystemCost": {
+                "PriorYear": {
+                    "val": "58.748"
+                },
+                "CurrentYear": {
+                    "val": "49.614"
+                },
+                "BudgetYearOneBase": {
+                    "val": "60.15"
+                },
+                "BudgetYearOne": {
+                    "val": "60.15"
+                },
+                "BudgetYearTwo": {
+                    "val": "55.661"
+                },
+                "BudgetYearThree": {
+                    "val": "62.54"
+                },
+                "BudgetYearFour": {
+                    "val": "64.027"
+                },
+                "BudgetYearFive": {
+                    "val": "68.533"
+                },
+                "ToComplete": {
+                    "val": "0.000"
+                },
+                "Total": {
+                    "val": "419.273"
+                }
+            },
+            "NetProcurementP1": {
+                "PriorYear": {
+                    "val": "58.748"
+                },
+                "CurrentYear": {
+                    "val": "49.614"
+                },
+                "BudgetYearOneBase": {
+                    "val": "60.15"
+                },
+                "BudgetYearOne": {
+                    "val": "60.15"
+                },
+                "BudgetYearTwo": {
+                    "val": "55.661"
+                },
+                "BudgetYearThree": {
+                    "val": "62.54"
+                },
+                "BudgetYearFour": {
+                    "val": "64.027"
+                },
+                "BudgetYearFive": {
+                    "val": "68.533"
+                },
+                "ToComplete": {
+                    "val": "0.000"
+                },
+                "Total": {
+                    "val": "419.273"
+                }
+            },
+            "TotalObligationAuthority": {
+                "PriorYear": {
+                    "val": "58.748"
+                },
+                "CurrentYear": {
+                    "val": "49.614"
+                },
+                "BudgetYearOneBase": {
+                    "val": "60.15"
+                },
+                "BudgetYearOne": {
+                    "val": "60.15"
+                },
+                "BudgetYearTwo": {
+                    "val": "55.661"
+                },
+                "BudgetYearThree": {
+                    "val": "62.54"
+                },
+                "BudgetYearFour": {
+                    "val": "64.027"
+                },
+                "BudgetYearFive": {
+                    "val": "68.533"
+                },
+                "ToComplete": {
+                    "val": "0.000"
+                },
+                "Total": {
+                    "val": "419.273"
+                }
+            }
+        },
+        "CostType": {
+            "val": "AB"
+        },
+        "Code": {
+            "val": "A"
+        },
+        "Description": {
+            "val": "This budget activity provides all WPN Spares funding formerly separately identified in the other WPN budget activities.  The procurement of spares and repair parts and assemblies for WPN equipment requiring support by the acquisition activities prior to the Navy Supply System Material Support Date is outlined below for Initial and Vendor Direct spares.\n\nOther Missiles Spares and Repair Parts (BA-2):  Funding is required for the initial outfitting and repair of missiles or components which fail or are damaged while in the Fleet, and for expendable items, such as guided missiles and non-recoverable target drones.  For recoverable target drones, additional spares and repair parts are required to repair damage incurred in flight and recovery operations, and for control and telemetry equipment.\n\nTorpedoes and Related Equipment Spares and Repair Parts (BA-3):  Funding provides for Initial and Vendor Direct spares during the maintenance cycle to support Anti-Submarine Warfare weapons and support equipment.\n\nOther Weapons Spares and Repair Parts (BA-4):  Funds procure Initial and Vendor Direct spares in support of Navy surface ordnance consisting of all guns, associated equipment (hoists, shields, etc.) and related material support."
+        },
+        "ItemExhibitList": {
+            "P18Item": {
+                "Name": {
+                    "val": "WPN spares"
+                },
+                "InitialSpares": {
+                    "EndItemBudgetActivity": [
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "2"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Other Missiles"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "AMRAAM"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2206"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "4"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.449"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.572"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.885"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.885"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Sidewinder"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2209"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "5"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "1.186"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.758"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "1.105"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "1.105"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "JT Standoff Weapon (JSOW)"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2230"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "6"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.256"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.177"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.173"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.173"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Aerial Targets"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2280"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "11"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "1.06"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "1.072"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "1.756"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "1.756"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Other Missile Support"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2290"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "12"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.725"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.452"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.666"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.666"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "HARM Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2327"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "14"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "2.487"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.209"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "3"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Torpedoes and Related Equipment"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "MK-54 Torpedo Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "3215"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "21"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.156"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "2.258"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "1.267"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "1.267"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "MK-48 Torpedo ADCAP Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "3225"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "22"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "2.511"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "1.937"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "2.031"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "2.031"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Torpedo Support Equipment"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "3301"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "24"
+                                        },
+                                        "Cost": {
+                                            "CurrentYear": {
+                                                "val": "0.175"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.37"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.37"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "4"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Other Weapons"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "Coast Guard Weapons"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4206"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "29"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.393"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.294"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.142"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.142"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Gun Mount Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4217"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "30"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "2.821"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "1.053"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.89"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.89"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Cruiser Modernization Weapons"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4223"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "31"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.578"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Airborne Mine Neutralization Systems"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4225"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "32"
+                                        },
+                                        "Cost": {
+                                            "CurrentYear": {
+                                                "val": "0.232"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.194"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.194"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "SubtotalSparesCost": {
+                        "PriorYear": {
+                            "val": "12.622"
+                        },
+                        "CurrentYear": {
+                            "val": "9.189"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "9.479"
+                        },
+                        "BudgetYearOne": {
+                            "val": "9.479"
+                        }
+                    }
+                },
+                "ReplenishmentSpares": {
+                    "EndItemBudgetActivity": [
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "2"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Other Missiles"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "Standard Missile"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2234"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "7"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "20.672"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "13.966"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "19.873"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "19.873"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Evolved Sea Sparrow Missile (ESSM)"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "2307"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "13"
+                                        },
+                                        "Cost": {
+                                            "CurrentYear": {
+                                                "val": "0.627"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "2.051"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "2.051"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Spares for NAVAIR"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "9203"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "5.474"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "10.226"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "11.412"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "11.412"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "3"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Torpedoes and Related Equipment"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "ASW Targets"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "3141"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "20"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "3.005"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.712"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "1.927"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "1.927"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "MK-54 Torpedo Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "3215"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "21"
+                                        },
+                                        "Cost": {
+                                            "CurrentYear": {
+                                                "val": "0.523"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.284"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.284"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "MK-48 Torpedo ADCAP Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "3225"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "22"
+                                        },
+                                        "Cost": {
+                                            "CurrentYear": {
+                                                "val": "2.435"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "2.588"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "2.588"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "ASW Range Support"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "3302"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "25"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.563"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.199"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.304"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.304"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Spares for 6T COG"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "9303"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "3.972"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "3.623"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "3.493"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "3.493"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "4"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Other Weapons"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "Close-In Wpns Sys (CIWS) Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4205"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "28"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "9.138"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "3.922"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "5.492"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "5.492"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Coast Guard Weapons"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4206"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "29"
+                                        },
+                                        "Cost": {
+                                            "CurrentYear": {
+                                                "val": "0.118"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.156"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.156"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Gun Mount Mods"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4217"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "30"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "2.743"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "3.291"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "2.895"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "2.895"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Cruiser Modernization Weapons"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4223"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "31"
+                                        },
+                                        "Cost": {
+                                            "CurrentYear": {
+                                                "val": "0.398"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Name": {
+                                            "val": "Airborne Mine Neutralization Systems"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "4225"
+                                        },
+                                        "P1LineItemNumber": {
+                                            "val": "32"
+                                        },
+                                        "Cost": {
+                                            "PriorYear": {
+                                                "val": "0.559"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.385"
+                                            },
+                                            "BudgetYearOneBase": {
+                                                "val": "0.196"
+                                            },
+                                            "BudgetYearOne": {
+                                                "val": "0.196"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "SubtotalSparesCost": {
+                        "PriorYear": {
+                            "val": "46.126"
+                        },
+                        "CurrentYear": {
+                            "val": "40.425"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "50.671"
+                        },
+                        "BudgetYearOne": {
+                            "val": "50.671"
+                        }
+                    }
+                },
+                "TotalSparesCost": {
+                    "PriorYear": {
+                        "val": "58.748"
+                    },
+                    "CurrentYear": {
+                        "val": "49.614"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "60.15"
+                    },
+                    "BudgetYearOne": {
+                        "val": "60.15"
+                    }
+                }
+            }
+        }
+    }
+}

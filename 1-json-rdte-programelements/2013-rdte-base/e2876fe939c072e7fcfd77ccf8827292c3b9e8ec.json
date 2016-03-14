@@ -1,0 +1,620 @@
+{
+    "id": "e2876fe939c072e7fcfd77ccf8827292c3b9e8ec",
+    "meta": {
+        "filename": "dod-2013_RDTE_2013_AIRFORCE_V3A_MasterJustificationBook_Air_Force_PB_2013.zzz_unzipped_MasterJustificationBook_Air_Force_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@format": "R2Long",
+        "ProgramElementNumber": {
+            "val": "0708012F"
+        },
+        "ProgramElementTitle": {
+            "val": "Logistic Support Activities"
+        },
+        "R1LineItemNumber": {
+            "val": "236"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "0.000"
+            },
+            "CurrentYear": {
+                "val": "0.944"
+            },
+            "BudgetYearOne": {
+                "val": "0.577"
+            },
+            "BudgetYearOneBase": {
+                "val": "0.577"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "0.581"
+            },
+            "BudgetYearThree": {
+                "val": "0.597"
+            },
+            "BudgetYearFour": {
+                "val": "0.620"
+            },
+            "BudgetYearFive": {
+                "val": "0.639"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The Aircraft Structural Integrity Management Information System (ASIMIS) and ASIP operate as directed by AFPD 63-10 and MIL-STD-1530C. ASIMIS responsibilities include: Receiving, storing and reporting recorder downloads from all aircraft.  Track and report quality control data for flight data recorders (Structural Data Recorder, Crash Survivable Flight Data Recorder, etc\u2026), monitor usage, severity and any accumulated damage by plane and base, analyze the data, calculate crack growth in key locations in the airframe structure, project crack growth in order to provide a basis for maintenance scheduling, maintain a complete flight hour and calendar date history of each aircraft.  \n\nThis project supports the implementation of the software package Air Force Grow (AFGROW) in the ASIMIS suite of tools to support the Aircraft Structural Integrity Program (ASIP) community. AFGROW is a crack prediction software package owned and operated by LexTech Inc. Originally developed under the name ASDGRO in 1985, AFGROW was owned and operated by the United States Air Force through version 4.0012.15. AFGROW will be used by Air Force structural engineers to predict the life expectancy of a\/c components for a variety of weapon systems under cyclic loading under the assumption that defects exist. AFGROW is also used to address maintenance requirements if\/when damage is identified within a component. Funding will be used to provide software licenses and training ASIP managers and weapon system engineers. Funding will also be used to provide for the research and development of software upgrades to suit ASIP manager needs. \n\nThis project supports the implementation of the software package Probability of Failure (PROF) in the ASIMIS suite of tools to support the Aircraft Structural Integrity Program (ASIP) community. PROF is a risk analysis software package owned and distributed by the United States Air Force. PROF is used by Air Force structural engineers to predict the probability of failure of a weapon system under specified usages. PROF provides for the ability to set inspection\/maintenance schedules before failure occurs, without creating excess\/unnecessary inspections that would impair mission readiness.  \n\nETIMS Program baseline transferred from PE 78611F BPAC 673318 to PE 78012F BPAC 673318 beginning in FY13 -- Air Force Technical Order functionality implementation of the Enhanced Technical Information System (ETIMS) Enterprise. Provides for modify the ETIMS system to support Nuclear Weapons Related Material (NWRM) technical data requirements.  \n\nThis program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.944"
+                },
+                "BudgetYearOne": {
+                    "val": "0.299"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.299"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.944"
+                },
+                "BudgetYearOne": {
+                    "val": "0.577"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.577"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "0.000"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.278"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.278"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "0.278"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "0.278"
+                                },
+                                "BudgetYearOneOCO": {
+                                    "val": "0.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "673318"
+                    },
+                    "ProjectTitle": {
+                        "val": "Product Data Systems Modernization (PDSM)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.000"
+                        },
+                        "CurrentYear": {
+                            "val": "0.944"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.577"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.577"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.581"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.597"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.620"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.639"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The Aircraft Structural Integrity Management Information System (ASIMIS) and ASIP operate as directed by AFPD 63-10 and MIL-STD-1530C. ASIMIS responsibilities include: Receiving, storing and reporting recorder downloads from all aircraft.  Track and report quality control data for flight data recorders (Structural Data Recorder, Crash Survivable Flight Data Recorder, etc\u2026), monitor usage, severity and any accumulated damage by plane and base, analyze the data, calculate crack growth in key locations in the airframe structure, project crack growth in order to provide a basis for maintenance scheduling, maintain a complete flight hour and calendar date history of each aircraft.  \n\nThis project supports the implementation of the software package Air Force Grow (AFGROW) in the ASIMIS suite of tools to support the Aircraft Structural Integrity Program (ASIP) community. AFGROW is a crack prediction software package owned and operated by LexTech Inc. Originally developed under the name ASDGRO in 1985, AFGROW was owned and operated by the United States Air Force through version 4.0012.15. AFGROW will be used by Air Force structural engineers to predict the life expectancy of a\/c components for a variety of weapon systems under cyclic loading under the assumption that defects exist. AFGROW is also used to address maintenance requirements if\/when damage is identified within a component. Funding will be used to provide software licenses and training ASIP managers and weapon system engineers. Funding will also be used to provide for the research and development of software upgrades to suit ASIP manager needs. \n\nThis project supports the implementation of the software package Probability of Failure (PROF) in the ASIMIS suite of tools to support the Aircraft Structural Integrity Program (ASIP) community. PROF is a risk analysis software package owned and distributed by the United States Air Force. PROF is used by Air Force structural engineers to predict the probability of failure of a weapon system under specified usages. PROF provides for the ability to set inspection\/maintenance schedules before failure occurs, without creating excess\/unnecessary inspections that would impair mission readiness.  \n\nETIMS Program baseline transferred from PE 78611F BPAC 673318 to PE 78012F BPAC 673318 beginning in FY13 -- Air Force Technical Order functionality implementation of the Enhanced Technical Information System (ETIMS) Enterprise. Provides for modify the ETIMS system to support Nuclear Weapons Related Material (NWRM) technical data requirements.  \n\nThis program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "ASIMIS Modernization"
+                                    },
+                                    "Description": {
+                                        "val": "Mainframe Modernization"
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.544"
+                                            },
+                                            "Text": {
+                                                "val": "- Mainframe to Server Migration\n- Web Modernization\n- Miscellaneous Enhancements"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            },
+                                            "Text": {
+                                                "val": "- Web Modernization\n- Miscellaneous Enhancements"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "AFGROW"
+                                    },
+                                    "Description": {
+                                        "val": "AFGROW"
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.200"
+                                            },
+                                            "Text": {
+                                                "val": "- Purchase Software Licensing for 4 Sites\n- Provide Funding for Training for 4 Sites\n- Continue Software Updating"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            },
+                                            "Text": {
+                                                "val": "- Purchase Software Licensing for 4 Sites\n- Provide Funding for Training for 4 Sites\n- Continue Software Updating"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "PROF"
+                                    },
+                                    "Description": {
+                                        "val": "PROF"
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.200"
+                                            },
+                                            "Text": {
+                                                "val": "- Continue Software Updating"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.100"
+                                            },
+                                            "Text": {
+                                                "val": "- Continue Software Updating"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "ETIMS Enhancements"
+                                    },
+                                    "Description": {
+                                        "val": "ETIMS Modernization"
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.277"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.277"
+                                            },
+                                            "Text": {
+                                                "val": "Continue ETIMS\nenhancements and\nincorporate technical Data\nactivities and technical\nintegration. Incorporate\nmanagement and support of\nAF technical data activities."
+                                            }
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "ASIMIS , Operations and Maintenance"
+                                    },
+                                    "Title": {
+                                        "val": "N\/A"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "0.104"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "0.265"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.117"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.117"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.123"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.260"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.152"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "ETIMS Sustainment"
+                                    },
+                                    "Title": {
+                                        "val": "ETIMS, 3400, 78012F"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "4.338"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "5.507"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "5.206"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "5.206"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "4.647"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "4.477"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "4.234"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "4.315"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "ASIMIS will migrate the mainframe code to a new, modern, more manageable, and maintainable language.  The acquisition will be a Cost Plus-Fixed Fee (CPFF) contract line item on a competitively awarded contract utilizing Full and Open Competition.\n\nETIMS will incrementally develop enhancements to the existing project to ensure a user friendly, technically accurate, and current digital TO management solution at the point of use. The acquisition will be a Cost Plus Fixed Fee (CPFF) contract line item on a competitively awarded contract utililzing Full and Open Competition (FAR part 15)."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "APPN_3600_BA_07_PE_0708012F_BPAC_673318_0.jpg"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "ETIMS Design and Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2012"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "ETIMS Integration and Test"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "ETIMS Pre-Production"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "ETIMS Production and Fielding"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

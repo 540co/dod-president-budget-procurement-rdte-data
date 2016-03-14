@@ -1,0 +1,202 @@
+{
+    "id": "64f8d695cca06131d9a086cbd05b925a2740767d",
+    "meta": {
+        "filename": "dod-2014_PROCUREMENT_2014_DEFENSE_VOL1_PROCUREMENT_MasterJustificationBook_Defense-Wide_PB_2014.zzz_unzipped_PROCUREMENT_MasterJustificationBook_Defense-Wide_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "United States Special Operations Command",
+        "appropriation_code": "0300D",
+        "appropriation_name": "Procurement, Defense-Wide"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@quantityUnitName": "Each",
+        "@unitCostUnits": "Millions",
+        "@totalCostUnits": "Millions",
+        "LineItemNumber": {
+            "val": "0204SPARES"
+        },
+        "LineItemTitle": {
+            "val": "SPARES AND REPAIR PARTS"
+        },
+        "P1LineNumber": {
+            "val": "70"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "United States Special Operations Command"
+        },
+        "AppropriationNumber": {
+            "val": "0300D"
+        },
+        "AppropriationTitle": {
+            "val": "Procurement, Defense-Wide"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Special Operations Command"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "4"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Other Procurement Programs"
+        },
+        "ResourceSummary": {
+            "GrossWeaponSystemCost": {
+                "AllPriorYears": {
+                    "val": "224.249"
+                },
+                "PriorYear": {
+                    "val": "0.594"
+                },
+                "CurrentYear": {
+                    "val": "0.6"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "224.249"
+                },
+                "PriorYear": {
+                    "val": "0.594"
+                },
+                "CurrentYear": {
+                    "val": "0.6"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "224.249"
+                },
+                "PriorYear": {
+                    "val": "0.594"
+                },
+                "CurrentYear": {
+                    "val": "0.6"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "InitialSpares": {
+                "AllPriorYears": {
+                    "val": "224.249"
+                },
+                "PriorYear": {
+                    "val": "0.594"
+                },
+                "CurrentYear": {
+                    "val": "0.6"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "CostType": {
+            "val": "AB"
+        },
+        "Description": {
+            "val": "The Spares and Repair Parts line item consolidates aircraft modification spares and repair parts procured through the Air Force Stock Fund. No associated RDT&E funds.\n\nAircraft Initial Spares. This program finances both initial weapons system and aircraft modification spares for Special Operations Forces (SOF) fixed and rotary wing aircraft. Initial weapon system spares include new production spares, peculiar support equipment spares, upgrades to existing spares required to support initial operations of new aircraft, and increases in the inventory of additional end items. Aircraft modification spares include new spare parts required during the initial operation of modified airborne systems.  Beginning in FY 2014, the Spares and Repair Parts line item has been consolidated into SOCOM line item Other items <$5M."
+        },
+        "Justification": {
+            "val": "N\/A"
+        },
+        "ItemExhibitList": {
+            "P18Item": {
+                "Name": {
+                    "val": "Spares and Repair Parts"
+                },
+                "InitialSpares": {
+                    "EndItemBudgetActivity": [
+                        {
+                            "BudgetActivityNumber": {
+                                "val": "2"
+                            },
+                            "BudgetActivityTitle": {
+                                "val": "Special Operations Command"
+                            },
+                            "EndItemList": {
+                                "EndItem": [
+                                    {
+                                        "Name": {
+                                            "val": "Aircraft Initial Spares"
+                                        },
+                                        "LineItemNumber": {
+                                            "val": "0204SPARES"
+                                        },
+                                        "P1LineNumber": {
+                                            "val": "76"
+                                        },
+                                        "Cost": {
+                                            "AllPriorYears": {
+                                                "val": "224.249"
+                                            },
+                                            "PriorYear": {
+                                                "val": "0.594"
+                                            },
+                                            "CurrentYear": {
+                                                "val": "0.6"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "SubtotalSparesCost": {
+                        "AllPriorYears": {
+                            "val": "224.249"
+                        },
+                        "PriorYear": {
+                            "val": "0.594"
+                        },
+                        "CurrentYear": {
+                            "val": "0.6"
+                        }
+                    }
+                },
+                "Remarks": {
+                    "val": "Repair Turnaround Time - Various"
+                },
+                "TotalSparesCost": {
+                    "AllPriorYears": {
+                        "val": "224.249"
+                    },
+                    "PriorYear": {
+                        "val": "0.594"
+                    },
+                    "CurrentYear": {
+                        "val": "0.6"
+                    }
+                }
+            }
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "total"
+            },
+            "suppressP40As": {
+                "val": "false"
+            }
+        }
+    }
+}

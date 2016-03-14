@@ -1,0 +1,1275 @@
+{
+    "id": "5af3e1bdeaa1eb45d236640331c499cdbb50e5e3",
+    "meta": {
+        "filename": "dod-2014_RDTE_2014_NAVY_BA1_3_RDTE_MasterJustificationBook_Navy_PB_2014.zzz_unzipped_RDTE_MasterJustificationBook_Navy_PB_2014.xml",
+        "budget_year": "2014",
+        "budget_cycle": "PB",
+        "submission_date": "2013-04",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1319",
+        "appropriation_name": "Research, Development, Test & Evaluation, Navy"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0604518N"
+        },
+        "ProgramElementTitle": {
+            "val": "Combat Information Center Conv"
+        },
+        "R1LineItemNumber": {
+            "val": "111"
+        },
+        "BudgetYear": {
+            "val": "2014"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2013-04"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationCode": {
+            "val": "1319"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "45.148"
+            },
+            "PriorYear": {
+                "val": "3.315"
+            },
+            "CurrentYear": {
+                "val": "0.918"
+            },
+            "BudgetYearOne": {
+                "val": "0.000"
+            },
+            "BudgetYearOneBase": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "0.000"
+            },
+            "BudgetYearThree": {
+                "val": "0.000"
+            },
+            "BudgetYearFour": {
+                "val": "0.000"
+            },
+            "BudgetYearFive": {
+                "val": "0.000"
+            },
+            "CostToComplete": {
+                "val": "0.000"
+            },
+            "TotalCost": {
+                "val": "49.381"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The objective of this Program Element (PE), under Project 3094, is to provide capabilities to shorten command and control (C2) decision processes for detection-to-engagement across multiple platforms, including those with low-bandwidth communications or intermittent connectivity. The Undersea Warfare Decision Support System (USW-DSS) decision support tool uses a Service Orientated Architecture (SOA) encompassing existing communication links, networks, and contact pictures comprised of sensor data from air, surface, submarine, theater, and surveillance platforms to connect sensors and weapons. The capabilities delivered by USW-DSS are critical not only for the Sea Combat Commander (SCC) but also for the Theater USW Commander (TUSWC) and Anti Submarine Warfare Commander (ASWC) to fulfill the requirement for an integrated capability to plan, conduct, and coordinate USW operations across multiple ASW platforms. USW-DSS will provide common and improved visualization, integrated USW platform sensor data sharing, reduced data entry, improved sensor performance predictions, data fusion, and reduced redundancy across USW Tactical Decision Aids (TDA). The program will provide a greater understanding of the undersea battle space by allowing the entire force (carrier\/expeditionary strike group, theater, or other) to have a common and thorough understanding of the battle space with characterized uncertainties.\n\nUSW-DSS Build 2 will be hosted on the Integrated Shipboard Network System (ISNS) as one of the first Early Adopters, leveraging initial Service Oriented Architecture (SOA) Reference Implementation. USW-DSS will be hosted on the Consolidated Afloat Networks and Enterprise Services (CANES) architecture, which will be fully SOA enabled. Build 2 Release 3 (B2R3), in response to Fleet requests, will provide improved and additional functionality and increased stability\/reliability."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.400"
+                },
+                "CurrentYear": {
+                    "val": "0.918"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "3.315"
+                },
+                "CurrentYear": {
+                    "val": "0.918"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.085"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.085"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                }
+            },
+            "SummaryExplanation": {
+                "val": "Technical: Not applicable.\n\nSchedule: Due to a reprioritization of requirements based on results of the Resources, Requirements Review Board (R3B) and the Sponsor's Program Proposal (SPP), USW-DSS will enter the sustainment phase after operational test and evaluation events in early FY13.  USW-DSS B2R3 will provide an incremental update of Build 2 to field as much capability to the Fleet as possible."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "3094"
+                    },
+                    "ProjectTitle": {
+                        "val": "USW Decision Support"
+                    },
+                    "SpecialProject": {
+                        "val": "0"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "45.148"
+                        },
+                        "PriorYear": {
+                            "val": "3.315"
+                        },
+                        "CurrentYear": {
+                            "val": "0.918"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "49.381"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "0"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Project 3094 will develop the USW-DSS that will provide ASW C2 capabilities which enable the CNO vision for ASW Superiority using a \"coordinated, networked force of submarines, surface ships, aircraft, and Integrated Undersea Surveillance System (IUSS) assets\" with \"common and unambiguous views that yield operational and tactical situational awareness in the undersea environment.\"\n\nUSW-DSS provides capabilities to shorten C2 decision processes for detection-to-engagement across multiple platforms, including those with low-bandwidth communications or intermittent connectivity. The USW-DSS decision support tool uses a SOA encompassing existing communication links, networks, and contact pictures comprised of sensor data from air, surface, submarine, theater, and surveillance platforms to connect sensors and weapons. The capabilities delivered by USW-DSS are critical not only for the SCC but also for the TUSWC and ASWC to fulfill the requirement for an integrated capability to plan, conduct, and coordinate USW operations across multiple ASW platforms. USW-DSS will provide common and improved visualization, integrated USW platform sensor data sharing, reduced data entry, improved sensor performance predictions, data fusion, and reduced redundancy across USW TDAs. The program will provide a greater understanding of the undersea battle space by allowing the entire force (carrier\/expeditionary strike group, theater, or other) to have a common and thorough understanding of the battle space with characterized uncertainties."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "USW-DSS Build 2 Development \/ Integration"
+                                    },
+                                    "Description": {
+                                        "val": "Integrated and tested additional USW-DSS tools\/capabilities including Common Tactical Picture, Platform Data Fusion Integration, Cross-Platform Data Fusion, Automated Asset Allocation, Asset\/Threat State Information, Vulnerability Analysis enhancement, ASW Track Management, Automated Re-planning, Engagement Target Pairing and improved Theater USW capabilities and incorporate visualization\/display service."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.480"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Addressed software change requests from FY11 and FY12 Development Tests in preparation for FY13 Operational Evaluation."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "USW-DSS Build 2 Release 3 DT \/ OT"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.835"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Analyzed results of FY11 Development Test.  Completed USW-DSS Build 2 Release 3 Development Tests (2) and subsequent assessments of the results."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.918"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Complete USW-DSS Build 2 Release 3 Operational Evaluation and assessment."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/2176"
+                                    },
+                                    "Title": {
+                                        "val": "USW Support Equipment (Related Portion)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "3.429"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "2.057"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "2.690"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "2.690"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "2.881"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "2.865"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "2.899"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "2.936"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "- Hardware\/Software integration contractor funded through SBIR Phase III contract."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "- Reduce the Detect-to-Engage timeline, false contact rate, and false alarm rate by employing a service-orientated architecture between the sensors and weapons.\n- ASW Search Plan\/Mission Planning reduced from 6 hours to 1 hour between USW-DSS Build 1 and Build 2."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "Remarks": {
+                                        "val": "*Consists of multiple performing activities with funding for each not greater than $1M per year."
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NAWC\/Pax River"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.300"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.300"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC\/Dahlgren"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.501"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.501"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NSWC\/Carderock"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.296"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.275"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.571"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NUWC\/Keyport"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "WA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.962"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.175"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.085"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.222"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NUWC\/Newport"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "RI"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "9.847"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.283"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "10.130"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "SSC\/San Diego"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.850"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.850"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "VAR1"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VAR*"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.894"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.894"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Adaptive Methods"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "6.263"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.275"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "6.538"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "JHU\/APL"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "2.725"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.725"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Progeny"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "9.209"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.350"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "9.559"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Primary H\/W & S\/W Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "VAR2"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VAR*"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "4.983"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.082"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "5.065"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "Remarks": {
+                                        "val": "*Consists of multiple performing activities with funding for each not greater than $1 million per year."
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "At-Sea Test and Evaluation"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Adaptive Methods"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.750"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.290"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.040"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "At-Sea Test and Evaluation"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Progeny"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.665"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.153"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.818"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "At-Sea Test and Evaluation"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "WR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "VAR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "VAR"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.500"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.350"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.365"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.215"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPAF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "BAE Systems"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.818"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.110"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.025"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.953"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2014PB_0604518N_3094_FILE1.PNG"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Proj 3094"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "USW-DSS Acquisition\/Contract Milestones: USW-DSS Development Contracts"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "USW-DSS Acquisition\/Contract Milestones: Software\/Hardware Contract via SBIR Phase III"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "USW-DSS Test & Evaluation Events: At-Sea Development Tests: At-Sea Development Test (2)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "USW-DSS Test & Evaluation Events: At-Sea Development Tests: At-Sea Development Test (3)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "USW-DSS Test & Evaluation Events: At-Sea Operational Evaluation: At-Sea Operational Evaluation"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "USW-DSS Deployment (funded via OPN BLI 2176): USW-DSS Deployment\/Installation with ISNS\/CANES (funded via OPN BLI 2176)"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2018"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

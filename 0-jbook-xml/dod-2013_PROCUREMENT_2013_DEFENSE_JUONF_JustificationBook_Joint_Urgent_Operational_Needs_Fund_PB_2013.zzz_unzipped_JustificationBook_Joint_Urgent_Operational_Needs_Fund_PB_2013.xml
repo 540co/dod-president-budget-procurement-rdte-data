@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Joint Urgent Operational Needs Fund</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0303D</jb:AppropriationCode>
+    <jb:AppropriationName>Joint Urgent Operational Needs Fund</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>Final P-1C FY 2013 PB JUON.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>110</proc:LineItemNumber>
+            <proc:LineItemTitle>Joint Urgent Operational Needs Fund</proc:LineItemTitle>
+            <proc:P1LineItemNumber>1</proc:P1LineItemNumber>
+            <proc:BudgetYear>2013</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2012-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Joint Urgent Operational Needs Fund</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0303D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Joint Urgent Operational Needs Fund</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Joint Urgent Operational Needs Fund</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>10</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Joint Urgent Operational Needs Fund</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.000</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>99.5</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>100</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>199.5</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>99.5</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>99.7</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>99.6</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>99.6</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>597.9</proc:Total>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.000</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>99.5</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>100</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>199.5</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>99.5</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>99.7</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>99.6</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>99.6</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>597.9</proc:Total>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:AllPriorYears>0.000</proc:AllPriorYears>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.000</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>99.5</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>100</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>199.5</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>99.5</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>99.7</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>99.6</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>99.6</proc:BudgetYearFive>
+                    <proc:ToComplete>0.000</proc:ToComplete>
+                    <proc:Total>597.9</proc:Total>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>Joint Urgent Operational Needs Fund (JUONF): The JUONF, established in FY 2012 by the National Defense Authorization Act, Public Law 111-81, Section 864, provides resources for urgent and compelling requirements that will prevent critical mission failure or casualties. This transfer account will allow immediate action to mitigate emergent capability gaps as identified by Combatant Commanders and validated by the Joint Staff and will enable the Department to provide equipment, supplies, services, and training to quickly respond to Urgent Operational Needs (UONS), as defined in Chairman of the Joint Chiefs of Staff Instruction 3170.01H, January 10, 2012. The Department established the Joint Rapid Acquisition Cell (JRAC) to manage the JUONs process and provide joint solutions for immediate, rapidly changing, asymmetric, time sensitive, global challenges. When necessary, funding for full capability or transfer to the normal acquisition system will be requested by the Components through the normal budgeting processes.
+
+Use of the Joint Urgent Operational Needs Fund: Amounts authorized for the JUONF will be transferred to other accounts to address Urgent Operational Needs as directed by the Office of the Under Secretary of Defense (AT&amp;L)'s Joint Rapid Acquisition Cell (JRAC) and will be managed by the Office of the Under Secretary of Defense (Comptroller). A transfer of an amount from JUONF to another account within the Department shall be deemed to increase the amount authorized for such account by an amount equal to the amount transferred. Upon determination that all or part of the funds transferred from the JUONF are not needed for the purpose provided, such funds may be transferred back to the JUONF. The JUONF will enable the Department to ensure that funding availability does not delay critical solutions to the dynamic, highly adaptive, and intelligent global threats that confront the COCOMs. The JUONF enables immediate action to acquire capabilities that represent, as established in policy by the Secretary of Defense, the Department's highest priorities.</proc:Description>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

@@ -1,0 +1,777 @@
+{
+    "id": "1e6d6345402eb2c728363f8d3e01f6897db73adf",
+    "meta": {
+        "filename": "dod-2013_RDTE_2013_NAVY_BA5_MasterJustificationBook_Navy_PB_2013.zzz_unzipped_MasterJustificationBook_Navy_PB_2013.xml",
+        "budget_year": "2013",
+        "budget_cycle": "PB",
+        "submission_date": "2012-02",
+        "service_agency_name": "Navy",
+        "appropriation_code": "1319",
+        "appropriation_name": "Research, Development, Test & Evaluation, Navy"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0304231N"
+        },
+        "ProgramElementTitle": {
+            "val": "Tactical Command System - MIP"
+        },
+        "R1LineItemNumber": {
+            "val": "142"
+        },
+        "BudgetYear": {
+            "val": "2013"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2012-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Navy"
+        },
+        "AppropriationCode": {
+            "val": "1319"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Navy"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "1.311"
+            },
+            "CurrentYear": {
+                "val": "0.979"
+            },
+            "BudgetYearOne": {
+                "val": "1.170"
+            },
+            "BudgetYearOneBase": {
+                "val": "1.170"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "1.141"
+            },
+            "BudgetYearThree": {
+                "val": "1.172"
+            },
+            "BudgetYearFour": {
+                "val": "1.148"
+            },
+            "BudgetYearFive": {
+                "val": "1.168"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "Resources were transferred from PE 0604231N to PE 0304231N beginning in FY11."
+        },
+        "ProgramElementMissionDescription": {
+            "val": "Trusted Information Systems (TIS):  Radiant Mercury (RM) is a secure information platform that provides an automated means to sanitize, downgrade, guard, and transliterate formatted data at various classifications, compartments, and releasabilities. With the aid of a reliable human reviewer, RM can process nonstandard messages, such as messages with National Imagery Transmission Format (NITF) products and other non\/semi-formatted file types.  It enables Combat Commanders as well as operational commanders, afloat and ashore to disseminate and receive critical operational and intelligence information with Coalition and Allied forces.  \n\nMajor Focus Area for FY13:  Develop Radiant Mercury Version 6.0 to run on Security Enhanced (SE) Linux which removes dependency on proprietary vendor products. Conduct Certification Test and Evaluation of RM 6.0."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "1.318"
+                },
+                "CurrentYear": {
+                    "val": "0.979"
+                },
+                "BudgetYearOne": {
+                    "val": "1.170"
+                },
+                "BudgetYearOneBase": {
+                    "val": "1.170"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "1.311"
+                },
+                "CurrentYear": {
+                    "val": "0.979"
+                },
+                "BudgetYearOne": {
+                    "val": "1.170"
+                },
+                "BudgetYearOneBase": {
+                    "val": "1.170"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.007"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneBase": {
+                    "val": "0.000"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Congressional General Reductions Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-0.007"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "Schedule : Delivery of RM Version 6.X Slipped from 3Q 2015 to 1Q 2016 due to NSA Schedule delays. \nDelivery of RM Version 5.1 accelerated from 4Q 2012 to 3Q 2012.\nTechnical: Not Applicable."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "2009"
+                    },
+                    "ProjectTitle": {
+                        "val": "OSIS Evolutionary Development (OED)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "1.311"
+                        },
+                        "CurrentYear": {
+                            "val": "0.979"
+                        },
+                        "BudgetYearOne": {
+                            "val": "1.170"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "1.170"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "1.141"
+                        },
+                        "BudgetYearThree": {
+                            "val": "1.172"
+                        },
+                        "BudgetYearFour": {
+                            "val": "1.148"
+                        },
+                        "BudgetYearFive": {
+                            "val": "1.168"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectNote": {
+                            "val": "Resources were transferred from PE 0604231N to PE 0304231N beginning in FY11."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Radiant Mercury (RM):  Trusted Information System (TIS) Radiant Mercury (RM) is a system that successfully provides accredited Cross Domain Solutions (CDS) to the Navy, Department of Defense (DoD), and Intelligence Community.  TIS RM is a critical component of network-centric warfare, supporting joint operations and Allied and Coalition forces world-wide. The ability to pass sensitive and critical data across security domains and to our Allied and Coalition partners in a timely fashion can only be met by accredited Cross Domain Solution (CDS) systems such as Radiant Mercury.  RM enables operation in a multi-national environment.\n\nTIS RM provides automated, bi-directional sanitization, transliteration, and guarding capability for formatted and unformatted data between security enclaves.  Radiant Mercury helps ensure critical intelligence is provided quickly to operational decision-makers. TIS RM provides the capability to disseminate information for operating forces worldwide, including the operating forces of key allies in Pacific, Central and Europe Command regions. This capability to move all-source intelligence-derived track information into the realm of the operational community significantly improves the situational awareness of tactical operators and planners.   Additionally, it assists in providing critical operational information to intelligence and cryptologic analysts.  Unformatted data is handled by the Information Review Process (IRP).  The system provides cross domain services to a wide variety of customers including Combatant Commanders, Air Force (Shared Early Warning program), Army (Blue Force Tracking program), Navy (Global Command and Control System - Maritime (GCCS-M) and Automatic Identification System (AIS), Maritime Operations Centers (MOC), Distributed Common Ground System-Navy (DCGS-N), Tactical Ranges (TR), and numerous other DoD and Intelligence agencies.\n\n             \nMajor Focus Area for FY13:  Develop Radiant Mercury Version 6.0 to run on Security Enhanced (SE) Linux which removes dependency on proprietary vendor products. SE Linux allows the developer to customize the Operating System (OS) for the RM application, increasing processing speed and improving security.  Improve remote configuration management by replacing the current version of Windows with a Lightweight Text Interface for initial configuration control and a web-based interface to configure the system.  Use Free and Open Source Software (FOSS) to manage the Log, Audit Reduction, and Mission Assessment capabilities.  Enhance our Message Analysis Generator (MAG) Generic Interface Functionality (MGIF) in order to take advantage of software and capabilities developed elsewhere within the Navy, Department of Defense (DoD), and Intelligence communities."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Radiant Mercury"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.311"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Developed and tested RM version 5.0.1  Identified and defined emerging requirements for RM version 5.0.1 to meet Navy and non-Navy Cross Domain Solution (CDS) requirements. Conducted RM software version 5.0.1 certification tests by Defense Intelligence Agency (DIA) and risk assessment by National Security Agency (NSA).  Identified and defined emerging requirements for RM version 5.1 to meet other Navy and non-Navy Cross Domain Solution (CDS) requirements."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.979"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Develop RM Version 5.1 based upon user feedback.  The next RM incremental update will include improvements identified by operational commands and remedies to shortfalls as identified in the Unified Cross Domain Management Office (UCDMO) roadmap.  Continue to develop and Integrate Radiant Mercury into PEO-C4I Program Offices evolving architectures to include Consolidated Afloat Networks and Enterprise Services (CANES)."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.170"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.170"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Develop Radiant Mercury Version 6.0 to run on Security Enhanced (SE) Linux which removes dependency on proprietary vendor products. SE Linux allows the developer to customize the Operating System (OS) for the RM application, increasing processing speed and improving security.  Improve remote configuration management by replacing the current version of Windows with a Lightweight Text Interface for initial configuration control and a web-based interface to configure the system.  Use Free and Open Source Software (FOSS) to manage the Log, Audit Reduction, and Mission Assessment capabilities.  Enhance our Message Analysis Generator (MAG) Generic Interface Functionality (MGIF) in order to take advantage of software and capabilities developed elsewhere within the Navy, Department of Defense (DoD), and Intelligence communities."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "OPN\/2608"
+                                    },
+                                    "Title": {
+                                        "val": "GCCS-M (TIS)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "0.336"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "0.426"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.448"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.448"
+                                        },
+                                        "BudgetYearOneOCO": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.399"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.412"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.377"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.383"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "Trusted Information Systems (TIS) Radiant Mercury (RM) provides automated, bi-directional sanitization, transliteration, and guarding capability for formatted and unformatted data between security enclaves.  RM helps ensure critical indications and warning intelligence is provided quickly to operational decision-makers.  RM is actively involved in the production and cross domain dissemination of information for operating forces worldwide, including the operating forces of key allies involved in the Overseas Contingency Operations (OCO), in Pacific Command (PACOM), Europe Command (EUCOM) and Central Command (CENTCOM) regions.  RM is a fee-for-service program, it receives partial funding from the Navy to cover basic program management and infrastructure costs.  The remaining funds needed to keep the program operating are generated from the fee-for-service model by charging customers Life Cycle Surcharge (LCS) on all new task orders and Annual User Fee (AUF) on all operational RM systems currently fielded."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Provide and develop certified, accredited Cross Domain Solution (CDS) and transfer capabilities to the Department of Defense (DoD) and Intelligence Community, and provide the capability to disseminate and receive operational and intelligence information for 100% of authorized sites.  Complete 100% of certification, system, and security testing of Radiant Mercury (RM) version 5.0.1 for release.  Provide the capability to sanitize, downgrade, guard, and transliterate formatted data at various classifications, compartments and releasabilities to combat and operational commanders, coalition and allied forces at over 420 sites world wide and 660 fielded."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Systems Engineering"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Denver Colorado"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.890"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.676"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.848"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.848"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "2.414"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Software Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Denver Colorado"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.382"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.255"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.255"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.887"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Booz Allen Hamilton"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Virgina, Mclean"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.039"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.053"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2011-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.067"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.067"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "R4_2013PB_0304231N_2009_FILE1.PNG"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "SubProjectScheduleList": {
+                            "SubProjectSchedule": [
+                                {
+                                    "Title": {
+                                        "val": "Proj 2009"
+                                    },
+                                    "ScheduleDetailList": {
+                                        "ScheduleDetail": [
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Software - Delivery of  RM Version 5.0.1"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Software - Delivery of  RM Version 5.1"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Software - Delivery of RM  Version 6.0"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Software - Delivery of  RM Version 6.x"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "1"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2016"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Test & Evaluation Milestone -  CT&E - RM Version 5.0.1"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2011"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Test & Evaluation Milestone -  CT&E - RM Version 5.1"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "2"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2012"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Test & Evaluation Milestone -  CT&E - RM Version 6.0"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "3"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2013"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Test & Evaluation Milestone -  CT&E - RM Version 6.x"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2015"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "EventTitle": {
+                                                    "val": "RM Test & Evaluation Milestone - CT&E - RM Version 7.0"
+                                                },
+                                                "Schedule": {
+                                                    "Start": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    },
+                                                    "End": {
+                                                        "Quarter": {
+                                                            "val": "4"
+                                                        },
+                                                        "Year": {
+                                                            "val": "2017"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

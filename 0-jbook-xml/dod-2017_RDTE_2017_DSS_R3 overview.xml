@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?><Workbook xmlns:x="urn:schemas-microsoft-com:office:excel"
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40"
+          xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2"
+          xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb"
+          xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement"
+          xmlns:o="urn:schemas-microsoft-com:office:office">
+   <Styles>
+      <Style ss:ID="Default" ss:Name="Normal">
+         <Alignment ss:Vertical="Bottom"/>
+         <Borders/>
+         <Font/>
+         <Interior/>
+         <NumberFormat/>
+         <Protection/>
+      </Style>
+      <Style ss:ID="ColumnLabel">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+         </Borders>
+         <Font ss:Size="12" ss:Bold="1" ss:Color="#FFFFFF"/>
+         <Interior ss:Color="#27466E" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="PEDetails">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="0"/>
+         <Font ss:Size="11" ss:Color="#EEEEEE"/>
+         <Interior ss:Color="#768198" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="CCGroup">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="0"/>
+         <Font ss:Size="11"/>
+         <Interior ss:Color="#DDE0E7" ss:Pattern="Solid"/>
+      </Style>
+      <Style ss:ID="CCIString">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="0"/>
+         <Font ss:Size="11"/>
+      </Style>
+      <Style ss:ID="CCINumber">
+         <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+         <Font ss:Size="11"/>
+         <NumberFormat ss:Format="0.000"/>
+      </Style>
+      <Style ss:ID="CCIDate">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+         <Font ss:Size="11"/>
+         <NumberFormat ss:Format="yyyy\-mm"/>
+      </Style>
+   </Styles>
+   <Worksheet ss:Name="R3 Overview">
+      <Table ss:ExpandedColumnCount="24" x:FullColumns="1" x:FullRows="1"
+             ss:StyleID="Default"
+             ss:DefaultRowHeight="12">
+         <Column ss:StyleID="Default" ss:Width="190"/>
+         <Column ss:StyleID="Default" ss:Width="240"/>
+         <Column ss:StyleID="Default" ss:Width="240"/>
+         <Column ss:StyleID="Default" ss:Width="140"/>
+         <Column ss:StyleID="Default" ss:Width="220"/>
+         <Column ss:StyleID="Default" ss:Width="80" ss:Span="18"/>
+         <Row ss:AutoFitHeight="0" ss:Height="20">
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Appropriation/Budget Activity</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">R-1 Program Element (Number/Name)</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Project (Number/Name)</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost Category Group</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost Category Item</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Contract Method</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Contract Type</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Performing Activity</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Performing Location</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel"/>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2015</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2016</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2017 Base</Data>
+            </Cell>
+            <Cell ss:MergeAcross="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2017 OCO</Data>
+            </Cell>
+            <Cell ss:MergeAcross="0" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">FY 2017</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost To Complete</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Total Cost</Data>
+            </Cell>
+            <Cell ss:MergeDown="1" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Target Value of Contract</Data>
+            </Cell>
+         </Row>
+         <Row ss:AutoFitHeight="0" ss:Height="20">
+            <Cell ss:Index="10" ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Prior Years</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Cost</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Award Date</Data>
+            </Cell>
+            <Cell ss:StyleID="ColumnLabel">
+               <Data ss:Type="String">Total Cost</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">0400 / 7</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">PE 0604130V / Enterprise Security System</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">000 / Enterprise Security System</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails" ss:MergeAcross="18"/>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="4" ss:StyleID="CCGroup" ss:MergeAcross="18">
+               <Data ss:Type="String">Product Development</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:Index="5" ss:StyleID="CCIString">
+               <Data ss:Type="String">Enterprise Security System</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">C</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">BPA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">SAIC, Northrup Grumman, EDS, Herndon, VA and Columbia, MD</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIString">
+               <Data ss:Type="String">Herndon, VA</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">105.465</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">3.988</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2014-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">5.929</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2015-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number">4.241</Data>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String">2016-12</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCIDate">
+               <Data ss:Type="String"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="Number"/>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+            <Cell ss:StyleID="CCINumber">
+               <Data ss:Type="String">Continuing</Data>
+            </Cell>
+         </Row>
+         <Row ss:Height="18">
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">0400 / 7</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">PE 0305327V / Insider Threat</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails">
+               <Data ss:Type="String">0305327V / Insider Threat</Data>
+            </Cell>
+            <Cell ss:StyleID="PEDetails" ss:MergeAcross="18"/>
+         </Row>
+      </Table>
+   </Worksheet>
+</Workbook>

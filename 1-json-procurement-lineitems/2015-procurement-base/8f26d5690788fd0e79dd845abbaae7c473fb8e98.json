@@ -1,0 +1,669 @@
+{
+    "id": "8f26d5690788fd0e79dd845abbaae7c473fb8e98",
+    "meta": {
+        "filename": "dod-2015_PROCUREMENT_2015_ARMY_OTHER_1_PROCUREMENT_JustificationBook_Army_PB_2015.zzz_unzipped_PROCUREMENT_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2035A",
+        "appropriation_name": "Other Procurement, Army"
+    },
+    "record": {
+        "@quantityUnits": "Each",
+        "@unitCostUnits": "Thousands",
+        "@totalCostUnits": "Millions",
+        "@manufacturerRateUnits": "Monthly",
+        "LineItemNumber": {
+            "val": "D23000"
+        },
+        "LineItemTitle": {
+            "val": "Passenger Carrying Vehicles"
+        },
+        "P1LineNumber": {
+            "val": "17"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationNumber": {
+            "val": "2035A"
+        },
+        "AppropriationTitle": {
+            "val": "Other Procurement, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "1"
+        },
+        "BudgetActivityTitle": {
+            "val": "Tactical and Support Vehicles"
+        },
+        "BudgetSubActivityNumber": {
+            "val": "20"
+        },
+        "BudgetSubActivityTitle": {
+            "val": "Non-Tactical Vehicles"
+        },
+        "ResourceSummary": {
+            "Quantity": {
+                "CurrentYear": {
+                    "val": "9"
+                },
+                "BudgetYearOneBase": {
+                    "val": "25"
+                },
+                "BudgetYearOne": {
+                    "val": "25"
+                },
+                "BudgetYearTwo": {
+                    "val": "25"
+                },
+                "BudgetYearThree": {
+                    "val": "25"
+                },
+                "BudgetYearFour": {
+                    "val": "25"
+                },
+                "BudgetYearFive": {
+                    "val": "26"
+                }
+            },
+            "TotalCost": {
+                "AllPriorYears": {
+                    "val": "284.824"
+                },
+                "PriorYear": {
+                    "val": "2.544"
+                },
+                "CurrentYear": {
+                    "val": "0.535"
+                },
+                "BudgetYearOneBase": {
+                    "val": "1.338"
+                },
+                "BudgetYearOne": {
+                    "val": "1.338"
+                },
+                "BudgetYearTwo": {
+                    "val": "1.259"
+                },
+                "BudgetYearThree": {
+                    "val": "1.299"
+                },
+                "BudgetYearFour": {
+                    "val": "1.347"
+                },
+                "BudgetYearFive": {
+                    "val": "1.432"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "UnitCost": {
+                "CurrentYear": {
+                    "val": "59.444"
+                },
+                "BudgetYearOneBase": {
+                    "val": "53.52"
+                },
+                "BudgetYearOne": {
+                    "val": "53.52"
+                },
+                "BudgetYearTwo": {
+                    "val": "50.36"
+                },
+                "BudgetYearThree": {
+                    "val": "51.96"
+                },
+                "BudgetYearFour": {
+                    "val": "53.88"
+                },
+                "BudgetYearFive": {
+                    "val": "55.077"
+                }
+            },
+            "NetProcurementP1": {
+                "AllPriorYears": {
+                    "val": "284.824"
+                },
+                "PriorYear": {
+                    "val": "2.544"
+                },
+                "CurrentYear": {
+                    "val": "0.535"
+                },
+                "BudgetYearOneBase": {
+                    "val": "1.338"
+                },
+                "BudgetYearOne": {
+                    "val": "1.338"
+                },
+                "BudgetYearTwo": {
+                    "val": "1.259"
+                },
+                "BudgetYearThree": {
+                    "val": "1.299"
+                },
+                "BudgetYearFour": {
+                    "val": "1.347"
+                },
+                "BudgetYearFive": {
+                    "val": "1.432"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            },
+            "TotalObligationAuthority": {
+                "AllPriorYears": {
+                    "val": "284.824"
+                },
+                "PriorYear": {
+                    "val": "2.544"
+                },
+                "CurrentYear": {
+                    "val": "0.535"
+                },
+                "BudgetYearOneBase": {
+                    "val": "1.338"
+                },
+                "BudgetYearOne": {
+                    "val": "1.338"
+                },
+                "BudgetYearTwo": {
+                    "val": "1.259"
+                },
+                "BudgetYearThree": {
+                    "val": "1.299"
+                },
+                "BudgetYearFour": {
+                    "val": "1.347"
+                },
+                "BudgetYearFive": {
+                    "val": "1.432"
+                },
+                "Continuing": {
+                    "val": "true"
+                }
+            }
+        },
+        "Code": {
+            "val": "A"
+        },
+        "SecondaryDistribution": {
+            "ComponentList": {
+                "Component": [
+                    {
+                        "Name": {
+                            "val": "Army Active"
+                        },
+                        "Cost": {
+                            "Quantity": {
+                                "CurrentYear": {
+                                    "val": "9"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "25"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "25"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "25"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "25"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "25"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "26"
+                                }
+                            },
+                            "TotalCost": {
+                                "PriorYear": {
+                                    "val": "2.544"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.535"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "1.338"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "1.338"
+                                },
+                                "BudgetYearTwo": {
+                                    "val": "1.259"
+                                },
+                                "BudgetYearThree": {
+                                    "val": "1.299"
+                                },
+                                "BudgetYearFour": {
+                                    "val": "1.347"
+                                },
+                                "BudgetYearFive": {
+                                    "val": "1.432"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "TotalCost": {
+                "Quantity": {
+                    "CurrentYear": {
+                        "val": "9"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "25"
+                    },
+                    "BudgetYearOne": {
+                        "val": "25"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "25"
+                    },
+                    "BudgetYearThree": {
+                        "val": "25"
+                    },
+                    "BudgetYearFour": {
+                        "val": "25"
+                    },
+                    "BudgetYearFive": {
+                        "val": "26"
+                    }
+                },
+                "TotalCost": {
+                    "PriorYear": {
+                        "val": "2.544"
+                    },
+                    "CurrentYear": {
+                        "val": "0.535"
+                    },
+                    "BudgetYearOneBase": {
+                        "val": "1.338"
+                    },
+                    "BudgetYearOne": {
+                        "val": "1.338"
+                    },
+                    "BudgetYearTwo": {
+                        "val": "1.259"
+                    },
+                    "BudgetYearThree": {
+                        "val": "1.299"
+                    },
+                    "BudgetYearFour": {
+                        "val": "1.347"
+                    },
+                    "BudgetYearFive": {
+                        "val": "1.432"
+                    }
+                }
+            }
+        },
+        "Description": {
+            "val": "This line is a roll-up of Sedans, Ambulances and Buses.  Passenger Carrying Vehicles are of commercial design intended to provide transportation for Army personnel and family members.  Passenger Carrying Vehicles are procurable from commercial vendors, Original Equipment Manufacturers (OEM) and after-market sources.  This is a vehicle replacement program that does not have a set Army Acquisition Objective (AAO). Procurements are made to replace Passenger Carrying Vehicles when they reach an overaged or unserviceable condition."
+        },
+        "Justification": {
+            "val": "FY 2015 Base procurement dollars in the amount of $1.338 million supports installations and units with transportation and ambulance services for Army personnel and family members.  A total of 25 Passenger Carrying Vehicles are needed to replace overaged vehicles at Outside Continental United States (OCONUS) activities, such as Japan and Korea. The General Services Administration (GSA) does not lease vehicles to many OCONUS locations.  The 25 vehicles include 17 sedans, 3 ambulances and 5 buses. Sedans are utilized by both installations and covert activities operating at OCONUS.  Ambulances are essential and life saving vehicles, and buses ensure safe and reliable transportation services for Army installations.\n\nIn accordance with Section 1815 of the FY 2008 National Defense Authorization Act (P.L. 110-181), this item is necessary for use by the active and reserve components of the Armed Forces for homeland defense missions, domestic emergency responses, and providing military support to civil authorities."
+        },
+        "ItemExhibitList": {
+            "P40AItemGroup": [
+                {
+                    "CategoryList": {
+                        "Category": [
+                            {
+                                "Name": {
+                                    "val": "AUTOMOBILE, SEDAN, LIGHT"
+                                },
+                                "ItemList": {
+                                    "Item": [
+                                        {
+                                            "Name": {
+                                                "val": "AUTOMOBILE, SEDAN, LIGHT"
+                                            },
+                                            "ItemNumber": {
+                                                "val": "D20100"
+                                            },
+                                            "SecondaryDistribution": {
+                                                "ComponentList": {
+                                                    "Component": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "Army Active"
+                                                            },
+                                                            "Cost": {
+                                                                "Quantity": {
+                                                                    "CurrentYear": {
+                                                                        "val": "6"
+                                                                    },
+                                                                    "BudgetYearOneBase": {
+                                                                        "val": "17"
+                                                                    },
+                                                                    "BudgetYearOne": {
+                                                                        "val": "17"
+                                                                    }
+                                                                },
+                                                                "TotalCost": {
+                                                                    "PriorYear": {
+                                                                        "val": "0.91"
+                                                                    },
+                                                                    "CurrentYear": {
+                                                                        "val": "0.161"
+                                                                    },
+                                                                    "BudgetYearOneBase": {
+                                                                        "val": "0.433"
+                                                                    },
+                                                                    "BudgetYearOne": {
+                                                                        "val": "0.433"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "ModificationType": [],
+                                            "ResourceSummary": {
+                                                "Quantity": {
+                                                    "AllPriorYears": {
+                                                        "val": "53257"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "6"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "17"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "17"
+                                                    }
+                                                },
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "179.943"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "0.91"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "0.161"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.433"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.433"
+                                                    }
+                                                },
+                                                "UnitCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "3.379"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "26.833"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "25.471"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "25.471"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "TRUCK, AMBULANCE EMS\/RESCUE 4X2"
+                                            },
+                                            "ItemNumber": {
+                                                "val": "D20501"
+                                            },
+                                            "SecondaryDistribution": {
+                                                "ComponentList": {
+                                                    "Component": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "Army Active"
+                                                            },
+                                                            "Cost": {
+                                                                "Quantity": {
+                                                                    "CurrentYear": {
+                                                                        "val": "1"
+                                                                    },
+                                                                    "BudgetYearOneBase": {
+                                                                        "val": "3"
+                                                                    },
+                                                                    "BudgetYearOne": {
+                                                                        "val": "3"
+                                                                    }
+                                                                },
+                                                                "TotalCost": {
+                                                                    "PriorYear": {
+                                                                        "val": "0.817"
+                                                                    },
+                                                                    "CurrentYear": {
+                                                                        "val": "0.154"
+                                                                    },
+                                                                    "BudgetYearOneBase": {
+                                                                        "val": "0.367"
+                                                                    },
+                                                                    "BudgetYearOne": {
+                                                                        "val": "0.367"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "ModificationType": [],
+                                            "ResourceSummary": {
+                                                "Quantity": {
+                                                    "AllPriorYears": {
+                                                        "val": "484"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "1"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "3"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "3"
+                                                    }
+                                                },
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "13.833"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "0.817"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "0.154"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.367"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.367"
+                                                    }
+                                                },
+                                                "UnitCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "28.581"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "154"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "122.333"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "122.333"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "Name": {
+                                                "val": "BUS, 28-44 PASSENGER"
+                                            },
+                                            "ItemNumber": {
+                                                "val": "D21007"
+                                            },
+                                            "SecondaryDistribution": {
+                                                "ComponentList": {
+                                                    "Component": [
+                                                        {
+                                                            "Name": {
+                                                                "val": "Army Active"
+                                                            },
+                                                            "Cost": {
+                                                                "Quantity": {
+                                                                    "CurrentYear": {
+                                                                        "val": "2"
+                                                                    },
+                                                                    "BudgetYearOneBase": {
+                                                                        "val": "5"
+                                                                    },
+                                                                    "BudgetYearOne": {
+                                                                        "val": "5"
+                                                                    }
+                                                                },
+                                                                "TotalCost": {
+                                                                    "PriorYear": {
+                                                                        "val": "0.817"
+                                                                    },
+                                                                    "CurrentYear": {
+                                                                        "val": "0.22"
+                                                                    },
+                                                                    "BudgetYearOneBase": {
+                                                                        "val": "0.538"
+                                                                    },
+                                                                    "BudgetYearOne": {
+                                                                        "val": "0.538"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "ModificationType": [],
+                                            "ResourceSummary": {
+                                                "Quantity": {
+                                                    "AllPriorYears": {
+                                                        "val": "2601"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "2"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "5"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "5"
+                                                    }
+                                                },
+                                                "TotalCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "91.048"
+                                                    },
+                                                    "PriorYear": {
+                                                        "val": "0.817"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "0.22"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "0.538"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "0.538"
+                                                    }
+                                                },
+                                                "UnitCost": {
+                                                    "AllPriorYears": {
+                                                        "val": "35.005"
+                                                    },
+                                                    "CurrentYear": {
+                                                        "val": "110"
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "val": "107.6"
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "val": "107.6"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "CategorySubtotal": {
+                                    "Quantity": [],
+                                    "TotalCost": {
+                                        "AllPriorYears": {
+                                            "val": "284.824"
+                                        },
+                                        "PriorYear": {
+                                            "val": "2.544"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "0.535"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "1.338"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "1.338"
+                                        }
+                                    },
+                                    "UnitCost": []
+                                }
+                            }
+                        ]
+                    },
+                    "TotalCost": {
+                        "TotalCost": {
+                            "AllPriorYears": {
+                                "val": "284.824"
+                            },
+                            "PriorYear": {
+                                "val": "2.544"
+                            },
+                            "CurrentYear": {
+                                "val": "0.535"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "1.338"
+                            },
+                            "BudgetYearOne": {
+                                "val": "1.338"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "DocumentAssemblyOptions": {
+            "p40AItemScheduleSetting": {
+                "val": "expandItemSuppressExhibit"
+            }
+        }
+    }
+}

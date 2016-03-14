@@ -1,0 +1,2438 @@
+{
+    "id": "db33c59557173fb5f45ed760fde3d9a3be05e1c5",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_AIRFORCE_V1_U_RDTE_MasterJustificationBook_Air_Force_PB_2017.zzz_unzipped_U_RDTE_MasterJustificationBook_Air_Force_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0708611F"
+        },
+        "ProgramElementTitle": {
+            "val": "Support Systems Development"
+        },
+        "R1LineNumber": {
+            "val": "234"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "15.209"
+            },
+            "CurrentYear": {
+                "val": "12.107"
+            },
+            "BudgetYearOne": {
+                "val": "9.128"
+            },
+            "BudgetYearOneBase": {
+                "val": "9.128"
+            },
+            "BudgetYearOneOCO": {
+                "val": "0.000"
+            },
+            "BudgetYearTwo": {
+                "val": "9.334"
+            },
+            "BudgetYearThree": {
+                "val": "9.527"
+            },
+            "BudgetYearFour": {
+                "val": "9.738"
+            },
+            "BudgetYearFive": {
+                "val": "9.948"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "This program element contains two active projects [project 673318, Product Data System Modernization (PDSM), and project 675042, Logistics Application Logistics Integration (LALI)].\n\nProject 673318: PDSM funds modifications to the Enhanced Technical Information System (ETIMS) Enterprise, which supports Air Force Technical Order management, storage and distribution critical to depot maintenance activities. ETIMS activities include studies and analysis to support both current and future program planning and program execution to include Nuclear Weapons Related Material (NWRM) technical data requirements.\nNote: In FY 2016, PE 0708611 Support Systems Development, Project 673318, Product Data Systems Modernization efforts transferred to PE 0708610F, Logistics Information Technology (Log IT), Project 675207 to align with the Enhanced Technical Information Management System (ETIMS) modification efforts funded within the Log IT PE.\n\nProject 675042: LALI includes funding for Logistics, Installations and Mission Support - Enterprise View (LIMS-EV) and F-35 User IT Data Exchange Service (UIDES).\n\nLogistic, Installations and Mission Support - Enterprise View (LIMS-EV) implements Business Intelligence(BI) and Decision Support(DS) solutions and includes transitioning to a common Information Technology(IT) hosting environment and development of mobile infrastructure.  The AF must transform its logistics business processes and transition away from using numerous stovepipe systems and process flows that execute the same analysis and decision support tasks.  Eliminating process redundancies across the logistics enterprise will enable the AF to execute more efficient, cost-effective and integrated logistics in the long term. Leveraging emerging technology to enhance existing capabilities and developing a mobile solution satisfies current and future needs of the enterprise. LIMS-EV funding supports Business Intelligence (BI) and decision support development capability used by senior leaders and war fighters to access integrated information from multiple logistics and operational source systems. LIMS-EV funding will extend current BI capabilities to provide configurable alerting, predictive\/what-if analysis, mobile applications and further integration of support equipment, vehicle, supply, commodities and components (engines, landing gears, fuel, etc.) to increase weapons systems availability and Total Asset Visibility (TAV) and migrates the LIMS-EV functionality from the retiring Global Combat Support System-Air Force (GCSS-AF) infrastructure to a an approved Joint Information Environment\/Common Computing Environment.\n\n\nFY2016 Plan \n\n1) LIMS-EV Vehicle View 5.2 - migrate the legacy data sources from the Online Vehicle Information Management System to Defense Property Accountability System (DPAS).   The applications, reports and capabilities will be modified\/migrated to using data sourced from DPAS. Included in the data migration is the ability to expose the DPAS data in Business Objects (BOBJ).   This release also includes the development new functionality; the Transaction Request Tool which includes the ability for fleet managers to update, load, and move assets, as well as complete resale requests.  \n\n2) LIMS-EV Equipment View 4.6 - Implement the remaining metrics not included in release 4.4 (less the Command Equipment Management Office (CEMO) metrics) \u2013 primarily associated with the new Redistribution and Mass Additive functionality.  This release also corrects discrepancy reports from Release 4.0 (Redistribution and Mass Additive functionality) Metrics include:  \n-- Provides the ability to report CEMO, 404 Supply Chain Management Office (SCMS), and Fill Rate Metrics\n-- Applies data from Mal-Positioned Assets, Repair Execution, Retention Additives & Disposals and Replacement Additives actions as well as user-entered input to calculate \/ present the defined metrics\n\n3) LIMS-EV Repair Network View (RNV) 4.0 - provides leadership view of Repair Network Integration (RNI) Metrics.  This release will provide a permanent Capability and Capacity (CAP2) Information Technology (IT) Tool and simulation capability to assist Repair Network managers in making resource allocation decisions.  Some examples include: \n-- Support equipment prices for each equipment asset  pulled from Air Force Equipment Management System (AFEMS) \n-- Quality Deficiency Report (QDR) data pulled from each node from Joint Deficiency Reporting System (JDRS)  \n-- Depot level production \n-- Contract data reporting National Stock Numbers (NSNs) repaired at contractors from Contracting Information Database System (CIDS\/J018) or CAV-AF\n\n4) LIMS-EV Enterprise Mobile Viewer - focused on supporting the use of mobile device technology, with the first phase focusing on integrating four LIMS-EV Vehicle View widgets.   The release also enhances some of the existing capability, such as modifying the Prioritization Buy capability to support Item Manager functionality.\n\n5) LIMS-EV Weapons System Enterprise Review (WSER) - automate the AF Chief of Staff briefing (CSAF) (9 charts per WSER weapon system) that is delivered quarterly by Air Force Life Cycle Management Center Commander (AFLCMC\/CC) to Air Force Materiel Command Commander (AFMC\/CC), Major Commands (MAJCOMs), and other key stakeholders.   WSER content includes Performance Execution (availability, engines, and aircraft delivery quality); Modernization Overall (cost, schedule, performance, and funding); Product Support (Logistics Health Assessment (LHA) and Leading Health Indicator (LHI) (engines)); Predictive Health (safety, service life, mission effectiveness, and weapon system sustainment (WSS) risk); and Operating Cost\n\n\nFY 2017 Plan\n\n1) LIMS-EV Engine Health Management and Data Repository Center (EHM-DRC) - migrate an EHM-DRC to GCSS-AF infrastructure and leverage GCSS-AF Enterprise Data Warehouse for data storage and interfaces as well as decision support capabilities to expose and analyze expanded engine health data to improve the reliability and performance.\n\n2) LIMS-EV Repair Network View (RNV) 5.0 - address deficiencies in the RNV capability.  Updates include correcting an existing reference table, creating additional repair nodes, adding a frequency column to the \u201cdata source\u201d area of view, mapping to different reference tables, and correcting issues with the Extract, Transform, and Load procedures.  \n\n3) LIMS-EV Supply Chain Management View 7.0 - provide enhanced reports, queries, and views.  Specifics includes reporting\/ability to distinguish United States Air Force (USAF) backorders, production number (PDN) Search in Edit box , Ability to add Incremental\/auto fill PDN Drop Down In Default Analysis or Create PDN Analysis Report, NSN Entry Conversion, adds \"PMS\" to Default \"Role\" Selector & Select Single or Multiple, repairs the \"ADD\" Function - Manual Ability To Input The Repair Data For An Item That is Contract Repair or public\/private partnership (PPP), and allows user to  identify mission capable (MICAP) requisitions likely to have hours that should be stopped or backed out are identified throughout the month using the automated report identified in this requirements document.\n\n4) LIMS-EV Support Equipment Enterprise View - provide real time fleet summary of support equipment (SE) assets (ex. fully mission capable, partially mission capable, not mission capable).  Emulates the same metrics that are used for LIMS-EV Fleet Asset Status and Weapon System View.  SE community will be able to track status and location of SE assets by mission designator (MD), mission designator series (MDS), and Equipment ID.  Capability also Enables a priority buy capability \u2013similar to LIMS-EV Vehicle View - better calculations for predicting asset service cliffs.  \n\n5) LIMS-EV Cost of Logistics (COL) 2.0 - address change request and deficiency reports in the COL Capability, integrate variance tool, and update the existing dashboard.  Updates include providing the user the ability to export reports from the view (instead of having to export from BOBJ), Corrects the existing issue with the export feature, fixes the tool tips, modifies the \u201cData Source\u201d area on the screen to include a \u201cfrequency column\u201d, renames some views, corrects the \u201cBase\u201d filter.\n\n6) LIMS-EV Vehicle View 6.0 - enable Vehicle Support Chain Operations Squadron (VSCOS) Installation Support Centralization (ISC) Initiative.  ISC is a CSAF directed action to centralize management of the Air Forces' vehicle fleet at Air Force Element (AFELM) VSCOS.  The ISC initiative centralizes 55 processes from the MAJCOM\u2019s to one central source within VSCOS.  Some of the enhancements include; Alerts and Event Management (AEM) Integration, enables same look and feel for verification\/validation  that exists in latest LIMS-EV capabilities, applies hover overs on fields across the application, enables query tracking, enhances Item Manager functions, and provides a Depot Maintenance planning model.  \n\n7) LIMS-EV Enterprise Propulsion Business Intelligence (BI) Tool - provide engine managers with the ability to  forecast engine and component removals, identify business process gaps, consolidate existing applications\/tools, and provide metrics and analysis for existing or new engines based on Thrust, Weight, Fuel, Cost, etc.  Migrate manual products generated by the actuary's office.\n\nF-35 UIDES provides for Air Force development of a F-35 Autonomic Logistics Information System (ALIS) - User IT Data Exchange Service that supports current and future Information Exchange Requirement (IER) data transfer capability from the F-35 ALIS into data reports and configurable tables to receive, store and integrate F-35 operations, maintenance, training and financial data within existing Air Force enterprise views to support the growing fleet of AF F-35 aircraft.  Funding supports modification of an enhanced data sharing capability (ability to consume increased volume and variety of ALIS IER data) to support depot data configuration and integration requirements.  Activities also include studies and analysis to support both current program\/project planning and execution and future program\/project planning.\n\nNote: In FY 2016, PE 0708611 Support Systems Development, Project Number 675042, Logistics Application Logistics Integration (LALI), the F-35 User Identification Data Exchange System (UIDES) effort was transferred to PE 0604800F, F-35 Lightning II Joint Strike Fighter, in order to align the activity under the F-35 RDT&E Program Element.\n\nThis program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "15.712"
+                },
+                "CurrentYear": {
+                    "val": "12.657"
+                },
+                "BudgetYearOne": {
+                    "val": "12.456"
+                },
+                "BudgetYearOneBase": {
+                    "val": "12.456"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "15.209"
+                },
+                "CurrentYear": {
+                    "val": "12.107"
+                },
+                "BudgetYearOne": {
+                    "val": "9.128"
+                },
+                "BudgetYearOneBase": {
+                    "val": "9.128"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-0.503"
+                },
+                "CurrentYear": {
+                    "val": "-0.550"
+                },
+                "BudgetYearOne": {
+                    "val": "-3.328"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-3.328"
+                },
+                "BudgetYearOneOCO": {
+                    "val": "0.000"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.550"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.503"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "0.000"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-3.328"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-3.328"
+                                },
+                                "BudgetYearOneOCO": {
+                                    "val": "0.000"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "FY15: Reduction for SBIR\n\nFY16: Reduction for FFRDC  \n\nFY17: Reduction supports modernization efforts for higher priority legacy logistics information technology systems"
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "673318"
+                    },
+                    "ProjectTitle": {
+                        "val": "Product Data Systems Modernization (PDSM)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "0.512"
+                        },
+                        "CurrentYear": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOne": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearThree": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFour": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearFive": {
+                            "val": "0.000"
+                        },
+                        "CostToComplete": {
+                            "val": "0.000"
+                        },
+                        "TotalCost": {
+                            "val": "0.512"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Project 673318, PDSM supports funding for Air Force Technical Order functionality through the continued enhancement of the Enhanced Technical Information System (ETIMS) Enterprise. Development of the ETIMS project across the FYDP will be continued as part of the remediation\/modernization\/transformation approach for AF Logistics IT.  For specific details on this project see PE 0708610F."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Enhanced Technical Information Management System (ETIMS) Software Upgrade"
+                                    },
+                                    "Description": {
+                                        "val": "Modify ETIMS software to incorporate Joint Computer-Aided Acquisition and Logistics Support (JCALS) functionality and integrate additional ETIMS enhancements.  Effort previously titled: ETIMS Software Upgrade."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.512"
+                                            },
+                                            "Text": {
+                                                "val": "Initiated enhancement activities to continue ETIMS Software Upgrade."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "Project 673318, Product Data Systems Modernization efforts transferred to PE 0708610F, Logistics Information Technology (Log IT), Project 675207 to align with the Enhanced Technical Information Management System (ETIMS) modification efforts funded within the Log IT PE."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The acquisition strategy for ETIMS is to award on a firm-fixed price basis utilizing a competitive, best-value criteria as appropriate."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Manage and Support Technical Data Services"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "NGIT"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Wright-Patterson AFB, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.512"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-09"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "0.512"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "ETIMS Software Upgrade Enhancements Phase I CCA"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "ETIMS Software Upgrade Enhancements Phase I MS B (Sep 2015)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "675042"
+                    },
+                    "ProjectTitle": {
+                        "val": "Log Application Logisitics Integration (LALI)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "14.697"
+                        },
+                        "CurrentYear": {
+                            "val": "12.107"
+                        },
+                        "BudgetYearOne": {
+                            "val": "9.128"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "9.128"
+                        },
+                        "BudgetYearOneOCO": {
+                            "val": "0.000"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "9.334"
+                        },
+                        "BudgetYearThree": {
+                            "val": "9.527"
+                        },
+                        "BudgetYearFour": {
+                            "val": "9.738"
+                        },
+                        "BudgetYearFive": {
+                            "val": "9.948"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneOCO": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "Logistic, Installations and Mission Support - Enterprise View (LIMS-EV) implements Business Intelligence(BI) and Decision Support(DS) solutions and includes transitioning to a common Information Technology(IT) hosting environment and development of mobile infrastructure.  The AF must transform its logistics business processes and transition away from using numerous stovepipe systems and process flows that execute the same analysis and decision support tasks.  Eliminating process redundancies across the logistics enterprise will enable the AF to execute more efficient, cost-effective and integrated logistics in the long term. Leveraging emerging technology to enhance existing capabilities and developing a mobile solution satisfies current and future needs of the enterprise. LIMS-EV funding supports Business Intelligence (BI) and decision support development capability used by senior leaders and war fighters to access integrated information from multiple logistics and operational source systems. LIMS-EV funding will extend current BI capabilities to provide configurable alerting, predictive\/what-if analysis, mobile applications and further integration of support equipment, vehicle, supply, commodities and components (engines, landing gears, fuel, etc.) to increase weapons systems availability and Total Asset Visibility (TAV) and migrates the LIMS-EV functionality from the retiring Global Combat Support System-Air Force (GCSS-AF) infrastructure to a an approved Joint Information Environment\/Common Computing Environment.\n\nF-35 UIDES provides for Air Force development of a F-35 Autonomic Logistics Information System (ALIS) - User IT Data Exchange Service that supports current and future Information Exchange Requirement (IER) data transfer capability from the F-35 ALIS into data reports and configurable tables to receive, store and integrate\nF-35 operations, maintenance, training and financial data within existing Air Force enterprise views to support the growing fleet of AF F-35 aircraft. Funding supports\nmodification of an enhanced data sharing capability (ability to consume increased volume and variety of ALIS IER data) to support depot data configuration and\nintegration requirements. Activities also include studies and analysis to support both current program\/project planning and execution and future program\/project\nplanning."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Projects (FY2015)"
+                                    },
+                                    "Description": {
+                                        "val": "Logistics, Installations and Mission Support - Enterprise View (LIMS-EV) funding supports Business Intelligence (BI) development of a dashboard capability used by senior leaders to access integrated, one-version-of truth information from multiple source systems. LIMS-EV funding will extend current BI capabilities to provide configurable alerting, predictive analysis, what-if analysis and further integration of support equipment, vehicle, supply, commodities and components (engines, landing gears, fuel, etc) to increase weapons systems availability and Total Asset Visibility (TAV)."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "6.145"
+                                            },
+                                            "Text": {
+                                                "val": "Delivered the Business Intelligence and decision support capabilities listed below:\n\n\u2022 Depot Maintenance View 1.1 - source for current and historical depot maintenance information; data is available for aircraft\/equipment availability, maintenance, inventory, execution and supportability analysis.\n\u2022 Cost of Logistics 1.0 - (formerly known as Predictive Analysis) - automation of the Logistics Cost Model based on the Logistics Cost Reference Document.\n\u2022 Supply Chain Management 6.1 [AF Supply Chain Data Base] - tool built on BOBJ that delivers a wide variety of prebuilt and ad-hoc supply chain\nreports and analysis.\n\u2022 Equipment View 4.0 - provides an AF-wide total asset visibility tool for Support Equipment via aggregation of data from multiple data sources.\n\u2022 Engines View 2.2 - intuitive\/flexible analysis tool of near real time and historical War Reserve Engine, Base Stock Level, Engine Not Mission Capable Supply, Customer Wait Time and critical status, inventory, and supply reports.\n\u2022 Weapons System View 7.1 [F-35 Integration] - incorporate F-35 data from Autonomic Logistics Information System into Weapons System View and Fleet Asset Status."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "LIMS-EV projects are broken out in separate Major Thrusts starting in FY16 for additional visibility."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "LIMS-EV projects are broken out in separate Major Thrusts starting in FY16 for additional visibility."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Vehicle View (VV) 5.2"
+                                    },
+                                    "Description": {
+                                        "val": "Migrate data source to Defense Property Accountability System (DPAS)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.747"
+                                            },
+                                            "Text": {
+                                                "val": "Completed enhancement of LIMS-EV VV.  \n\u2022 Migrated the legacy data sources to the Defense Property Accountability System (DPAS) for the LIMS-EV Vehicle View (VV) application. \n\u2022 Updated VV application\u2019s reports and capabilities to be migrated to using data sourced from DPAS\n\u2022 Exposed DPAS data in Business Objects (BOBJ)\n\u2022 Implemented new search capability for VV\n\u2022 Added numeric Vehicle values to the Mission Capability Metrics\n\u2022 Added the ability to view the Mission Capability Report by day for the last 60 days due to the DPAS migration.\n\u2022 Modified the  Extract, Transfer, & Load (ETL) request change for Due-In screen to daily\n\u2022 Added the ability to view current Due-In data based on the most current data available\n\u2022 Developed a Transaction Request functionality based on the following six request types: Update Asset, Load Asset, Excess, Move (Rotate), Multi, 601 Add, and Ship\/Redistribution Order (RDO)"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.501"
+                                            },
+                                            "Text": {
+                                                "val": "Continue to migrate the legacy data sources from the Online Vehicle Information Management System (OLVIMS) to DPAS.   The applications, reports and capabilities will be modified\/migrated to using data sourced from DPAS. Included in the data migration is the ability to expose the DPAS data in BOBJ.   This release also includes the development new functionality; the Transaction Request Tool which includes the ability for fleet managers to update, load, and move assets, as well as complete resale requests."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Equipment View (EV) 4.6"
+                                    },
+                                    "Description": {
+                                        "val": "Implement critical metrics associated with the new Redistribution and Mass Additive functionality"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.747"
+                                            },
+                                            "Text": {
+                                                "val": "Enhanced Equipment View as follows\n\u2022 Modified the Program Objectives Memorandum (POM) View Commodity Grouping to resolve an existing error\n\u2022 Enhanced the Dashboard Views to Adjust Cost\n\u2022 Added Top 10 Grid Header\n\u2022 Added a new Export Dropdown Menu \n\u2022 Added the Fill Rate Cost Category and Subcategory Level\n\u2022 Modified the Export Results\n\u2022 Implemented Cascading Menus\n\u2022 Implemented Tool Tips\n\u2022 Added POM scenario Impact Statements for FY and scenario\n\u2022 Enhanced the capabilities Drop Down that Duplicates Vehicle View (SQL Error)\n\u2022 Modified the Help (?) Information\n\u2022 Added metrics:  Chief Financial Office (CFO) Non-Compliance, Support Equipment Variances, Support Equipment Rejects, Delinquent Equipment Inventory Accounts, Equipment Accountable Element (EAE) Visits, Use Code A (Mobility) Assets without a Unit Type Code (UTC)\n\u2022 Enhanced Leadership Tab Retail Filter Allowance Source Code\n\u2022 Enhanced Leadership Filters selection not carrying over to Equipment Management\n\u2022 Modified POM Tab Baseline and Completed WRM Data Alignment"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "1.501"
+                                            },
+                                            "Text": {
+                                                "val": "Continue to implement the remaining metrics not included in release 4.4 \u2013 primarily associated with the new Redistribution and Mass Additive functionality.  This release also modifies\/enhances reports from Release 4.0 (Redistribution and Mass Additive functionality). Metrics include:  \n-- Provides the ability to report Command Eqiupment Management Office (CEMO), 404 Supply Chain Management Squadron (SCMS), and Fill Rate Metrics\n-- Applies data from Mal-Positioned Assets, Repair Execution, Retention Additives & Disposals and Replacement Additives actions as well as user-entered input to calculate \/ present the defined metrics"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Repair Network View 4.0"
+                                    },
+                                    "Description": {
+                                        "val": "Develop a leadership view of Repair Network Integration (RNI) Metrics"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.236"
+                                            },
+                                            "Text": {
+                                                "val": "Develop leadership view of Repair Network Integration (RNI) metrics.  This release will provide a permanent Capability and Capacity (CAP2) Information Technology (IT) Tool and simulation capability to assist Repair Network managers in making resource allocation decisions.  Some examples include: \n-- Support equipment prices for each equipment asset  pulled from Air Force Equipment Management System (AFEMS) \n-- Quality Deficiency Report (QDR) data pulled from each node from Joint Deficiency Reporting System (JDRS)  \n-- Depot level production from IMPRESA (MROi) or Job Order Production Master System (JOPMS) G004L \n-- Contract data reporting National Stock Numbers (NSNs) repaired at contractors from Contracting Information Database System (CIDS\/J018) or Commercial Asset Visibility Air Force (CAV AF)"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Enterprise Mobile Viewer 1.0"
+                                    },
+                                    "Description": {
+                                        "val": "Develop a capability to support the use of mobile device technology, with the first phase focusing on integrating four LIMS-EV Vehicle View widgets"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.236"
+                                            },
+                                            "Text": {
+                                                "val": "Develop capability to support the use of mobile device technology, with the first phase focusing on integrating four LIMS-EV Vehicle View widgets.   Release enhances some of the existing capability, such as modifying the Prioritization Buy capability to support Item Manager functionality."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Weapons System Enterprise Review (WSER)"
+                                    },
+                                    "Description": {
+                                        "val": "Automate the AF Chief of Staff briefing (9 charts per WSER weapon system)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.633"
+                                            },
+                                            "Text": {
+                                                "val": "Automate the AF Chief of Staff briefing (9 charts per WSER weapon system) that is delivered quarterly by AFLCMC\/CC to AFMC\/CC, MAJCOMs, and other key stakeholders.   WSER content includes Performance Execution (availability, engines, and aircraft delivery quality); Modernization Overall (cost, schedule, performance, and funding); Product Support (Logistics Health Assessment (LHA) and Leading Health Indicator (LHI) (engines)); Predictive Health (safety, service life, mission effectiveness, and weapon system sustainment (WSS) risk); and Operating Cost."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Enterprise Mobile Viewer 1.1"
+                                    },
+                                    "Description": {
+                                        "val": "Develop a capability to support the use of mobile device technology by four LIMS-EV Vehicle View widgets"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.432"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.432"
+                                            },
+                                            "Text": {
+                                                "val": "Develop the  mobile device technology for four LIMS-EV Vehicle View widgets to be accessed via USA\/DoD-approved mobile devices and security."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Engine Health Management and Data Repository Center (EHM-DRC)"
+                                    },
+                                    "Description": {
+                                        "val": "Migration of Engine Health Management and Data Repository Center into LIMS-EV"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.757"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.757"
+                                            },
+                                            "Text": {
+                                                "val": "Migrate an Engine Health Management Data Repository Center (EHM-DRC) to GCSS-AF infrastructure and leverage GCSS-AF Enterprise Data Warehouse for data storage and interfaces as well as decision support capabilities to expose and analyze expanded engine health data to improve the reliability and performance."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Repair Network View 5.0"
+                                    },
+                                    "Description": {
+                                        "val": "Enhance Repair Network View (RNV) capability"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            },
+                                            "Text": {
+                                                "val": "Enhance RNV by modifying existing reference tables, creating additional repair nodes, adding a frequency column to the \u201cdata source\u201d area of view, mapping to different reference tables, and correcting issues with the Extract, Transform, and Load procedures."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Supply Chain Management 7.0"
+                                    },
+                                    "Description": {
+                                        "val": "Enhance Supply Chain Management (SCM) View"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            },
+                                            "Text": {
+                                                "val": "Develop enhanced reports, queries, and views to include reporting and ability to distinguish USAF backorders; add Production Number (PDN) search in Edit box; ability to add incremental\/auto fill PDN (4-digit national item identifier number (NIIN) query) drop down in Default Analysis;  create PDN Analysis Report; provide national stock number (NSN) entry conversion to accommodate hand-typed NSN."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Support Equipment Enterprise View"
+                                    },
+                                    "Description": {
+                                        "val": "Develop Support Equipment Enterprise View"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.757"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.757"
+                                            },
+                                            "Text": {
+                                                "val": "Develop a real time fleet summary of Support Equipment assets (ex. fully mission capable, partially mission capable, not mission capable).  Emulate the same metrics that are used for LIMS-EV Fleet Asset Status and Weapon System View.  Support Equipment (SE) community will be able to track status and location of SE assets (Full Mission Capable (FMC), Not Mission Capable (NMC), Partially Mission Capable (PMC)\u2026) by Mission Designator (MD), Mission Designator Series (MDS), and Equipment identifier (ID).  Capability also Enables a priority buy capability \u2013 similar to LIMS-EV Vehicle View - better calculations for predicting asset service cliffs."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Cost of Logistics 2.0"
+                                    },
+                                    "Description": {
+                                        "val": "Enhance Cost of Logistics capability"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            },
+                                            "Text": {
+                                                "val": "Address change request and deficiency reports in the Cost of Logistics capability, integrate variance tool, and update the existing dashboard.  Updates include providing the user the ability to export reports from the view (instead of having to export from BOBJ), Corrects the existing issue with the export feature, fixes the tool tips, modifies the \u201cData Source\u201d area on the screen to include a \u201cfrequency column\u201d, renames some views, and corrects the \u201cBase\u201d filter functionality."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Vehicle View 6.0"
+                                    },
+                                    "Description": {
+                                        "val": "Enhance Vehicle View capability"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.879"
+                                            },
+                                            "Text": {
+                                                "val": "Enable Vehicle Support Chain Operations Squadron (VSCOS) Installation Support Centralization (ISC) Initiative.  ISC is a CSAF directed action to centralize management of the AF\u2019s vehicle fleet at Air Force Elements (AFELM) VSCOS.  The ISC initiative centralizes 55 processes from the MAJCOM\u2019s to one central source within VSCOS.  Some of the enhancements include; Alerts and Event Management (AEM) Integration, enables same look and feel for VV that exists in latest LIMS-EV capabilities, applies hover overs on fields across the application, enables query tracking, enhances Item Manager functions, and provides a Depot Maintenance planning model."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "LIMS-EV Enterprise Propulsion Business Intelligence Tool"
+                                    },
+                                    "Description": {
+                                        "val": "Develop Enterprise Propulsion Business Intelligence Tool in LIMS-EV"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.666"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.666"
+                                            },
+                                            "Text": {
+                                                "val": "Develop Enterprise Propulsion BI Tool to enable engine managers with the ability to  forecast engine and component removals, identify business process gaps, consolidate existing applications\/tools, and provide metrics and analysis for existing or new engines based on Thrust, Weight, Fuel, Cost, etc.  Migrate manual products generated by the actuary's office."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "F-35 ALIS-UIDES Integration"
+                                    },
+                                    "Description": {
+                                        "val": "Funding for F-35 UIDES will continue Air Force development of a F-35 Autonomic Logistics Information System (ALIS) - User IT Data Exchange Service that supports current and future Information Exchange Requirement (IER) data transfer capability from the F-35 ALIS into data reports and configurable tables to receive, store and integrate F-35 operations, maintenance, training and financial data within existing Air Force enterprise views to support the growing fleet of Air Force F-35 aircraft.  Funding will also support development of an enhanced data sharing capability (ability to consume increased volume and variety of ALIS IER data) to support depot data configuration and integration requirements."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.058"
+                                            },
+                                            "Text": {
+                                                "val": "Continued Air Force development of a F-35 Autonomic Logistics Information\nSystem (ALIS) - User IT Data Exchange Service that supports current and\nfuture Information Exchange Requirement (IER) data transfer capability from\nthe F-35 ALIS into data reports and configurable tables to receive, store\nand integrate F-35 operations, maintenance, training and financial data\nwithin existing Air Force enterprise views to support the growing fleet of\nAir Force F-35 aircraft. Funding will also support development of an\nenhanced data sharing capability (ability to consume increased volume and\nvariety of ALIS IER data) to support depot data configuration and\nintegration requirements."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "F-35 UIDES effort realigned in FY16-out under PE 0604800F, F-35 Lightning II Joint Strike Fighter."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "LIMS-EV will utilize services provided by Global Combat Support System Air Force (GCSS-AF) Integration Framework.  GCSS-AF Data Services Program Management Office (PMO), as LIMS-EV Program Manager, is responsible to competitively acquire additional LIMS-EV capabilities using a variety of fixed price, labor hour, time and material, and cost plus contracts.  \n\nLIMS-EV capabilities utilize services provided by Global Combat Support System Air Force (GCSS-AF) Integration Framework.  GCSS-AF Data Services PMO, as LIMS-EV Program Manager, manages LIMS-EV development projects following standard software development release process.\n\nLIMS-EV development projects will be awarded as task orders using GCSS AF 2 contract with GCSS AF Data Services Program Management Office, Wright-Patterson Air Force Base, Ohio."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Depot Maintenance View 1.1; Cost of Logistics 1.0; Supply Chain Management 6.1 [AF Supply Chain Data Base]; Engines View 2.2;"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "5.621"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Vehicle View 5.2"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.327"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.227"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "1901-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineer Contractor Support (Product Development) Equipment View 4.6"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.327"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.227"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Repair Network View 4.0"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.599"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Enterprise Mobile Viewer 1.0"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.599"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Weapons System Enterprise Review"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.155"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Enterprise Mobile Viewer 1.1"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.432"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.432"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Engine Health Management and Data Repository Center"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.757"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.757"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Repair Network View 5.0"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) SCM View 7.0"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) SE-Enterprise View"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.757"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.757"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Cost of Logicstics 2.0"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Vehicle View 6.0"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.879"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Enterprise Propulsion BI Tool"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.666"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.666"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-02"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Autonomic Logistic Information System (ALIS)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Lockheed Martin"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Dayton, OH"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "4.422"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Program Management Administration (PMA) LALI Program Management Office (PMO) Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "DSD\/Deloitte"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Arlington, VA"
+                                                },
+                                                "Cost": {
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.000"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-03"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.300"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneOCO": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Vehicle View 5.2"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Equipment View 4.6"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Repair Network View 4.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Enterprise Mobile Viewer 1.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Weapon System Enterprise Review"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Engine Health Management and Data Repository Center"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Enterprise Mobile Viewer 1.1"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Repair Network View 5.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Supply Chain Management View 7.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Support Equipment Enterprise View"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Cost of Logistics 2.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Vehicle View 6.0"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV Enterprise Propulsion Business Intelligence Tool"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2017"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV 2.0 MS C (Jun 2018)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "LIMS-EV 2.0 FOC (Oct 2018)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

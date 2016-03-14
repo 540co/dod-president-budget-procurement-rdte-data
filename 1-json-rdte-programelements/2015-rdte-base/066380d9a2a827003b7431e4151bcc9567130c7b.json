@@ -1,0 +1,549 @@
+{
+    "id": "066380d9a2a827003b7431e4151bcc9567130c7b",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_ARMY_BA2_RDTE_JustificationBook_Army_PB_2015.zzz_unzipped_RDTE_JustificationBook_Army_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "ProgramElementNumber": {
+            "val": "0602308A"
+        },
+        "ProgramElementTitle": {
+            "val": "Advanced Concepts and Simulation"
+        },
+        "R1LineNumber": {
+            "val": "12"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "2"
+        },
+        "BudgetActivityTitle": {
+            "val": "Applied Research"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "21.075"
+            },
+            "CurrentYear": {
+                "val": "24.051"
+            },
+            "BudgetYearOne": {
+                "val": "27.435"
+            },
+            "BudgetYearOneBase": {
+                "val": "27.435"
+            },
+            "BudgetYearTwo": {
+                "val": "28.059"
+            },
+            "BudgetYearThree": {
+                "val": "28.486"
+            },
+            "BudgetYearFour": {
+                "val": "30.138"
+            },
+            "BudgetYearFive": {
+                "val": "31.564"
+            }
+        },
+        "ProgramElementNote": {
+            "val": "FY 13 decreases attributed to Congressional General Reductions (-35 thousand); SBIR\/STTR transfers (-545 thousand); and Sequestration reductions (-1.852 million)\nFY15 increases for Soldier system architecture and autonomy research."
+        },
+        "ProgramElementMissionDescription": {
+            "val": "This program element (PE) investigates and designs enabling technologies to create effective training capabilities for the Warfighter and  supports the underpinning technologies and understanding to establish architecture standards and interfaces necessary for realizing the Army vision of creating a realistic synthetic \"electronic battlefield\" environment for use across the spectrum of doctrine, organization, training, leader development, materiel, personnel, and facilities (DOTLM-PF).  Project C90 focuses on advancing component technologies required for real time interactive linking within and among constructive, virtual, and live simulation and training by refining technologies for advanced distributed interactive simulation.  Project D02  further develops concepts for immersive training and learning environments with the Institute for Creative Technologies (ICT) at the University of Southern California, Los Angeles, California. \n\nWork in this PE complements and is fully coordinated with PE 0601104A (University and Industry Research Centers), PE 0602785A (Manpower\/Personnel\/Training Technology), PE 0602786A (Clothing & Equipment Technology), PE 0602787A (Medical Technology), PE 0603001A (Future Warrior Technology Integration), PE 0603007A (Manpower, Personnel and Training Advance Technology), PE 0603015A (Next Generation Training & Simulation Systems) and PE 0603710A (Night Vision Advanced Technology).   \n\nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering science and technology priority focus areas and the Army Modernization Strategy. \n \nWork in this PE is performed by the U.S. Army Research Laboratory, Human Research and Engineering Directorate, Simulation and Training Technology Center (STTC), Orlando, FL."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "23.507"
+                },
+                "CurrentYear": {
+                    "val": "24.063"
+                },
+                "BudgetYearOne": {
+                    "val": "24.237"
+                },
+                "BudgetYearOneBase": {
+                    "val": "24.237"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "21.075"
+                },
+                "CurrentYear": {
+                    "val": "24.051"
+                },
+                "BudgetYearOne": {
+                    "val": "27.435"
+                },
+                "BudgetYearOneBase": {
+                    "val": "27.435"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-2.432"
+                },
+                "CurrentYear": {
+                    "val": "-0.012"
+                },
+                "BudgetYearOne": {
+                    "val": "3.198"
+                },
+                "BudgetYearOneBase": {
+                    "val": "3.198"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "-0.035"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.012"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "-0.545"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "3.198"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "3.198"
+                                }
+                            }
+                        },
+                        {
+                            "Title": {
+                                "val": "Other Adjustments 1"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-1.852"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "C90"
+                    },
+                    "ProjectTitle": {
+                        "val": "Advanced Distributed Simulation"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "15.373"
+                        },
+                        "CurrentYear": {
+                            "val": "17.557"
+                        },
+                        "BudgetYearOne": {
+                            "val": "20.942"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "20.942"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "21.187"
+                        },
+                        "BudgetYearThree": {
+                            "val": "21.334"
+                        },
+                        "BudgetYearFour": {
+                            "val": "24.670"
+                        },
+                        "BudgetYearFive": {
+                            "val": "24.991"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "Not applicable for this item."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "This project investigates and designs enabling technologies for advancing distributed simulation and training (live, virtual and constructive) environments. This includes networking of models representing complex human behavior, complex data interchange between simulations, synthetic natural environments, medical training simulations, ground platform training, adaptive tutoring for individuals and teams, and collaborative training.  The project researches the ability to create a virtual representation of combined arms environments, with the Warfighter-in-the-loop that constructive (event driven) simulations cannot simulate.  \n\nEfforts in this program element support the Army science and technology Soldier portfolio.\n    \nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering priority focus areas and the Army Modernization Strategy.\n \nWork in this project is performed by the U.S. Army Research Laboratory (ARL), Human Research and Engineering Directorate, Simulation and Training Technology Center (STTC), Orlando, FL."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Live, Virtual, Constructive (LVC) Simulations"
+                                    },
+                                    "Description": {
+                                        "val": "This effort develops and investigates Live, Virtual and Constructive (LVC) training technologies (tools and methods) to inform an interactive, seamless training environment.  Live training refers to personnel and systems performing an exercise mission on real terrain; virtual training refers to personnel using simulators; and constructive training refers to computer based models representing real world behaviors that introduce a wider control of virtual forces.  Developed methods and technologies are transitioned to PE 0603015A\/Project S29."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.908"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Investigated component level technologies to support advanced dynamic synthetic natural environments to include: advanced handheld environments, underground structures and cross domain interactions;  matured rapid generation, scaling of appearance and behaviors for realistic, culturally-specific virtual humans able to interact with other virtual humans and trainees within local\/distributed simulations and conduct experiments on the next generation collaborative training environments."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.708"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Explore technologies and methods to provide Soldiers with an adaptive learning environment, tailored to the individual Soldier; conduct assessments of a prototype training development environment that will deliver training content to various software environments on different hardware platforms, including mobile devices;  conduct assessments on common processes and technologies for LVC to ease the difficulty and expense of using LVC distributed simulation for Joint and Coalition Warfare training; and design components in laboratory for real-time, physics-based terrain that replicates the operational environment and is distributed to support collective training for use in mobile devices and embedded systems."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "8.191"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "8.191"
+                                            },
+                                            "Text": {
+                                                "val": "Will develop the architecture for the Soldier-Centered Army Learning Environment (SCALE); investigate the next generation simulation architectures and environments for the integration and execution of LVC simulations to be employed by joint and coalition warfare forces during collective training and mission rehearsal exercises; complete and implement component designs of natural and man-made synthetic terrain effects such as  craters, building rubble, etc.; and assess the training effectiveness of the attained levels of realism and immersion.  The SCALE architecture will integrate mobile and social media technologies to enhance the training effectiveness of individual Soldiers.  The architecture development will be consistent with the Army Learning Model (ALM)."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Modeling and Simulation Training Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort investigates future simulation and training technologies across a variety of domains, requirements, and applications.  It will include new technologies that can be applied to military domains such as live and medical training.  Included in this effort will be the development of new medical training simulations to train medical personnel across all levels of care and the development of live training technology that can be applied across all military levels and training environments.  The effort will address the training effectiveness of the simulation and training technologies being researched and how they will contribute to the overall effectiveness of new training capabilities."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.981"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Assessed weapon orientation measurement software and hardware for use in future unmanned system demonstrations; conducted applied research and assess realism of live tissue replacement technologies, as well as three dimensional (3-D) visualization and enhanced representations of virtual humans to include more robust physiological and anatomical representations for future medical training."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "4.512"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Research enabling technologies for medical training combining appropriate fidelity, physiology, movement, and tissue (silicon vs. simulated biological structures), integrated and dissipating smells, sensors, varying pathologies, and fluids using an open source, platform agnostic methodology; and design hybrid position-navigation sensor to simulate electronic bullet to replace laser based system for live fire training."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "6.532"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "6.532"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue next generation Multiple Integrated Laser Engagement System (MILES) research in support of a live training program of record for home station and combat training center supporting Force-on-Force (FOF) training for Brigade Combat Teams (BCTs), battalions, companies, platoons, squads, crews and individuals; and research, measure, and characterize real human and simulated human tissue to derive performance requirements for future simulated tissue; research embedded and external sensors to autonomously measure student performance inside and outside of the body; and investigate advanced 3-D visualization technologies and measure the impact on anatomical cognition for medical training."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Collaborative and Immersive Environment Technologies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort investigates adaptive tutoring and immersive learning environments with social simulations to conduct kinetic and non-kinetic training for individuals and teams."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "5.484"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Conducted assessments to support trainee modeling, classification of trainee state and machine-based selection of instructional strategies; investigated methods for a computer-based intelligent tutor capable of assessing the cognitive state of trainees, and adapting instruction to optimize individual and team performance across a variety of dismounted Soldier training tasks; and developed wrap-around immersive environment leveraging commercial technology; and conducted world-wide challenge on emerging virtual environment technologies and evaluated critical elements necessary for specific types of virtual training."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "6.337"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct research to develop best practices for authoring computer-based tutoring systems (CBTS), managing instruction provided by CBTS, and assessed learning gains (e.g., knowledge and skill acquisition, retention and accelerated learning); research learner modeling and instructional strategy\/tactics selection by autonomous CBTS to reduce the cost to develop, deliver, and assess self-regulated training\/tutoring for individuals and teams required under the ALM for 2015; and capture research results in the Generalized Intelligent Framework for Tutoring (GIFT) to promote standards and reuse; and conduct efficacy studies on virtual world and game based learning techniques for a blended learning approach to kinetic and non-kinetic training as well as human-unmanned systems teaming."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "5.219"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "5.219"
+                                            },
+                                            "Text": {
+                                                "val": "Will conduct research to develop best practices for automatically authoring, assessing, managing instruction, and deploying CBTS; design and develop domain models (e.g., content, human interaction, and assessment standards); determine effectiveness for CBTS technologies; develop techniques and identify technologies that will lower the skills required to author CBTS (per ALM); continue to incorporate research results in GIFT tutoring framework to enhance overall training effectiveness; conduct follow-on efficacy studies on virtual world and game-based learning techniques for a blended learning approach to conduct kinetic and non-kinetic training."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Soldier System Architecture"
+                                    },
+                                    "Description": {
+                                        "val": "Research and develop a simulation architecture to represent the Soldier as a System considering physiological effects, cognitive load, and Soldier culture in the context of Soldier-materiel interactions supporting training effectiveness, experimentation, and materiel development.  The architecture will advance computational strategies to enable the integration and interaction of new and existing Soldier models into a seamless Soldier as a System simulation. This effort is coordinated with and complements PE 0602785\/project 790, PE 0602786\/project H98, PE 0602787\/project 869, PE 0603001\/J50, and PE 0603710\/project K70."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.500"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.500"
+                                            },
+                                            "Text": {
+                                                "val": "Will research and design a simulation architecture that supports the development of a Soldier as a System simulation; develop novel simulation solutions to link and synchronize models of human and system components; and establish groundwork for implementing echelons of metrics to create trade space data for analyzing factors to include Soldier individual and team performance, system effectiveness, training requirements, and cost."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Future Autonomy \u2013 Optimizing Training Strategies"
+                                    },
+                                    "Description": {
+                                        "val": "This effort will research and develop simulation architectures, tools, and models that can represent current and future semi and fully autonomous systems.  The architecture, tools and models will enable the evaluation of the training impacts (i.e., cognitive, physiological, and team coordination) of future autonomous systems and technologies on individual, crew, and unit tasks.  The training demands of systems that are increasingly complex, intelligent, and self-adaptive far exceed those of legacy systems that require training of primarily procedural tasks.  This is compounded by parallel increases in autonomy and responsibility at lower echelons."
+                                    },
+                                    "PlannedProgram": {
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.500"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.500"
+                                            },
+                                            "Text": {
+                                                "val": "Will research and develop simulation architectures that can represent current and future autonomous systems.  The architectures will incorporate current autonomous system attributes that will enable the evaluation of their effects on individual and unit training."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                },
+                {
+                    "ProjectNumber": {
+                        "val": "D02"
+                    },
+                    "ProjectTitle": {
+                        "val": "Modeling & Simulation For Training And Design"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "5.702"
+                        },
+                        "CurrentYear": {
+                            "val": "6.494"
+                        },
+                        "BudgetYearOne": {
+                            "val": "6.493"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "6.493"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "6.872"
+                        },
+                        "BudgetYearThree": {
+                            "val": "7.152"
+                        },
+                        "BudgetYearFour": {
+                            "val": "5.468"
+                        },
+                        "BudgetYearFive": {
+                            "val": "6.573"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectNote": {
+                            "val": "Not applicable for this item."
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "This effort transitions basic research into applied research.  This project investigates and designs training applications to enable the Army to train any time and any place.  Efforts include designing virtual humans that embody natural language, speech recognition in noisy environments, gesture, gaze, and conversational speech.  Techniques and methods are assessed for integrating different sensory cues into virtual environments that result in enhanced training and leader development. The project leverages the capabilities of industry and the research and development community through the synthesis of creativity and technology, including work at the Army Research Institute and the Army Research Laboratory. \n\nEfforts in this program element support the Army science and technology Soldier portfolio.\n\nDeveloped technologies and techniques are transitioned for maturation and demonstration to PE 0603015A\/project S28.     \n \nThe cited work is consistent with the Assistant Secretary of Defense for Research and Engineering priority focus areas and the Army Modernization Strategy. \n \nWork in this project is performed by the U.S. Army Research Laboratory, Human Research and Engineering Directorate, Simulation and Training Technology Center (STTC), Orlando, FL."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Immersive Technology Environments"
+                                    },
+                                    "Description": {
+                                        "val": "Conduct applied research that enables responsive and reconfigurable environments that immerse human senses such as sight, sound, and touch in mixed reality environments to include physical elements providing touch and feel to simulate objects such as obstacles and walls."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.846"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Collaborated with the U.S. Army Medical Department (AMEDD) Center and School at Ft. Sam Houston to investigate potential application of developed virtual worlds to support the therapy of veterans and active duty Soldiers Post-Traumatic Stress Disorder (PTSD)."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.244"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Conduct studies to better understand how humans both perceive and interact with virtual environments; develop technologies for improved, low-cost immersive displays to reduce cost of training equipment and reduce the physical footprint needed for training facilities; and enhance small team training, providing improved small unit leadership and capabilities using virtual environments."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.242"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.242"
+                                            },
+                                            "Text": {
+                                                "val": "Will research techniques for human spatial perception within virtual environment; investigate the effect of display configurations on social responses to virtual humans to increase immersive effects; and investigate outfitting displays with audio transducers and methodologies using psycho-acoustical effects to increase the ability to localize to increase immersion and effectiveness during interactions with virtual humans."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Immersive Technology Techniques"
+                                    },
+                                    "Description": {
+                                        "val": "This effort develops tools, techniques and technologies for improving the immersion of human senses within simulation environments and therefore creating enhanced realism."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.856"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Created training toolkits based on assimilation of actual experiences available for Army use; improved data structures and methods (algorithms and software) for integration of scanned facial data into the Virtual Human architecture for more human-like representations and design tools for annotating transcripts with semantic and speech information to assist future social cultural training technologies."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.250"
+                                            },
+                                            "Articles": {
+                                                "val": "0"
+                                            },
+                                            "Text": {
+                                                "val": "Determine how computer agents may be used to track a Soldier's career learning experiences and be used to provide training feedback and career guidance; finalize the development of a tool that automatically detects poorly synthesized segments of speech for the purpose of improving synthesized speech and dialogue for virtual humans; and finalize and implement model that automatically adapts the dialogue intent recognition to each user."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.251"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.251"
+                                            },
+                                            "Text": {
+                                                "val": "Will research and evaluate situational authoring tools designed to enable non-technical users to create content for inclusion into intelligent tutoring systems; investigate new animation and natural language techniques for the development of web-based virtual humans to support on-line immersive learning environments; and explore techniques to rapidly recreate training scenario content."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

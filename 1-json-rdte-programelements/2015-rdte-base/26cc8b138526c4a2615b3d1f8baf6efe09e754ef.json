@@ -1,0 +1,2409 @@
+{
+    "id": "26cc8b138526c4a2615b3d1f8baf6efe09e754ef",
+    "meta": {
+        "filename": "dod-2015_RDTE_2015_AIRFORCE_V3A_RDTE_JustificationBook_Air_Force_PB_2015.zzz_unzipped_RDTE_JustificationBook_Air_Force_PB_2015.xml",
+        "budget_year": "2015",
+        "budget_cycle": "PB",
+        "submission_date": "2014-03",
+        "service_agency_name": "Air Force",
+        "appropriation_code": "3600",
+        "appropriation_name": "Research, Development, Test & Evaluation, Air Force"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@format": "R2Long",
+        "ProgramElementNumber": {
+            "val": "0205219F"
+        },
+        "ProgramElementTitle": {
+            "val": "MQ-9 UAV"
+        },
+        "R1LineNumber": {
+            "val": "133"
+        },
+        "MdapCode": {
+            "val": "424"
+        },
+        "BudgetYear": {
+            "val": "2015"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2014-03"
+        },
+        "ServiceAgencyName": {
+            "val": "Air Force"
+        },
+        "AppropriationCode": {
+            "val": "3600"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Air Force"
+        },
+        "BudgetActivityNumber": {
+            "val": "7"
+        },
+        "BudgetActivityTitle": {
+            "val": "Operational Systems Development"
+        },
+        "ProgramElementFunding": {
+            "AllPriorYears": {
+                "val": "582.946"
+            },
+            "PriorYear": {
+                "val": "130.882"
+            },
+            "CurrentYear": {
+                "val": "107.338"
+            },
+            "BudgetYearOne": {
+                "val": "170.396"
+            },
+            "BudgetYearOneBase": {
+                "val": "170.396"
+            },
+            "BudgetYearTwo": {
+                "val": "124.260"
+            },
+            "BudgetYearThree": {
+                "val": "139.996"
+            },
+            "BudgetYearFour": {
+                "val": "175.539"
+            },
+            "BudgetYearFive": {
+                "val": "145.746"
+            },
+            "CostToComplete": {
+                "val": "76.197"
+            },
+            "TotalCost": {
+                "val": "1653.300"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "The basic MQ-9 Reaper system consists of the aircraft, sensors, a ground control station (GCS), communications equipment, weapon kits, support equipment, simulator and training devices, Readiness Spares Packages (RSP), technical data\/training, and personnel required to operate, maintain, and sustain the system.  The system is designed to be modular and open-ended.  Mission-specific equipment is employed in a 'plug-and-play' mission kit concept allowing specific aircraft and control station configurations to be tailored to fit mission needs.  \n\nThe MQ-9 Reaper aircraft is a single-engine, turbo-prop Remotely Piloted Aircraft (RPA) designed to operate over-the-horizon at medium-to-high altitude for long endurance sorties.  The aircraft is designed primarily to prosecute critical, emerging Time-Sensitive-Targets (TSTs) as a radar, Electro-optical\/Infrared (EO\/IR), and laser designator-based attack asset with on-board hard-kill capability (hunter-killer).  It also performs Intelligence, Surveillance, Reconnaissance and Target Acquisition (ISR TA).  In the hunter-killer role, the aircraft employs fused multi-spectral sensors to find, fix, and track ground targets using Automatic Target Cueing (ATC), high definition EO\/IR, metric sensor and other capabilities, and assesses post-strike results.  The MQ-9 system is continuing to develop field capability through incremental upgrades.  Future capabilities development activity includes airframe and airframe system improvements such as: increasing the maximum gross takeoff weight capability of the aircraft from 10,500 to 11,700lbs; increasing the operational range and endurance of the baseline MQ-9 aircraft (adding external fuel tanks and\/or airframe modifications such as wing extensions); incorporating an anti-ice\/de-ice capability to transit light icing conditions (will involve wing\/tail modifications as well as turbine inlet heating); propulsion system improvements; enhancing MQ-9 systems to include Automatic Takeoff and Landing Capability (ATLC); integrated redundant avionics; modifying the system to include provisions for a Foreign Military Sales (FMS) exportable version of the weapon system; Predator Primary Data Link (PPDL) communication system upgrades and communications upgrades to include data link encryption, IP networking, and Beyond Line-of-Sight comm upgrades; navigation system upgrades; electrical system upgrades; incorporation of Elevated Temperature Wet (ETW) materials; secure voice and data communications, including SATCOM upgrades; sensor\/stores management computer improvement; MIL-STD-1760 advanced weapons data bus; Universal Armament and Sensor Interface and Miniature Munitions\/Store Interface; advanced sensor and weapon payloads; improved human-machine interface (HMI); integrating precision weapons (e.g. AGM-114 Hellfire missile, GBU-12\/38\/49 guided bombs, and Small Diameter Bomb (SDB) variants); hardware and software upgrades to the ground control station for MQ-9 operations; completing airworthiness certification; weapon system certification and accreditation; and producing applicable training devices that emulate weapon system functionality and capabilities.  The MQ-9 program will continue to support other payload and capability development activities funded in other program elements (e.g. SIGINT, communications, Wide Area Motion Imagery (WAMI) leveraging Gorgon Stare Quick Reaction Capability, advanced Counter-Improvised Explosive Device (C-IED), Dismount Detection Radar (DDR), missile defense, hyperspectral, and other sensors and weapons) and address reliability, maintainability, sustainability, and safety issues.  Activities also include trade studies, analyses, preliminary systems engineering, system and subsystem level testing in accordance with DoD and military standards, and specification development in support of both current program planning and execution, and studies supporting analysis and investment in future MQ-9 program planning.\n   \nThe GCS, common with the MQ-1 Predator, functions as the aircraft cockpit and can control the aircraft either within Line-of-Sight (LOS) or Beyond Line-of-Sight (BLOS) via a combination of satellite relay and terrestrial communications.  The GCS is either mobile to support forward operating locations or fixed at a facility to support Remote Split Operations (RSO).  The GCS has the capability to perform mission planning; provides a means for manual control; allows personnel to launch, recover, and monitor aircraft, payloads, and system communications status; incorporates secure data links to send aircraft and payload commands and receive system telemetry and payload data; monitors threats to the aircraft; displays the common operational picture; and provides support functions.  Launch and Recovery GCS (LRGCS) allows for servicing, systems checks, maintenance, launch and recovery of aircraft under LOS control for hand-off to a mobile or fixed facility GCS, and conducting operations within line-of-sight range of the LRGCS.  GCS upgrades will be developed and fielded in coordination with improvements to MQ-9 system capabilities and in response to evolving operational and information assurance\/certification and accreditation requirements.  Key efforts include GCS upgrades that add new LINUX processors, high definition monitors, ergonomic improvements, improved human-machine interfaces, open systems architecture, and improved crew habitability. In addition, the GCS upgrade effort also includes development\/integration of the Unmanned Aircraft Systems (UAS) Command and Control (C2) Initiative (UCI) government-owned standard to enable improved capabilities for situational awareness and multi-mission management monitoring and oversight in the GCS. This project will also increase interoperability among developed systems by developing common standard and tools.\n\nThis program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "147.971"
+                },
+                "CurrentYear": {
+                    "val": "128.328"
+                },
+                "BudgetYearOne": {
+                    "val": "194.561"
+                },
+                "BudgetYearOneBase": {
+                    "val": "194.561"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "130.882"
+                },
+                "CurrentYear": {
+                    "val": "107.338"
+                },
+                "BudgetYearOne": {
+                    "val": "170.396"
+                },
+                "BudgetYearOneBase": {
+                    "val": "170.396"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "-17.089"
+                },
+                "CurrentYear": {
+                    "val": "-20.990"
+                },
+                "BudgetYearOne": {
+                    "val": "-24.165"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-24.165"
+                }
+            },
+            "AdjustmentDetails": {
+                "CongressionalGeneralReductions": {
+                    "PriorYear": {
+                        "val": "-0.195"
+                    },
+                    "CurrentYear": {
+                        "val": "-0.320"
+                    }
+                },
+                "CongressionalDirectedReductions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "-20.670"
+                    }
+                },
+                "CongressionalRescissions": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalAdds": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "CongressionalDirectedTransfers": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "-5.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "SBIRSTTRTransfer": {
+                    "PriorYear": {
+                        "val": "0.000"
+                    },
+                    "CurrentYear": {
+                        "val": "0.000"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Other Adjustments"
+                            },
+                            "Funding": {
+                                "PriorYear": {
+                                    "val": "-11.894"
+                                },
+                                "CurrentYear": {
+                                    "val": "0.000"
+                                },
+                                "BudgetYearOne": {
+                                    "val": "-24.165"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-24.165"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "SummaryExplanation": {
+                "val": "- Decrease in FY 2013 is due to Sequestration and reprogramming due to higher Air Force priorites.\n- Decrease in FY 2014 was due to forward financing.\n- Reduction of $24.165M in FY15 due to higher AF priorities."
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "675246"
+                    },
+                    "ProjectTitle": {
+                        "val": "MQ-9 Development and Fielding"
+                    },
+                    "ProjectFunding": {
+                        "AllPriorYears": {
+                            "val": "582.946"
+                        },
+                        "PriorYear": {
+                            "val": "130.882"
+                        },
+                        "CurrentYear": {
+                            "val": "107.338"
+                        },
+                        "BudgetYearOne": {
+                            "val": "170.396"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "170.396"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "124.260"
+                        },
+                        "BudgetYearThree": {
+                            "val": "139.996"
+                        },
+                        "BudgetYearFour": {
+                            "val": "175.539"
+                        },
+                        "BudgetYearFive": {
+                            "val": "145.746"
+                        },
+                        "CostToComplete": {
+                            "val": "76.197"
+                        },
+                        "TotalCost": {
+                            "val": "1653.300"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectArticles": {
+                            "AllPriorYears": {
+                                "val": "3"
+                            },
+                            "PriorYear": {
+                                "val": "0"
+                            },
+                            "CurrentYear": {
+                                "val": "0"
+                            },
+                            "BudgetYearOne": {
+                                "val": "0"
+                            },
+                            "BudgetYearOneBase": {
+                                "val": "0"
+                            },
+                            "BudgetYearTwo": {
+                                "val": "0"
+                            },
+                            "BudgetYearThree": {
+                                "val": "0"
+                            },
+                            "BudgetYearFour": {
+                                "val": "0"
+                            },
+                            "BudgetYearFive": {
+                                "val": "0"
+                            }
+                        },
+                        "ProjectMissionDescription": {
+                            "val": "The basic MQ-9 Reaper system consists of the aircraft, sensors, a ground control station (GCS), communications equipment, weapon kits, support equipment, simulator and training devices, Readiness Spares Packages (RSP), technical data\/training, and personnel required to operate, maintain, and sustain the system.  The system is designed to be modular and open-ended.  Mission-specific equipment is employed in a 'plug-and-play' mission kit concept allowing specific aircraft and control station configurations to be tailored to fit mission needs.  \n\nThe MQ-9 Reaper aircraft is a single-engine, turbo-prop Remotely Piloted Aircraft (RPA) designed to operate over-the-horizon at medium-to-high altitude for long endurance sorties.  The aircraft is designed primarily to prosecute critical, emerging Time-Sensitive-Targets (TSTs) as a radar, Electro-optical\/Infrared (EO\/IR), and laser designator-based attack asset with on-board hard-kill capability (hunter-killer).  It also performs Intelligence, Surveillance, Reconnaissance and Target Acquisition (ISR TA).  In the hunter-killer role, the aircraft employs fused multi-spectral sensors to find, fix, and track ground targets using Automatic Target Cueing (ATC), high definition EO\/IR, metric sensor and other capabilities, and assesses post-strike results.  The MQ-9 system is continuing to develop field capability through incremental upgrades.  Future capabilities development activity includes airframe and airframe system improvements such as: increasing the maximum gross takeoff weight capability of the aircraft from 10,500 to 11,700lbs; increasing the operational range and endurance of the baseline MQ-9 aircraft (adding external fuel tanks and\/or airframe modifications such as wing extensions); incorporating an anti-ice\/de-ice capability to transit light icing conditions (will involve wing\/tail modifications as well as turbine inlet heating); propulsion system improvements; enhancing MQ-9 systems to include Automatic Takeoff and Landing Capability (ATLC); integrated redundant avionics; modifying the system to include provisions for a Foreign Military Sales (FMS) exportable version of the weapon system; Predator Primary Data Link (PPDL) communication system upgrades and communications upgrades to include data link encryption, IP networking, and Beyond Line-of-Sight comm upgrades; navigation system upgrades; electrical system upgrades; incorporation of Elevated Temperature Wet (ETW) materials; secure voice and data communications, including SATCOM upgrades; sensor\/stores management computer improvement; MIL-STD-1760 advanced weapons data bus; Universal Armament and Sensor Interface and Miniature Munitions\/Store Interface; advanced sensor and weapon payloads; improved human-machine interface (HMI); integrating precision weapons (e.g. AGM-114 Hellfire missile, GBU-12\/38\/49 guided bombs, and Small Diameter Bomb (SDB) variants); hardware and software upgrades to the ground control station for MQ-9 operations; completing airworthiness certification; weapon system certification and accreditation; and producing applicable training devices that emulate weapon system functionality and capabilities.  The MQ-9 program will continue to support other payload and capability development activities funded in other program elements (e.g. SIGINT, communications, Wide Area Motion Imagery (WAMI) leveraging Gorgon Stare Quick Reaction Capability, advanced Counter-Improvised Explosive Device (C-IED), Dismount Detection Radar (DDR), missile defense, hyperspectral, and other sensors and weapons) and address reliability, maintainability, sustainability, and safety issues.  Activities also include trade studies, analyses, preliminary systems engineering, system and subsystem level testing in accordance with DoD and military standards, and specification development in support of both current program planning and execution, and studies supporting analysis and investment in future MQ-9 program planning.\n   \nThe GCS, common with the MQ-1 Predator, functions as the aircraft cockpit and can control the aircraft either within Line-of-Sight (LOS) or Beyond Line-of-Sight (BLOS) via a combination of satellite relay and terrestrial communications.  The GCS is either mobile to support forward operating locations or fixed at a facility to support Remote Split Operations (RSO).  The GCS has the capability to perform mission planning; provides a means for manual control; allows personnel to launch, recover, and monitor aircraft, payloads, and system communications status; incorporates secure data links to send aircraft and payload commands and receive system telemetry and payload data; monitors threats to the aircraft; displays the common operational picture; and provides support functions.  Launch and Recovery GCS (LRGCS) allows for servicing, systems checks, maintenance, launch and recovery of aircraft under LOS control for hand-off to a mobile or fixed facility GCS, and conducting operations within line-of-sight range of the LRGCS.  GCS upgrades will be developed and fielded in coordination with improvements to MQ-9 system capabilities and in response to evolving operational and information assurance\/certification and accreditation requirements.  Key efforts include GCS upgrades that add new LINUX processors, high definition monitors, ergonomic improvements, improved human-machine interfaces, open systems architecture, and improved crew habitability. In addition, the GCS upgrade effort also includes development\/integration of the Unmanned Aircraft Systems (UAS) Command and Control (C2) Initiative (UCI) government-owned standard to enable improved capabilities for situational awareness and multi-mission management monitoring and oversight in the GCS. This project will also increase interoperability among developed systems by developing common standard and tools.\n\nThis program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "MQ-9 System Development and Demonstration (SDD)"
+                                    },
+                                    "Description": {
+                                        "val": "Complete development to meet MQ-9 Capabilities Production Document (CPD) requirements."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "22.666"
+                                            },
+                                            "Text": {
+                                                "val": "Continued development of MQ-9 Block 5 unmanned aircraft system (UAS) related development and test; High Capacity Starter-Generator, Predator Primary Data Link (PPDL), Two ARC-210 Radios, Redesigned Forward Avionics Bay, Dashboard w\/ Integrated Sensor Control System (ISCS), Mission Control Module\/Payload Control Computer, Improved BRU-71\/A Bomb Rack, Improved Stores Management System,  High-Definition MTS-B, Improved Heavyweight Landing Gear, integration and productionization, integration, testing, and training documentation. All related system engineering activities to include airworthiness artifact development required to field Block 5 and 904.6.\n\nMilestones: Critical Design Review (CDR) completed FY11. Interim software for Block 5 system activities scheduled for delivery in FY16. Developmental test begun for High Capacity Starter-Generator, Predator Primary Data Link (PPDL), Two ARC-210 Radios, Redesigned Forward Avionics Bay, Dashboard w\/ Integrated Sensor Control System (ISCS), Mission Control Module\/Payload Control Computer, Improved BRU-71\/A Bomb Rack, Improved Stores Management System (ISMS), High-Definition MTS-B, Improved Heavyweight Landing Gear (IHLG), Automatic Take-off and Landing (ATLC), 904.6 software development, integration and productionization."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "26.070"
+                                            },
+                                            "Text": {
+                                                "val": "Continue MQ-9 Block 5 Unmanned Aircraft System (UAS) capability development to include:  Developmental test for High Capacity Starter-Generator, Predator Primary Data Link (PPDL), Two ARC-210 Radios, Redesigned Forward Avionics Bay, Dashboard w\/ Integrated Sensor Control System (ISCS), Mission Control Module\/Payload Control Computer, Improved BRU-71\/A Bomb Rack, Improved Stores Management System, High-Definition Multi-sprectral Targeting System (MTS-B), Improved Heavyweight Landing Gear, integration and productionization, Automatic Take-off and Landing, and 904.6 software development."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "47.840"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "47.840"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue MQ-9 Block 5 Unmanned Aircraft System (UAS) capability development to include:  Developmental test for High Capacity Starter-Generator, Predator Primary Data Link (PPDL), Two ARC-210 Radios, Redesigned Forward Avionics Bay, Dashboard w\/ Integrated Sensor Control System (ISCS), Mission Control Module\/Payload Control Computer, Improved BRU-71\/A Bomb Rack, Improved Stores Management System, High-Definition Multi-spectral Targeting System (MTS-B), Improved Heavyweight Landing Gear, integration and productionization, Automatic Take-off and Landing, and 904.6 software development.\n\nFY15 also includes the start of the 904.8 software development:  Video Orientented Transceiver for EXchange of Information(VORTEX) Phase 2 data link, integration of Tech Insertion, integration of Electro-optical Infra-red sensor upgrades, Block 50 Ground Control Station (GCS) Phase 2 and integration and testing of other communications, sensors and weapons capabilities."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Ground Control Station (GCS) Development"
+                                    },
+                                    "Description": {
+                                        "val": "Develop Ground Control Station (GCS) capabilities.  Major capabilities include open system architecture, multi-level security, ergonomic cockpit design, and reducing or eliminating known deficiencies in legacy GCS."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "6.290"
+                                            },
+                                            "Text": {
+                                                "val": "Finished development of one Block 50 prototype asset.  The major events included software integration to bring the prototype to an 80% design solution and to put the prototype through ground and flight testing.\nStarted Block 50 design\/development and manufacturing of two (2) System Test and Qualification (ST&Q) Software Integration Labaoratories (SILs), one (1) Technical Order development SIL, two (2) Fixed GCS, two (2) Mobile GCS, two (2) software developer kits, and the associated spares for the Block 50 configuration. Reduce or eliminate any known deficiencies in legacy GCS."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "27.366"
+                                            },
+                                            "Text": {
+                                                "val": "Continue Block 50 design\/development and manufacturing.  Events in FY14 will include upgrading the system software.  A Systems Requirements Review, Preliminary Design Review, and two Cockpit Evaluation Team events will take place as well. Reduce or eliminate any known deficiencies in legacy GCS."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "30.042"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "30.042"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue Block 50 design\/development and manufacturing.  Events in FY15 will include the hardware and software integration, a Critical Design Review, and the completion of the 7 GCS assets. Reduce or eliminate any known deficiencies in legacy GCS."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "MQ-9 Electro-Optic \/ Infrared (EO\/IR) Sensor"
+                                    },
+                                    "Description": {
+                                        "val": "Develop improved Multi-Spectral Targeting System (MTS-B) modes of operation and upgrade full motion video capability to include an all digital architecture employing High-Definition (HD) camera formats, imagery improvements across all multi-spectral bands (color and infrared) and Target Location Accuracy enhancements (TLA) to support future use of coordinate seeking weapons."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "45.822"
+                                            },
+                                            "Text": {
+                                                "val": "Continued the development of MTS-B all digital HD TLA architecture including mechanical electrical design, hardware and software fabrication, integration, and manned flight test\/unmanned flight test of production representatives to achieve production readiness. Provide preliminary design review for technology insertion architecture. Update MTS-B production representative software to facilitate integration of MTS-B HD TLA on the MQ-9 aircraft to include software integration lab testing. Begin system qualification and extended reliability testing. Produce final design and interface control documents, conduct test readiness reviews to assure system is ready for production. Formally release all MTS-B HD design and interface control documents. Prepare and delivery technical order source data and required training materials to facilitate fielding of HD TLA MTS-B."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.070"
+                                            },
+                                            "Text": {
+                                                "val": "Continue development at reduced level of effort MTS-B all digital High Definition (HD) Target Location Accuracy (TLA) architecture including mechanical electrical design, hardware and software fabrication, integration, and manned flight test\/unmanned flight test of prototypes to achieve production readiness. Update MTS-B production representative software to facilitate integration of MTS-B HD TLA on the MQ-9 aircraft to include software lab test. Continue system qualification and extended reliability testing. Produce final design and interface control documents, conduct test readiness reviews to assure system is ready for production. Formally release all MTS-B HD design and interface control documents. Prepare and deliver technical order source data and required training materials to facilitate fielding of HD TLA MTS-B. $70K added in FY14 to provide funding for safety evaluation to accomodate AF Laser System Safety Review Board approval of eye safe laser upgrade that is part to the MTS-B TLA upgrade."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "19.233"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "19.233"
+                                            },
+                                            "Text": {
+                                                "val": "Will complete HD TLA MTS-B system qualification and extended reliability testing. Support final integration and test of completed HD TLA MTS-B system on MQ-9 platform. Support unmanned flight test."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Operator Simulator"
+                                    },
+                                    "Description": {
+                                        "val": "Develop operator simulators for training and updates to keep Operator Simulator current with upgrades to aircraft and Ground Control Station (GCS). Note: Funding and contracting for this effort is not required every year but is required periodically as changes to aircraft and Ground Control Station hardware\/software is developed and fielded."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.069"
+                                            },
+                                            "Text": {
+                                                "val": "Continue updates to Operator Simulator with upgrades to trainers, hi-definition electro-optical\/infra-red (EO\/IR), Lynx Synthetic Aperture Radar (SAR) enhancements, and Ground Control Station (GCS) Block 50."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "11.757"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "11.757"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue continue to implement updates which will keep the Operator Simulator current with the aircraft and Ground Control Station.  These updates will include, but are not limited to, sensor, databases and weapons upgrades."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Synthetic Aperture Radar (SAR) Enhancements"
+                                    },
+                                    "Description": {
+                                        "val": "Improvements in MQ-9 capability to disseminate SAR data, improve Ground Moving Target Indicator (GMTI) tracking, automation of data exploitation via Continuous Look Attack Management for Predator (CLAMP) and improvement of GPS targeting."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "7.063"
+                                            },
+                                            "Text": {
+                                                "val": "Continued SAR Data Dissemination development, Dual Beam Dismount Development, GPS targeting, and Feature Aided Tracker."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "9.250"
+                                            },
+                                            "Text": {
+                                                "val": "Complete Dual Beam Dismount capability development.  Complete Feature Aided Tracker development.  Begin development of Stationary Targeting Improvements for GPS-based weapons. Develop common architecture for Data Dissemination, and re-qualify radar software and hardware updates and sensor control interface changes."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "7.330"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "7.330"
+                                            },
+                                            "Text": {
+                                                "val": "Will complete Data Dissemination development and continue developing Stationary Targeting Improvements for GPS-based weapons."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Test Support"
+                                    },
+                                    "Description": {
+                                        "val": "Provides Other Government Agency support for MQ-1 and MQ-9 testing to include continued acceptance testing of weapon system hardware and software IAW with contract standards and developmental testing of new capabilities and (Reliability and Maintainability (R&M) upgrades.  Air Force Test Center executes Flight Operations Authority responsibilities and provides Combined Test Force support, Edwards AFB controlled airspace range time and assets, test scheduling, frequency management and test related munitions support.  Naval Air Warfare Center (NAWC) China Lake provides on-site facilities support, controlled airspace range time, assets, and ground targets for weapons testing.  Joint Interoperability Test Command provides standards conformance testing and interoperability certification for new capabilities.  NAWC Patuxent River provides Electromagnetic Environmental Effects testing for the MQ-9 UAS."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.854"
+                                            },
+                                            "Text": {
+                                                "val": "Continued test support."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.403"
+                                            },
+                                            "Text": {
+                                                "val": "Continue test support."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.278"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.278"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue test support."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Communications"
+                                    },
+                                    "Description": {
+                                        "val": "Develop MQ-9 communication capabilities including encrypted Line of Sight (LOS) data links to ROVER terminals (VORTEX) and beyond LOS military SATCOM usage. Development and integration of an IP based Remote Split Operations (RSO) network\/infrastructure to include:  Design, development and test of IP based network interfaces, Improved Predator Primary Data Link (PPDL) capabilities, network systems managers, drafting Technical Orders and support documentation, Training Packages, Production Drawings and Retrofit Acceptance Test Plans."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.070"
+                                            },
+                                            "Text": {
+                                                "val": "Continued the development and integration of an IP based Remote Split Operations network\/infrastructure to include:  Design, development and test of IP based network interfaces, network systems managers, drafting Technical Orders and support documentation, Training Packages, Production Drawings and Retrofit ATPs."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "5.041"
+                                            },
+                                            "Text": {
+                                                "val": "Continue the development of communications capabilities including the Network Enterprise Management Kit, Satellite Earth Terminal Sub-System (SETSS)\/Fixed Site Satellite Terminal (FSST) Tech Order Updates, RSO Tech Order Development, Training Course Development and various logistics support analysis. Integration of IP based Remote Split Operations network infrastructure, and ground data terminals (GDT)."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.920"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.920"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue the development of communications capabilities including the Network Enterprise Management Kit, Satellite Earth Terminal Sub-System (SETSS)\/Fixed Site Satellite Terminal (FSST) Tech Order Updates, RSO Tech Order Development, Training Course Development, logistics support analysis, and integration of Internet Protocol (IP) based Remote Split Operations network infrastructure."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Counter-IED Development and Demonstration"
+                                    },
+                                    "Description": {
+                                        "val": "Adding \"Step Stare\" mode capability to the MTS-B EO\/IR sensor; also includes associated GCS development and testing."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "1.930"
+                                            },
+                                            "Text": {
+                                                "val": "Continued development\/modification to sensor to add \"Step Stare\" mode capability to the MTS-B EO\/IR sensor; also included associated GCS development and testing."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.530"
+                                            },
+                                            "Text": {
+                                                "val": "Complete development\/modification to sensor to add \"Step Stare\" mode capability to the MTS-B EO\/IR sensor; also included associated GCS development and testing."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Multi-aircraft Transit Operations (MTO)"
+                                    },
+                                    "Description": {
+                                        "val": "Multi-aircraft transit operation is to develop a core functionality to enable one pilot to safely control multiple RPA in non-segregated airspace on an instrument flight rules (IFR) flight plan between airfield and mission area(s)"
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "4.337"
+                                            },
+                                            "Text": {
+                                                "val": "Continued development of multi-aircraft transit operations functionality for RPAs. Incorporating Unmanned Aerospace System (UAS) Command and Control (C2) Iniative (UCI) software architecture and improved Human Machine Interface upgrades to better enable monitoring and oversight of multi-mission activity."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.640"
+                                            },
+                                            "Text": {
+                                                "val": "Continue development of multi-aircraft transit operations functionality for RPAs.  Incorporates UCI software architecture and improved Human Machine Interface upgrades to better enable monitoring and oversight of multi-mission activity."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "4.548"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "4.548"
+                                            },
+                                            "Text": {
+                                                "val": "Will finish development of multi-aircraft transit operations functionality for RPAs, transition software to prime contractor, and support incorporation of the capability into the Block 50 GCS design"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "MQ-9 Technology Insertion"
+                                    },
+                                    "Description": {
+                                        "val": "Develop program protection Technology Insertion capabilities and functionality for the MQ-9 Weapon System."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "14.608"
+                                            },
+                                            "Text": {
+                                                "val": "Developed program protection Technology Insertion capabilities and functionality for the MQ-9 Weapon System."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "11.546"
+                                            },
+                                            "Text": {
+                                                "val": "Continue development of program protection, Technology Insertion capabilities and functionality for the MQ-9 Weapon System including aircraft, sensors, and Ground Control Station documentation and drawings."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "16.896"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "16.896"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue and nearly finalizes development of program protection Technology Insertion capabilities and functionality for the MQ-9 Weapon System including aircraft, sensors, and Ground Control Station documentation and drawings."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Reliability and Maintainability"
+                                    },
+                                    "Description": {
+                                        "val": "Develop MQ-9 modification improvements for aircraft and ground base infrastructure."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.591"
+                                            },
+                                            "Text": {
+                                                "val": "Developed MQ-9 modification improvements for aircraft and ground based infrastructure systems to improve mission capable rates and reduce reliability and maintainability cost."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "0.000"
+                                            },
+                                            "Text": {
+                                                "val": "N\/A"
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "5.017"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "5.017"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue development of MQ-9 modification improvements for aircraft and ground based infrastructure to improve mission capable rates and reduce reliability and maintainability cost."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Extended Range"
+                                    },
+                                    "Description": {
+                                        "val": "Develop Extended Range capability to increase operational range and endurance of the baseline MQ-9."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "15.627"
+                                            },
+                                            "Text": {
+                                                "val": "Developed Extended Range capability to increase operational range and endurance of the baseline MQ-9."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "9.851"
+                                            },
+                                            "Text": {
+                                                "val": "Continue development of Extended Range capability to increase operational range and endurance of the baseline MQ-9.  Technical solutions include modified wings and incorporating external fuel tanks."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "19.317"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "19.317"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue to develop Extended Range capability to increase operational range and endurance of the baseline MQ-9.  Technical solutions include modified wings and incorporating external fuel tanks."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Urgent Services"
+                                    },
+                                    "Description": {
+                                        "val": "Urgent services, engineering change orders, program office support, studies and general research, and other higher level iniatives directed by the Air Force."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.524"
+                                            },
+                                            "Text": {
+                                                "val": "Continued urgent services, engineering change orders, studies and general research, and other higher level iniatives directed by the Air Force."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.465"
+                                            },
+                                            "Text": {
+                                                "val": "Continue urgent services, engineering change orders, studies and general research, and other higher level iniatives directed by the Air Force."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "1.945"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "1.945"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue urgent services, engineering change orders, studies and general research, and other higher level iniatives directed by the Air Force."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Afghan Enablers Development"
+                                    },
+                                    "Description": {
+                                        "val": "Support Joint Urgent Operational Need (JUON)requirements to rapidly field sensor cross cue (slew-to-cue) functionality to improve track through clouds capability, advanced weapons, and high definition full motion video."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "2.500"
+                                            },
+                                            "Text": {
+                                                "val": "Design, develop, integrate, test, and field an initial increment of capability with the MQ-9 weapon system sensor cross cue functionality, integration of GBU-49 weapon with specialized warhead."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "2.037"
+                                            },
+                                            "Text": {
+                                                "val": "Continue development, testing, and upgrades to field an initial increment of capability with MQ-9 weapon system sensor cross-cue functionality, integration of GBU-49 weapon with specialized warhead and high definition FMV capability."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "3.273"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "3.273"
+                                            },
+                                            "Text": {
+                                                "val": "Will continue development, testing, and upgrades to field an initial increment of capability with the MQ-9 weapon system sensor cross cue functionality, integration of GBU-49 weapon with specialized warhead."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "APAF: BA04: Line Item # PRDTB1"
+                                    },
+                                    "Title": {
+                                        "val": "MQ-9"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "681.530"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "349.217"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "240.218"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "240.218"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "437.739"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "296.176"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "551.205"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "542.825"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "242.388"
+                                        },
+                                        "TotalCost": {
+                                            "val": "3341.298"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "APAF: BA06:Line Item # PRDTB1"
+                                    },
+                                    "Title": {
+                                        "val": "MQ-9"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "99.507"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "30.711"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "38.629"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "38.629"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "129.863"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "137.441"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "79.768"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "95.113"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "95.260"
+                                        },
+                                        "TotalCost": {
+                                            "val": "706.292"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "APAF: BA05: Line Item # PRDTB2"
+                                    },
+                                    "Title": {
+                                        "val": "MQ-9 Mods"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "177.471"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "62.970"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "155.445"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "155.445"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "115.632"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "210.099"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "164.319"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "144.606"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "1080.558"
+                                        },
+                                        "TotalCost": {
+                                            "val": "2111.100"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "APAF: BA07: Line Item # PRDTB1"
+                                    },
+                                    "Title": {
+                                        "val": "MQ-9"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "3.782"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "104.029"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "101.020"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "101.020"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "27.470"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "27.286"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "25.613"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "26.092"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "0.000"
+                                        },
+                                        "TotalCost": {
+                                            "val": "300.497"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "RDTE: BA07: PE 0305206F"
+                                    },
+                                    "Title": {
+                                        "val": "Airborne Reconnaissance Systems"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "14.916"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "10.000"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "APAF: BA05: Line Item PRDTB3"
+                                    },
+                                    "Title": {
+                                        "val": "MQ-9 UAS Payloads"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "84.470"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "APAF: BA06: PRDTB3"
+                                    },
+                                    "Title": {
+                                        "val": "MQ-9 UAS Payloads"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "11.837"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "8.256"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "6.790"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "6.790"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "6.098"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "3.248"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "0.000"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "0.000"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The MQ-9 Reaper system will be acquired via sole-source contracts with General Atomics-ASI, L3Comm, and Raytheon as the prime contractors.  GA-ASI is the prime contractor for aircraft and ground control stations. L3Comm is the prime contractor for the Predator Satellite Link. Raytheon is the prime contractor for the MTS-B EO\/IR sensor system."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission."
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "MQ-9 System Development and Demonstration (SDD)"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "262.460"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "21.241"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-07"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "23.550"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "42.718"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "42.718"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "312.615"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "662.584"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "662.584"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Ground Control Station (GCS) Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "81.994"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "5.894"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "24.721"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "26.825"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "26.825"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "163.926"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "303.360"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "303.360"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "MQ-9 Electro-Optical \/ Infrared (EO\/IR) Sensor"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Raytheon"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "McKinney, TX"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "55.284"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "42.941"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.063"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "17.173"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "17.173"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "115.461"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "115.461"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Operator Simulator"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "L3 Comm"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Salt Lake City, UT"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "19.702"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.069"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "11.757"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "11.757"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "29.658"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "66.186"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "66.186"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Synthetic Aperture Radar (SAR) Enhancements"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-RSG"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "30.211"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "6.619"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "8.356"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "6.545"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "6.545"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "5.176"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "56.907"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "56.907"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Communication"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "8.438"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.070"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "5.041"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-04"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.920"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.920"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "17.716"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "35.185"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "35.185"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Counter-IED Development and Demonstration"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPIF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various,"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "25.555"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.930"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-03"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "3.530"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "31.015"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "31.015"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "GCS Multi Transit Ops"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "3.040"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "4.337"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.640"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "4.548"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "4.548"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "8.729"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "23.294"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "23.294"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "MQ-9 Program Protection Technology Insertion"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "13.690"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-06"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "10.430"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "15.087"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "15.087"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "13.440"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "52.647"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "52.647"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Reliability and Maintainability"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.300"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.591"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-03"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.000"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "5.017"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "5.017"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "21.556"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "29.464"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "29.464"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Extended Range"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "14.644"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-03"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "8.899"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "17.249"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "17.249"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "40.792"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "40.792"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Urgent Services\/Misc Prior"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "62.791"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "3.525"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-03"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.465"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-05"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.945"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.945"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-05"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "8.356"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "79.082"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "79.082"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "Afghan Enablers Development"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "SS"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "GA-ASI"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Poway, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "2.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.037"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "3.273"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "3.273"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "7.810"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "7.810"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Test Support"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": ","
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "14.154"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.854"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "2.403"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "1.278"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "1.278"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "8.440"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "28.129"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "28.129"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Other Government Costs"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Various"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Various, CA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "19.017"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "7.046"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2012-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "8.134"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2013-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "15.061"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "15.061"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "72.126"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "121.384"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "121.384"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "APPN_3600_BA_07_PE_0205219F_BPAC_675246_0.jpg"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "MQ-9 System Development and Demonstration (SDD)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Ground Control Station (GCS) Development \/ Modernization"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "MTS-B Updates           (Electro-Optic\/Infrared (EO\/IR) Sensor)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Operator Simulator"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Synthetic Aperture Radar (SAR) enhacements"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Test Support"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Communications"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2018"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Counter-IED Development and Demonstration"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Multi- aircraft Transit Operations (MTO)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "MQ-9 Technology Insertion"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Reliability and Maintainability"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Extended Range (ER)"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Urgent Services"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2019"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Afghan Enablers Development"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "3"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

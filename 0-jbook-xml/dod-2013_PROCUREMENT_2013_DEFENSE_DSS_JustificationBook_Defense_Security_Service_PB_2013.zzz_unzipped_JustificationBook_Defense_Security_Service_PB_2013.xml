@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jb:JustificationBook xmlns:jb="http://www.dtic.mil/comptroller/xml/schema/022009/jb" targetSchemaVersion="1.0">
+    <jb:Title>Justification Book</jb:Title>
+    <jb:BudgetYear>2013</jb:BudgetYear>
+    <jb:BudgetCycle>PB</jb:BudgetCycle>
+    <jb:SubmissionDate>2012-02</jb:SubmissionDate>
+    <jb:ServiceAgencyName>Defense Security Service</jb:ServiceAgencyName>
+    <jb:AppropriationCode>0300D</jb:AppropriationCode>
+    <jb:AppropriationName>Procurement, Defense-Wide</jb:AppropriationName>
+    <jb:CoverPage/>
+    <jb:ExternalDocuments>
+        <jb:UserP1Doc>
+            <jb:Title>Comptroller Exhibit P-1</jb:Title>
+            <jb:FileName>Final P-1C FY 2013 PB DSS.pdf</jb:FileName>
+        </jb:UserP1Doc>
+    </jb:ExternalDocuments>
+    <jb:DocumentAssemblyOptions>
+        <jb:ForceEvenPages>true</jb:ForceEvenPages>
+        <jb:GenerateProgramElementTocByTitle>true</jb:GenerateProgramElementTocByTitle>
+        <jb:GenerateProgramElementTocByBA>true</jb:GenerateProgramElementTocByBA>
+        <jb:GenerateLineItemTocByTitle>true</jb:GenerateLineItemTocByTitle>
+        <jb:GenerateLineItemTocByBA>true</jb:GenerateLineItemTocByBA>
+    </jb:DocumentAssemblyOptions>
+    <proc:LineItemList xmlns:proc="http://www.dtic.mil/comptroller/xml/schema/20100219/procurement">
+        <proc:LineItem quantityUnits="Each" quantityUnitName="Each" unitCostUnits="Millions" totalCostUnits="Millions">
+            <proc:LineItemNumber>20</proc:LineItemNumber>
+            <proc:LineItemTitle>Major Equipment, DSS</proc:LineItemTitle>
+            <proc:P1LineItemNumber>26</proc:P1LineItemNumber>
+            <proc:BudgetYear>2013</proc:BudgetYear>
+            <proc:BudgetCycle>PB</proc:BudgetCycle>
+            <proc:SubmissionDate>2012-02</proc:SubmissionDate>
+            <proc:ServiceAgencyName>Defense Security Service</proc:ServiceAgencyName>
+            <proc:AppropriationNumber>0300D</proc:AppropriationNumber>
+            <proc:AppropriationTitle>Procurement, Defense-Wide</proc:AppropriationTitle>
+            <proc:BudgetActivityNumber>1</proc:BudgetActivityNumber>
+            <proc:BudgetActivityTitle>Major Equipment</proc:BudgetActivityTitle>
+            <proc:BudgetSubActivityNumber>9</proc:BudgetSubActivityNumber>
+            <proc:BudgetSubActivityTitle>Major Equipment, DSS</proc:BudgetSubActivityTitle>
+            <proc:ResourceSummary>
+                <proc:GrossWeaponSystemCost>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.974</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>2.522</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>2.522</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1.02</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1.039</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1.056</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1.056</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:GrossWeaponSystemCost>
+                <proc:NetProcurementP1>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.974</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>2.522</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>2.522</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1.02</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1.039</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1.056</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1.056</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:NetProcurementP1>
+                <proc:TotalObligationAuthority>
+                    <proc:PriorYear>0.000</proc:PriorYear>
+                    <proc:CurrentYear>0.974</proc:CurrentYear>
+                    <proc:BudgetYearOneBase>2.522</proc:BudgetYearOneBase>
+                    <proc:BudgetYearOneOCO>0.000</proc:BudgetYearOneOCO>
+                    <proc:BudgetYearOne>2.522</proc:BudgetYearOne>
+                    <proc:BudgetYearTwo>1.02</proc:BudgetYearTwo>
+                    <proc:BudgetYearThree>1.039</proc:BudgetYearThree>
+                    <proc:BudgetYearFour>1.056</proc:BudgetYearFour>
+                    <proc:BudgetYearFive>1.056</proc:BudgetYearFive>
+                    <proc:Continuing>true</proc:Continuing>
+                </proc:TotalObligationAuthority>
+            </proc:ResourceSummary>
+            <proc:CostType>AB</proc:CostType>
+            <proc:Description>Program Overview
+
+The mission of the Defense Security Service (DSS) is to support national security and the war fighter by securing the nation’s technological base and overseeing the protection of US and foreign classified information in the hands of industry.  
+
+The DSS Office of Chief Information Officer (OCIO) supports the Automated Information Systems (AIS) and telecommunications infrastructure and DSS programs that include:  National Industrial Security Program (NISP), Counterintelligence (CI), Security Education and Training Awareness (SETA), and support elements.  The OCIO IT infrastructure includes: desktops, networks: (Joint Worldwide Intelligence Communications System (JWCIS), Non-Secure Internet Protocol (NIPRNet), and Secure Internet Protocol Router Network (SIPRNet), Help Desk operations and call center.  The OCIO manages activities associated with the Enterprise Security System (ESS) which includes ongoing support and maintenance of the following legacy systems:  Industrial Security Facilities Database (ISFD), and Electronic Network Registration and On-Line Learning (ENROL).  
+
+Purpose and Scope
+
+The funds requested provide resources necessary to replace mission-essential IT equipment and to procure new investment items for Enterprise Security Systems applications.</proc:Description>
+            <proc:Justification>The DSS request $2.522 million in FY 2013 supports the following activities.
+
+Major Equipment:
+
+Funding requested supports the acquisition of major information technology (IT) equipment for the improved redundancy, Continuity of Operation (COOP) and disaster recovery capabilities of the DSS IT infrastructure.  This request further supports the DSS industrial security mission by improving controlled access to ensure the security of DSS classified and unclassified information systems and infrastructure.  DSS will be able to make significant improvements through the implementation of Identity Management (IdM), DSS network and other IT infrastructure items in compliance with United States Cyber Command Public Key Infrastructure (PKI) policies.  </proc:Justification>
+            <proc:ItemExhibitList>
+                <proc:P40AItemGroup>
+                    <proc:Name>Major Equipment</proc:Name>
+                    <proc:CategoryList>
+                        <proc:Category>
+                            <proc:Name>Major Equipment</proc:Name>
+                            <proc:Remarks>IT Equipment</proc:Remarks>
+                            <proc:ItemList>
+                                <proc:Item>
+                                    <proc:Name>Information Technology</proc:Name>
+                                    <proc:ItemNumber>26</proc:ItemNumber>
+                                    <proc:ResourceSummary>
+                                        <proc:GrossWeaponSystemCost>
+                                            <proc:PriorYear>0.000</proc:PriorYear>
+                                            <proc:CurrentYear>0.974</proc:CurrentYear>
+                                            <proc:BudgetYearOneBase>2.522</proc:BudgetYearOneBase>
+                                            <proc:BudgetYearOne>2.522</proc:BudgetYearOne>
+                                            <proc:Continuing>true</proc:Continuing>
+                                        </proc:GrossWeaponSystemCost>
+                                    </proc:ResourceSummary>
+                                </proc:Item>
+                            </proc:ItemList>
+                        </proc:Category>
+                    </proc:CategoryList>
+                </proc:P40AItemGroup>
+            </proc:ItemExhibitList>
+        </proc:LineItem>
+    </proc:LineItemList>
+</jb:JustificationBook>

@@ -1,0 +1,943 @@
+{
+    "id": "f3bb5abc64553554364a4fcf9679b02f6bb1456e",
+    "meta": {
+        "filename": "dod-2017_RDTE_2017_ARMY_BA5A_U_RDTE_JustificationBook_Army_PB_2017.zzz_unzipped_U_RDTE_JustificationBook_Army_PB_2017.xml",
+        "budget_year": "2017",
+        "budget_cycle": "PB",
+        "submission_date": "2016-02",
+        "service_agency_name": "Army",
+        "appropriation_code": "2040",
+        "appropriation_name": "Research, Development, Test & Evaluation, Army"
+    },
+    "record": {
+        "@monetaryUnit": "Millions",
+        "@classification": "UNCLASSIFIED",
+        "ProgramElementNumber": {
+            "val": "0605766A"
+        },
+        "ProgramElementTitle": {
+            "val": "National Capabilities Integration (MIP)"
+        },
+        "R1LineNumber": {
+            "val": "131"
+        },
+        "BudgetYear": {
+            "val": "2017"
+        },
+        "BudgetCycle": {
+            "val": "PB"
+        },
+        "SubmissionDate": {
+            "val": "2016-02"
+        },
+        "ServiceAgencyName": {
+            "val": "Army"
+        },
+        "AppropriationCode": {
+            "val": "2040"
+        },
+        "AppropriationName": {
+            "val": "Research, Development, Test & Evaluation, Army"
+        },
+        "BudgetActivityNumber": {
+            "val": "5"
+        },
+        "BudgetActivityTitle": {
+            "val": "System Development & Demonstration (SDD)"
+        },
+        "ProgramElementFunding": {
+            "PriorYear": {
+                "val": "18.254"
+            },
+            "CurrentYear": {
+                "val": "10.599"
+            },
+            "BudgetYearOne": {
+                "val": "4.955"
+            },
+            "BudgetYearOneBase": {
+                "val": "4.955"
+            },
+            "BudgetYearTwo": {
+                "val": "7.201"
+            },
+            "BudgetYearThree": {
+                "val": "8.360"
+            },
+            "BudgetYearFour": {
+                "val": "7.349"
+            },
+            "BudgetYearFive": {
+                "val": "7.537"
+            },
+            "CostToComplete": {
+                "val": "Continuing"
+            },
+            "TotalCost": {
+                "val": "Continuing"
+            }
+        },
+        "ProgramElementMissionDescription": {
+            "val": "National Integration to Tactical Systems provides centralized monitoring and synchronization by the Army's Tactical Exploitation of National Capabilities (TENCAP) office, for the transition and integration of proven advanced technologies, prototypes and standards developed by the National Intelligence Community (IC) into Army systems and Programs of Record. This Program Element includes Project funds for an Army ACAT III Program of Record (POR). It also enables efficient use and oversight of system development funds for final stage integration, development, and testing of successful technologies and prototypes to advance, or make compliant, Army systems and Programs of Record that have or use National capabilities."
+        },
+        "ChangeSummary": {
+            "PreviousPresidentBudget": {
+                "PriorYear": {
+                    "val": "15.212"
+                },
+                "CurrentYear": {
+                    "val": "10.599"
+                },
+                "BudgetYearOne": {
+                    "val": "8.970"
+                },
+                "BudgetYearOneBase": {
+                    "val": "8.970"
+                }
+            },
+            "CurrentPresidentBudget": {
+                "PriorYear": {
+                    "val": "18.254"
+                },
+                "CurrentYear": {
+                    "val": "10.599"
+                },
+                "BudgetYearOne": {
+                    "val": "4.955"
+                },
+                "BudgetYearOneBase": {
+                    "val": "4.955"
+                }
+            },
+            "TotalAdjustments": {
+                "PriorYear": {
+                    "val": "3.042"
+                },
+                "CurrentYear": {
+                    "val": "0.000"
+                },
+                "BudgetYearOne": {
+                    "val": "-4.015"
+                },
+                "BudgetYearOneBase": {
+                    "val": "-4.015"
+                }
+            },
+            "AdjustmentDetails": {
+                "Reprogrammings": {
+                    "PriorYear": {
+                        "val": "3.042"
+                    }
+                },
+                "OtherAdjustmentDetailList": {
+                    "OtherAdjustmentDetail": [
+                        {
+                            "Title": {
+                                "val": "Adjustments to Budget Years"
+                            },
+                            "Funding": {
+                                "BudgetYearOne": {
+                                    "val": "-4.015"
+                                },
+                                "BudgetYearOneBase": {
+                                    "val": "-4.015"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "ProjectList": {
+            "Project": [
+                {
+                    "ProjectNumber": {
+                        "val": "DX9"
+                    },
+                    "ProjectTitle": {
+                        "val": "National Integration To Tactical Systems(MIP)"
+                    },
+                    "ProjectFunding": {
+                        "PriorYear": {
+                            "val": "18.254"
+                        },
+                        "CurrentYear": {
+                            "val": "10.599"
+                        },
+                        "BudgetYearOne": {
+                            "val": "4.955"
+                        },
+                        "BudgetYearOneBase": {
+                            "val": "4.955"
+                        },
+                        "BudgetYearTwo": {
+                            "val": "7.201"
+                        },
+                        "BudgetYearThree": {
+                            "val": "8.360"
+                        },
+                        "BudgetYearFour": {
+                            "val": "7.349"
+                        },
+                        "BudgetYearFive": {
+                            "val": "7.537"
+                        },
+                        "CostToComplete": {
+                            "val": "Continuing"
+                        },
+                        "TotalCost": {
+                            "val": "Continuing"
+                        }
+                    },
+                    "R2aExhibit": {
+                        "ProjectMissionDescription": {
+                            "val": "National Integration to Tactical Systems provides for centralized monitoring and synchronization by the Army's Tactical Exploitation of National Capabilities (TENCAP) office for the transition and integration of new, updated, and emerging National Intelligence Community (IC) technologies, capabilities, and standards into Programs of Record across the Army to: (1) maintain operational relevance of Army programs and address changes in technology and the threat, (2) ensure Army programs maintain interoperability with and access to the National community architecture and systems, and (3) advance Army ability to conduct analysis and tasking, collection, processing, exploitation, dissemination and feedback (TCPEDF) of intelligence data.\n\nFY2017 Base funding in the amount of $4.955 million provides integration funds for 2 validated National Intel Community (IC) efforts:  (1) Air Vigilance (AV) software development with $2.352 Million for the integration of advanced sensor developments into the Army Air Vigilance (AV) Program of Record; (2) Army TNG Integration, $2.603 million funds the continued efforts to ensure Army Programs of Record are in compliance to the National standard for Airborne Overhead Cooperative Operations\/Theater Net-Centric Geolocation (AOCO\/TNG), per the Joint Requirement (JROCM 101-10)."
+                        },
+                        "AccomplishmentPlannedProgramList": {
+                            "AccomplishmentPlannedProgram": [
+                                {
+                                    "Title": {
+                                        "val": "Advanced Air Vigilance (AV) capabilities"
+                                    },
+                                    "Description": {
+                                        "val": "Advanced development, modifications and changes to the Air Vigilance (AV) system software."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "7.362"
+                                            },
+                                            "Text": {
+                                                "val": "Advanced development, modifications, and changes to the Air Vigilance (AV) system's software.\nProvided updates to software baseline being used to provide timely intelligence to the warfighter across the world. Developed proof of concepts for the ability of the software to be placed on various\naerial assets."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "7.179"
+                                            },
+                                            "Text": {
+                                                "val": "Provides updates to software baseline being used to provide timely intelligence to the warfighter across the world. Develops a future capability from the user to have the POR be used to collect data in an austere environment."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.352"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.352"
+                                            },
+                                            "Text": {
+                                                "val": "Provided updates to software baseline being used to provide timely intelligence to the warfighter across the world.  Develops the user capability to ensure theater net-centric geolocation\ncapability, and the ability for the POR to be operated in austere environments as required by the warfighter."
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "Army TNG Integration - Airborne Overhead Cooperative Operations (AOCO) \/ Theater Net-Centric Geolocation (TNG)"
+                                    },
+                                    "Description": {
+                                        "val": "National Intelligence Community (IC) standard for interoperability and use of specific intelligence networked capabilities."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "7.850"
+                                            },
+                                            "Text": {
+                                                "val": "Provided funds to specified Army Programs of Record for software development and enhancements and for integration, ensuring compliance to the National requirement and standards and interoperability with this National Intelligence Community (IC) networked capability for tactical use and improved Army battlefield awareness."
+                                            }
+                                        }
+                                    },
+                                    "PlannedProgram": {
+                                        "CurrentYear": {
+                                            "Funding": {
+                                                "val": "3.420"
+                                            },
+                                            "Text": {
+                                                "val": "Provides funds to specified Army Programs of Record for software development and enhancements and for integration, ensuring compliance to the National requirement and standards and interoperability with this National Intelligence Community (IC) networked capability for tactical use and improved Army battlefield awareness."
+                                            }
+                                        },
+                                        "BudgetYearOne": {
+                                            "Funding": {
+                                                "val": "2.603"
+                                            }
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "Funding": {
+                                                "val": "2.603"
+                                            },
+                                            "Text": {
+                                                "val": "Provides funds to ensure SIGNIT Army assets can perform timely and accurate geolocation against high value targets through software development enhancements of the current JCID 4.1\/4.2 TNG investment, ensuring compliance to the National requirement and standards and interoperability with National Intelligence Community (IC) networked capabilities for tactical use and improved Army battlefield awareness, to participate in the Theater Net-Centric Geolocation (TNG) standards for interoperability. (ref. CJCSI 32450.61, AOCO 13Jan2012)"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Title": {
+                                        "val": "AMDAS ADV"
+                                    },
+                                    "Description": {
+                                        "val": "AMDAS ADV upgrade development efforts."
+                                    },
+                                    "Accomplishment": {
+                                        "PriorYear": {
+                                            "Funding": {
+                                                "val": "3.042"
+                                            },
+                                            "Text": {
+                                                "val": "AMDAS ADV upgrade development efforts.  Program specific details are classified.  Details can be provided by separate correspondence."
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "OtherProgramFundingSummaryList": {
+                            "OtherProgramFundingSummary": [
+                                {
+                                    "LineItem": {
+                                        "val": "0603766A"
+                                    },
+                                    "Title": {
+                                        "val": "Tactical Support Development - Adv Dev (MIP), PE 643766"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "9.255"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "13.472"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "15.730"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "15.730"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "20.595"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "20.998"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "21.403"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "21.969"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                },
+                                {
+                                    "LineItem": {
+                                        "val": "W60001"
+                                    },
+                                    "Title": {
+                                        "val": "Air Vigilance (AV), OPA2  (W60001)"
+                                    },
+                                    "Funding": {
+                                        "PriorYear": {
+                                            "val": "7.000"
+                                        },
+                                        "CurrentYear": {
+                                            "val": "8.224"
+                                        },
+                                        "BudgetYearOne": {
+                                            "val": "0.733"
+                                        },
+                                        "BudgetYearOneBase": {
+                                            "val": "0.733"
+                                        },
+                                        "BudgetYearTwo": {
+                                            "val": "1.518"
+                                        },
+                                        "BudgetYearThree": {
+                                            "val": "2.484"
+                                        },
+                                        "BudgetYearFour": {
+                                            "val": "2.533"
+                                        },
+                                        "BudgetYearFive": {
+                                            "val": "2.585"
+                                        },
+                                        "CostToComplete": {
+                                            "val": "Continuing"
+                                        },
+                                        "TotalCost": {
+                                            "val": "Continuing"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "AcquisitionStrategy": {
+                            "val": "The 'National Integration To Tactical Systems (Military Intelligence Program - MIP)' funds provide for transition and integration of National Intelligence Community (IC) advanced technologies and prototypes leveraged by the Army's Tactical Exploitation of National Capabilities (TENCAP) program office.  The Army TENCAP acquisition strategy is driven by an annual TENCAP General Officer Steering Group (TGOSG), co-chaired by the Army G2; Army G8; and the Military Deputy to the Assistant Secretary of the Army for Acquisition, Logistics, and Technology [ASA(ALT)]; and includes representatives from the Army G3; Army G6; Army Training and Doctrine Command (TRADOC); and the Program Executive Office for Intelligence, Electronic Warfare and Sensors (PEO IEW&S).  The TGOSG reviews, validates, prioritizes, and guides Army TENCAP efforts, according to Army and Defense strategy. Based on this TGOSG guidance, Army TENCAP invests BA 6.4 RDTE in Intelligence Community (IC) developments during the more cost-effective advanced development phase to ensure Army requirements are met with minimal redundancy.  Army TENCAP then uses BA 6.5 RDTE to manage the transition of these advanced development efforts through system development and integration into Army Programs of Record (POR).  This strategy ensures these leveraged investments remain viable through multiple budget cycles, significantly increasing successful transition to recipient Army POR.  Army TENCAP facilitates the continued access to National Intel Community (IC) 'joint' efforts and compatibility with those National standards and software baseline for those Army PORs that benefit from these leveraged National IC technologies, resulting in cost-savings through cost-sharing, and Army participation in collaborative Intelligence. Funds will be utilized for the ACAT III POR Air Vigilance and Theater Net-Centric Geolocation (TNG)."
+                        },
+                        "PerformanceMetrics": {
+                            "val": "N\/A"
+                        }
+                    },
+                    "R3Exhibit": {
+                        "CostCategoryGroupList": {
+                            "CostCategoryGroup": [
+                                {
+                                    "Name": {
+                                        "val": "Management Services"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "AV POR Matrix Gov Engineers"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "AGC"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Alexandria, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.195"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.200"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-11"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.208"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.660"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.660"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "AV POR Intel Engineers, PM Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "FFP"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TASC, Inc."
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Chantilly, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.675"
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "AV POR Intel Engineers, PM Support"
+                                                },
+                                                "ContractMethod": {
+                                                    "val": "C"
+                                                },
+                                                "ContractType": {
+                                                    "val": "CPFF"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "TBD"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "TBD"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.000"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.695"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.770"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-12"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "1.465"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Product Development"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Air Vigilance (AV) software updates and integration"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Classified"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MIPR"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "5.389"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "4.761"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-12"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "4.391"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.612"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.612"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-11"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "TNG for Multiple Army PORs"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Multiple"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Multiple"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "13.100"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "7.850"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-02"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "3.420"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-03"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "2.603"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "2.603"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-03"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "Name": {
+                                                    "val": "AMDAS ADV upgrade development efforts"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "MIPR"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "3.042"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-08"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "0"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "3.042"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Support"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "Air Vigilance (AV) PM Dir costs - Gov, travel, etc."
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "Allot"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Army TENCAP"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Alexandria, VA"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "1.273"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "1.206"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2014-10"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "1.230"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-10"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.830"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.830"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-10"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "Name": {
+                                        "val": "Test and Evaluation"
+                                    },
+                                    "CostCategoryItemList": {
+                                        "CostCategoryItem": [
+                                            {
+                                                "Name": {
+                                                    "val": "AV POR testing"
+                                                },
+                                                "FundingVehicle": {
+                                                    "val": "MIPR"
+                                                },
+                                                "PerformingActivity": {
+                                                    "val": "Multiple"
+                                                },
+                                                "PerformingActivityLocation": {
+                                                    "val": "Multiple"
+                                                },
+                                                "Cost": {
+                                                    "TotalPreviousYears": {
+                                                        "val": "0.500"
+                                                    },
+                                                    "PriorYear": {
+                                                        "Amount": {
+                                                            "val": "0.500"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2015-01"
+                                                        }
+                                                    },
+                                                    "CurrentYear": {
+                                                        "Amount": {
+                                                            "val": "0.580"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2016-01"
+                                                        }
+                                                    },
+                                                    "BudgetYearOne": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        }
+                                                    },
+                                                    "BudgetYearOneBase": {
+                                                        "Amount": {
+                                                            "val": "0.250"
+                                                        },
+                                                        "AwardDate": {
+                                                            "val": "2017-01"
+                                                        }
+                                                    },
+                                                    "CostToComplete": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TotalCost": {
+                                                        "val": "Continuing"
+                                                    },
+                                                    "TargetValue": {
+                                                        "val": "0"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "R4Exhibit": {
+                        "ScheduleProfile": [
+                            {
+                                "ImageFileName": {
+                                    "val": "98178-208.png"
+                                }
+                            }
+                        ]
+                    },
+                    "R4aExhibit": {
+                        "ScheduleDetailList": {
+                            "ScheduleDetail": [
+                                {
+                                    "EventTitle": {
+                                        "val": "Air Vigilance (AV) Capability Drop 2"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2015"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Air Vigilance (AV) Capability Drop 3"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2016"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Air Vigilance Software Baseline integration of new developments"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2013"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "4"
+                                            },
+                                            "Year": {
+                                                "val": "2022"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "EventTitle": {
+                                        "val": "Theater Net-centric Geolocation (TNG) interoperability standards"
+                                    },
+                                    "Schedule": {
+                                        "Start": {
+                                            "Quarter": {
+                                                "val": "2"
+                                            },
+                                            "Year": {
+                                                "val": "2014"
+                                            }
+                                        },
+                                        "End": {
+                                            "Quarter": {
+                                                "val": "1"
+                                            },
+                                            "Year": {
+                                                "val": "2022"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
