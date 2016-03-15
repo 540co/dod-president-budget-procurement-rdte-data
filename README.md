@@ -173,7 +173,7 @@ A unique JSON object exists for each line item and program element - and can be 
 
 ### API
 
-If you are building an API, or simply feel more comfortable consuming an API - you can access the resources at FedAPI:
+If you would like to consume the data via an API, with numerous ways of querying / searching the resources, you can access the resources at FedAPI where we have indexed all of data:
 
 [https://fedapi.io/www/overview/dodpresbud](https://fedapi.io/www/overview/dodpresbud)
 
