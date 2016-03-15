@@ -80,7 +80,7 @@ Just grab all the files in the XML folder.
 
 You want to download all the JSON files to load up in [R](https://www.r-project.org/) or you just <3 JSON as much as we do?  
 
-A unique JSON object exists for each line item and program element - and can be found in the [1-json-procurement-lineitems]https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/1-json-rdte-programelements() and [1-json-procurement-lineitems](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/1-json-rdte-programelements).
+A unique JSON object exists for each line item and program element - and can be found in the [1-json-procurement-lineitems](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/1-json-rdte-programelements) and [1-json-procurement-lineitems](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/1-json-rdte-programelements).
 
 **procurement line item snippet**
 
