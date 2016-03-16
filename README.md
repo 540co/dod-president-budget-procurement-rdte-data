@@ -176,7 +176,7 @@ A unique JSON object exists for each line item and program element - and can be 
 ![fedapi-dod-budget-catalog-screenshot]
 (https://s3.amazonaws.com/jbooks-misc-images/fedapi-dod-budget-catalog-screenshot.png)
 
-If you would like to consume the data via an API, with numerous ways of querying / searching the resources, you can access the resources at FedAPI where we have indexed all of data:
+If you would like to consume the data via an API, with numerous ways of querying / searching the resources, you can access the resources at [FedAPI](https://fedapi.com) where we have indexed all of data:
 
 [https://fedapi.io/www/overview/dodpresbud](https://fedapi.io/www/overview/dodpresbud)
 
