@@ -230,7 +230,7 @@ If you want a collection of CSV files to load into your tool of choice (Tableau,
 
 ### Tableau (RDTE done, PROC in process)
 
-If you like using (Tableau)[http://www.tableau.com/] and don't feel like importing / joining the CSV files, here are some already ready to rock [Tableu Data Extract (.TDE) files](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/4-tableau).
+If you like using [Tableau](http://www.tableau.com/) and don't feel like importing / joining the CSV files, here are some already ready to rock [Tableu Data Extract (.TDE) files](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/4-tableau).
 
 
 ### SQL (Postgres)
