@@ -1,6 +1,6 @@
 The following files are [Tableau Data Extract (.TDE)](http://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1) files that can be used with [Tableau](http://www.tableau.com/).
 
-###PROCURMENT Line Items
+###PROCUREMENT Line Items
 
 Coming soon!
 
