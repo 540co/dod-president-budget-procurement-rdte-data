@@ -120,11 +120,11 @@ A unique JSON object exists for each line item and program element - and can be 
         "SubmissionDate": {
             "val": "2016-02"
         },
-        "ServiceAgencyName": {        
+        "ServiceAgencyName": {
             "val": "Army"
-            
+
      -lots more-
-	
+
 ```
 
 **rdte program element snippet**
@@ -166,7 +166,7 @@ A unique JSON object exists for each line item and program element - and can be 
         "ServiceAgencyName": {
             "val": "Air Force"
         },
-        
+
 	-lots more-
 ```
 
@@ -209,15 +209,15 @@ $ curl "https://fedapi.io/api/catalog/dodpresbud/rdte-base/2017/record/search?q=
 
 ```
 
-> Use the `&size` query parameter to get more results in the response (default size = 10) 
+> Use the `&size` query parameter to get more results in the response (default size = 10)
 
 
 ### CSV
 
-If you want a collection of CSV files to load into your tool of choice (Tableau, Qlikview, etc.), here they are: [1-json-procurement-lineitems](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/1-json-rdte-programelements) and [1-json-procurement-lineitems](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/1-json-rdte-programelements)
+If you want a collection of CSV files to load into your tool of choice (Tableau, Qlikview, etc.), here they are: [1-csv-procurement-lineitems](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/2-csv-procurement-lineitems) and [2-csv-rdte-programelements](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/2-csv-rdte-programelements)
 
 > **NOTES**
- 
+
 >The **line items** and **program elements** resources have n-number of exhibits contained within each object, and n-number of different rows of data within each exhibit.  
 
 > Therefore, representing the resources into 2-dimensional tables requires a collection of tables that are joined.
@@ -228,6 +228,9 @@ If you want a collection of CSV files to load into your tool of choice (Tableau,
 > - Since the paths of the filenames (tables) is auto generated, the values have been trimmed to ~200 chars to minimize file system issues - but in some cases
 > - To get started, we highly recommend taking a look at the **README.md** in each folder.
 
+### Tableau (RDTE done, PROC in process)
+
+If you like using (Tableau)[http://www.tableau.com/] and don't feel like importing / joining the CSV files, here are some already ready to rock [Tableu Data Extract (.TDE) files](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/4-tableau).
 
 
 ### SQL (Postgres)
