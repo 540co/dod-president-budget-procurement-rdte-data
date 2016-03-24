@@ -225,7 +225,7 @@ If you want a collection of CSV files to load into your tool of choice (Tableau,
 > - Each file contained in the folder represents an array of data
 > - Each row has a unique `@ROWID` that acts as the unique primary key
 > - If a row has a parent and should be joined to a table / row, the column `@PARENT` and `@PARENTROWID` will have the **name of the table** and **rowid to join to**
-> - Since the paths of the filenames (tables) is auto generated, the values have been trimmed to ~200 chars to minimize file system issues - but in some cases
+> - Since the paths of the filenames (tables) is auto generated, the values have been trimmed to ~200 chars to minimize file system issues - but in some cases they may need to be trimmed further
 > - To get started, we highly recommend taking a look at the **README.md** in each folder.
 
 ### Tableau (RDTE done, PROC in process)
@@ -235,7 +235,15 @@ If you like using [Tableau](http://www.tableau.com/) and don't feel like importi
 
 ### SQL (Postgres)
 
-COMING SOON
+Want to spin up your own database of the data, already joined and ready to start querying? 
+
+For each resource, here are the table definitions and records in a set of SQL files:   [3-sql-procurement-lineitems](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/3-sql-procurement-lineitems) and [3-sql-rdte-programelements](https://github.com/540co/dod-president-budget-procurement-rdte-data/tree/master/3-sql-rdte-programelements)
+
+> - Each table represents an array of data in the exhibits and has a foreign key relationship between defined between the child table `@PARENTROWID` and the parent table `@ROWID`
+> - Each row has a unique `@ROWID` that acts as the unique primary key
+> - See the README in each folder for instructions on how to import
+
+
 
 ### Database / Datawarehouse
 
@@ -244,4 +252,5 @@ COMING SOON
 ## REFERENCES
 
 [Budget Info] (http://acqnotes.com/acqnote/acquisitions/budget-exhibits)
+
 [RDTE Exhibit Overview](http://acqnotes.com/acqnote/acquisitions/rdte-programs-budget-exhibit)
